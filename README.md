@@ -3,8 +3,7 @@
 ## Introduce Me  
 
 ## I'm Studying
-<img src='https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white' alt='HTML5 Badge'/>
-<img src='https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white' alt='CSS3 Badge'/>
+<img src='https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white' alt='HTML5 Badge'/> <img src='https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white' alt='CSS3 Badge'/>
 <img src='https://img.shields.io/badge/-JavaScript-f1e05a?style=flat&logo=JavaScript&logoColor=white' alt='JavaScript Badge'/>
 <img src='https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white' alt='TypeScript Badge'/>
 <img src='https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white' alt='React Badge'/>
