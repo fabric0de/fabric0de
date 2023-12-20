@@ -1,6 +1,12 @@
-### Hello, I'm fabric0de🦖
+<div align="center">
+  <h3>Hello, I'm fabric0de🦖</h3>
+</div>
+
 
 ## Introduce Me  
+주니어 프론트엔드 개발자입니다.</br>
+프론트엔드 개발에 흥미를 느끼고 다양한 기술을 습득하는 것을 좋아합니다.
+
 
 ## I'm Studying
 <img src='https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white' alt='HTML5 Badge'/> <img src='https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white' alt='CSS3 Badge'/>
