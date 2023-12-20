@@ -15,6 +15,12 @@
 <img src='https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white' alt='React Badge'/>
 <img src='https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white' alt='Node.js Badge'/>
 
+
+</br>
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=fabric0de&show_icons=true)
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabric0de&layout=compact&theme=nord&hide_border=true" />
 <!--
 **fabric0de/fabric0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
