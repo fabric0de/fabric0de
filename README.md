@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  <img width="350" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=fabric0de&show_icons=true">
+
   
    ### I'm Studying
  
