@@ -8,13 +8,13 @@
 <br/>
 
 ### 🌐 **Portfolio & Blog**  
-**📖 Portfolio**: [Click Here](https://www.rallit.com/hub/resumes/1136443)  
+**📖 Portfolio**: [Click Here!](https://www.rallit.com/hub/resumes/1136443)  
 **✍️ Blog**: [Visit Blog](https://fabric0de.tistory.com/)  
 
 <br/>
 
 ### 🤝 **Let's Connect!**  
-💌 **Email**: [your-email@example.com](mailto:solee3013@gmail.com)  
+💌 **Email**: [Send Me!](mailto:solee3013@gmail.com)  
 ⭐️ **Linkedin**: [Click Here](www.linkedin.com/in/junghyeonkim)  
 
 <br/>
