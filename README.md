@@ -15,7 +15,7 @@
 
 ### 🤝 **Let's Connect!**  
 💌 **Email**: [Send Me!](mailto:solee3013@gmail.com)  
-⭐️ **Linkedin**: [Click Here](www.linkedin.com/in/junghyeonkim)  
+⭐️ **Linkedin**: [Click Here](https://www.linkedin.com/in/junghyeonkim/)  
 
 <br/>
 
