@@ -7,10 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between `==` and `===` in JavaScript?**
+**❓ Q. What is the difference between null, undefined, and NaN in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>`==` compares values only, `===` compares values and types</p>
+<p>null: intentional absence, undefined: uninitialized, NaN: not a number</p>
 </details>
 <!--END_SECTION:quiz-->
