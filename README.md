@@ -7,10 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between null, undefined, and NaN in JavaScript?**
+**❓ Q. Explain the difference between REST and GraphQL.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>null: intentional absence, undefined: uninitialized, NaN: not a number</p>
+<p>REST: multiple endpoints, fixed responses
+GraphQL: single endpoint, client-defined response</p>
 </details>
 <!--END_SECTION:quiz-->
