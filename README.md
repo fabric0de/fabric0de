@@ -7,11 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between REST and GraphQL.**
+**❓ Q. Explain the difference between call stack overflow and memory leak.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>REST: multiple endpoints, fixed responses
-GraphQL: single endpoint, client-defined response</p>
+<p>Stack overflow: too many nested calls
+Memory leak: unused memory not freed</p>
 </details>
 <!--END_SECTION:quiz-->
