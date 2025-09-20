@@ -7,11 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between call stack overflow and memory leak.**
+**❓ Q. What is the difference between synchronous and asynchronous code?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Stack overflow: too many nested calls
-Memory leak: unused memory not freed</p>
+<p>Synchronous: blocking, runs sequentially
+Asynchronous: non-blocking, can run concurrently</p>
 </details>
 <!--END_SECTION:quiz-->
