@@ -7,11 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between synchronous and asynchronous code?**
+**❓ Q. What is the difference between shallow copy and deep copy?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Synchronous: blocking, runs sequentially
-Asynchronous: non-blocking, can run concurrently</p>
+<p>Shallow copy copies references, deep copy copies values recursively</p>
 </details>
 <!--END_SECTION:quiz-->
