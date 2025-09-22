@@ -7,10 +7,12 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between shallow copy and deep copy?**
+**❓ Q. What is the difference between localStorage, sessionStorage, and cookies?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Shallow copy copies references, deep copy copies values recursively</p>
+<p>localStorage: persists indefinitely
+sessionStorage: persists until tab closed
+cookies: sent to server, has size limit</p>
 </details>
 <!--END_SECTION:quiz-->
