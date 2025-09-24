@@ -7,10 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between let and const in terms of hoisting?**
+**❓ Q. What is the difference between nullish coalescing (??) and logical OR (||) in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Both are hoisted but in temporal dead zone; cannot access before declaration</p>
+<p>?? only considers null/undefined, || considers falsy values</p>
 </details>
 <!--END_SECTION:quiz-->
