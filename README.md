@@ -7,10 +7,12 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between nullish coalescing (??) and logical OR (||) in JavaScript?**
+**❓ Q. What is the main difference between "let", "const" and "var" in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>?? only considers null/undefined, || considers falsy values</p>
+<p>var: function-scoped, can be redeclared
+let: block-scoped, cannot be redeclared
+const: block-scoped, cannot be redeclared or reassigned</p>
 </details>
 <!--END_SECTION:quiz-->
