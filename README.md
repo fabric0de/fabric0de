@@ -7,12 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the main difference between "let", "const" and "var" in JavaScript?**
+**❓ Q. What is the difference between call stack and event loop?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>var: function-scoped, can be redeclared
-let: block-scoped, cannot be redeclared
-const: block-scoped, cannot be redeclared or reassigned</p>
+<p>Call stack: executes functions synchronously
+Event loop: manages async callbacks and tasks</p>
 </details>
 <!--END_SECTION:quiz-->
