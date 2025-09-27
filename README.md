@@ -7,11 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between call stack and event loop?**
+**❓ Q. What is the difference between flex and grid in CSS?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Call stack: executes functions synchronously
-Event loop: manages async callbacks and tasks</p>
+<p>Flex: 1D layout
+Grid: 2D layout</p>
 </details>
 <!--END_SECTION:quiz-->
