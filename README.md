@@ -7,11 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between flex and grid in CSS?**
+**❓ Q. What is the difference between null and undefined in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Flex: 1D layout
-Grid: 2D layout</p>
+<p>null: intentional absence, undefined: variable declared but not assigned</p>
 </details>
 <!--END_SECTION:quiz-->
