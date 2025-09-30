@@ -7,11 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between function declaration and function expression?**
+**❓ Q. What does the 'this' keyword refer to in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Declaration: hoisted, named
-Expression: can be anonymous, not hoisted</p>
+<p>Depends on how the function is called; in classes, it refers to the instance</p>
 </details>
 <!--END_SECTION:quiz-->
