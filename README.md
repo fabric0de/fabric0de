@@ -7,10 +7,12 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What does the 'this' keyword refer to in JavaScript?**
+**❓ Q. Explain the difference between map, filter, and reduce in JavaScript.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Depends on how the function is called; in classes, it refers to the instance</p>
+<p>map: transforms array
+filter: filters array
+reduce: reduces array to a single value</p>
 </details>
 <!--END_SECTION:quiz-->
