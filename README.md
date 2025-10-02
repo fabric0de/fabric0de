@@ -7,12 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between map, filter, and reduce in JavaScript.**
+**❓ Q. Explain event delegation in JavaScript.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>map: transforms array
-filter: filters array
-reduce: reduces array to a single value</p>
+<p>Attaching a single event listener to a parent element to handle events for its children</p>
 </details>
 <!--END_SECTION:quiz-->
