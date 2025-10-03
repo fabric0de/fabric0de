@@ -7,10 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain event delegation in JavaScript.**
+**❓ Q. What is a service worker in web development?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Attaching a single event listener to a parent element to handle events for its children</p>
+<p>Script that runs in background, enables offline caching and push notifications</p>
 </details>
 <!--END_SECTION:quiz-->
