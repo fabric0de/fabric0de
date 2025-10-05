@@ -7,10 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Difference between async/await and Promises?**
+**❓ Q. Explain the difference between prototypal inheritance and classical inheritance.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>async/await is syntactic sugar for Promises, makes async code look synchronous</p>
+<p>Prototypal: objects inherit from objects
+Classical: classes inherit from classes</p>
 </details>
 <!--END_SECTION:quiz-->
