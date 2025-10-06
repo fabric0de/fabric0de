@@ -7,11 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between prototypal inheritance and classical inheritance.**
+**❓ Q. Explain the difference between == null and === null in JavaScript.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Prototypal: objects inherit from objects
-Classical: classes inherit from classes</p>
+<p>== null matches null or undefined
+=== null matches only null</p>
 </details>
 <!--END_SECTION:quiz-->
