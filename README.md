@@ -7,11 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between == null and === null in JavaScript.**
+**❓ Q. Explain the difference between == and === in JavaScript.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>== null matches null or undefined
-=== null matches only null</p>
+<p>== compares value only (type coercion), === compares value and type</p>
 </details>
 <!--END_SECTION:quiz-->
