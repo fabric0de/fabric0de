@@ -7,10 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between == and === in JavaScript.**
+**❓ Q. What is hoisting in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>== compares value only (type coercion), === compares value and type</p>
+<p>Variables and function declarations are moved to the top of their scope before execution</p>
 </details>
 <!--END_SECTION:quiz-->
