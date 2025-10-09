@@ -7,10 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is hoisting in JavaScript?**
+**❓ Q. What is the difference between call, apply, and bind in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Variables and function declarations are moved to the top of their scope before execution</p>
+<p>call/apply: invoke function with specified this; bind: returns new function with this bound</p>
 </details>
 <!--END_SECTION:quiz-->
