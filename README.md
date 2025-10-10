@@ -7,10 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between call, apply, and bind in JavaScript?**
+**❓ Q. What is the difference between TCP and UDP?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>call/apply: invoke function with specified this; bind: returns new function with this bound</p>
+<p>TCP: connection-oriented, reliable
+UDP: connectionless, faster, unreliable</p>
 </details>
 <!--END_SECTION:quiz-->
