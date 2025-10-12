@@ -7,11 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between GET and POST methods in HTTP?**
+**❓ Q. What are Promises in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>GET: retrieve data
-POST: send/create data</p>
+<p>Objects representing the eventual completion or failure of an asynchronous operation</p>
 </details>
 <!--END_SECTION:quiz-->
