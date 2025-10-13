@@ -7,10 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What are Promises in JavaScript?**
+**❓ Q. Explain the difference between SQL INNER JOIN and LEFT JOIN.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Objects representing the eventual completion or failure of an asynchronous operation</p>
+<p>INNER JOIN: only matching rows
+LEFT JOIN: all rows from left table, matching from right</p>
 </details>
 <!--END_SECTION:quiz-->
