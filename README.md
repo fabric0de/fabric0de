@@ -7,11 +7,10 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. Explain the difference between SQL INNER JOIN and LEFT JOIN.**
+**❓ Q. What is a closure in JavaScript?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>INNER JOIN: only matching rows
-LEFT JOIN: all rows from left table, matching from right</p>
+<p>A function that remembers its lexical scope even when executed outside</p>
 </details>
 <!--END_SECTION:quiz-->
