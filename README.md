@@ -7,10 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is a closure in JavaScript?**
+**❓ Q. What is the difference between a cookie and a JWT?**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>A function that remembers its lexical scope even when executed outside</p>
+<p>Cookie: stored by browser, sent automatically
+JWT: JSON Web Token, stateless authentication</p>
 </details>
 <!--END_SECTION:quiz-->
