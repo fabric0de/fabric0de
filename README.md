@@ -7,11 +7,11 @@ Check back daily to test yourself and learn something new!
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between a cookie and a JWT?**
+**❓ Q. Explain the difference between PUT and PATCH in REST APIs.**
 
 <details>
 <summary>Show Answer 👀</summary>
-<p>Cookie: stored by browser, sent automatically
-JWT: JSON Web Token, stateless authentication</p>
+<p>PUT: full update
+PATCH: partial update</p>
 </details>
 <!--END_SECTION:quiz-->
