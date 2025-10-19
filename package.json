@@ -1,0 +1,14 @@
+{
+  "name": "fabric0de",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "update:quiz": "node ./scripts/updateQuiz.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
+
