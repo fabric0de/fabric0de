@@ -9,14 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the purpose of the `let` keyword in JavaScript, and how does it differ from `var`?**
+**❓ Q. What is the purpose of the `let` keyword in JavaScript, and how does it differ from using `var`?**
 
-_Difficulty: intermediate | Tags: JavaScript, scope | Date: 20251019_
+_Difficulty: intermediate | Tags: JavaScript, Scoping | Date: 20251019_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The `let` keyword in JavaScript declares a block-scoped local variable. It differs from `var` in that variables declared with `let` have limited scope to the block (e.g., statement or control flow structure) in which they are defined, whereas `var` is function-scoped. This means that `let` does not create global variables and can be more predictable when used within loops and conditions.
+The `let` keyword in JavaScript is used to declare variables with block scope. It was introduced as part of ECMAScript 6 (ES6) to address some limitations of `var`. When you use `let`, the variable is only accessible within its block, function, or loop, whereas `var` declares a variable globally or locally to an entire function, regardless of blocks.
 
 </details>
 <!--END_SECTION:quiz-->
