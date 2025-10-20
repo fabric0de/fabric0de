@@ -9,14 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the purpose of the `let` keyword in JavaScript, and how does it differ from using `var`?**
+**❓ Q. What is the difference between `document.getElementById()` and `querySelector` in JavaScript?**
 
-_Difficulty: intermediate | Tags: JavaScript, Scoping | Date: 20251019_
+_Difficulty: intermediate | Tags: JavaScript, DOM, Element Selection | Date: 20251020_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The `let` keyword in JavaScript is used to declare variables with block scope. It was introduced as part of ECMAScript 6 (ES6) to address some limitations of `var`. When you use `let`, the variable is only accessible within its block, function, or loop, whereas `var` declares a variable globally or locally to an entire function, regardless of blocks.
+Both `document.getElementById()` and `querySelector` are methods used to select elements from the DOM, but they differ in their usage. `getElementById` returns a single element by its unique ID, while `querySelector` can be used to select a single element based on any valid CSS selector. It supports more complex queries and is generally considered more flexible and powerful for selecting elements.
 
 </details>
 <!--END_SECTION:quiz-->
