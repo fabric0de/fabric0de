@@ -9,14 +9,16 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between `document.getElementById()` and `querySelector` in JavaScript?**
+**❓ Q. What is the difference between HTTP GET and POST methods, and when should each be used?**
 
-_Difficulty: intermediate | Tags: JavaScript, DOM, Element Selection | Date: 20251020_
+_Difficulty: intermediate | Tags: HTTP, GET, POST | Date: 20251021_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-Both `document.getElementById()` and `querySelector` are methods used to select elements from the DOM, but they differ in their usage. `getElementById` returns a single element by its unique ID, while `querySelector` can be used to select a single element based on any valid CSS selector. It supports more complex queries and is generally considered more flexible and powerful for selecting elements.
+HTTP GET is used to request data from a specified resource. It appends parameters to the URL as query strings, making it visible in the address bar. Use GET for safe, idempotent actions like fetching data or performing searches.
+
+HTTP POST is used to submit data to be processed (e.g., sending data to be stored). Parameters are sent in the body of the request and do not appear in the URL. Use POST for operations that modify server state or create new resources.
 
 </details>
 <!--END_SECTION:quiz-->
