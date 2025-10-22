@@ -9,16 +9,25 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between HTTP GET and POST methods, and when should each be used?**
+**❓ Q. How can you ensure that an element's width and height are scaled proportionally when the aspect ratio is maintained, while also ensuring it fits within a specified container?**
 
-_Difficulty: intermediate | Tags: HTTP, GET, POST | Date: 20251021_
+_Difficulty: intermediate | Tags: CSS, aspect ratio, responsive design | Date: 20251022_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-HTTP GET is used to request data from a specified resource. It appends parameters to the URL as query strings, making it visible in the address bar. Use GET for safe, idempotent actions like fetching data or performing searches.
+To maintain an element’s width and height in proportion, you can use CSS properties like `object-fit: contain;` or `width: 100%; height: auto;`. This ensures that the image scales without distorting its aspect ratio. Additionally, to ensure it fits within a specified container, set both `max-width: 100%` and `max-height: 100%`, but using just `height: auto` and `width: 100%` can also achieve this when used in combination with the parent container's defined size or flexbox properties. Here’s an example:
 
-HTTP POST is used to submit data to be processed (e.g., sending data to be stored). Parameters are sent in the body of the request and do not appear in the URL. Use POST for operations that modify server state or create new resources.
+```css
+.element {
+  width: 100%;
+  height: auto;
+  max-width: 500px;
+  max-height: 300px;
+}
+```
+
+This will scale the element to fit within a 500x300px container without distorting its aspect ratio.
 
 </details>
 <!--END_SECTION:quiz-->
