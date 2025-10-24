@@ -9,25 +9,19 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. How can you ensure that an element's width and height are scaled proportionally when the aspect ratio is maintained, while also ensuring it fits within a specified container?**
+**❓ Q. What is the difference between a shallow copy and a deep copy in Python?**
 
-_Difficulty: intermediate | Tags: CSS, aspect ratio, responsive design | Date: 20251022_
+_Difficulty: intermediate | Tags: Python, Data Structures | Date: 20251024_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-To maintain an element’s width and height in proportion, you can use CSS properties like `object-fit: contain;` or `width: 100%; height: auto;`. This ensures that the image scales without distorting its aspect ratio. Additionally, to ensure it fits within a specified container, set both `max-width: 100%` and `max-height: 100%`, but using just `height: auto` and `width: 100%` can also achieve this when used in combination with the parent container's defined size or flexbox properties. Here’s an example:
+In Python, a shallow copy of an object creates a new composite object but inserts references to the objects found in the original. A deep copy, on the other hand, recursively constructs a new compound object and then, for each contained object, inserts a copy rather than a reference. For example:
 
-```css
-.element {
-  width: 100%;
-  height: auto;
-  max-width: 500px;
-  max-height: 300px;
-}
-```
-
-This will scale the element to fit within a 500x300px container without distorting its aspect ratio.
+```python
+copy.copy(source)  # Performs shallow copy
+copy.deepcopy(source)  # Performs deep copy```
+When dealing with mutable objects like lists or dictionaries, using `deepcopy` is necessary to ensure that changes in the copied object do not affect the original.
 
 </details>
 <!--END_SECTION:quiz-->
