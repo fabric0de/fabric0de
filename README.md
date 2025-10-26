@@ -9,19 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between a shallow copy and a deep copy in Python?**
+**❓ Q. What is the difference between using `let` and `const` in JavaScript?**
 
-_Difficulty: intermediate | Tags: Python, Data Structures | Date: 20251024_
+_Difficulty: beginner | Tags: JavaScript, Variable Scopes | Date: 20251026_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-In Python, a shallow copy of an object creates a new composite object but inserts references to the objects found in the original. A deep copy, on the other hand, recursively constructs a new compound object and then, for each contained object, inserts a copy rather than a reference. For example:
-
-```python
-copy.copy(source)  # Performs shallow copy
-copy.deepcopy(source)  # Performs deep copy```
-When dealing with mutable objects like lists or dictionaries, using `deepcopy` is necessary to ensure that changes in the copied object do not affect the original.
+Both `let` and `const` are used to declare variables, but with different scopes. `let` allows reassignment of variable values within its scope (block-level), whereas `const` also creates a block-scoped variable but is used for declaring constants; once assigned, the value cannot be reassigned.
 
 </details>
 <!--END_SECTION:quiz-->
