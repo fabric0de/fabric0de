@@ -9,20 +9,20 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What are the main components of a URL and what do they represent in an HTTP request?**
+**❓ Q. What is the difference between `let` and `const` in JavaScript?**
 
-_Difficulty: intermediate | Tags: HTTP, URL | Date: 20251028_
+_Difficulty: beginner | Tags: JavaScript, variable declaration | Date: 20251102_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-A URL (Uniform Resource Locator) consists of several parts:
+Both `let` and `const` are used to declare variables, but with key differences. `let` allows variable reassignment within its scope, whereas `const` does not (it declares a block-scoped, read-only reference to a value), meaning that if you try to reassign the constant, it will throw an error. For example: ```js
+let x = 10; // Can be reassigned
+x = 20;
 
-- **Scheme**: Indicates the protocol used, e.g., `http` or `https`.
-- **Host**: The domain name or IP address of the server, e.g., `www.example.com`.
-- **Path**: Specifies the resource path on the server, e.g., `/api/v1/data`.
-- **Query Parameters**: Additional information passed to the server in a query string format, e.g., `?page=2&sort=desc`.
-- **Fragment Identifier**: Not part of the URL sent to the server but used by browsers for client-side navigation.
+const y = 10; // Cannot be reassigned
+// y = 20; // This line would cause a TypeError
+```
 
 </details>
 <!--END_SECTION:quiz-->
