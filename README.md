@@ -9,20 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between `let` and `const` in JavaScript?**
+**❓ Q. What is the difference between a GET and POST request in HTTP?**
 
-_Difficulty: beginner | Tags: JavaScript, variable declaration | Date: 20251102_
+_Difficulty: intermediate | Tags: HTTP, GET, POST | Date: 20251104_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-Both `let` and `const` are used to declare variables, but with key differences. `let` allows variable reassignment within its scope, whereas `const` does not (it declares a block-scoped, read-only reference to a value), meaning that if you try to reassign the constant, it will throw an error. For example: ```js
-let x = 10; // Can be reassigned
-x = 20;
-
-const y = 10; // Cannot be reassigned
-// y = 20; // This line would cause a TypeError
-```
+GET requests are used to retrieve information from a server, while POST requests are used to send data to a server for processing. In terms of implementation, a GET request appends parameters to the URL, making them visible in the address bar, whereas a POST request sends parameters in the body of the request, keeping the URL clean and hidden.
 
 </details>
 <!--END_SECTION:quiz-->
