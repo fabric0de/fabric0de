@@ -3,10 +3,8 @@ import path from "path";
 
 const readmePath = path.join(process.cwd(), "README.md");
 
-// Helpers
 const getKstDateId = () => {
   const now = new Date();
-  // Convert to KST (UTC+9)
   const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
   const yyyy = String(kst.getUTCFullYear());
   const mm = String(kst.getUTCMonth() + 1).padStart(2, "0");
@@ -14,8 +12,9 @@ const getKstDateId = () => {
   return `${yyyy}${mm}${dd}`;
 };
 
-const OLLAMA_BASE_URL = process.env.OLLAMA_BASE_URL || "http://localhost:11434";
-const OLLAMA_MODEL = process.env.OLLAMA_MODEL || "qwen2.5:7b-instruct";
+const CF_ACCOUNT_ID = process.env.CF_ACCOUNT_ID;
+const CF_API_TOKEN = process.env.CF_API_TOKEN;
+const CF_MODEL = process.env.CF_MODEL || "@cf/meta/llama-3.2-3b-instruct";
 
 const buildPrompt = (topicOfTheDay) => {
   return `Role: Senior developer interviewer. Generate exactly ONE development quiz.\nRequirements:\n- Language: English\n- type: "open" or "mcq"\n- Question: 1-2 sentences\n- Answer: 3-6 lines, in Markdown; use code fences when helpful\n- Difficulty: beginner|intermediate|advanced\n- Avoid duplicates or trivial variants\n- Output must be valid JSON only and MUST conform to the schema below\n\nToday's topic: ${topicOfTheDay}\n\nJSON schema:\n{\n  "type": "object",\n  "required": ["id","question","answer","difficulty","tags","type"],\n  "properties": {\n    "id": {"type":"string", "pattern":"^\\\\d{8}$"},\n    "question": {"type":"string", "maxLength": 200},\n    "answer": {"type":"string", "maxLength": 1200},\n    "difficulty": {"enum":["beginner","intermediate","advanced"]},\n    "tags": {"type":"array","items":{"type":"string"},"minItems":1},\n    "type": {"enum":["open","mcq"]},\n    "explanation": {"type":"string"},\n    "code": {"type":"string"}\n  }\n}`;
@@ -25,49 +24,94 @@ const validateGeneratedQuiz = (q) => {
   if (!q || typeof q !== "object") return false;
   if (typeof q.question !== "string" || q.question.length < 5) return false;
   if (typeof q.answer !== "string" || q.answer.length < 5) return false;
-  // Fill id with KST date regardless of model output
+  
   q.id = getKstDateId();
   return true;
 };
 
-const generateQuizWithOllama = async () => {
+const generateQuizWithCloudflareAI = async () => {
   try {
+    if (!CF_ACCOUNT_ID || !CF_API_TOKEN) {
+      throw new Error("CF_ACCOUNT_ID and CF_API_TOKEN environment variables are required");
+    }
+
     const topics = ["JavaScript", "Web", "HTTP", "CSS", "Node.js", "CS Basics"];
     const topicOfTheDay = topics[new Date().getUTCDay() % topics.length];
-    const resp = await fetch(`${OLLAMA_BASE_URL}/api/generate`, {
+    
+    const apiUrl = `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/ai/run/${CF_MODEL}`;
+    
+    const resp = await fetch(apiUrl, {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Authorization": `Bearer ${CF_API_TOKEN}`,
+        "Content-Type": "application/json",
+      },
       body: JSON.stringify({
-        model: OLLAMA_MODEL,
-        prompt: buildPrompt(topicOfTheDay),
-        stream: false,
+        messages: [
+          {
+            role: "system",
+            content: "You are a helpful assistant that generates development quiz questions. Always respond with valid JSON only."
+          },
+          {
+            role: "user",
+            content: buildPrompt(topicOfTheDay)
+          }
+        ],
+        max_tokens: 1000,
+        temperature: 0.7,
       }),
     });
-    if (!resp.ok) throw new Error(`Ollama error: ${resp.status}`);
-    const data = await resp.json();
-    const content = data?.response;
-    if (!content) throw new Error("No content from Ollama");
+
+    if (!resp.ok) {
+      const errorText = await resp.text();
+      throw new Error(`Cloudflare AI error: ${resp.status} - ${errorText}`);
+    }
+
+    const result = await resp.json();
+
+    const content = result?.result?.response;
+    
+    if (!content) {
+      console.error("Unexpected response format:", JSON.stringify(result, null, 2));
+      throw new Error("No content from Cloudflare AI. Check response structure above.");
+    }
+
+    let jsonString = content.trim();
+    
+    if (jsonString.startsWith("```")) {
+      jsonString = jsonString.replace(/^```(?:json)?\s*/, "").replace(/\s*```$/, "");
+    }
+    
     let parsed;
     try {
-      parsed = JSON.parse(content);
+      parsed = JSON.parse(jsonString);
     } catch (e) {
-      const match = content.match(/\{[\s\S]*\}/);
-      parsed = match ? JSON.parse(match[0]) : null;
+      const match = jsonString.match(/\{[\s\S]*\}/);
+      if (match) {
+        parsed = JSON.parse(match[0]);
+      } else {
+        throw new Error(`JSON 파싱 실패: ${e.message}`);
+      }
     }
-    if (!validateGeneratedQuiz(parsed)) return null;
+
+    if (!validateGeneratedQuiz(parsed)) {
+      console.error("Validation failed for quiz:", parsed);
+      return null;
+    }
+    
     return parsed;
   } catch (e) {
-    console.error("Ollama generation failed:", e.message);
+    console.error("Cloudflare AI generation failed:", e.message);
     return null;
   }
 };
 
-const ollamaQuiz = await generateQuizWithOllama();
-if (!ollamaQuiz) {
-  console.error("No quiz generated by Ollama. Aborting.");
+const quizData = await generateQuizWithCloudflareAI();
+if (!quizData) {
+  console.error("No quiz generated by Cloudflare AI. Aborting.");
   process.exit(1);
 }
-const quiz = ollamaQuiz;
+const quiz = quizData;
 
 let readme = fs.readFileSync(readmePath, "utf-8");
 
