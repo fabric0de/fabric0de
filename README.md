@@ -9,14 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between a GET and POST request in HTTP?**
+**❓ Q. What is the difference between `display: flex` and `display: grid`?**
 
-_Difficulty: intermediate | Tags: HTTP, GET, POST | Date: 20251104_
+_Difficulty: intermediate | Tags: css, layout, flex, grid | Date: 20251106_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-GET requests are used to retrieve information from a server, while POST requests are used to send data to a server for processing. In terms of implementation, a GET request appends parameters to the URL, making them visible in the address bar, whereas a POST request sends parameters in the body of the request, keeping the URL clean and hidden.
+Both `display: flex` and `display: grid` can be used to create layouts, but `display: flex` is used for linear layouts and `display: grid` is used for two-dimensional layouts. `display: flex` is also more flexible when it comes to aligning items, whereas `display: grid` provides more control over the layout of items within the grid.
 
 </details>
 <!--END_SECTION:quiz-->
