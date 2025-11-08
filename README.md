@@ -9,14 +9,21 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between NULL and undefined in JavaScript?**
+**❓ Q. What is the difference between let and const in JavaScript?**
 
-_Difficulty: beginner | Tags: javascript, basics, concepts | Date: 20251107_
+_Difficulty: intermediate | Tags: javascript, variables | Date: 20251108_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-In JavaScript, NULL represents the absence of any object value, whereas undefined is a reserved keyword that indicates a variable has been declared but has no assigned value. This is a fundamental difference in how these two concepts are used in JavaScript.
+In JavaScript, let and const are used to declare variables. The main difference between let and const is that let allows the variable to be reassigned, while const does not. For example:
+
+let x = 10;
+x = 20; // allowed
+const y = 10;
+y = 20; // not allowed
+
+
 
 </details>
 <!--END_SECTION:quiz-->
