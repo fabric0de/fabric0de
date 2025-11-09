@@ -9,21 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between let and const in JavaScript?**
+**❓ Q. What is the difference between '===' and '==' in JavaScript?**
 
-_Difficulty: intermediate | Tags: javascript, variables | Date: 20251108_
+_Difficulty: intermediate | Tags: javascript, equality, operators | Date: 20251109_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-In JavaScript, let and const are used to declare variables. The main difference between let and const is that let allows the variable to be reassigned, while const does not. For example:
-
-let x = 10;
-x = 20; // allowed
-const y = 10;
-y = 20; // not allowed
-
-
+In JavaScript, '===' is the strict equality operator, while '==' is the loose equality operator. The main difference is that '===' checks both value and type, whereas '==' only checks value. For example, 3 == '3' returns true, but 3 === '3' returns false.
 
 </details>
 <!--END_SECTION:quiz-->
