@@ -9,20 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the primary purpose of the `Host` header in an HTTP request?**
+**❓ Q. What is the main purpose of the null value in programming?**
 
-_Difficulty: beginner | Tags: HTTP 1.1, HTTP/2, Request Headers | Date: 20251111_
+_Difficulty: beginner | Tags: data types, basics | Date: 20251114_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The Host header specifies the domain name or IP address of the server hosting the requested resource. It is an essential header in HTTP 1.1 and is used by the server to determine which site's resources are being requested.
-
-In HTTP/2, the Host header is also used to multiplex multiple connections over a single TCP connection.
-
-The Host header is case-sensitive and should be included in all HTTP requests as soon as possible after the 
-"Connection" header, but before the 
-"Upgrade" header.
+The null value represents the absence of a value in a dataset or data structure.
 
 </details>
 <!--END_SECTION:quiz-->
