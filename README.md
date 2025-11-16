@@ -9,14 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the main purpose of the null value in programming?**
+**❓ Q. What is the purpose of the 'this' keyword in JavaScript?**
 
-_Difficulty: beginner | Tags: data types, basics | Date: 20251114_
+_Difficulty: intermediate | Tags: javascript basics, functions | Date: 20251116_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The null value represents the absence of a value in a dataset or data structure.
+The 'this' keyword in JavaScript refers to the current execution context of a function. It can also be used to access the value of a function as a property of an object.
 
 </details>
 <!--END_SECTION:quiz-->
