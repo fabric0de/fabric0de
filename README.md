@@ -9,14 +9,28 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the purpose of the 'this' keyword in JavaScript?**
+**❓ Q. What is the HTTP status code that indicates a successful request?**
 
-_Difficulty: intermediate | Tags: javascript basics, functions | Date: 20251116_
+_Difficulty: beginner | Tags: http, status codes | Date: 20251117_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The 'this' keyword in JavaScript refers to the current execution context of a function. It can also be used to access the value of a function as a property of an object.
+The HTTP status code that indicates a successful request is 200 OK.
+
+This status code is used to indicate that the request has been successfully processed and the response body contains the requested data.
+
+Here is an example of a successful HTTP response in JSON format:
+
+{
+  "status": "ok",
+  "message": "Data retrieved successfully",
+  "data": [
+    "server1",
+    "server2",
+    "server3"
+  ]
+}
 
 </details>
 <!--END_SECTION:quiz-->
