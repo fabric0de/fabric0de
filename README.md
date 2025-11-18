@@ -9,28 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the HTTP status code that indicates a successful request?**
+**❓ Q. What is the purpose of the `Host` header in an HTTP request?**
 
-_Difficulty: beginner | Tags: http, status codes | Date: 20251117_
+_Difficulty: intermediate | Tags: HTTP Basics, Headers | Date: 20251118_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The HTTP status code that indicates a successful request is 200 OK.
-
-This status code is used to indicate that the request has been successfully processed and the response body contains the requested data.
-
-Here is an example of a successful HTTP response in JSON format:
-
-{
-  "status": "ok",
-  "message": "Data retrieved successfully",
-  "data": [
-    "server1",
-    "server2",
-    "server3"
-  ]
-}
+The `Host` header specifies the domain name or IP address of the server the client is requesting. This header is crucial for correct routing of the request to the correct server, allowing the server to return the requested resource.
 
 </details>
 <!--END_SECTION:quiz-->
