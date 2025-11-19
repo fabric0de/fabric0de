@@ -9,14 +9,14 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the purpose of the `Host` header in an HTTP request?**
+**❓ Q. What is the primary use of the `display` property in CSS?**
 
-_Difficulty: intermediate | Tags: HTTP Basics, Headers | Date: 20251118_
+_Difficulty: intermediate | Tags: css, css-properties, box-model | Date: 20251119_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The `Host` header specifies the domain name or IP address of the server the client is requesting. This header is crucial for correct routing of the request to the correct server, allowing the server to return the requested resource.
+The `display` property is used to control the type of box model used by an element, and can also be used to control the display of an element's children. It can have values like `block`, `inline`, `inline-block`, etc. The `display` property can also be used to create a flexible box layout model, which is a powerful tool for building responsive and flexible web layouts.
 
 </details>
 <!--END_SECTION:quiz-->
