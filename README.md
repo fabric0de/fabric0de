@@ -9,29 +9,21 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the primary function of the `process.stdin` object in Node.js?**
+**❓ Q. What is the output of the following code?
 
-_Difficulty: beginner | Tags: nodejs, javascript, functional-programming | Date: 20251120_
+int x = 5;
+int y = x + 3;
+int z = y * 2;**
+
+_Difficulty: intermediate | Tags: C, variables, operators | Date: 20251121_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-The `process.stdin` object represents the standard input stream for a Node.js process, allowing you to read input from the user or a file.
+int z = 16;
 
-You can use the `.read()` method to read a chunk of data from the input stream, or the `.pipe()` method to pipe data to another stream.
 
-Here is an example of reading from `process.stdin`:
-
-```javascript
-const readline = require('readline');
-const rl = readline.createInterface({ input: process.stdin });
-rl.question('What is the value of pi?', (answer) => {
-  console.log(`You answered: ${answer}`);
-});
-```
-
-What is the type of the `process.stdin` object?
-
+Code Explanation: The variable y is first set to 5 + 3, resulting in y = 8. Then, z is set to 8 * 2, resulting in z = 16.
 
 </details>
 <!--END_SECTION:quiz-->
