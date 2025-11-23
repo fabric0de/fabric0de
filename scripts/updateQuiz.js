@@ -17,7 +17,27 @@ const CF_API_TOKEN = process.env.CF_API_TOKEN;
 const CF_MODEL = process.env.CF_MODEL || "@cf/meta/llama-3.2-3b-instruct";
 
 const buildPrompt = (topicOfTheDay) => {
-  return `Role: Senior developer interviewer. Generate exactly ONE development quiz.\nRequirements:\n- Language: English\n- type: "open" or "mcq"\n- Question: 1-2 sentences\n- Answer: 3-6 lines, in Markdown; use code fences when helpful\n- Difficulty: beginner|intermediate|advanced\n- Avoid duplicates or trivial variants\n- Output must be valid JSON only and MUST conform to the schema below\n\nToday's topic: ${topicOfTheDay}\n\nJSON schema:\n{\n  "type": "object",\n  "required": ["id","question","answer","difficulty","tags","type"],\n  "properties": {\n    "id": {"type":"string", "pattern":"^\\\\d{8}$"},\n    "question": {"type":"string", "maxLength": 200},\n    "answer": {"type":"string", "maxLength": 1200},\n    "difficulty": {"enum":["beginner","intermediate","advanced"]},\n    "tags": {"type":"array","items":{"type":"string"},"minItems":1},\n    "type": {"enum":["open","mcq"]},\n    "explanation": {"type":"string"},\n    "code": {"type":"string"}\n  }\n}`;
+  return `Generate exactly ONE development quiz about ${topicOfTheDay}.
+
+CRITICAL: Respond with ONLY valid JSON. No markdown, no code blocks, no explanations. Just the raw JSON object.
+
+Requirements:
+- Language: English
+- Question: 1-2 sentences
+- Answer: 3-6 lines, in Markdown format (use code fences when helpful)
+- Difficulty: beginner, intermediate, or advanced
+- Type: "open" or "mcq"
+- Tags: array of relevant tags
+
+JSON schema (respond with ONLY this structure, no other text):
+{
+  "id": "YYYYMMDD",
+  "question": "Your question here",
+  "answer": "Your answer in Markdown",
+  "difficulty": "beginner|intermediate|advanced",
+  "tags": ["tag1", "tag2"],
+  "type": "open|mcq"
+}`;
 };
 
 const validateGeneratedQuiz = (q) => {
@@ -50,7 +70,7 @@ const generateQuizWithCloudflareAI = async () => {
         messages: [
           {
             role: "system",
-            content: "You are a helpful assistant that generates development quiz questions. Always respond with valid JSON only."
+            content: "You are a helpful assistant that generates development quiz questions. CRITICAL: You must respond with ONLY valid JSON, no explanations, no code blocks, no markdown formatting. Just the raw JSON object."
           },
           {
             role: "user",
@@ -78,19 +98,38 @@ const generateQuizWithCloudflareAI = async () => {
 
     let jsonString = content.trim();
     
-    if (jsonString.startsWith("```")) {
-      jsonString = jsonString.replace(/^```(?:json)?\s*/, "").replace(/\s*```$/, "");
+    jsonString = jsonString.replace(/^```(?:json)?\s*/m, "").replace(/\s*```$/m, "");
+    
+    const jsonMatch = jsonString.match(/\{[\s\S]*\}/);
+    if (jsonMatch) {
+      jsonString = jsonMatch[0];
     }
+    
+    jsonString = jsonString.trim();
     
     let parsed;
     try {
       parsed = JSON.parse(jsonString);
     } catch (e) {
-      const match = jsonString.match(/\{[\s\S]*\}/);
-      if (match) {
-        parsed = JSON.parse(match[0]);
+      console.error("JSON parsing failed. Original content:");
+      console.error("---");
+      console.error(content.substring(0, 500));
+      console.error("---");
+      console.error("Attempted JSON:");
+      console.error("---");
+      console.error(jsonString.substring(0, 500));
+      console.error("---");
+      console.error("Error:", e.message);
+      
+      const deepMatch = jsonString.match(/\{([^{}]*(?:\{[^{}]*\}[^{}]*)*)\}/);
+      if (deepMatch) {
+        try {
+          parsed = JSON.parse(deepMatch[0]);
+        } catch (e2) {
+          throw new Error(`JSON 파싱 실패: ${e.message}. 재시도도 실패: ${e2.message}`);
+        }
       } else {
-        throw new Error(`JSON 파싱 실패: ${e.message}`);
+        throw new Error(`JSON 파싱 실패: ${e.message}. JSON 객체를 찾을 수 없습니다.`);
       }
     }
 
