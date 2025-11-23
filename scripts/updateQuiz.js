@@ -97,7 +97,6 @@ const generateQuizWithCloudflareAI = async () => {
     }
 
     let jsonString = content.trim();
-    
     jsonString = jsonString.replace(/^```(?:json)?\s*/m, "").replace(/\s*```$/m, "");
     
     const jsonMatch = jsonString.match(/\{[\s\S]*\}/);
@@ -105,31 +104,50 @@ const generateQuizWithCloudflareAI = async () => {
       jsonString = jsonMatch[0];
     }
     
-    jsonString = jsonString.trim();
+    jsonString = jsonString.trim().replace(/("(?:[^"\\]|\\.)*")\s*:\s*>\s*/g, '$1: "');
+    
+    const escapeValue = (value) => value
+      .replace(/\\/g, '\\\\')
+      .replace(/"/g, '\\"')
+      .replace(/\n/g, '\\n')
+      .replace(/\r/g, '\\r')
+      .replace(/\t/g, '\\t');
     
     let parsed;
     try {
       parsed = JSON.parse(jsonString);
     } catch (e) {
-      console.error("JSON parsing failed. Original content:");
-      console.error("---");
-      console.error(content.substring(0, 500));
-      console.error("---");
-      console.error("Attempted JSON:");
-      console.error("---");
-      console.error(jsonString.substring(0, 500));
-      console.error("---");
-      console.error("Error:", e.message);
+      let fixedJson = jsonString;
       
-      const deepMatch = jsonString.match(/\{([^{}]*(?:\{[^{}]*\}[^{}]*)*)\}/);
-      if (deepMatch) {
-        try {
-          parsed = JSON.parse(deepMatch[0]);
-        } catch (e2) {
-          throw new Error(`JSON 파싱 실패: ${e.message}. 재시도도 실패: ${e2.message}`);
+      const unclosedStringPattern = /("(?:question|answer|explanation|code|id)"\s*:\s*")([^"]*?)(?=\s*[,}])/g;
+      fixedJson = fixedJson.replace(unclosedStringPattern, (match, prefix, value) => {
+        if (!value.endsWith('"')) {
+          return `${prefix}${escapeValue(value)}"`;
         }
-      } else {
-        throw new Error(`JSON 파싱 실패: ${e.message}. JSON 객체를 찾을 수 없습니다.`);
+        return match;
+      });
+      
+      fixedJson = fixedJson.replace(/("(?:[^"\\]|\\.)*")\s*:\s*>\s*\n\s*([^,}]+?)(?=\s*[,}])/g, (match, key, value) => {
+        return `${key}: "${escapeValue(value.trim())}"`;
+      });
+      
+      try {
+        parsed = JSON.parse(fixedJson);
+      } catch (e2) {
+        const deepMatch = fixedJson.match(/\{([^{}]*(?:\{[^{}]*\}[^{}]*)*)\}/);
+        if (deepMatch) {
+          try {
+            parsed = JSON.parse(deepMatch[0]);
+          } catch (e3) {
+            console.error(`JSON parsing failed: ${e.message}`);
+            console.error(`Content preview: ${content.substring(0, 200)}...`);
+            throw new Error(`JSON 파싱 실패: ${e.message}`);
+          }
+        } else {
+          console.error(`JSON parsing failed: ${e.message}`);
+          console.error(`Content preview: ${content.substring(0, 200)}...`);
+          throw new Error(`JSON 파싱 실패: ${e.message}`);
+        }
       }
     }
 
