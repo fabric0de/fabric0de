@@ -9,37 +9,26 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the difference between var, let, and const in JavaScript?**
+**❓ Q. What is the purpose of the "let" keyword in JavaScript?**
 
-_Difficulty: intermediate | Tags: javascript, variables, scoping | Date: 20251123_
+_Difficulty: beginner | Tags: javascript fundamentals, variables | Date: 20251124_
 
 <details>
 <summary>Show Answer 👀</summary>
 
-In JavaScript, `var`, `let`, and `const` are used to declare variables. The main difference between them is when they are hoisted and whether they can be reassigned.
+The "let" keyword in JavaScript is used to declare variables that have block scope. It is similar to the "var" keyword, but with block scope{
+  // Example
+  if (true) {
+    let a = 10;
+  }
+  console.log(a);
+}
 
-`var` is function-scoped and can be reassigned.
+Alternatively,
 
-`let` is block-scoped and cannot be reassigned until the block is exited.
-
-`const` is block-scoped and cannot be reassigned anywhere in the code.
-
-
-Here is an example to demonstrate this:
-
-```javascript
-console.log(var x = 10); // no output
-console.log(x); // outputs 10
-x = 20; // outputs 20
-c
-console.log(let y = 10); // no output
-console.log(y); // outputs 10
-// y = 20; // ReferenceError: Assignment to constant variable.
-
-console.log(const z = 10); // no output
-console.log(z); // outputs 10
-// z = 20; // TypeError: Assignment to constant variable.
-```
+// Using const for constants
+const PI = 3.14;
+console.log(PI);
 
 </details>
 <!--END_SECTION:quiz-->
