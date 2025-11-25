@@ -9,26 +9,29 @@ This quiz is generated daily by AI
 
 <!--START_SECTION:quiz-->
 
-**❓ Q. What is the purpose of the "let" keyword in JavaScript?**
+<div align="center">
 
-_Difficulty: beginner | Tags: javascript fundamentals, variables | Date: 20251124_
+### ❓ What is the primary purpose of the HTTP method "PUT"?
+
+</div>
+
+<div align="center">
+
+🟡 **intermediate** • 🏷️ `http methods` `http request methods` • 📅 20251125
+
+</div>
+
+---
 
 <details>
-<summary>Show Answer 👀</summary>
+<summary><b>💡 Show Answer</b></summary>
 
-The "let" keyword in JavaScript is used to declare variables that have block scope. It is similar to the "var" keyword, but with block scope{
-  // Example
-  if (true) {
-    let a = 10;
-  }
-  console.log(a);
-}
+<br>
 
-Alternatively,
+> The HTTP method "PUT" is used to update an existing resource on the server. It is similar to the POST method, but instead of creating a new resource, it replaces the entire resource with the data provided in the request body. Unlike POST, PUT requests require the client to know the structure of the resource, as the server will only send back the updated resource in the response. This approach is more efficient when the data is not changing, but the client has control over the data structure. However, this approach can be error-prone if the client misrepresents the data structure.
 
-// Using const for constants
-const PI = 3.14;
-console.log(PI);
+<br>
 
 </details>
+
 <!--END_SECTION:quiz-->
