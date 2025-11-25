@@ -4,11 +4,27 @@
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "update:quiz": "node ./scripts/updateQuiz.js"
+    "update:quiz": "tsx ./scripts/updateQuiz.ts",
+    "test:ai": "tsx ./scripts/test-cloudflare-ai.ts",
+    "build": "tsc",
+    "format": "prettier --write \"scripts/**/*.{ts,js}\"",
+    "format:check": "prettier --check \"scripts/**/*.{ts,js}\"",
+    "type-check": "tsc --noEmit"
   },
   "engines": {
     "node": ">=18"
   },
-  "dependencies": {}
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^24.10.1",
+    "@typescript-eslint/eslint-plugin": "^8.48.0",
+    "@typescript-eslint/parser": "^8.48.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
 }
-
