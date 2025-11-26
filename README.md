@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary purpose of the HTTP method "PUT"?
+### ❓ What is the main difference between the `!important` and `!important !important` syntax for CSS styles?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http methods` `http request methods` • 📅 20251125
+🟡 **intermediate** • 🏷️ `css` `selectors` `best practices` • 📅 20251126
 
 </div>
 
@@ -28,7 +28,7 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method "PUT" is used to update an existing resource on the server. It is similar to the POST method, but instead of creating a new resource, it replaces the entire resource with the data provided in the request body. Unlike POST, PUT requests require the client to know the structure of the resource, as the server will only send back the updated resource in the response. This approach is more efficient when the data is not changing, but the client has control over the data structure. However, this approach can be error-prone if the client misrepresents the data structure.
+> The `!important` keyword can only be used once per property declaration. Using `!important !important` is unnecessary and can lead to unexpected results. In general, it's recommended to use `!important` sparingly and only when necessary. Using multiple `!important` flags can make the code harder to read and understand. It's also worth noting that some browsers may interpret different numbers of `!important` flags differently.
 
 <br>
 
