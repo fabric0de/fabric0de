@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between the `!important` and `!important !important` syntax for CSS styles?
+### ❓ What is the purpose of the `process.stdin` and `process.stdout` objects in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `selectors` `best practices` • 📅 20251126
+🟡 **intermediate** • 🏷️ `Node.js fundamentals` `process` • 📅 20251127
 
 </div>
 
@@ -28,7 +28,7 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `!important` keyword can only be used once per property declaration. Using `!important !important` is unnecessary and can lead to unexpected results. In general, it's recommended to use `!important` sparingly and only when necessary. Using multiple `!important` flags can make the code harder to read and understand. It's also worth noting that some browsers may interpret different numbers of `!important` flags differently.
+> > The `process.stdin` object represents the standard input stream, allowing you to read input from the user or a file. The `process.stdout` object represents the standard output stream, allowing you to send output to the console or a file. You can use these objects to read input and send output in a Node.js program. You can use the `readline` module to read input from stdin and the `writeFileSync` method to send output to stdout. The `process.stdin` object also allows you to read data from a file using the `readFileSync` method. You can also use the `process.stdout.write()` method to send output to the console.
 
 <br>
 
