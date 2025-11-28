@@ -6,6 +6,7 @@
   "scripts": {
     "update:quiz": "tsx ./scripts/updateQuiz.ts",
     "test:ai": "tsx ./scripts/test-cloudflare-ai.ts",
+    "test:parsing": "tsx ./scripts/test-parsing.ts",
     "build": "tsc",
     "format": "prettier --write \"scripts/**/*.{ts,js}\"",
     "format:check": "prettier --check \"scripts/**/*.{ts,js}\"",
