@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `process.stdin` and `process.stdout` objects in Node.js?
+### ❓ What is the difference between a variable and a constant in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `Node.js fundamentals` `process` • 📅 20251127
+🟢 **beginner** • 🏷️ `variables` `constants` `programming basics` • 📅 20251128
 
 </div>
 
@@ -28,7 +28,7 @@ This quiz is generated daily by AI
 
 <br>
 
-> > The `process.stdin` object represents the standard input stream, allowing you to read input from the user or a file. The `process.stdout` object represents the standard output stream, allowing you to send output to the console or a file. You can use these objects to read input and send output in a Node.js program. You can use the `readline` module to read input from stdin and the `writeFileSync` method to send output to stdout. The `process.stdin` object also allows you to read data from a file using the `readFileSync` method. You can also use the `process.stdout.write()` method to send output to the console.
+> > In programming, a constant is a value that cannot be changed once it is declared, whereas a variable can be changed after it is declared. A constant is often used for identifiers that should not be modified, such as pi or Euler's number.
 
 <br>
 
