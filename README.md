@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the null object in programming?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `object-oriented programming` `programming concepts` • 📅 20251128
+🟢 **beginner** • 🏷️ `javascript basics` `variables` • 📅 20251129
 
 </div>
 
@@ -28,15 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null object is a placeholder.
+> Null is a value that represents the absence of any object value.
 
-> Used to represent the absence of a value.
+> Undefined is a value that has no assigned value.
 
-> Used in conditional statements.
+> For example, let x = null;
 
-> Used to indicate a variable that has no value.
+> console.log(x) // outputs: null
 
-> It is often used to avoid null pointer exceptions.
+> let y;
+
+> console.log(y) // outputs: undefined
 
 <br>
 
