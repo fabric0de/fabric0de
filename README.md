@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary purpose of the `this` keyword in JavaScript?
+### ❓ What is the purpose of the `console.log()` function in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `functions` • 📅 20251129
+🟢 **beginner** • 🏷️ `javascript` `debugging` • 📅 20251130
 
 </div>
 
@@ -28,15 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The this keyword refers to the context in which a function is called.
+> The console.log function is used to output values to the browser console.
 
-> It can also refer to the object that a function is bound to.
+> It is often used for debugging and logging purposes.
 
-> In an arrow function, the this keyword does not exist.
+> It can be used with different data types such as strings, numbers, and objects.
 
-> It can be overridden for objects using the `bind()` method.
+> For example: console.log('Hello World!
 
-> However, in strict mode, this keyword has a different behavior.
+> ');
 
 <br>
 
