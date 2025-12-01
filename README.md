@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between null and undefined in JavaScript?
+### ❓ What is the purpose of a CMS in web development?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` ` primitives` `basics` • 📅 20251130
+🟡 **intermediate** • 🏷️ `cms` `web development` • 📅 20251201
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> null is a primitive value
+> A content management system (CMS) is a software application used to manage digital content.
 
-> that represents the absence of any object value.
+> It provides a user-friendly interface to create, edit, and publish content.
 
-> undefined is also a primitive value
+> CMS platforms are commonly used for building websites and web applications.
 
-> that represents an uninitialized variable.
-
-> It is not the same as null.
+> Examples of popular CMS platforms include WordPress, Drupal, and Joomla.
 
 <br>
 
