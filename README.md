@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of a CMS in web development?
+### ❓ What is the purpose of the `async` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `cms` `web development` • 📅 20251201
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251201
 
 </div>
 
@@ -28,13 +28,27 @@ This quiz is generated daily by AI
 
 <br>
 
-> A content management system (CMS) is a software application used to manage digital content.
+> The `async` keyword is used to define a function that returns a promise.
 
-> It provides a user-friendly interface to create, edit, and publish content.
+> It allows the function to run asynchronously, meaning it doesn't block the execution of other code.
 
-> CMS platforms are commonly used for building websites and web applications.
+> This is useful for handling multiple tasks concurrently.
 
-> Examples of popular CMS platforms include WordPress, Drupal, and Joomla.
+> It also helps with error handling and promises.
+
+> For example:
+
+> async function example() {
+
+> console.log('Hello');
+
+> await new Promise((resolve) => resolve('World'));
+
+> console.log('Done');
+
+> }
+
+> example();
 
 <br>
 
