@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `async` keyword in JavaScript?
+### ❓ What is the HTTP method used to send a request to a server to retrieve a resource?
+
+It is similar to the GET method but can return a response directly to the calling application without waiting for the full response from the server.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251201
+🟡 **intermediate** • 🏷️ `http` `head` `performance` • 📅 20251202
 
 </div>
 
@@ -28,27 +30,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `async` keyword is used to define a function that returns a promise.
+> HEAD
 
-> It allows the function to run asynchronously, meaning it doesn't block the execution of other code.
+> This method is used to retrieve metadata about a resource without downloading the resource itself.
 
-> This is useful for handling multiple tasks concurrently.
+> It is often used for cache checking and pre-fetching.
 
-> It also helps with error handling and promises.
+> It can also be used to reduce the amount of data transferred.
 
-> For example:
-
-> async function example() {
-
-> console.log('Hello');
-
-> await new Promise((resolve) => resolve('World'));
-
-> console.log('Done');
-
-> }
-
-> example();
+> It is generally faster than GET because it doesn't require the full response body.
 
 <br>
 
