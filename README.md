@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a request to a server to retrieve a resource?
-
-It is similar to the GET method but can return a response directly to the calling application without waiting for the full response from the server.
+### ❓ What is the HTTP method used to send a request to a server to delete a resource?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `head` `performance` • 📅 20251202
+🟡 **intermediate** • 🏷️ `http` `programming` `http-methods` • 📅 20251202
 
 </div>
 
@@ -30,15 +28,17 @@ It is similar to the GET method but can return a response directly to the callin
 
 <br>
 
-> HEAD
+> DELETE
 
-> This method is used to retrieve metadata about a resource without downloading the resource itself.
+> This HTTP method is used to delete a resource from a server.
 
-> It is often used for cache checking and pre-fetching.
+> It is the opposite of the GET method, which retrieves data.
 
-> It can also be used to reduce the amount of data transferred.
+> It is often used for deleting temporary or unnecessary data.
 
-> It is generally faster than GET because it doesn't require the full response body.
+> This method can be used with various HTTP versions.
+
+> For example, HTTP/1.1 DELETE /users/1 HTTP/1.1
 
 <br>
 
