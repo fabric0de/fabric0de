@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a request to a server to delete a resource?
+### ❓ What does the CSS property "display" control?
+It can be used to set the display type of an element.
+It can also be used to control the box model of an element.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `programming` `http-methods` • 📅 20251202
+🟡 **intermediate** • 🏷️ `css` `display` • 📅 20251203
 
 </div>
 
@@ -28,17 +30,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> DELETE
+> The display property can be set to block or inline.
 
-> This HTTP method is used to delete a resource from a server.
+> It can also be set to inline-block or flex.
 
-> It is the opposite of the GET method, which retrieves data.
+> This can affect the layout of an element.
 
-> It is often used for deleting temporary or unnecessary data.
+> It can also be set to none or initial.
 
-> This method can be used with various HTTP versions.
-
-> For example, HTTP/1.1 DELETE /users/1 HTTP/1.1
+> It can be inherited or overridden.
 
 <br>
 
