@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the .env file in Node.js contain?
-It stores sensitive data such as database credentials and API keys.
+### ❓ What is the purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `configuration` `environmentvariables` • 📅 20251204
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` • 📅 20251204
 
 </div>
 
@@ -29,13 +28,13 @@ It stores sensitive data such as database credentials and API keys.
 
 <br>
 
-> Environment variables
+> The require function is used to import modules in Node.js.
 
-> Are used to store configuration settings that can vary between different environments.
+> It allows you to load modules and use their functions and variables.
 
-> They are not committed to version control.
+> You can use the require function to import built-in modules or custom modules you create.
 
-> This helps maintain separate environments like development, testing and production.
+> It returns the exported value of the module.
 
 <br>
 
