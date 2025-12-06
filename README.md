@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a C program?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `c` `programming fundamentals` • 📅 20251205
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20251206
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a C program.
+> let is a block-scoped variable declaration,
 
-> It is where program execution begins.
+> var is function-scoped.
 
-> It returns an integer status code to the operating system.
+> var is hoisted to the top of its scope,
 
-> The main function is where program arguments are processed.
+> let is not.
+
+> let is supported in modern browsers and Node.js,
+
+> var is also supported in most browsers and Node.js.
 
 <br>
 
