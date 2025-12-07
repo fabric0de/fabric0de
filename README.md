@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `const` keyword in JavaScript?
+### ❓ What is the purpose of the 'this' keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` `best-practices` • 📅 20251207
+🟡 **intermediate** • 🏷️ `javascript` `es6` `functions` `classes` `prototypalinheritance` `context` `closure` `proxy` • 📅 20251207
 
 </div>
 
@@ -28,19 +28,29 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `const` keyword is used to declare a variable that cannot be changed.
+> The 'this' keyword refers to the current object in a specific scope.
 
-> It is often used to make the code more predictable and easier to read.
+> It can also be used to access global objects and their properties.
 
-> It is not the same as `let`, which can be reassigned.
+> In a function, 'this' refers to the function object.
 
-> However, both `const` and `let` can be used with block scoped variables.
+> It can be overridden using 'bind' or 'call' methods.
 
-> The `const` keyword was introduced in ECMAScript 2015 (ES6).
+> In an arrow function, 'this' refers to the global object.
 
-> It helps to avoid common pitfalls like using global variables.
+> It can also be used as a context for 'new' keyword.
 
-> It is a good practice to use `const` whenever possible.
+> It can be used to create a closure.
+
+> It can be used to create a proxy.
+
+> It can be used to implement prototype inheritance.
+
+> It can be used to implement the 'hasOwnProperty' method.
+
+> It can be used to implement the 'isPrototypeOf' method.
+
+> In a class, 'this' refers to the instance of the class.
 
 <br>
 
