@@ -11,15 +11,17 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is HTTP method for creating a new resource?
-It is used to send a request to the server to create a new resource.
-It has a 201 status code.
+### ❓ What is the purpose of the HTTP method 'PUT'?
+It is used to create a new resource.
+It is used to update an existing resource.
+It is used to delete a resource.
+It is used to read a resource.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `web development` • 📅 20251208
+🟡 **intermediate** • 🏷️ `http` `http methods` • 📅 20251208
 
 </div>
 
@@ -30,13 +32,9 @@ It has a 201 status code.
 
 <br>
 
-> POST
+> It is used to update an existing resource.
 
-> It is the opposite of the DELETE method.
-
-> It is used for sending data to the server.
-
-> It is commonly used for creating new resources in web development.
+> It is used to replace an entire resource.
 
 <br>
 
