@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'this' keyword in JavaScript?
+### ❓ What is HTTP method for creating a new resource?
+It is used to send a request to the server to create a new resource.
+It has a 201 status code.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `es6` `functions` `classes` `prototypalinheritance` `context` `closure` `proxy` • 📅 20251207
+🟡 **intermediate** • 🏷️ `http` `web development` • 📅 20251208
 
 </div>
 
@@ -28,29 +30,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'this' keyword refers to the current object in a specific scope.
+> POST
 
-> It can also be used to access global objects and their properties.
+> It is the opposite of the DELETE method.
 
-> In a function, 'this' refers to the function object.
+> It is used for sending data to the server.
 
-> It can be overridden using 'bind' or 'call' methods.
-
-> In an arrow function, 'this' refers to the global object.
-
-> It can also be used as a context for 'new' keyword.
-
-> It can be used to create a closure.
-
-> It can be used to create a proxy.
-
-> It can be used to implement prototype inheritance.
-
-> It can be used to implement the 'hasOwnProperty' method.
-
-> It can be used to implement the 'isPrototypeOf' method.
-
-> In a class, 'this' refers to the instance of the class.
+> It is commonly used for creating new resources in web development.
 
 <br>
 
