@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a request to a server to delete a resource?
+### ❓ What is the HTTP request method used for sending data to a server to create or update a resource?
+
+It is different from the GET method which is used to retrieve data.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20251209
+🟡 **intermediate** • 🏷️ `http` `request` `post` • 📅 20251209
 
 </div>
 
@@ -28,15 +30,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method used to send a request to a server to delete a resource is DELETE.
+> POST
 
-> This method is used to remove a resource from the server.
+> This method is commonly used for forms submissions.
 
-> It is often used in conjunction with URI.
+> It is also used for creating new resources.
 
-> For example, DELETE /users/123
-
-> Note that the DELETE method can be used to delete multiple resources if the URI contains a wildcard.
+> Example: Creating a new user account.
 
 <br>
 
