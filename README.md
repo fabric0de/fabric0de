@@ -11,17 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP method 'PUT'?
-It is used to create a new resource.
-It is used to update an existing resource.
-It is used to delete a resource.
-It is used to read a resource.
+### ❓ What is the HTTP method used to send a request to a server to delete a resource?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http methods` • 📅 20251208
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20251209
 
 </div>
 
@@ -32,9 +28,15 @@ It is used to read a resource.
 
 <br>
 
-> It is used to update an existing resource.
+> The HTTP method used to send a request to a server to delete a resource is DELETE.
 
-> It is used to replace an entire resource.
+> This method is used to remove a resource from the server.
+
+> It is often used in conjunction with URI.
+
+> For example, DELETE /users/123
+
+> Note that the DELETE method can be used to delete multiple resources if the URI contains a wildcard.
 
 <br>
 
