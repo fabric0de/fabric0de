@@ -11,15 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP request method used for sending data to a server to create or update a resource?
-
-It is different from the GET method which is used to retrieve data.
+### ❓ What is the purpose of the CSS selector "#id"?
+It is used to target a specific HTML element by its ID.
+It is used to target a specific HTML element by its class.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `request` `post` • 📅 20251209
+🟡 **intermediate** • 🏷️ `css selectors` `css id` `css classes` • 📅 20251210
 
 </div>
 
@@ -30,13 +30,13 @@ It is different from the GET method which is used to retrieve data.
 
 <br>
 
-> POST
+> It is used to target a specific HTML element by its ID.
 
-> This method is commonly used for forms submissions.
+> Examples:
 
-> It is also used for creating new resources.
+> #header,
 
-> Example: Creating a new user account.
+> #footer
 
 <br>
 
