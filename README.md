@@ -11,15 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selector "#id"?
-It is used to target a specific HTML element by its ID.
-It is used to target a specific HTML element by its class.
+### ❓ What is the purpose of the `:hover` pseudo-class in CSS?
+It is used to select elements that are being hovered over.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css selectors` `css id` `css classes` • 📅 20251210
+🟡 **intermediate** • 🏷️ `css` `pseudo-classes` • 📅 20251210
 
 </div>
 
@@ -30,13 +29,21 @@ It is used to target a specific HTML element by its class.
 
 <br>
 
-> It is used to target a specific HTML element by its ID.
+> The :hover pseudo-class is used to apply styles when an element is being hovered over.
 
-> Examples:
+> This allows developers to change the appearance of an element in response to user interaction.
 
-> #header,
+> For example:
 
-> #footer
+> :hover
+
+> background-color: blue;
+
+> It is a common technique used in web design to add visual interest and feedback to elements.
+
+> This can be applied to any HTML element.
+
+> The :hover pseudo-class can be used in conjunction with other pseudo-classes and pseudo-elements to create more complex styles.
 
 <br>
 
