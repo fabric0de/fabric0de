@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `:hover` pseudo-class in CSS?
-It is used to select elements that are being hovered over.
+### ❓ What is the purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `pseudo-classes` • 📅 20251210
+🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20251211
 
 </div>
 
@@ -29,21 +28,13 @@ It is used to select elements that are being hovered over.
 
 <br>
 
-> The :hover pseudo-class is used to apply styles when an element is being hovered over.
+> The require function is used to import modules in Node.js.
 
-> This allows developers to change the appearance of an element in response to user interaction.
+> It allows you to import modules and make their functionality available in your code.
 
-> For example:
+> You can import modules using the require function with the module name as an argument.
 
-> :hover
-
-> background-color: blue;
-
-> It is a common technique used in web design to add visual interest and feedback to elements.
-
-> This can be applied to any HTML element.
-
-> The :hover pseudo-class can be used in conjunction with other pseudo-classes and pseudo-elements to create more complex styles.
+> For example, you can import the console module using require('console').
 
 <br>
 
