@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a C program?
+### ❓ What is the main difference between a variable and a constant in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `c` `c++` ` programming fundamentals` • 📅 20251212
+🟡 **intermediate** • 🏷️ `variables` `constants` `programming fundamentals` • 📅 20251212
 
 </div>
 
@@ -28,19 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a C program.
+> In programming, a variable is a storage location that can hold a value.
 
-> It is where the program begins execution.
+> A constant is a variable that holds a value that cannot be changed.
 
-> The main function is called when the program starts.
+> Constants are often used to represent fixed values.
 
-> It returns an integer value to the operating system.
+> Variables can be reassigned a new value.
 
-> This value indicates whether the program executed successfully or not.
-
-> Typically, the main function has an int return type.
-
-> It is usually declared with the signature int main(int argc, char *argv[])
+> This difference is important to understand in order to write correct and maintainable code.
 
 <br>
 
