@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'require' function in Node.js?
+### ❓ What is the purpose of the main function in a C program?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `modules` `require` • 📅 20251211
+🟢 **beginner** • 🏷️ `c` `c++` ` programming fundamentals` • 📅 20251212
 
 </div>
 
@@ -28,17 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The require function is used to import modules in Node.js.
+> The main function is the entry point of a C program.
 
-> It allows you to use a module's functions and variables in your own code.
+> It is where the program begins execution.
 
-> It is a built-in function and does not need to be installed.
+> The main function is called when the program starts.
 
-> You can use it to import built-in modules like 'fs' and 'path'.
+> It returns an integer value to the operating system.
 
-> It can also be used to import local modules from your project.
+> This value indicates whether the program executed successfully or not.
 
-> It is the primary way to import modules in Node.js.
+> Typically, the main function has an int return type.
+
+> It is usually declared with the signature int main(int argc, char *argv[])
 
 <br>
 
