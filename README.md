@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between a variable and a constant in programming?
+### ❓ What is the purpose of the `await` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `variables` `constants` `programming fundamentals` • 📅 20251212
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251213
 
 </div>
 
@@ -28,15 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> In programming, a variable is a storage location that can hold a value.
+> The `await` keyword is used to pause the execution of an async function until a promise is resolved.
 
-> A constant is a variable that holds a value that cannot be changed.
+> It allows you to write asynchronous code that is easier to read and maintain.
 
-> Constants are often used to represent fixed values.
-
-> Variables can be reassigned a new value.
-
-> This difference is important to understand in order to write correct and maintainable code.
+> For example, `const asyncFunction = async () => { await myPromise; console.log('Hello World!'); };`
 
 <br>
 
