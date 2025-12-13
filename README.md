@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `await` keyword in JavaScript?
+### ❓ What is the purpose of the `console.log()` function in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251213
+🟢 **beginner** • 🏷️ `javascript` • 📅 20251213
 
 </div>
 
@@ -28,11 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `await` keyword is used to pause the execution of an async function until a promise is resolved.
+> The console.log() function is used to output text to the browser's developer console.
 
-> It allows you to write asynchronous code that is easier to read and maintain.
+> It can be used to print variables, strings, and other values.
 
-> For example, `const asyncFunction = async () => { await myPromise; console.log('Hello World!'); };`
+> It is useful for debugging code.
+
+> It can also be used to display information to the user.
+
+> It is available in all browsers.
 
 <br>
 
