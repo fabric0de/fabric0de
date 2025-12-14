@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `console.log()` function in JavaScript?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` • 📅 20251213
+🟢 **beginner** • 🏷️ `javascript` `variables` `scoping` • 📅 20251214
 
 </div>
 
@@ -28,15 +28,33 @@ This quiz is generated daily by AI
 
 <br>
 
-> The console.log() function is used to output text to the browser's developer console.
+> let is block-scoped, meaning its scope is limited to the block it is declared in.
 
-> It can be used to print variables, strings, and other values.
+> var is function-scoped, meaning its scope is the entire function it is declared in.
 
-> It is useful for debugging code.
+> This can affect how variables are accessed and modified.
 
-> It can also be used to display information to the user.
+> For example:
 
-> It is available in all browsers.
+> let x = 10;
+
+> if (true) {
+
+> let x = 20;
+
+> }
+
+> console.log(x); // outputs 10
+
+> var x = 10;
+
+> if (true) {
+
+> var x = 20;
+
+> }
+
+> console.log(x); // outputs 20
 
 <br>
 
