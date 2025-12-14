@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variables` `scoping` • 📅 20251214
+🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20251214
 
 </div>
 
@@ -28,33 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is block-scoped, meaning its scope is limited to the block it is declared in.
+> In JavaScript,
 
-> var is function-scoped, meaning its scope is the entire function it is declared in.
+> null represents the absence of any object value,
 
-> This can affect how variables are accessed and modified.
+> while undefined represents a variable that has not been declared or is not in scope.
 
-> For example:
-
-> let x = 10;
-
-> if (true) {
-
-> let x = 20;
-
-> }
-
-> console.log(x); // outputs 10
-
-> var x = 10;
-
-> if (true) {
-
-> var x = 20;
-
-> }
-
-> console.log(x); // outputs 20
+> Both are primitive values in JavaScript.
 
 <br>
 
