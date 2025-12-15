@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between null and undefined in JavaScript?
+### ❓ What is the purpose of the HTTP method "GET" in web development?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20251214
+🟡 **intermediate** • 🏷️ `http` `web development` • 📅 20251215
 
 </div>
 
@@ -28,13 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> In JavaScript,
+> The HTTP method GET is used to retrieve data from a server.
 
-> null represents the absence of any object value,
+> It is commonly used for fetching resources such as HTML pages, images, and API data.
 
-> while undefined represents a variable that has not been declared or is not in scope.
-
-> Both are primitive values in JavaScript.
+> It is safe to use, as it does not modify the server.
 
 <br>
 
