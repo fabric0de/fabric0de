@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for creating new resources on a server?
+### ❓ What is the HTTP status code for a successful HTTP request?
+It indicates that the request was successfully received and understood by the server.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20251216
+🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20251216
 
 </div>
 
@@ -28,13 +29,21 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST
+> 200 OK
 
-> It is used to send data to the server to create a new resource.
+> This status code is used for successful requests.
 
-> For example, creating a new user account.
+> It may also be used for informational responses.
 
-> It can also be used to send data to the server to update an existing resource.
+> It is the most common HTTP status code.
+
+> It is used by clients to determine if a request was successful.
+
+> It is also used by servers to indicate that a request was successful.
+
+> It is a three-digit number.
+
+> It is used in HTTP/1.1.
 
 <br>
 
