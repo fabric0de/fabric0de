@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful HTTP request?
-It indicates that the request was successfully received and understood by the server.
+### ❓ What is the purpose of the CSS reset CSS file?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20251216
+🟡 **intermediate** • 🏷️ `css` `reset` `html` • 📅 20251217
 
 </div>
 
@@ -29,21 +28,19 @@ It indicates that the request was successfully received and understood by the se
 
 <br>
 
-> 200 OK
+> A CSS reset file is used to reset the default styling of HTML elements
 
-> This status code is used for successful requests.
+> so that they appear consistent across different browsers.
 
-> It may also be used for informational responses.
+> It overrides the browser's default styles to provide a uniform look and feel.
 
-> It is the most common HTTP status code.
+> This can help to improve the consistency of a website's layout and design.
 
-> It is used by clients to determine if a request was successful.
+> It can also help to simplify the process of styling HTML elements.
 
-> It is also used by servers to indicate that a request was successful.
+> Some popular CSS reset files include Normalize.css and Reset.css.
 
-> It is a three-digit number.
-
-> It is used in HTTP/1.1.
+> It is generally recommended to use a CSS reset file to ensure consistent styling across all browsers.
 
 <br>
 
