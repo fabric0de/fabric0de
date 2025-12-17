@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset CSS file?
+### ❓ What does the CSS selector "#id" target?
+It targets an HTML element with the specified ID.
+It is used to address a unique element in a document.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `reset` `html` • 📅 20251217
+🟡 **intermediate** • 🏷️ `css selectors` `css fundamentals` • 📅 20251217
 
 </div>
 
@@ -28,19 +30,9 @@ This quiz is generated daily by AI
 
 <br>
 
-> A CSS reset file is used to reset the default styling of HTML elements
+> It targets an HTML element with the specified ID.
 
-> so that they appear consistent across different browsers.
-
-> It overrides the browser's default styles to provide a uniform look and feel.
-
-> This can help to improve the consistency of a website's layout and design.
-
-> It can also help to simplify the process of styling HTML elements.
-
-> Some popular CSS reset files include Normalize.css and Reset.css.
-
-> It is generally recommended to use a CSS reset file to ensure consistent styling across all browsers.
+> It is used to address a unique element in a document.
 
 <br>
 
