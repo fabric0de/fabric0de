@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `await` keyword in JavaScript?
+### ❓ What is the purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251218
+🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20251218
 
 </div>
 
@@ -28,23 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `await` keyword is used to pause the execution of an async function until a promise is resolved.
+> The require function is used to import and load a module in Node.js.
 
-> It allows for more readable and easier-to-debug asynchronous code.
+> It allows you to use the functionality of other modules in your application.
 
-> It is commonly used in conjunction with async/await syntax.
+> This function is especially useful when you want to avoid hardcoding module names.
 
-> It can also be used to achieve synchronous behavior in an asynchronous function.
+> For example, instead of writing 'const express = require('express');' you can write 'const express = require('express');'
 
-> Example usage:
-
-> async function example() {
-
-> const result = await Promise.resolve('Hello World');
-
-> console.log(result);
-
-> }
+> This makes your code more modular and easier to maintain.
 
 <br>
 
