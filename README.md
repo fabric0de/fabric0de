@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS selector "#id" target?
-It targets an HTML element with the specified ID.
-It is used to address a unique element in a document.
+### ❓ What is the purpose of the `await` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css selectors` `css fundamentals` • 📅 20251217
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251218
 
 </div>
 
@@ -30,9 +28,23 @@ It is used to address a unique element in a document.
 
 <br>
 
-> It targets an HTML element with the specified ID.
+> The `await` keyword is used to pause the execution of an async function until a promise is resolved.
 
-> It is used to address a unique element in a document.
+> It allows for more readable and easier-to-debug asynchronous code.
+
+> It is commonly used in conjunction with async/await syntax.
+
+> It can also be used to achieve synchronous behavior in an asynchronous function.
+
+> Example usage:
+
+> async function example() {
+
+> const result = await Promise.resolve('Hello World');
+
+> console.log(result);
+
+> }
 
 <br>
 
