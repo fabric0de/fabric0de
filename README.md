@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main function of the main function in a C++ program?
+### ❓ What is a variable in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `c++` `programming fundamentals` • 📅 20251219
+🟢 **beginner** • 🏷️ `variables` `programming fundamentals` • 📅 20251219
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a C++ program.
+> A variable is a name given to a value.
 
-> It is where the program starts execution.
+> It allows you to store and reuse values in your code.
 
-> It calls other functions to perform specific tasks.
+> Variables can be thought of as labeled containers.
 
-> The program terminates when the main function completes.
-
-> The main function is typically declared as int main() or void main().
+> They can hold different data types such as numbers, strings, and booleans.
 
 <br>
 
