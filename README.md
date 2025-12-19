@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'require' function in Node.js?
+### ❓ What is the main function of the main function in a C++ program?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20251218
+🟢 **beginner** • 🏷️ `c++` `programming fundamentals` • 📅 20251219
 
 </div>
 
@@ -28,15 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The require function is used to import and load a module in Node.js.
+> The main function is the entry point of a C++ program.
 
-> It allows you to use the functionality of other modules in your application.
+> It is where the program starts execution.
 
-> This function is especially useful when you want to avoid hardcoding module names.
+> It calls other functions to perform specific tasks.
 
-> For example, instead of writing 'const express = require('express');' you can write 'const express = require('express');'
+> The program terminates when the main function completes.
 
-> This makes your code more modular and easier to maintain.
+> The main function is typically declared as int main() or void main().
 
 <br>
 
