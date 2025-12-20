@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` • 📅 20251220
+🟡 **intermediate** • 🏷️ `javascript` • 📅 20251220
 
 </div>
 
@@ -32,15 +32,19 @@ This quiz is generated daily by AI
 
 > undefined is a value that represents an uninitialized variable.
 
-> In other words, null is a specific value,
+> In other words, null is a value, while undefined is a variable.
 
-> while undefined is a state.
+> Examples of null include:
 
-> A variable is undefined until it is assigned a value.
+> const person = null;
 
-> Null is always a value.
+> console.log(person);
 
-> It is worth noting that both can be set to the same value.
+> On the other hand, undefined is typically used for variables that have not been assigned a value.
+
+> const name = ;
+
+> console.log(name);
 
 <br>
 
