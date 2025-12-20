@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is a variable in programming?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `variables` `programming fundamentals` • 📅 20251219
+🟢 **beginner** • 🏷️ `javascript` • 📅 20251220
 
 </div>
 
@@ -28,13 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> A variable is a name given to a value.
+> null is a value that represents the absence of any object value.
 
-> It allows you to store and reuse values in your code.
+> undefined is a value that represents an uninitialized variable.
 
-> Variables can be thought of as labeled containers.
+> In other words, null is a specific value,
 
-> They can hold different data types such as numbers, strings, and booleans.
+> while undefined is a state.
+
+> A variable is undefined until it is assigned a value.
+
+> Null is always a value.
+
+> It is worth noting that both can be set to the same value.
 
 <br>
 
