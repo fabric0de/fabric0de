@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
-let is block-scoped, while var is function-scoped.
+### ❓ What is the purpose of the `await` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` `scoping` • 📅 20251221
+🟡 **intermediate** • 🏷️ `javascript` `async` `await` `promises` • 📅 20251221
 
 </div>
 
@@ -29,33 +28,15 @@ let is block-scoped, while var is function-scoped.
 
 <br>
 
-> let is used with block-scoped variables, which means they are defined only within the block they are declared in.
+> The `await` keyword is used with promises to pause the execution of an asynchronous function until the promise is resolved or rejected.
 
-> var is used with function-scoped variables, which are defined within the entire function they are declared in.
+> It allows developers to write asynchronous code that is easier to read and maintain.
 
-> This difference in scope can lead to unexpected behavior if not used correctly.
+> It can also be used with async/await syntax.
 
-> For example:
+> Awaiting a promise means waiting for the promise to resolve before continuing execution of the function.
 
-> var x = 10;
-
-> if (true) {
-
-> var x = 20;
-
-> }
-
-> console.log(x); // outputs 20
-
-> let y = 30;
-
-> if (true) {
-
-> let y = 40;
-
-> }
-
-> console.log(y); // outputs 40
+> This can help prevent race conditions and improve performance.
 
 <br>
 
