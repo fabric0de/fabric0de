@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `await` keyword in JavaScript?
+### ❓ What is the purpose of the HTTP method "PUT"?
+It is used to update existing resources.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async` `await` `promises` • 📅 20251221
+🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20251222
 
 </div>
 
@@ -28,15 +29,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `await` keyword is used with promises to pause the execution of an asynchronous function until the promise is resolved or rejected.
+> The HTTP method "PUT" is used to update existing resources on a server.
 
-> It allows developers to write asynchronous code that is easier to read and maintain.
+> It is similar to "POST", but it only updates the specified resource.
 
-> It can also be used with async/await syntax.
+> Unlike "POST", "PUT" requires the client to provide the entire resource in the request body.
 
-> Awaiting a promise means waiting for the promise to resolve before continuing execution of the function.
-
-> This can help prevent race conditions and improve performance.
+> This ensures that the server knows exactly which parts of the resource need to be updated.
 
 <br>
 
