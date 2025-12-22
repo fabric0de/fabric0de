@@ -11,14 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP method "PUT"?
-It is used to update existing resources.
+### ❓ What is the HTTP method used to send a request to a server to create a new resource?
+This method is also known as POST.
+It can be used to update or delete a resource as well.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20251222
+🟡 **intermediate** • 🏷️ `http` `web-development` `rest` • 📅 20251222
 
 </div>
 
@@ -29,13 +30,13 @@ It is used to update existing resources.
 
 <br>
 
-> The HTTP method "PUT" is used to update existing resources on a server.
+> The HTTP method used to send a request to a server to create a new resource.
 
-> It is similar to "POST", but it only updates the specified resource.
+> This method is also known as POST.
 
-> Unlike "POST", "PUT" requires the client to provide the entire resource in the request body.
+> It can be used to update or delete a resource as well.
 
-> This ensures that the server knows exactly which parts of the resource need to be updated.
+> The POST method does not change the resource's location.
 
 <br>
 
