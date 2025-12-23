@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP method "PUT"?
+### ❓ What is the purpose of the HTTP method 'PUT'?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` `rest` • 📅 20251223
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20251223
 
 </div>
 
@@ -28,11 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method PUT is used to update an existing resource.
+> The HTTP method PUT is used to update existing resources.
 
-> It replaces the entire resource with the new version.
+> It replaces the entire resource.
 
-> It is often used for replacing or updating large objects.
+> It is used when the client has the most up-to-date version of the resource.
+
+> It can be used with HTTP/1.1 and later versions.
 
 <br>
 
