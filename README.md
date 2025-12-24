@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the CSS fork of the CSS specification, CSS preprocessors like Sass and Less?
+### ❓ What is the difference between flexbox and grid in CSS?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `preprocessors` `sass` `less` • 📅 20251224
+🟡 **intermediate** • 🏷️ `css` `flexbox` `grid` • 📅 20251224
 
 </div>
 
@@ -28,17 +28,23 @@ This quiz is generated daily by AI
 
 <br>
 
-> CSS preprocessors are used to extend the CSS syntax for
+> Flexbox is used for one-dimensional layout, whereas grid is used for two-dimensional layout.
 
-> larger and more complex projects.
+> Flexbox is better suited for horizontal or vertical alignment of items,
 
-> They provide features like variables, nesting, and functions.
+> while grid provides more flexibility in creating complex layouts.
 
-> These features can improve code maintainability and efficiency.
+> It also offers more control over item placement and spacings.
 
-> However, they can also introduce additional complexity.
+> Both flexbox and grid can be used for layouts that require equal spacing,
 
-> They are not a replacement for CSS, but rather a tool to augment it.
+> but grid is generally preferred for more complex layouts.
+
+> In summary, flexbox is for simple horizontal or vertical arrangements,
+
+> while grid is for complex two-dimensional arrangements.
+
+> This allows developers to choose the best layout method based on their needs.
 
 <br>
 
