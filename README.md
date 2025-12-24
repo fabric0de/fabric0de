@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP method 'PUT'?
+### ❓ What is the main purpose of the CSS fork of the CSS specification, CSS preprocessors like Sass and Less?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20251223
+🟡 **intermediate** • 🏷️ `css` `preprocessors` `sass` `less` • 📅 20251224
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method PUT is used to update existing resources.
+> CSS preprocessors are used to extend the CSS syntax for
 
-> It replaces the entire resource.
+> larger and more complex projects.
 
-> It is used when the client has the most up-to-date version of the resource.
+> They provide features like variables, nesting, and functions.
 
-> It can be used with HTTP/1.1 and later versions.
+> These features can improve code maintainability and efficiency.
+
+> However, they can also introduce additional complexity.
+
+> They are not a replacement for CSS, but rather a tool to augment it.
 
 <br>
 
