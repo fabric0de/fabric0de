@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the `require` function in Node.js?
+### ❓ What is the main difference between async/await and callback functions in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20251225
+🟡 **intermediate** • 🏷️ `async/await` `javascript` `node.js` `promises` • 📅 20251225
 
 </div>
 
@@ -28,13 +28,49 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `require` function is used to import modules.
+> Async/await is a syntax sugar on top of promises.
 
-> It takes a string argument that specifies the name of the module to import.
+> It allows writing asynchronous code that looks and feels synchronous.
 
-> The imported module is then available for use in the current scope.
+> Callback functions, on the other hand, are a way to pass a function as an argument to another function.
 
-> It is equivalent to using the `module.exports` syntax in a module definition file.
+> They can be used to handle asynchronous operations but require more boilerplate code.
+
+> Here's an example of a simple async function using async/await:
+
+> async function example() {
+
+> try {
+
+> const result = await somePromise;
+
+> } catch (error) {
+
+> console.error(error);
+
+> }
+
+> }
+
+> And here's an example of a simple callback function:
+
+> function example(callback) {
+
+> somePromise((error, result) => {
+
+> if (error) {
+
+> callback(error);
+
+> } else {
+
+> callback(null, result);
+
+> }
+
+> });
+
+> }
 
 <br>
 
