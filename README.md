@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between flexbox and grid in CSS?
+### ❓ What is the primary function of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `flexbox` `grid` • 📅 20251224
+🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20251225
 
 </div>
 
@@ -28,23 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> Flexbox is used for one-dimensional layout, whereas grid is used for two-dimensional layout.
+> The `require` function is used to import modules.
 
-> Flexbox is better suited for horizontal or vertical alignment of items,
+> It takes a string argument that specifies the name of the module to import.
 
-> while grid provides more flexibility in creating complex layouts.
+> The imported module is then available for use in the current scope.
 
-> It also offers more control over item placement and spacings.
-
-> Both flexbox and grid can be used for layouts that require equal spacing,
-
-> but grid is generally preferred for more complex layouts.
-
-> In summary, flexbox is for simple horizontal or vertical arrangements,
-
-> while grid is for complex two-dimensional arrangements.
-
-> This allows developers to choose the best layout method based on their needs.
+> It is equivalent to using the `module.exports` syntax in a module definition file.
 
 <br>
 
