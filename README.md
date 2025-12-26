@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between async/await and callback functions in Node.js?
+### ❓ What is the purpose of the semicolon (;) in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `async/await` `javascript` `node.js` `promises` • 📅 20251225
+🟢 **beginner** • 🏷️ `syntax` `programming` • 📅 20251226
 
 </div>
 
@@ -28,49 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> Async/await is a syntax sugar on top of promises.
+> A semicolon is used to end a statement in programming.
 
-> It allows writing asynchronous code that looks and feels synchronous.
+> It indicates the end of a complete statement.
 
-> Callback functions, on the other hand, are a way to pass a function as an argument to another function.
+> Semicolons can also be used to separate statements.
 
-> They can be used to handle asynchronous operations but require more boilerplate code.
-
-> Here's an example of a simple async function using async/await:
-
-> async function example() {
-
-> try {
-
-> const result = await somePromise;
-
-> } catch (error) {
-
-> console.error(error);
-
-> }
-
-> }
-
-> And here's an example of a simple callback function:
-
-> function example(callback) {
-
-> somePromise((error, result) => {
-
-> if (error) {
-
-> callback(error);
-
-> } else {
-
-> callback(null, result);
-
-> }
-
-> });
-
-> }
+> They improve code readability.
 
 <br>
 
