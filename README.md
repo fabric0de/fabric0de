@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the semicolon (;) in programming?
+### ❓ What is the purpose of the null value in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `syntax` `programming` • 📅 20251226
+🟢 **beginner** • 🏷️ `programming fundamentals` `data types` • 📅 20251226
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> A semicolon is used to end a statement in programming.
+> The null value in programming represents the absence of any object value.
 
-> It indicates the end of a complete statement.
+> It is used to indicate an uninitialized or non-existent value.
 
-> Semicolons can also be used to separate statements.
+> It is often used to check for missing or null data.
 
-> They improve code readability.
+> Null is not the same as zero, which represents the value zero.
 
 <br>
 
