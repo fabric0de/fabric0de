@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the null value in programming?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `programming fundamentals` `data types` • 📅 20251226
+🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20251227
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null value in programming represents the absence of any object value.
+> The main difference between let and var is that let declares a block-scoped variable,
 
-> It is used to indicate an uninitialized or non-existent value.
+> while var declares a function-scoped variable.
 
-> It is often used to check for missing or null data.
+> Let variables are hoisted to the top of their scope,
 
-> Null is not the same as zero, which represents the value zero.
+> but not function-scoped variables.
+
+> This makes let more predictable and easier to reason about.
 
 <br>
 
