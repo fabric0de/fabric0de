@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
+### ❓ What is the main difference between 'console.log' and 'console.error' in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20251227
+🟡 **intermediate** • 🏷️ `javascript` `console` • 📅 20251227
 
 </div>
 
@@ -28,15 +28,9 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main difference between let and var is that let declares a block-scoped variable,
+> console.log is used to output information to the console.
 
-> while var declares a function-scoped variable.
-
-> Let variables are hoisted to the top of their scope,
-
-> but not function-scoped variables.
-
-> This makes let more predictable and easier to reason about.
+> console.error is used to output error messages to the console.
 
 <br>
 
