@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between 'console.log' and 'console.error' in JavaScript?
+### ❓ What is the primary function of the 'this' keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `console` • 📅 20251227
+🟡 **intermediate** • 🏷️ `javascript` `es6` `basics` • 📅 20251228
 
 </div>
 
@@ -28,9 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> console.log is used to output information to the console.
+> The 'this' keyword refers to the current object in a given context.
 
-> console.error is used to output error messages to the console.
+> It can also refer to the global object if no context is specified.
+
+> In ES6, 'this' can be explicitly bound using arrow functions.
+
+> However, 'this' can also have unexpected behavior in certain situations.
+
+> In constructors, 'this' refers to the new object being created.
+
+> It is often used in callbacks and event listeners to refer to the original context.
 
 <br>
 
