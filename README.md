@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the 'this' keyword in JavaScript?
+### ❓ What is the main purpose of the `null` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `es6` `basics` • 📅 20251228
+🟡 **intermediate** • 🏷️ `javascript` ` fundamentals` • 📅 20251228
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'this' keyword refers to the current object in a given context.
+> The null keyword represents the absence of any value in a variable.
 
-> It can also refer to the global object if no context is specified.
+> It is often used to indicate that a variable has no value.
 
-> In ES6, 'this' can be explicitly bound using arrow functions.
+> It can also be used to avoid null pointer exceptions.
 
-> However, 'this' can also have unexpected behavior in certain situations.
-
-> In constructors, 'this' refers to the new object being created.
-
-> It is often used in callbacks and event listeners to refer to the original context.
+> It is a primitive value in JavaScript.
 
 <br>
 
