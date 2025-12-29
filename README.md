@@ -11,17 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `async` keyword in JavaScript?
-It is used to declare a function that pauses the execution of the surrounding code.
-Until the function has finished its work.
-This allows other tasks to be performed.
-It is commonly used with callbacks and promises.
+### ❓ What is the purpose of the HTTP Status Code 404?
+It is used to indicate that a requested resource cannot be found.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251229
+🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20251229
 
 </div>
 
@@ -32,13 +29,13 @@ It is commonly used with callbacks and promises.
 
 <br>
 
-> The `async` keyword is used to declare a function that runs in parallel with other tasks.
+> The HTTP Status Code 404 is used to indicate that a requested resource cannot be found.
 
-> It does not block the execution of the surrounding code.
+> This status code is used by web servers to respond to requests for a non-existent resource.
 
-> Instead, it uses callbacks and promises to handle the result of the function.
+> It is an HTTP standard for indicating that the requested URL cannot be accessed.
 
-> This allows for non-blocking I/O operations.
+> Other HTTP status codes are used for different types of errors or responses.
 
 <br>
 
