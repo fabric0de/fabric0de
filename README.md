@@ -11,13 +11,17 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the `null` keyword in JavaScript?
+### ❓ What is the purpose of the `async` keyword in JavaScript?
+It is used to declare a function that pauses the execution of the surrounding code.
+Until the function has finished its work.
+This allows other tasks to be performed.
+It is commonly used with callbacks and promises.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` ` fundamentals` • 📅 20251228
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20251229
 
 </div>
 
@@ -28,13 +32,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null keyword represents the absence of any value in a variable.
+> The `async` keyword is used to declare a function that runs in parallel with other tasks.
 
-> It is often used to indicate that a variable has no value.
+> It does not block the execution of the surrounding code.
 
-> It can also be used to avoid null pointer exceptions.
+> Instead, it uses callbacks and promises to handle the result of the function.
 
-> It is a primitive value in JavaScript.
+> This allows for non-blocking I/O operations.
 
 <br>
 
