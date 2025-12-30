@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a new resource to the server for processing, such as creating or updating a resource?
+### ❓ What is the purpose of the HTTP 301 status code?
+It is used to permanently redirect a user from one URL to another.
+It indicates that the requested resource has been permanently moved to a new location.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20251230
+🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20251230
 
 </div>
 
@@ -28,15 +30,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST
+> The HTTP 301 status code is used to permanently redirect a user from one URL to another.
 
-> The HTTP method used to send a new resource to the server for processing,
+> This is indicated by the 'Moved Permanently' response phrase.
 
-> such as creating or updating a resource.
+> It is used to inform the user's browser that the requested resource has been permanently moved to a new location.
 
-> It is used when the action being requested is not a retrieval operation.
+> The browser will update its cache to reflect the new location.
 
-> HTTP methods are defined in RFC 7231.
+> This status code is typically used for permanent redirects.
+
+> It is not used for temporary redirects.
+
+> It can be used in conjunction with the 'Location' header to specify the URL of the new location.
 
 <br>
 
