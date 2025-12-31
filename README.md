@@ -11,15 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP 301 status code?
-It is used to permanently redirect a user from one URL to another.
-It indicates that the requested resource has been permanently moved to a new location.
+### ❓ What is the purpose of the CSS selector "#id"?
+It selects an HTML element by its ID.
+It selects all HTML elements with the specified ID.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20251230
+🟡 **intermediate** • 🏷️ `css selectors` `css fundamentals` • 📅 20251231
 
 </div>
 
@@ -30,19 +30,11 @@ It indicates that the requested resource has been permanently moved to a new loc
 
 <br>
 
-> The HTTP 301 status code is used to permanently redirect a user from one URL to another.
+> It selects an HTML element by its ID.
 
-> This is indicated by the 'Moved Permanently' response phrase.
+> It is used to target a specific HTML element in the CSS code.
 
-> It is used to inform the user's browser that the requested resource has been permanently moved to a new location.
-
-> The browser will update its cache to reflect the new location.
-
-> This status code is typically used for permanent redirects.
-
-> It is not used for temporary redirects.
-
-> It can be used in conjunction with the 'Location' header to specify the URL of the new location.
+> For example, #header selects the HTML element with the id 'header'.
 
 <br>
 
