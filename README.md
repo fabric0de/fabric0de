@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between synchronous and asynchronous code in Node.js?
+### ❓ What is the purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `async programming` • 📅 20260101
+🟡 **intermediate** • 🏷️ `nodejs` `module` `require` • 📅 20260101
 
 </div>
 
@@ -28,17 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> In synchronous code, a program executes one line at a time,
+> The require function is used to import modules in Node.js.
 
-> and waits for the result before moving to the next line.
+> It allows you to load modules and use their functions and variables.
 
-> In asynchronous code, a program executes multiple lines simultaneously,
+> This is necessary because Node.js is an interpreted language and does not have a pre-compiled version of every module.
 
-> and uses callbacks or promises to handle the result.
+> This makes it easy to extend the functionality of your application by adding new modules as needed.
 
-> This makes asynchronous code more efficient for I/O-bound tasks.
+> It also helps to avoid polluting the global namespace.
 
-> However, it requires more error handling and synchronization logic.
+> It is the primary way to import modules in Node.js.
 
 <br>
 
