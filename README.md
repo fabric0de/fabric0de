@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between 'float' and 'sticky' in CSS?
+### ❓ What is the main difference between synchronous and asynchronous code in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `positioning` • 📅 20251231
+🟡 **intermediate** • 🏷️ `nodejs` `async programming` • 📅 20260101
 
 </div>
 
@@ -28,19 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> In CSS, 'float' is used to remove an element from the normal document flow
+> In synchronous code, a program executes one line at a time,
 
-> It allows elements to float next to each other or to other elements.
+> and waits for the result before moving to the next line.
 
-> On the other hand, 'sticky' is used to make an element stick to a specific position within its parent element.
+> In asynchronous code, a program executes multiple lines simultaneously,
 
-> It keeps the element in the same position on the page even when the user scrolls.
+> and uses callbacks or promises to handle the result.
 
-> Sticky positioning is useful for creating scrolling pages or for maintaining layout stability.
+> This makes asynchronous code more efficient for I/O-bound tasks.
 
-> In summary, 'float' is about positioning an element relative to other elements,
-
-> while 'sticky' is about positioning an element relative to its parent element.
+> However, it requires more error handling and synchronization logic.
 
 <br>
 
