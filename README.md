@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `require` function in Node.js?
+### ❓ What is the difference between a function and a class in object-oriented programming?
+A class is used to define a blueprint for an object,
+while a function is a block of code that performs a specific task.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `module` `require` • 📅 20260101
+🟡 **intermediate** • 🏷️ `oop` `functions` `classes` • 📅 20260102
 
 </div>
 
@@ -28,17 +30,43 @@ This quiz is generated daily by AI
 
 <br>
 
-> The require function is used to import modules in Node.js.
+> A class is a template for creating objects,
 
-> It allows you to load modules and use their functions and variables.
+> which have properties and methods.
 
-> This is necessary because Node.js is an interpreted language and does not have a pre-compiled version of every module.
+> A function is a block of code that can be reused,
 
-> This makes it easy to extend the functionality of your application by adding new modules as needed.
+> to perform a specific task, without creating an object.
 
-> It also helps to avoid polluting the global namespace.
+> Functions can be passed as arguments to other functions,
 
-> It is the primary way to import modules in Node.js.
+> and can be used as event handlers.
+
+> Functions cannot be instantiated like classes can.
+
+> They are also not tied to a specific object.
+
+> They can be shared across the application.
+
+> They have their own scope and can be reused.
+
+> Functions can also be overridden in inheritance.
+
+> Functions are also useful for recursion and higher-order functions.
+
+> Functions can be anonymous.
+
+> They can be defined inside other functions.
+
+> They can also be defined outside of classes.
+
+> Functions are first-class citizens in many programming languages.
+
+> They can be stored in data structures like arrays and maps.
+
+> They can be passed as arguments to other functions.
+
+> They can be returned as values from functions.
 
 <br>
 
