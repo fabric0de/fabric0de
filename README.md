@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between a function and a class in object-oriented programming?
-A class is used to define a blueprint for an object,
-while a function is a block of code that performs a specific task.
+### ❓ What is the purpose of the null object in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `oop` `functions` `classes` • 📅 20260102
+🟡 **intermediate** • 🏷️ `object` `javascript` • 📅 20260102
 
 </div>
 
@@ -30,43 +28,15 @@ while a function is a block of code that performs a specific task.
 
 <br>
 
-> A class is a template for creating objects,
+> The null object is a special value in programming.
 
-> which have properties and methods.
+> It represents the absence of any object value.
 
-> A function is a block of code that can be reused,
+> It is often used to indicate that a variable has not been initialized.
 
-> to perform a specific task, without creating an object.
+> It can also be used to avoid null pointer exceptions.
 
-> Functions can be passed as arguments to other functions,
-
-> and can be used as event handlers.
-
-> Functions cannot be instantiated like classes can.
-
-> They are also not tied to a specific object.
-
-> They can be shared across the application.
-
-> They have their own scope and can be reused.
-
-> Functions can also be overridden in inheritance.
-
-> Functions are also useful for recursion and higher-order functions.
-
-> Functions can be anonymous.
-
-> They can be defined inside other functions.
-
-> They can also be defined outside of classes.
-
-> Functions are first-class citizens in many programming languages.
-
-> They can be stored in data structures like arrays and maps.
-
-> They can be passed as arguments to other functions.
-
-> They can be returned as values from functions.
+> In some cases, it can be used as a placeholder for a variable.
 
 <br>
 
