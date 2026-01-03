@@ -11,20 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `this` keyword in JavaScript?
-It refers to the current object in a specific scope.
-It can also refer to the global object in the global scope.
-It can be used to access properties or methods of the current object.
-In some cases, it can also refer to the object passed as an argument to a function.
-
-In JavaScript, what does `this` refer to when a function is called as a method of an object?
-
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `object-oriented programming` • 📅 20260103
+🟢 **beginner** • 🏷️ `javascript basics` `variables` • 📅 20260103
 
 </div>
 
@@ -35,7 +28,11 @@ In JavaScript, what does `this` refer to when a function is called as a method o
 
 <br>
 
-> The `this` keyword refers to the object that the method is called on.
+> null is a primitive value that represents the absence of any object value
+
+> undefined is a value that represents an uninitialized variable or a function that has not been called
+
+> In other words, null is a specific value, while undefined is a condition that occurs when a variable is not accessible or has not been declared.
 
 <br>
 
