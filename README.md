@@ -11,13 +11,20 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the null object in programming?
+### ❓ What is the purpose of the `this` keyword in JavaScript?
+It refers to the current object in a specific scope.
+It can also refer to the global object in the global scope.
+It can be used to access properties or methods of the current object.
+In some cases, it can also refer to the object passed as an argument to a function.
+
+In JavaScript, what does `this` refer to when a function is called as a method of an object?
+
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `object` `javascript` • 📅 20260102
+🟡 **intermediate** • 🏷️ `javascript` `object-oriented programming` • 📅 20260103
 
 </div>
 
@@ -28,15 +35,7 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null object is a special value in programming.
-
-> It represents the absence of any object value.
-
-> It is often used to indicate that a variable has not been initialized.
-
-> It can also be used to avoid null pointer exceptions.
-
-> In some cases, it can be used as a placeholder for a variable.
+> The `this` keyword refers to the object that the method is called on.
 
 <br>
 
