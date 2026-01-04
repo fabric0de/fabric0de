@@ -11,14 +11,18 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between '===' and '==' in JavaScript?
-'==' checks for value equality, while '===' checks for both value and type equality.
+### ❓ What is the main purpose of the `this` keyword in JavaScript?
+It refers to the current execution context.
+It can also refer to object properties.
+In some cases, it can refer to the global object.
+What is the most correct answer?
+
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript basics` • 📅 20260104
+🟡 **intermediate** • 🏷️ `javascript` `object-oriented programming` • 📅 20260104
 
 </div>
 
@@ -29,13 +33,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> '=='
+> The most correct answer is the second option: this can refer to object properties.
 
-> checks for value equality
+> While the first option is partially true, the third option is not always correct.
 
-> '==='
+> In strict mode, it refers to the global object.
 
-> checks for both value and type equality
+> The first option is not entirely accurate.
+
+> The second option is the most comprehensive explanation.
 
 <br>
 
