@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between null and undefined in JavaScript?
+### ❓ What is the main difference between '===' and '==' in JavaScript?
+'==' checks for value equality, while '===' checks for both value and type equality.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript basics` `variables` • 📅 20260103
+🟡 **intermediate** • 🏷️ `javascript basics` • 📅 20260104
 
 </div>
 
@@ -28,11 +29,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> null is a primitive value that represents the absence of any object value
+> '=='
 
-> undefined is a value that represents an uninitialized variable or a function that has not been called
+> checks for value equality
 
-> In other words, null is a specific value, while undefined is a condition that occurs when a variable is not accessible or has not been declared.
+> '==='
+
+> checks for both value and type equality
 
 <br>
 
