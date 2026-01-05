@@ -11,18 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the `this` keyword in JavaScript?
-It refers to the current execution context.
-It can also refer to object properties.
-In some cases, it can refer to the global object.
-What is the most correct answer?
-
+### ❓ What is the purpose of the HTTP Status Code 404?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `object-oriented programming` • 📅 20260104
+🟢 **beginner** • 🏷️ `http` `web` `statuscode` • 📅 20260105
 
 </div>
 
@@ -33,15 +28,17 @@ What is the most correct answer?
 
 <br>
 
-> The most correct answer is the second option: this can refer to object properties.
+> It is an error code used to indicate that a requested resource could not be found.
 
-> While the first option is partially true, the third option is not always correct.
+> It can be displayed to the user as a 404 Not Found page.
 
-> In strict mode, it refers to the global object.
+> The web server returns this code when a URL is accessed that does not exist.
 
-> The first option is not entirely accurate.
+> This code is used to provide a clear error message to the user.
 
-> The second option is the most comprehensive explanation.
+> It helps to improve the user experience.
+
+> It also helps the web developer to diagnose and fix the issue.
 
 <br>
 
