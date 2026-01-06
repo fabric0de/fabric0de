@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is HTTP Method "PUT" used for?
+### ❓ What is the HTTP method used for creating new resources on a server?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260106
+🟡 **intermediate** • 🏷️ `http` `rest` `api` • 📅 20260106
 
 </div>
 
@@ -28,13 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP PUT method is used to update existing resources on a server.
+> The HTTP method POST is used for creating new resources on a server.
 
-> It replaces the entire resource with the new version.
+> It is used to send data to the server to create or update a resource.
 
-> It is similar to the POST method but with the difference that the client must provide the entire resource in the request body.
-
-> Also, the server must support the "If-Match" header to prevent overwriting of unchanged resources.
+> This method is commonly used for forms submissions and API requests.
 
 <br>
 
