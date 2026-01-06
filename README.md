@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
+### ❓ What is HTTP Method "PUT" used for?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `web-development` • 📅 20260105
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260106
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> A HTTP status code indicating that the requested resource could not be found.
+> The HTTP PUT method is used to update existing resources on a server.
 
-> It is commonly used in web applications.
+> It replaces the entire resource with the new version.
 
-> It can be used to handle errors and provide a user-friendly experience.
+> It is similar to the POST method but with the difference that the client must provide the entire resource in the request body.
 
-> It can also be used to prevent unauthorized access to resources.
-
-> Example: https://example.com/404
+> Also, the server must support the "If-Match" header to prevent overwriting of unchanged resources.
 
 <br>
 
