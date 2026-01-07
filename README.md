@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `pseudo-classes` • 📅 20260107
+🟡 **intermediate** • 🏷️ `css` `pseudo-class` • 📅 20260107
 
 </div>
 
@@ -30,15 +30,9 @@ This quiz is generated daily by AI
 
 > The :hover pseudo-class is used to style an element when it is being hovered over.
 
-> It allows you to define different styles for an element when it is being pointed at with the mouse cursor.
+> It allows you to specify different styles for an element when it is being pointed at with the mouse.
 
-> This can be useful for creating interactive web pages.
-
-> For example, you can change the background color of a link when it is hovered over.
-
-> You can also change the color of text or add additional effects.
-
-> The :hover pseudo-class is often used in conjunction with other pseudo-classes such as :focus and :active.
+> This can be useful for creating hover effects on web pages.
 
 <br>
 
