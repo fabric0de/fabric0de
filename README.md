@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for creating new resources on a server?
+### ❓ What is the purpose of the `:hover` pseudo-class in CSS?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` `api` • 📅 20260106
+🟡 **intermediate** • 🏷️ `css` `pseudo-classes` • 📅 20260107
 
 </div>
 
@@ -28,11 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method POST is used for creating new resources on a server.
+> The :hover pseudo-class is used to style an element when it is being hovered over.
 
-> It is used to send data to the server to create or update a resource.
+> It allows you to define different styles for an element when it is being pointed at with the mouse cursor.
 
-> This method is commonly used for forms submissions and API requests.
+> This can be useful for creating interactive web pages.
+
+> For example, you can change the background color of a link when it is hovered over.
+
+> You can also change the color of text or add additional effects.
+
+> The :hover pseudo-class is often used in conjunction with other pseudo-classes such as :focus and :active.
 
 <br>
 
