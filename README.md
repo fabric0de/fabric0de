@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `:hover` pseudo-class in CSS?
+### ❓ What is the main difference between async and await in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `pseudo-class` • 📅 20260107
+🟢 **beginner** • 🏷️ `javascript` `async/await` • 📅 20260108
 
 </div>
 
@@ -28,11 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The :hover pseudo-class is used to style an element when it is being hovered over.
+> Async is a keyword that allows a function to pause its execution until a promise is resolved or rejected.
 
-> It allows you to specify different styles for an element when it is being pointed at with the mouse.
+> Await is a keyword that allows a function to wait for the resolution of a promise before continuing its execution.
 
-> This can be useful for creating hover effects on web pages.
+> It is often used with async/await syntax.
+
+> Await is not a keyword for async functions,
+
+> It is used to wait for the completion of an asynchronous operation.
+
+> It does not throw errors.
+
+> It can be used with promises and async/await syntax.
 
 <br>
 
