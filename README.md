@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between async and await in Node.js?
+### ❓ What is the primary purpose of the npm package manager in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `async/await` • 📅 20260108
+🟢 **beginner** • 🏷️ `npm` `nodejs` `dependencies` • 📅 20260108
 
 </div>
 
@@ -28,19 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> Async is a keyword that allows a function to pause its execution until a promise is resolved or rejected.
+> The primary purpose of npm is to manage dependencies for Node.js applications.
 
-> Await is a keyword that allows a function to wait for the resolution of a promise before continuing its execution.
+> It allows developers to easily install,
 
-> It is often used with async/await syntax.
+> update, and manage packages.
 
-> Await is not a keyword for async functions,
-
-> It is used to wait for the completion of an asynchronous operation.
-
-> It does not throw errors.
-
-> It can be used with promises and async/await syntax.
+> npm is widely used in the Node.js ecosystem.
 
 <br>
 
