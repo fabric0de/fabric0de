@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary purpose of the npm package manager in Node.js?
+### ❓ What is the purpose of the print() function in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `npm` `nodejs` `dependencies` • 📅 20260108
+🟢 **beginner** • 🏷️ `variables` `control structures` • 📅 20260109
 
 </div>
 
@@ -28,13 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The primary purpose of npm is to manage dependencies for Node.js applications.
+> The print() function is used to output text to the screen.
 
-> It allows developers to easily install,
+> It takes an argument that is the value to be displayed.
 
-> update, and manage packages.
-
-> npm is widely used in the Node.js ecosystem.
+> For example, print('Hello World!') will display 'Hello World!' on the screen.
 
 <br>
 
