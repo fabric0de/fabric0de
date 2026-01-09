@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the print() function in programming?
+### ❓ What is the purpose of the main function in a program?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `variables` `control structures` • 📅 20260109
+🟢 **beginner** • 🏷️ `programming fundamentals` • 📅 20260109
 
 </div>
 
@@ -28,11 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The print() function is used to output text to the screen.
+> The main function is the entry point of a program.
 
-> It takes an argument that is the value to be displayed.
+> It is where the program starts execution.
 
-> For example, print('Hello World!') will display 'Hello World!' on the screen.
+> It calls other functions to perform tasks.
+
+> The main function is where the program ends.
 
 <br>
 
