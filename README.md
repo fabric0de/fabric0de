@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between var and let in JavaScript?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `var` `let` • 📅 20260111
+🟡 **intermediate** • 🏷️ `javascript` `scoping` `variables` • 📅 20260111
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> var is function scoped
+> let is block-scoped,
 
-> while let is block scoped
+> var is function-scoped,
 
-> var can be accessed across multiple scopes
+> var is hoisted,
 
-> let is not accessible outside its block
-
-> var is hoisted
-
-> let is not hoisted
+> let is not.
 
 <br>
 
