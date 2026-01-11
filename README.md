@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and const in JavaScript?
+### ❓ What is the difference between var and let in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variable-declarations` • 📅 20260110
+🟢 **beginner** • 🏷️ `javascript` `var` `let` • 📅 20260111
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is used to declare variables that can be reassigned
+> var is function scoped
 
-> const is used to declare variables that cannot be reassigned
+> while let is block scoped
 
-> Both can be used to declare variables that are declared with block scope
+> var can be accessed across multiple scopes
 
-> However, const variables cannot be redeclared in the same scope.
+> let is not accessible outside its block
+
+> var is hoisted
+
+> let is not hoisted
 
 <br>
 
