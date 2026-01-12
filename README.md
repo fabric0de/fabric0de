@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
+### ❓ What is the difference between HTTP and HTTPS?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `scoping` `variables` • 📅 20260111
+🟢 **beginner** • 🏷️ `http` `https` `protocol` `security` `web` • 📅 20260112
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is block-scoped,
+> HTTP is a protocol for transferring data over the internet.
 
-> var is function-scoped,
+> It is not secure as data can be easily read by others.
 
-> var is hoisted,
+> HTTPS is an extension of HTTP that adds a secure socket layer.
 
-> let is not.
+> It encrypts data to ensure its confidentiality and integrity.
 
 <br>
 
