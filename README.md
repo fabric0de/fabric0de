@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between HTTP and HTTPS?
+### ❓ What is the purpose of the `async` keyword in JavaScript?
+It is used to mark a function as non-blocking.
+It allows the function to execute other code without waiting for the previous operation to complete.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `https` `protocol` `security` `web` • 📅 20260112
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20260112
 
 </div>
 
@@ -28,13 +30,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> HTTP is a protocol for transferring data over the internet.
+> The `async` keyword in JavaScript
 
-> It is not secure as data can be easily read by others.
+> allows a function to be paused and resumed at specific points,
 
-> HTTPS is an extension of HTTP that adds a secure socket layer.
+> allowing other code to run in the meantime.
 
-> It encrypts data to ensure its confidentiality and integrity.
+> This is useful for handling long-running operations or I/O operations.
+
+> It also enables the use of `await` to pause the function's execution until a promise is resolved.
+
+> This makes it easier to write asynchronous code that is easier to read and maintain.
 
 <br>
 
