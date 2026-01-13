@@ -11,15 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `async` keyword in JavaScript?
-It is used to mark a function as non-blocking.
-It allows the function to execute other code without waiting for the previous operation to complete.
+### ❓ What is the HTTP method used to send a request to the server to update or modify an existing resource?
+This method is also known as the "PATCH" method.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20260112
+🟡 **intermediate** • 🏷️ `http` `http-methods` `patch` • 📅 20260113
 
 </div>
 
@@ -30,17 +29,17 @@ It allows the function to execute other code without waiting for the previous op
 
 <br>
 
-> The `async` keyword in JavaScript
+> The HTTP method used to send a request to the server to update or modify an existing resource.
 
-> allows a function to be paused and resumed at specific points,
+> This method is also known as the "PATCH" method.
 
-> allowing other code to run in the meantime.
+> It is used when only part of the resource needs to be updated.
 
-> This is useful for handling long-running operations or I/O operations.
+> It is not used for creating a new resource.
 
-> It also enables the use of `await` to pause the function's execution until a promise is resolved.
+> It is not used for deleting a resource.
 
-> This makes it easier to write asynchronous code that is easier to read and maintain.
+> It returns a 200 OK status code if the update is successful.
 
 <br>
 
