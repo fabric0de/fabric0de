@@ -11,14 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a request to the server to update or modify an existing resource?
-This method is also known as the "PATCH" method.
+### ❓ What is the HTTP status code for a successful request?
+It is a three-digit number.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` `patch` • 📅 20260113
+🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260113
 
 </div>
 
@@ -29,17 +29,11 @@ This method is also known as the "PATCH" method.
 
 <br>
 
-> The HTTP method used to send a request to the server to update or modify an existing resource.
+> 200
 
-> This method is also known as the "PATCH" method.
+> The HTTP protocol uses these three-digit numbers to indicate different types of responses from the server.
 
-> It is used when only part of the resource needs to be updated.
-
-> It is not used for creating a new resource.
-
-> It is not used for deleting a resource.
-
-> It returns a 200 OK status code if the update is successful.
+> 200 is the most common status code for a successful request.
 
 <br>
 
