@@ -11,14 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS margin property?
-It is used to create space between elements.
+### ❓ What is the purpose of the CSS selector "#id"?
+Select the correct answer.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `layout` `positioning` • 📅 20260114
+🟡 **intermediate** • 🏷️ `css` `selectors` • 📅 20260114
 
 </div>
 
@@ -29,13 +29,13 @@ It is used to create space between elements.
 
 <br>
 
-> The margin property is used to create space
+> The CSS selector #id
 
-> around an element by adding space between the element's border and its neighboring elements.
+> selects an HTML element with the specified id.
 
-> It does not affect the element's position.
+> It is used for targeting specific elements
 
-> Margin is different from padding.
+> and styling them uniquely.
 
 <br>
 
