@@ -11,14 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful request?
-It is a three-digit number.
+### ❓ What is the purpose of the CSS margin property?
+It is used to create space between elements.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260113
+🟡 **intermediate** • 🏷️ `css` `layout` `positioning` • 📅 20260114
 
 </div>
 
@@ -29,11 +29,13 @@ It is a three-digit number.
 
 <br>
 
-> 200
+> The margin property is used to create space
 
-> The HTTP protocol uses these three-digit numbers to indicate different types of responses from the server.
+> around an element by adding space between the element's border and its neighboring elements.
 
-> 200 is the most common status code for a successful request.
+> It does not affect the element's position.
+
+> Margin is different from padding.
 
 <br>
 
