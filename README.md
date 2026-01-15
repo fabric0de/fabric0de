@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selector "#id"?
-Select the correct answer.
+### ❓ What is the primary function of the `process` object in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `selectors` • 📅 20260114
+🟡 **intermediate** • 🏷️ `nodejs` `process object` `javascript` • 📅 20260115
 
 </div>
 
@@ -29,13 +28,13 @@ Select the correct answer.
 
 <br>
 
-> The CSS selector #id
+> The process object is the most direct
 
-> selects an HTML element with the specified id.
+> way to access process information and perform tasks.
 
-> It is used for targeting specific elements
+> It provides methods for working with the file system, networking, and more.
 
-> and styling them uniquely.
+> It is an essential part of the Node.js API.
 
 <br>
 
