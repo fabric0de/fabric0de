@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the `process` object in Node.js?
+### ❓ What is the purpose of the `console.log()` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `process object` `javascript` • 📅 20260115
+🟢 **beginner** • 🏷️ `nodejs` `javascript` `console` • 📅 20260115
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The process object is the most direct
+> The console.log() function displays output to the console.
 
-> way to access process information and perform tasks.
+> It is used to print values to the screen.
 
-> It provides methods for working with the file system, networking, and more.
+> It can also be used to debug code.
 
-> It is an essential part of the Node.js API.
+> For example: console.log("Hello, World!");
 
 <br>
 
