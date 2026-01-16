@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `console.log()` function in Node.js?
+### ❓ What is the purpose of the `null` keyword in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` `console` • 📅 20260115
+🟢 **beginner** • 🏷️ `javascript` `programming fundamentals` • 📅 20260116
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The console.log() function displays output to the console.
+> The null keyword is used to represent the absence of any value.
 
-> It is used to print values to the screen.
+> It is often used to indicate that a variable has not been initialized.
 
-> It can also be used to debug code.
+> It can also be used to avoid `undefined` errors.
 
-> For example: console.log("Hello, World!");
+> For example, if a function expects a parameter but none is provided, you can pass `null` to avoid an error.
 
 <br>
 
