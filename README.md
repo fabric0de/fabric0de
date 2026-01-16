@@ -11,13 +11,18 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `null` keyword in programming?
+### ❓ What is a variable in programming?
+A variable is a container that stores a value.
+It can hold different data types such as numbers, strings, or booleans.
+Variables can be thought of as labelled containers.
+They can be reassigned a new value later.
+This allows for more flexibility in coding.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `programming fundamentals` • 📅 20260116
+🟢 **beginner** • 🏷️ `variables` • 📅 20260116
 
 </div>
 
@@ -28,13 +33,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null keyword is used to represent the absence of any value.
+> A variable is a container that stores a value.
 
-> It is often used to indicate that a variable has not been initialized.
+> It can hold different data types such as numbers, strings, or booleans.
 
-> It can also be used to avoid `undefined` errors.
+> Variables can be thought of as labelled containers.
 
-> For example, if a function expects a parameter but none is provided, you can pass `null` to avoid an error.
+> They can be reassigned a new value later.
+
+> This allows for more flexibility in coding.
 
 <br>
 
