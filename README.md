@@ -11,18 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is a variable in programming?
-A variable is a container that stores a value.
-It can hold different data types such as numbers, strings, or booleans.
-Variables can be thought of as labelled containers.
-They can be reassigned a new value later.
-This allows for more flexibility in coding.
+### ❓ What is the purpose of the `null` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `variables` • 📅 20260116
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260117
 
 </div>
 
@@ -33,15 +28,11 @@ This allows for more flexibility in coding.
 
 <br>
 
-> A variable is a container that stores a value.
+> The `null` keyword in JavaScript is used to represent the absence of any object value.
 
-> It can hold different data types such as numbers, strings, or booleans.
+> It is often used to indicate that a variable has never been assigned a value.
 
-> Variables can be thought of as labelled containers.
-
-> They can be reassigned a new value later.
-
-> This allows for more flexibility in coding.
+> It is not the same as `undefined`, which is a variable that has been declared but has no value assigned to it.
 
 <br>
 
