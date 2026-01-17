@@ -11,7 +11,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `null` keyword in JavaScript?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
@@ -28,11 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `null` keyword in JavaScript is used to represent the absence of any object value.
+> null is a value that represents the absence of any object value
 
-> It is often used to indicate that a variable has never been assigned a value.
+> undefined is a value that represents an uninitialized variable
 
-> It is not the same as `undefined`, which is a variable that has been declared but has no value assigned to it.
+> In JavaScript, you can assign null to a variable
+
+> You cannot assign undefined to a variable
 
 <br>
 
