@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between null and undefined in JavaScript?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `programming basics` • 📅 20260118
+🟡 **intermediate** • 🏷️ `javascript basics` `variables` • 📅 20260118
 
 </div>
 
@@ -28,15 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> Null and undefined are both used to represent the absence of any object value.
+> Let is a declaration that lets you reassign a value.
 
-> However, null is a primitive value, whereas undefined is a variable that has not been declared or assigned a value.
+> Var is hoisting, but it can be reassigned.
 
-> Null is often used to represent a deliberate absence of a value, whereas undefined is used to indicate an uninitialized variable.
+> The scope of let is block-level, while var is function-scoped.
 
-> In other words, if you try to access a property of null, JavaScript will throw an error.
+> This is an important difference in modern JavaScript.
 
-> But if you try to access a property of undefined, it will return undefined.
+> Understanding the difference can help you write more flexible and maintainable code.
+
+> Choose the correct answer.
 
 <br>
 
