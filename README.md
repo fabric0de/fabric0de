@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260117
+🟡 **intermediate** • 🏷️ `javascript` `programming basics` • 📅 20260118
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> null is a value that represents the absence of any object value
+> Null and undefined are both used to represent the absence of any object value.
 
-> undefined is a value that represents an uninitialized variable
+> However, null is a primitive value, whereas undefined is a variable that has not been declared or assigned a value.
 
-> In JavaScript, you can assign null to a variable
+> Null is often used to represent a deliberate absence of a value, whereas undefined is used to indicate an uninitialized variable.
 
-> You cannot assign undefined to a variable
+> In other words, if you try to access a property of null, JavaScript will throw an error.
+
+> But if you try to access a property of undefined, it will return undefined.
 
 <br>
 
