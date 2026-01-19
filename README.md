@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful HTTP request?
+### ❓ What is the purpose of the `src` attribute in an HTML tag?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `web-development` • 📅 20260119
+🟡 **intermediate** • 🏷️ `html` `web-development` • 📅 20260119
 
 </div>
 
@@ -28,15 +28,9 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP status code for a successful HTTP request is 200.
+> The src attribute specifies the source of an external resource such as an image, script, or style sheet.
 
-> This indicates that the request was successfully received and processed.
-
-> The client should display the requested page to the user.
-
-> The server has successfully completed the request and the response is ready for the client to receive.
-
-> This status code is commonly used in web development.
+> It is used to link to an external file that provides additional content to the current web page.
 
 <br>
 
