@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
+### ❓ What is the HTTP status code for a successful HTTP request?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript basics` `variables` • 📅 20260118
+🟢 **beginner** • 🏷️ `http` `web-development` • 📅 20260119
 
 </div>
 
@@ -28,17 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> Let is a declaration that lets you reassign a value.
+> The HTTP status code for a successful HTTP request is 200.
 
-> Var is hoisting, but it can be reassigned.
+> This indicates that the request was successfully received and processed.
 
-> The scope of let is block-level, while var is function-scoped.
+> The client should display the requested page to the user.
 
-> This is an important difference in modern JavaScript.
+> The server has successfully completed the request and the response is ready for the client to receive.
 
-> Understanding the difference can help you write more flexible and maintainable code.
-
-> Choose the correct answer.
+> This status code is commonly used in web development.
 
 <br>
 
