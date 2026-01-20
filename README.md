@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `src` attribute in an HTML tag?
+### ❓ What is the HTTP method used for creating new resources on a server?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `html` `web-development` • 📅 20260119
+🟡 **intermediate** • 🏷️ `http` `server-side programming` • 📅 20260120
 
 </div>
 
@@ -28,9 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The src attribute specifies the source of an external resource such as an image, script, or style sheet.
+> POST is the HTTP method used for creating new resources on a server.
 
-> It is used to link to an external file that provides additional content to the current web page.
+> It is used to send data to the server to create a new resource.
+
+> This method is often used for forms submissions.
+
+> It can also be used for other scenarios where a new resource needs to be created.
+
+> Other HTTP methods such as PUT and PATCH can also be used for this purpose.
 
 <br>
 
