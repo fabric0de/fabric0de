@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for creating new resources on a server?
+### ❓ What is HTTP Status Code 404?
+It is a code used to indicate that a requested resource cannot be found.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `server-side programming` • 📅 20260120
+🟡 **intermediate** • 🏷️ `http` `status codes` • 📅 20260120
 
 </div>
 
@@ -28,15 +29,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST is the HTTP method used for creating new resources on a server.
+> HTTP Status Code 404 is a client error code.
 
-> It is used to send data to the server to create a new resource.
+> It is used to indicate that a requested resource cannot be found on the server.
 
-> This method is often used for forms submissions.
+> This can happen due to a variety of reasons.
 
-> It can also be used for other scenarios where a new resource needs to be created.
-
-> Other HTTP methods such as PUT and PATCH can also be used for this purpose.
+> The client should try again with the correct URL.
 
 <br>
 
