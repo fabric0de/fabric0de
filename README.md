@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS selector "#id" match?
-A selector that targets a specific HTML element by its ID.
-It is used to style or manipulate an element with a unique ID.
+### ❓ What is the purpose of the CSS reset file in a web project?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `css selectors` • 📅 20260121
+🟡 **intermediate** • 🏷️ `css` `webdevelopment` ` styling` • 📅 20260121
 
 </div>
 
@@ -30,13 +28,17 @@ It is used to style or manipulate an element with a unique ID.
 
 <br>
 
-> A selector that targets a specific HTML element by its ID.
+> A CSS reset file is used to remove default browser styles
 
-> It is used to style or manipulate an element with a unique ID.
+> and create a clean slate for your own styles.
 
-> For example, #header can be used to target the <header> element.
+> This helps ensure consistency across different browsers and versions.
 
-> This is useful for creating a consistent visual style across a website.
+> It also helps reduce the amount of CSS code you need to write.
+
+> By removing default styles, you can focus on writing your own unique styles.
+
+> This can improve page loading times and overall user experience.
 
 <br>
 
