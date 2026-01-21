@@ -11,14 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is HTTP Status Code 404?
-It is a code used to indicate that a requested resource cannot be found.
+### ❓ What does the CSS selector "#id" match?
+A selector that targets a specific HTML element by its ID.
+It is used to style or manipulate an element with a unique ID.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `status codes` • 📅 20260120
+🟢 **beginner** • 🏷️ `css selectors` • 📅 20260121
 
 </div>
 
@@ -29,13 +30,13 @@ It is a code used to indicate that a requested resource cannot be found.
 
 <br>
 
-> HTTP Status Code 404 is a client error code.
+> A selector that targets a specific HTML element by its ID.
 
-> It is used to indicate that a requested resource cannot be found on the server.
+> It is used to style or manipulate an element with a unique ID.
 
-> This can happen due to a variety of reasons.
+> For example, #header can be used to target the <header> element.
 
-> The client should try again with the correct URL.
+> This is useful for creating a consistent visual style across a website.
 
 <br>
 
