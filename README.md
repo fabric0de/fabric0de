@@ -11,13 +11,18 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset file in a web project?
+### ❓ What does the .env file in a Node.js project typically contain?
+It stores sensitive data such as database credentials and API keys.
+It is often used to keep credentials separate from the code.
+It is not a required file in a Node.js project.
+What is the primary purpose of the .env file in a Node.js project?
+
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `webdevelopment` ` styling` • 📅 20260121
+🟡 **intermediate** • 🏷️ `nodejs` `environmentvariables` `config` • 📅 20260122
 
 </div>
 
@@ -28,17 +33,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> A CSS reset file is used to remove default browser styles
+> It stores sensitive data such as database credentials and API keys.
 
-> and create a clean slate for your own styles.
+> It is often used to keep credentials separate from the code.
 
-> This helps ensure consistency across different browsers and versions.
+> It is not a required file in a Node.js project.
 
-> It also helps reduce the amount of CSS code you need to write.
+> The primary purpose of the .env file is to store environment variables.
 
-> By removing default styles, you can focus on writing your own unique styles.
-
-> This can improve page loading times and overall user experience.
+> This allows developers to keep sensitive information out of their codebase.
 
 <br>
 
