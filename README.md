@@ -11,18 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the .env file in a Node.js project typically contain?
-It stores sensitive data such as database credentials and API keys.
-It is often used to keep credentials separate from the code.
-It is not a required file in a Node.js project.
-What is the primary purpose of the .env file in a Node.js project?
-
+### ❓ What is the main difference between async and await in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `environmentvariables` `config` • 📅 20260122
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20260122
 
 </div>
 
@@ -33,15 +28,31 @@ What is the primary purpose of the .env file in a Node.js project?
 
 <br>
 
-> It stores sensitive data such as database credentials and API keys.
+> async/await allows for non-blocking I/O operations,
 
-> It is often used to keep credentials separate from the code.
+> by suspending the execution of the function until the operation is complete.
 
-> It is not a required file in a Node.js project.
+> This makes the code easier to read and maintain.
 
-> The primary purpose of the .env file is to store environment variables.
+> Example:
 
-> This allows developers to keep sensitive information out of their codebase.
+> async function example() {
+
+> console.log('Starting');
+
+> await new Promise(resolve => setTimeout(resolve, 2000));
+
+> console.log('Finished');
+
+> }
+
+> In contrast, callbacks would require a callback function to be passed to the I/O operation,
+
+> which can make the code harder to read and maintain.
+
+> In summary, async/await is a more modern and efficient way to manage I/O operations in JavaScript.
+
+> It allows for easier error handling and better code organization.
 
 <br>
 
