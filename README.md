@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between async and await in JavaScript?
+### ❓ What is the purpose of the main function in a program?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20260122
+🟡 **intermediate** • 🏷️ `programming fundamentals` `function basics` • 📅 20260123
 
 </div>
 
@@ -28,31 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> async/await allows for non-blocking I/O operations,
+> The main function is the entry point of a program.
 
-> by suspending the execution of the function until the operation is complete.
+> It contains the starting point for the program's execution.
 
-> This makes the code easier to read and maintain.
+> It calls other functions to perform tasks.
 
-> Example:
+> It handles user input and output.
 
-> async function example() {
-
-> console.log('Starting');
-
-> await new Promise(resolve => setTimeout(resolve, 2000));
-
-> console.log('Finished');
-
-> }
-
-> In contrast, callbacks would require a callback function to be passed to the I/O operation,
-
-> which can make the code harder to read and maintain.
-
-> In summary, async/await is a more modern and efficient way to manage I/O operations in JavaScript.
-
-> It allows for easier error handling and better code organization.
+> It controls the flow of the program.
 
 <br>
 
