@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a program?
+### ❓ What is the main purpose of the null pointer exception in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `programming fundamentals` `function basics` • 📅 20260123
+🟡 **intermediate** • 🏷️ `java` `programming` `error-handling` • 📅 20260123
 
 </div>
 
@@ -28,15 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a program.
+> A null pointer exception occurs when a program attempts to access or manipulate a memory location that has been set to null.
 
-> It contains the starting point for the program's execution.
+> This can lead to a runtime error and program termination.
 
-> It calls other functions to perform tasks.
-
-> It handles user input and output.
-
-> It controls the flow of the program.
+> It is often used to indicate that a variable has not been initialized or has been assigned a null value.
 
 <br>
 
