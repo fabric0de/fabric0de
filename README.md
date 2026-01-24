@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the null pointer exception in programming?
+### ❓ What is the purpose of the `null` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `java` `programming` `error-handling` • 📅 20260123
+🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` • 📅 20260124
 
 </div>
 
@@ -28,11 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> A null pointer exception occurs when a program attempts to access or manipulate a memory location that has been set to null.
+> The null keyword in JavaScript is used to represent the absence of any object value.
 
-> This can lead to a runtime error and program termination.
+> It is often used to indicate that a variable has been intentionally set to no value.
 
-> It is often used to indicate that a variable has not been initialized or has been assigned a null value.
+> This can help prevent null pointer exceptions.
+
+> It can also be used to make code more readable and easier to understand.
 
 <br>
 
