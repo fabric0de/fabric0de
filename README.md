@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between var, let, and const in JavaScript?
+### ❓ What is the purpose of the `console.log()` function in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260125
+🟢 **beginner** • 🏷️ `javascript` `debugging` • 📅 20260125
 
 </div>
 
@@ -28,17 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> var is hoisted, but its value is not.
+> The console.log() function is used to output values to the browser's developer console.
 
-> let and const are function scoped, not hoisted.
+> It is often used for debugging purposes.
 
-> let and const have block scope, var does not.
+> For example:
 
-> var can be reassigned, let and const cannot.
+> console.log('Hello, World!');
 
-> let and const are more secure than var.
-
-> var is generally considered outdated.
+> This will output 'Hello, World!' in the browser's developer console.
 
 <br>
 
