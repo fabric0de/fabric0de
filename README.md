@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `null` keyword in JavaScript?
+### ❓ What is the main difference between var, let, and const in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` • 📅 20260124
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260125
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null keyword in JavaScript is used to represent the absence of any object value.
+> var is hoisted, but its value is not.
 
-> It is often used to indicate that a variable has been intentionally set to no value.
+> let and const are function scoped, not hoisted.
 
-> This can help prevent null pointer exceptions.
+> let and const have block scope, var does not.
 
-> It can also be used to make code more readable and easier to understand.
+> var can be reassigned, let and const cannot.
+
+> let and const are more secure than var.
+
+> var is generally considered outdated.
 
 <br>
 
