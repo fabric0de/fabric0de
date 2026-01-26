@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
-It represents a resource not found.
-It can be used for caching and error handling.
+### ❓ What is the HTTP method used for sending data to a server to create a new resource?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `http-status-codes` • 📅 20260126
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260126
 
 </div>
 
@@ -30,11 +28,9 @@ It can be used for caching and error handling.
 
 <br>
 
-> The HTTP status code 404 is used to indicate that a requested resource could not be found.
+> POST
 
-> This can be the case when a URL is misspelled or a resource is deleted.
-
-> It can also be used for caching and error handling purposes.
+> It is used to send data in the request body to create a new resource on the server.
 
 <br>
 
