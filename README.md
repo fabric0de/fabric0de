@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `console.log()` function in JavaScript?
+### ❓ What is the purpose of the HTTP status code 404?
+It represents a resource not found.
+It can be used for caching and error handling.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `debugging` • 📅 20260125
+🟢 **beginner** • 🏷️ `http` `http-status-codes` • 📅 20260126
 
 </div>
 
@@ -28,15 +30,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The console.log() function is used to output values to the browser's developer console.
+> The HTTP status code 404 is used to indicate that a requested resource could not be found.
 
-> It is often used for debugging purposes.
+> This can be the case when a URL is misspelled or a resource is deleted.
 
-> For example:
-
-> console.log('Hello, World!');
-
-> This will output 'Hello, World!' in the browser's developer console.
+> It can also be used for caching and error handling purposes.
 
 <br>
 
