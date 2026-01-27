@@ -11,13 +11,16 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for sending data to a server to create a new resource?
+### ❓ What is the difference between HTTP and HTTPS?
+HTTP is a protocol for transferring data over the internet.
+It does not encrypt the data.
+HTTPS uses a secure connection, but HTTPS is not mandatory for all websites.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260126
+🟢 **beginner** • 🏷️ `http` `https` `security` • 📅 20260127
 
 </div>
 
@@ -28,9 +31,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST
+> HTTPS is like HTTP, but with a secure connection.
 
-> It is used to send data in the request body to create a new resource on the server.
+> It encrypts the data in transit.
+
+> This makes it more secure for sensitive information.
+
+> For example, logging in to a bank website.
+
+> HTTPS is mandatory for online banking and other sensitive transactions.
 
 <br>
 
