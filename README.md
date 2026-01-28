@@ -11,14 +11,16 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selector "#id"?
-It is used to select an element by its ID.
+### ❓ What is the purpose of the CSS reset file, and where is it typically located in a web project?
+
+It is used to reset the default styles applied by the browser.
+It is typically located in the root directory of a web project.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `selectors` • 📅 20260128
+🟡 **intermediate** • 🏷️ `css` `web-development` • 📅 20260128
 
 </div>
 
@@ -29,15 +31,17 @@ It is used to select an element by its ID.
 
 <br>
 
-> The CSS selector #id
+> The CSS reset file is used to reset the default styles applied by the browser
 
-> selects an HTML element
+> and is typically located in the root directory of a web project, usually named 'stylesheet.css' or 'reset.css'.
 
-> with the specified ID.
+> It is often included at the top of a website's stylesheet to ensure consistency across all pages.
 
-> This is useful for targeting specific elements
+> This file can be used to standardize the layout and styling of a website.
 
-> in a document.
+> It can also be used to remove default browser styles.
+
+> It is not the same as a custom stylesheet.
 
 <br>
 
