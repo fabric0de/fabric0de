@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a new resource to the server for processing?
+### ❓ What is the purpose of the CSS selector "#id"?
+It is used to select an element by its ID.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http methods` `post` • 📅 20260127
+🟡 **intermediate** • 🏷️ `css` `selectors` • 📅 20260128
 
 </div>
 
@@ -28,11 +29,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP POST method is used to send a new resource to the server for processing.
+> The CSS selector #id
 
-> It is typically used with forms, and it sends data in the request body.
+> selects an HTML element
 
-> This method can also be used with other data formats, such as JSON or XML.
+> with the specified ID.
+
+> This is useful for targeting specific elements
+
+> in a document.
 
 <br>
 
