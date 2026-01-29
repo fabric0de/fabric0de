@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the 'require' function in Node.js?
+### ❓ What is the primary function of the `express` framework in a Node.js application?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `javascript` • 📅 20260129
+🟡 **intermediate** • 🏷️ `express` `nodejs` `javascript` • 📅 20260129
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The require function is used to import modules and make their functionality available in the current scope.
+> The primary function of the express framework in a Node.js application is to provide a flexible and modular way to handle incoming HTTP requests.
 
-> It is also known as the 'import' function in modern JavaScript.
+> It is a popular choice for building web applications.
 
-> In Node.js, require is used to import built-in modules and third-party modules.
+> It allows developers to define routes and handle requests using a variety of middleware.
 
-> It is an object that returns the exported value of the imported module.
-
-> The require function can be used with synchronous or asynchronous modules.
+> It also provides a rich ecosystem of third-party packages and tools.
 
 <br>
 
