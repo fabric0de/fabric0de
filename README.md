@@ -11,16 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset file, and where is it typically located in a web project?
-
-It is used to reset the default styles applied by the browser.
-It is typically located in the root directory of a web project.
+### ❓ What is the main purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `web-development` • 📅 20260128
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` • 📅 20260129
 
 </div>
 
@@ -31,17 +28,15 @@ It is typically located in the root directory of a web project.
 
 <br>
 
-> The CSS reset file is used to reset the default styles applied by the browser
+> The require function is used to import modules and make their functionality available in the current scope.
 
-> and is typically located in the root directory of a web project, usually named 'stylesheet.css' or 'reset.css'.
+> It is also known as the 'import' function in modern JavaScript.
 
-> It is often included at the top of a website's stylesheet to ensure consistency across all pages.
+> In Node.js, require is used to import built-in modules and third-party modules.
 
-> This file can be used to standardize the layout and styling of a website.
+> It is an object that returns the exported value of the imported module.
 
-> It can also be used to remove default browser styles.
-
-> It is not the same as a custom stylesheet.
+> The require function can be used with synchronous or asynchronous modules.
 
 <br>
 
