@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the `express` framework in a Node.js application?
+### ❓ What is the purpose of a main function in a C program?
+It is the entry point of the program.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `express` `nodejs` `javascript` • 📅 20260129
+🟡 **intermediate** • 🏷️ `c programming` `entry point` • 📅 20260130
 
 </div>
 
@@ -28,13 +29,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The primary function of the express framework in a Node.js application is to provide a flexible and modular way to handle incoming HTTP requests.
+> In C programming,
 
-> It is a popular choice for building web applications.
+> the main function is where the control starts execution.
 
-> It allows developers to define routes and handle requests using a variety of middleware.
-
-> It also provides a rich ecosystem of third-party packages and tools.
+> When the program ends, the main function is called.
 
 <br>
 
