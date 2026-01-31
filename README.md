@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a C program?
+### ❓ What is the purpose of the `this` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `c` `programming fundamentals` • 📅 20260130
+🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` • 📅 20260131
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a C program.
+> The
 
-> It is where the program starts execution.
+> `this` keyword refers to the current object or context.
 
-> The main function returns an integer value to the operating system.
+> In an object literal, `this` refers to the object being created.
 
-> This value indicates the program's exit status.
-
-> A non-zero value indicates an error.
-
-> A zero value indicates successful execution.
+> For example: `var obj = { foo: 'bar' }; console.log(this == obj); // true`
 
 <br>
 
