@@ -12,17 +12,12 @@ This quiz is generated daily by AI
 <div align="center">
 
 ### ❓ What is the purpose of the `this` keyword in JavaScript?
-It refers to the current object in a function.
-It can also refer to the global object in a function that is called without the `new` keyword.
-It can be used to access the properties of the global object.
-What is the correct use of the `this` keyword?
-
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `functions` • 📅 20260131
+🟡 **intermediate** • 🏷️ `javascript` `functions` `context` • 📅 20260201
 
 </div>
 
@@ -33,17 +28,15 @@ What is the correct use of the `this` keyword?
 
 <br>
 
-> The correct use of the this keyword is to refer to the current object in a function.
+> The this keyword in JavaScript refers to the context in which a function is called.
 
-> This can be done using the `arguments.callee` property or by binding the `this` keyword to an object.
+> It can be the global object, a local object, or an object passed as an argument to a function.
 
-> For example:
+> It can also be set using the bind(), call(), or apply() methods.
 
-> this.name = 'John';
+> In arrow functions, the this keyword does not refer to the global object.
 
-> console.log(this.name);
-
-> // outputs 'John'
+> In inheritance, the this keyword refers to the prototype chain.
 
 <br>
 
