@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
+### ❓ What is the HTTP method used for creating new resources on a server?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `http status codes` • 📅 20260202
+🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260202
 
 </div>
 
@@ -28,11 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> It is used to indicate that a requested resource could not be found.
+> POST
 
-> It is commonly displayed when a user tries to access a non-existent webpage.
+> This HTTP method is used to create new resources on a server.
 
-> It can also be used to handle cache invalidation and URL redirection.
+> It is the opposite of the GET method which is used to retrieve resources.
 
 <br>
 
