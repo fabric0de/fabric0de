@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?$var is function-scoped,
-while $let is block-scoped.
+### ❓ What is the purpose of the HTTP status code 404?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` `scoping` • 📅 20260201
+🟢 **beginner** • 🏷️ `http` `http status codes` • 📅 20260202
 
 </div>
 
@@ -29,77 +28,11 @@ while $let is block-scoped.
 
 <br>
 
-> To determine the scope of a variable,
+> It is used to indicate that a requested resource could not be found.
 
-> you must look at its declared location,
+> It is commonly displayed when a user tries to access a non-existent webpage.
 
-> not its declared keyword.
-
-> This is important for managing
-
-> variable hoisting and variable
-
-> shadowing in JavaScript.
-
-> Note that let and const are block-scoped,
-
-> meaning they only exist within
-
-> the block they are declared in.
-
-> This is in contrast to var,
-
-> which is function-scoped.
-
-> For example:
-
-> var x = 10;
-
-> if (true) {
-
-> let y = 20;
-
-> }
-
-> console.log(x);
-
-> console.log(y);
-
-> // Output: x = 10,
-
-> //         y = 20
-
-> let x = 10;
-
-> if (true) {
-
-> let y = 20;
-
-> }
-
-> console.log(x);
-
-> console.log(y);
-
-> // Output: x = 10,
-
-> //         ReferenceError: y is not defined
-
-> const x = 10;
-
-> if (true) {
-
-> const y = 20;
-
-> }
-
-> console.log(x);
-
-> console.log(y);
-
-> // Output: x = 10,
-
-> //         y is defined and has value 20
+> It can also be used to handle cache invalidation and URL redirection.
 
 <br>
 
