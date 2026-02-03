@@ -11,14 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a request to the server to delete a resource?
-It is an idempotent request.
+### ❓ What is the HTTP status code for a successful request?
+It indicates that the request was successfully received and will be processed.
+It is a three-digit number.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260203
+🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260203
 
 </div>
 
@@ -29,13 +30,13 @@ It is an idempotent request.
 
 <br>
 
-> DELETE
+> 200
 
-> This method is used to delete a resource from the server.
+> This is a brief description
 
-> It is idempotent, meaning multiple requests have the same effect as one.
+> It is commonly used in web development.
 
-> It returns a 204 No Content status code.
+> It is understood by most web servers.
 
 <br>
 
