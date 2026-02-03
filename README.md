@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for creating new resources on a server?
+### ❓ What is the HTTP method used to send a request to the server to delete a resource?
+It is an idempotent request.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260202
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260203
 
 </div>
 
@@ -28,11 +29,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST
+> DELETE
 
-> This HTTP method is used to create new resources on a server.
+> This method is used to delete a resource from the server.
 
-> It is the opposite of the GET method which is used to retrieve resources.
+> It is idempotent, meaning multiple requests have the same effect as one.
+
+> It returns a 204 No Content status code.
 
 <br>
 
