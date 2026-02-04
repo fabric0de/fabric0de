@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful request?
-It indicates that the request was successfully received and will be processed.
-It is a three-digit number.
+### ❓ What is the purpose of the CSS box model?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260203
+🟡 **intermediate** • 🏷️ `css` `web-development` `layout` `design` • 📅 20260204
 
 </div>
 
@@ -30,13 +28,15 @@ It is a three-digit number.
 
 <br>
 
-> 200
+> The CSS box model is a layout model used to define the structure of an element on a web page.
 
-> This is a brief description
+> It consists of the margin, border, padding, content, and margin, in that order.
 
-> It is commonly used in web development.
+> This model helps developers ensure consistent and predictable layouts.
 
-> It is understood by most web servers.
+> It also allows for flexible styling and layout options.
+
+> The box model is essential for creating responsive and visually appealing web designs.
 
 <br>
 
