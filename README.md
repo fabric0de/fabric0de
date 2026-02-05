@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary purpose of the CSS reset?
-It is used to
-reset browser default styles.
+### ❓ What is the primary function of the `process` object in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `reset` `styling` • 📅 20260204
+🟡 **intermediate** • 🏷️ `nodejs` `process object` `javascript` • 📅 20260205
 
 </div>
 
@@ -30,15 +28,15 @@ reset browser default styles.
 
 <br>
 
-> The primary purpose of the CSS reset is to
+> The `process` object is used to retrieve information about the current Node.js instance.
 
-> reset browser default styles so that all elements have a consistent base style.
+> It provides access to system-specific variables such as the current Working Directory and the current working directory.
 
-> This allows developers to focus on adding their own styles without being overwhelmed by
+> It also provides functions to perform operations such as exiting the process and spawning child processes.
 
-> browser-specific styles.
+> Additionally, it provides information about the memory usage of the process.
 
-> It can be used to reset all CSS properties or just specific ones.
+> The `process` object is an integral part of the Node.js API and is used extensively in Node.js applications.
 
 <br>
 
