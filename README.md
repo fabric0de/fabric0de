@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the `process` object in Node.js?
+### ❓ What is the purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `process object` `javascript` • 📅 20260205
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` • 📅 20260205
 
 </div>
 
@@ -28,15 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `process` object is used to retrieve information about the current Node.js instance.
+> The `require` function is used to import modules in Node.js.
 
-> It provides access to system-specific variables such as the current Working Directory and the current working directory.
+> It allows you to use the functionality of other JavaScript files in your program.
 
-> It also provides functions to perform operations such as exiting the process and spawning child processes.
-
-> Additionally, it provides information about the memory usage of the process.
-
-> The `process` object is an integral part of the Node.js API and is used extensively in Node.js applications.
+> For example, you can use it to import the `console` module by typing `const console = require('console');"
 
 <br>
 
