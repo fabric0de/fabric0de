@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `require` function in Node.js?
+### ❓ What is the purpose of the main function in a program?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `javascript` • 📅 20260205
+🟢 **beginner** • 🏷️ `functions` `programming fundamentals` • 📅 20260206
 
 </div>
 
@@ -28,11 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `require` function is used to import modules in Node.js.
+> The main function is the entry point of a program.
 
-> It allows you to use the functionality of other JavaScript files in your program.
+> It calls other functions to execute the program.
 
-> For example, you can use it to import the `console` module by typing `const console = require('console');"
+> Without a main function, a program cannot run.
+
+> It is usually declared as the first function in a program.
+
+> The main function does not have a return type specified.
+
+> In many programming languages, it is the last function to be called.
+
+> It is responsible for starting the execution of the program.
 
 <br>
 
