@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a program?
+### ❓ What does the term “null“ refer to in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `functions` `programming fundamentals` • 📅 20260206
+🟢 **beginner** • 🏷️ `programming basics` `data types` • 📅 20260206
 
 </div>
 
@@ -28,19 +28,21 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a program.
+> In programming, null represents an empty value.
 
-> It calls other functions to execute the program.
+> It indicates the absence of any value.
 
-> Without a main function, a program cannot run.
+> A null value cannot be compared or used in logical operations.
 
-> It is usually declared as the first function in a program.
+> It is often used to represent an uninitialized variable.
 
-> The main function does not have a return type specified.
+> Null is not the same as zero.
 
-> In many programming languages, it is the last function to be called.
+> In some languages, null is a reserved keyword.
 
-> It is responsible for starting the execution of the program.
+> Null can be assigned to a variable using the keyword null or `null`.
+
+> It is also represented as `null` in programming languages that use a null coalescing operator.
 
 <br>
 
