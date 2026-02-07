@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between synchronous and asynchronous code execution in JavaScript?
+### ❓ What is the purpose of the `console.log()` function in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async await` • 📅 20260207
+🟢 **beginner** • 🏷️ `javascript` `console` `debugging` • 📅 20260207
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> Synchronous code executes one statement at a time.
+> The `console.log()` function is used to output messages to the console.
 
-> Asynchronous code executes multiple statements at once.
+> It allows developers to see the output of their code.
 
-> This affects how the code interacts with other tasks and the browser.
+> It can be used to debug and test code.
 
-> Asynchronous code is used for better user experience.
-
-> It allows the browser to continue processing other tasks while waiting for a response.
+> It can also be used to display information to the user.
 
 <br>
 
