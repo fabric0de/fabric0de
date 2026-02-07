@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the term “null“ refer to in programming?
+### ❓ What is the difference between synchronous and asynchronous code execution in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `programming basics` `data types` • 📅 20260206
+🟡 **intermediate** • 🏷️ `javascript` `async await` • 📅 20260207
 
 </div>
 
@@ -28,21 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> In programming, null represents an empty value.
+> Synchronous code executes one statement at a time.
 
-> It indicates the absence of any value.
+> Asynchronous code executes multiple statements at once.
 
-> A null value cannot be compared or used in logical operations.
+> This affects how the code interacts with other tasks and the browser.
 
-> It is often used to represent an uninitialized variable.
+> Asynchronous code is used for better user experience.
 
-> Null is not the same as zero.
-
-> In some languages, null is a reserved keyword.
-
-> Null can be assigned to a variable using the keyword null or `null`.
-
-> It is also represented as `null` in programming languages that use a null coalescing operator.
+> It allows the browser to continue processing other tasks while waiting for a response.
 
 <br>
 
