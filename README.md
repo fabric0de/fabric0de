@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and const in JavaScript?
+### ❓ What is the purpose of the HTTP status code 404?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20260208
+🟢 **beginner** • 🏷️ `http` `webservers` • 📅 20260209
 
 </div>
 
@@ -28,11 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> In JavaScript, let and const are used to declare variables.
+> A 404 error is returned when a requested resource is not found.
 
-> let is used to declare variables that can be reassigned.
+> This could be due to a misspelled URL or a resource that no longer exists.
 
-> const is used to declare variables that cannot be reassigned.
+> The server will typically display a custom error page to the user.
+
+> In some cases, the server may return a default error page.
+
+> This error is commonly seen on websites.
+
+> It is an HTTP standard.
 
 <br>
 
