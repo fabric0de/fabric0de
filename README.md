@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `webservers` • 📅 20260209
+🟢 **beginner** • 🏷️ `http` `web-development` `status-codes` • 📅 20260209
 
 </div>
 
@@ -28,17 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> A 404 error is returned when a requested resource is not found.
+> A HTTP status code 404 indicates that a requested resource could not be found.
 
-> This could be due to a misspelled URL or a resource that no longer exists.
+> It is commonly used for page not found errors.
 
-> The server will typically display a custom error page to the user.
+> It can also be used for invalid or inaccessible URLs.
 
-> In some cases, the server may return a default error page.
+> In some cases, it can be used for security reasons to block access to a specific resource.
 
-> This error is commonly seen on websites.
+> HTTP status code 404 is an HTTP standard.
 
-> It is an HTTP standard.
+> It is widely used in web development.
+
+> It is often displayed to the user in an error message.
 
 <br>
 
