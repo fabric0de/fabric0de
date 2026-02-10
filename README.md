@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a new resource to the server for processing?
+### ❓ What is the purpose of the HTTP status code 404?
+It indicates that a requested resource could not be found.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `https` `rest` • 📅 20260210
+🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20260210
 
 </div>
 
@@ -28,13 +29,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method used to send a new resource to the server for processing is POST.
+> The HTTP status code 404 indicates that a requested resource could not be found.
 
-> It is commonly used with forms and API requests.
+> This could be due to a typo in the URL.
 
-> It can be used with JSON, XML, or other data formats.
+> Or the resource may have been deleted or moved.
 
-> The server can then store or process the data accordingly.
+> The client should automatically retry the request.
+
+> Alternatively, the client could display an error message to the user.
+
+> It is a client-side error.
 
 <br>
 
