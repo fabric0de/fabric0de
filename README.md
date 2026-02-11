@@ -11,16 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS font-family property?
-It specifies the family of fonts to be used for an element.
-It only specifies the font size.
-It only specifies the font style.
+### ❓ What is the purpose of the CSS reset CSS file?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `fonts` • 📅 20260211
+🟡 **intermediate** • 🏷️ `css` `web development` • 📅 20260211
 
 </div>
 
@@ -31,11 +28,15 @@ It only specifies the font style.
 
 <br>
 
-> It specifies the family of fonts to be used for an element.
+> The CSS reset CSS file is used to reset the default styles of HTML elements.
 
-> Examples include "Arial", "Times New Roman", or "Georgia".
+> It provides a baseline for styling websites.
 
-> It can also be a generic family name like "sans-serif" or "serif".
+> It allows developers to start with a clean slate.
+
+> This can help ensure consistency across different browsers.
+
+> It can also help reduce the need for browser-specific hacks.
 
 <br>
 
