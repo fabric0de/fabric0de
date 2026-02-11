@@ -11,14 +11,16 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
-It indicates that a requested resource could not be found.
+### ❓ What is the purpose of the CSS font-family property?
+It specifies the family of fonts to be used for an element.
+It only specifies the font size.
+It only specifies the font style.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20260210
+🟡 **intermediate** • 🏷️ `css` `fonts` • 📅 20260211
 
 </div>
 
@@ -29,17 +31,11 @@ It indicates that a requested resource could not be found.
 
 <br>
 
-> The HTTP status code 404 indicates that a requested resource could not be found.
+> It specifies the family of fonts to be used for an element.
 
-> This could be due to a typo in the URL.
+> Examples include "Arial", "Times New Roman", or "Georgia".
 
-> Or the resource may have been deleted or moved.
-
-> The client should automatically retry the request.
-
-> Alternatively, the client could display an error message to the user.
-
-> It is a client-side error.
+> It can also be a generic family name like "sans-serif" or "serif".
 
 <br>
 
