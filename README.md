@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260212
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260212
 
 </div>
 
@@ -30,19 +30,13 @@ This quiz is generated daily by AI
 
 > The require function is used to import modules in Node.js.
 
-> It allows the execution of JavaScript files from a specific directory or from the global node_modules directory.
+> These modules contain functions and variables that can be used in your application.
 
-> It is the main function for requiring modules in Node.js.
+> It is similar to importing modules in other languages like Python or Ruby.
 
-> It returns the required module.
+> It allows you to use functions and variables from a module without having to copy and paste them yourself.
 
-> Common use cases include importing built-in modules, such as fs and path.
-
-> Also, it can be used to import custom modules written in JavaScript.
-
-> Requiring a module does not execute the code in the module.
-
-> Instead, the module is cached and reused if it has already been required.
+> This makes your code more modular and easier to maintain.
 
 <br>
 
