@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset CSS file?
+### ❓ What is the purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `web development` • 📅 20260211
+🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260212
 
 </div>
 
@@ -28,15 +28,21 @@ This quiz is generated daily by AI
 
 <br>
 
-> The CSS reset CSS file is used to reset the default styles of HTML elements.
+> The require function is used to import modules in Node.js.
 
-> It provides a baseline for styling websites.
+> It allows the execution of JavaScript files from a specific directory or from the global node_modules directory.
 
-> It allows developers to start with a clean slate.
+> It is the main function for requiring modules in Node.js.
 
-> This can help ensure consistency across different browsers.
+> It returns the required module.
 
-> It can also help reduce the need for browser-specific hacks.
+> Common use cases include importing built-in modules, such as fs and path.
+
+> Also, it can be used to import custom modules written in JavaScript.
+
+> Requiring a module does not execute the code in the module.
+
+> Instead, the module is cached and reused if it has already been required.
 
 <br>
 
