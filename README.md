@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the null value in programming?
+### ❓ What is the main difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `data types` `programming fundamentals` `null value` • 📅 20260213
+🟢 **beginner** • 🏷️ `javascript basics` `variables` • 📅 20260214
 
 </div>
 
@@ -28,17 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null value is used to represent the absence of any value.
+> Null is a value that represents the absence of any object value.
 
-> It is often used to indicate that a variable has not been initialized.
+> Undefined is a variable that has never been declared or initialized.
 
-> It can also be used to avoid null pointer exceptions.
+> In other words, null is a value, while undefined is a variable.
 
-> In some cases, it can be used to represent an unknown or undefined value.
+> Null is not always equal to undefined, except in the case where a variable is explicitly set to null.
 
-> In database queries, null can be used to indicate a missing or unknown value.
+> Null is not undefined, and undefined is not null.
 
-> However, it is generally considered a best practice to avoid using null in your code whenever possible.
+> This distinction is important to understand when working with variables in JavaScript.
 
 <br>
 
