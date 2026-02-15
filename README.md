@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'this' keyword in JavaScript?
+### ❓ What is the purpose of the `null` value in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `es6` `closures` `functions` • 📅 20260215
+🟢 **beginner** • 🏷️ `javascript basics` `Variables` • 📅 20260215
 
 </div>
 
@@ -28,17 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'this' keyword in JavaScript refers to the context of the current execution.
+> The `null` value in JavaScript is used to represent the absence of any object value.
 
-> It can also refer to an object if the object has a 'this' property.
+> It is often used to indicate that a variable has not been assigned a value.
 
-> In a function, 'this' refers to the global object.
-
-> The 'this' keyword can also be used to create closures.
-
-> In an arrow function, 'this' refers to the global object.
-
-> In a class, 'this' refers to the instance of the class.
+> In some contexts, `null` can also be used to explicitly indicate that a value should not be accessed or operated on.
 
 <br>
 
