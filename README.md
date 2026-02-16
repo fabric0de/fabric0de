@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTML doctype declaration?
+### ❓ What is the purpose of the HTTP status code 404?
+It indicates that the requested resource is not found.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `html` `doctype declaration` • 📅 20260216
+🟢 **beginner** • 🏷️ `http` `status-code` • 📅 20260216
 
 </div>
 
@@ -28,33 +29,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The doctype declaration tells the browser which version of HTML to use.
+> The HTTP status code 404 is used to indicate that the requested resource is not found.
 
-> This declaration must be present in every HTML document.
+> It is commonly used for pages that do not exist or have been deleted.
 
-> It serves as a signal to the browser that the document is HTML.
+> Instead of displaying the actual error message, a 404 page is displayed.
 
-> Without it, the document may not render correctly.
+> This allows the user to easily navigate to another page.
 
-> Some browsers may display an error message.
-
-> This may affect the layout and appearance of the page.
-
-> The doctype declaration is usually placed near the top of the HTML document.
-
-> It is typically placed just before the <html> tag.
-
-> If the doctype declaration is missing, the browser will use its default doctype declaration.
-
-> This may cause the page to not render correctly.
-
-> It can also affect the layout and appearance of the page.
-
-> In some cases, it can cause errors when trying to validate the HTML document.
-
-> The doctype declaration is an essential part of the HTML document.
-
-> It helps to ensure that the document is valid and will render correctly in different browsers.
+> It is an important part of web development.
 
 <br>
 
