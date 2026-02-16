@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `null` value in JavaScript?
+### ❓ What is the purpose of the HTML doctype declaration?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript basics` `Variables` • 📅 20260215
+🟡 **intermediate** • 🏷️ `html` `doctype declaration` • 📅 20260216
 
 </div>
 
@@ -28,11 +28,33 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `null` value in JavaScript is used to represent the absence of any object value.
+> The doctype declaration tells the browser which version of HTML to use.
 
-> It is often used to indicate that a variable has not been assigned a value.
+> This declaration must be present in every HTML document.
 
-> In some contexts, `null` can also be used to explicitly indicate that a value should not be accessed or operated on.
+> It serves as a signal to the browser that the document is HTML.
+
+> Without it, the document may not render correctly.
+
+> Some browsers may display an error message.
+
+> This may affect the layout and appearance of the page.
+
+> The doctype declaration is usually placed near the top of the HTML document.
+
+> It is typically placed just before the <html> tag.
+
+> If the doctype declaration is missing, the browser will use its default doctype declaration.
+
+> This may cause the page to not render correctly.
+
+> It can also affect the layout and appearance of the page.
+
+> In some cases, it can cause errors when trying to validate the HTML document.
+
+> The doctype declaration is an essential part of the HTML document.
+
+> It helps to ensure that the document is valid and will render correctly in different browsers.
 
 <br>
 
