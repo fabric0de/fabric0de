@@ -11,14 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
-It indicates that the requested resource is not found.
+### ❓ What is the HTTP method used to send a new resource to the server?
+
+For example, a POST request is used to create a new user account.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `status-code` • 📅 20260216
+🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260217
 
 </div>
 
@@ -29,15 +30,9 @@ It indicates that the requested resource is not found.
 
 <br>
 
-> The HTTP status code 404 is used to indicate that the requested resource is not found.
+> The HTTP method used to send a new resource to the server is POST.
 
-> It is commonly used for pages that do not exist or have been deleted.
-
-> Instead of displaying the actual error message, a 404 page is displayed.
-
-> This allows the user to easily navigate to another page.
-
-> It is an important part of web development.
+> It is used to create, update, or delete a resource on the server.
 
 <br>
 
