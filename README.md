@@ -11,15 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a new resource to the server?
-
-For example, a POST request is used to create a new user account.
+### ❓ What is HTTP status code 404 error?
+It is a client error that occurs when a requested resource is not found.
+It is commonly used in web applications.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260217
+🟢 **beginner** • 🏷️ `http` `http-status-codes` • 📅 20260217
 
 </div>
 
@@ -30,9 +30,13 @@ For example, a POST request is used to create a new user account.
 
 <br>
 
-> The HTTP method used to send a new resource to the server is POST.
+> The HTTP status code 404 error indicates that the requested resource could not be found.
 
-> It is used to create, update, or delete a resource on the server.
+> This can be due to various reasons such as the URL being incorrect or the resource being deleted.
+
+> The browser will display an error message to the user.
+
+> HTTP 404 is also known as the "Not Found" error.
 
 <br>
 
