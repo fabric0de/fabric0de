@@ -12,13 +12,14 @@ This quiz is generated daily by AI
 <div align="center">
 
 ### ❓ What is the purpose of the CSS reset?
-It is used to reset browser defaults for HTML elements.
+It is used to
+reset all browser default styles.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `reset` `stylesheets` • 📅 20260218
+🟡 **intermediate** • 🏷️ `css` `reset` • 📅 20260218
 
 </div>
 
@@ -29,17 +30,17 @@ It is used to reset browser defaults for HTML elements.
 
 <br>
 
-> A CSS reset is used to establish a baseline
+> The CSS reset
 
-> for styling elements across different browsers.
+> is used to
 
-> It ensures consistency in the layout and design.
+> reset all browser default styles
 
-> It can also be used to remove default browser styles.
+> so that a website can be designed consistently across different browsers.
 
-> This allows developers to have more control over the layout and design of their website.
+> It removes existing styles from elements so that a website can be designed consistently across different browsers.
 
-> It provides a clean slate for the developer to apply their own styles.
+> It is a set of CSS rules that are applied to all elements on a webpage.
 
 <br>
 
