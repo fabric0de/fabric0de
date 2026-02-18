@@ -11,15 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is HTTP status code 404 error?
-It is a client error that occurs when a requested resource is not found.
-It is commonly used in web applications.
+### ❓ What is the purpose of the CSS reset?
+It is used to reset browser defaults for HTML elements.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `http-status-codes` • 📅 20260217
+🟡 **intermediate** • 🏷️ `css` `reset` `stylesheets` • 📅 20260218
 
 </div>
 
@@ -30,13 +29,17 @@ It is commonly used in web applications.
 
 <br>
 
-> The HTTP status code 404 error indicates that the requested resource could not be found.
+> A CSS reset is used to establish a baseline
 
-> This can be due to various reasons such as the URL being incorrect or the resource being deleted.
+> for styling elements across different browsers.
 
-> The browser will display an error message to the user.
+> It ensures consistency in the layout and design.
 
-> HTTP 404 is also known as the "Not Found" error.
+> It can also be used to remove default browser styles.
+
+> This allows developers to have more control over the layout and design of their website.
+
+> It provides a clean slate for the developer to apply their own styles.
 
 <br>
 
