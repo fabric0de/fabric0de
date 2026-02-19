@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset?
-It is used to
-reset all browser default styles.
+### ❓ What does the .env file in Node.js project used for?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `reset` • 📅 20260218
+🟡 **intermediate** • 🏷️ `nodejs` `environmentvariables` • 📅 20260219
 
 </div>
 
@@ -30,17 +28,21 @@ reset all browser default styles.
 
 <br>
 
-> The CSS reset
+> The
 
-> is used to
+> .env file is used to store environment variables that can be used by the application.
 
-> reset all browser default styles
+> These variables can include database credentials, API keys, and other sensitive information.
 
-> so that a website can be designed consistently across different browsers.
+> It is not committed to the project's version control system.
 
-> It removes existing styles from elements so that a website can be designed consistently across different browsers.
+> This helps to keep sensitive data separate from the code.
 
-> It is a set of CSS rules that are applied to all elements on a webpage.
+> It can be loaded in the application using the dotenv library.
+
+> It's a good practice to use a .env file in Node.js projects.
+
+> This helps to keep the code clean and secure.
 
 <br>
 
