@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the .env file in Node.js project used for?
+### ❓ What is the purpose of the require function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `environmentvariables` • 📅 20260219
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260219
 
 </div>
 
@@ -28,21 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The
+> The require function in Node.js is used to import modules.
 
-> .env file is used to store environment variables that can be used by the application.
+> It allows you to load modules and make their functions available
 
-> These variables can include database credentials, API keys, and other sensitive information.
+> for use in your code.
 
-> It is not committed to the project's version control system.
+> You can use require to import built-in modules or third-party modules.
 
-> This helps to keep sensitive data separate from the code.
+> It is commonly used to organize code into separate files.
 
-> It can be loaded in the application using the dotenv library.
-
-> It's a good practice to use a .env file in Node.js projects.
-
-> This helps to keep the code clean and secure.
+> This helps to avoid polluting the global namespace.
 
 <br>
 
