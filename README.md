@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a C program?
+### ❓ What is the purpose of the main function in a program?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `c` `programming fundamentals` • 📅 20260220
+🟢 **beginner** • 🏷️ `programming fundamentals` `entry point` • 📅 20260220
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a C program.
+> The main function is the entry point of a program.
 
 > It is where the program starts execution.
 
-> It returns an integer value to the operating system.
+> It calls other functions to perform tasks.
 
-> This value indicates the program's exit status.
+> Without a main function, a program will not run correctly.
 
 <br>
 
