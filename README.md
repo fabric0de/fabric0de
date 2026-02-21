@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a program?
+### ❓ What is the main difference between `null` and `undefined` in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `programming fundamentals` `entry point` • 📅 20260220
+🟡 **intermediate** • 🏷️ `javascript` `basics` • 📅 20260221
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a program.
+> `null` is a primitive value that represents the absence of any object value
 
-> It is where the program starts execution.
+> `undefined` is also a primitive value but indicates that a variable has been declared but has no assigned value
 
-> It calls other functions to perform tasks.
+> Both are primitive values but serve different purposes in the language
 
-> Without a main function, a program will not run correctly.
+> They can be assigned to a variable using the `null` and `undefined` keywords respectively
+
+> They are not the same and should not be confused with each other
 
 <br>
 
