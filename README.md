@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between `null` and `undefined` in JavaScript?
+### ❓ What is the purpose of the `console.log()` function in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `basics` • 📅 20260221
+🟡 **intermediate** • 🏷️ `javascript` `debugging` • 📅 20260222
 
 </div>
 
@@ -28,15 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> `null` is a primitive value that represents the absence of any object value
+> The console.log() function is used to output values to the browser's developer console.
 
-> `undefined` is also a primitive value but indicates that a variable has been declared but has no assigned value
+> This allows developers to see the output of their code during debugging.
 
-> Both are primitive values but serve different purposes in the language
+> It can be used to log variables, functions, and expressions.
 
-> They can be assigned to a variable using the `null` and `undefined` keywords respectively
+> It can also be used to log errors and warnings.
 
-> They are not the same and should not be confused with each other
+> It provides a way to inspect the state of an application.
+
+> It can be used with the `console.table()` method to log tables of data.
 
 <br>
 
