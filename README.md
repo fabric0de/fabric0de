@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between let and var in JavaScript?
+### ❓ What is the purpose of the HTTP method "PUT"?
+It is used to update existing resources.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260222
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260223
 
 </div>
 
@@ -28,27 +29,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is block-scoped, while var is function-scoped.
+> The HTTP method PUT is used to update existing resources on a server.
 
-> This means that let variables are recreated on each declaration,
+> It is similar to the POST method, but the client provides the full resource payload.
 
-> while var variables are shared across the entire function.
-
-> For example:
-
-> var x = 10;
-
-> let y = 10;
-
-> console.log(y);
-
-> let y = 20;
-
-> console.log(y);
-
-> x;
-
-> console.log(x);
+> It is often used for partial updates to existing resources.
 
 <br>
 
