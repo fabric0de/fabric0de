@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP method 'PUT'?
+### ❓ What is the HTTP method used for creating new resources on a server?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260224
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260224
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method 'PUT' is used to update an existing resource on a server.
+> POST
 
-> It can be used to modify a resource that already exists.
+> This HTTP method is used to create a new resource on a server.
 
-> It is similar to the 'POST' method, but instead of creating a new resource, it updates an existing one.
+> It can be used to send data to the server to create a new resource, such as a new user account.
 
-> It requires the client to know the URI of the resource being updated.
+> For example, a POST request can be used to create a new user account on a website.
+
+> The server will then create the new account and return a response to the client.
 
 <br>
 
