@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for creating new resources on a server?
+### ❓ What is the purpose of the CSS selector ":hover"?
+It is used to style elements when they are hovered over.
+It allows developers to change the appearance of an element while it is being hovered over.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260224
+🟡 **intermediate** • 🏷️ `css` `selectors` `layout` • 📅 20260225
 
 </div>
 
@@ -28,15 +30,9 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST
+> The ":hover" pseudo-class allows developers to apply styles to an element when it is hovered over.
 
-> This HTTP method is used to create a new resource on a server.
-
-> It can be used to send data to the server to create a new resource, such as a new user account.
-
-> For example, a POST request can be used to create a new user account on a website.
-
-> The server will then create the new account and return a response to the client.
+> This can include changes to colors, sizes, and other visual properties.
 
 <br>
 
