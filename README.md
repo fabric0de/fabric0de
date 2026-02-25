@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selector ":hover"?
-It is used to style elements when they are hovered over.
-It allows developers to change the appearance of an element while it is being hovered over.
+### ❓ What is the purpose of the CSS selectors in CSS?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `selectors` `layout` • 📅 20260225
+🟡 **intermediate** • 🏷️ `css selectors` `css fundamentals` • 📅 20260225
 
 </div>
 
@@ -30,9 +28,13 @@ It allows developers to change the appearance of an element while it is being ho
 
 <br>
 
-> The ":hover" pseudo-class allows developers to apply styles to an element when it is hovered over.
+> CSS selectors are used to target specific HTML elements in a document.
 
-> This can include changes to colors, sizes, and other visual properties.
+> They allow you to apply styles only to the desired elements.
+
+> This ensures a clean and organized code.
+
+> It also makes maintenance easier.
 
 <br>
 
