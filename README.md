@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selectors in CSS?
+### ❓ What is the primary function of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css selectors` `css fundamentals` • 📅 20260225
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` `commonjs` • 📅 20260226
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> CSS selectors are used to target specific HTML elements in a document.
+> The 'require' function is used to import modules and libraries in Node.js.
 
-> They allow you to apply styles only to the desired elements.
+> It loads the specified module and makes its exports available for use in the current scope.
 
-> This ensures a clean and organized code.
+> This function is a fundamental part of the CommonJS module system.
 
-> It also makes maintenance easier.
+> It is essential for organizing and managing dependencies in Node.js applications.
+
+> Without 'require', Node.js would not be able to handle the complexity of modern web applications.
 
 <br>
 
