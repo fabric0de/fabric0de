@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the null value in programming?
+### ❓ What is the primary function of the null coalescing operator in C++?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `programming fundamentals` `data types` • 📅 20260227
+🟡 **intermediate** • 🏷️ `c++` • 📅 20260227
 
 </div>
 
@@ -28,15 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null value is used to represent the absence of any value.
+> The null coalescing operator
 
-> It is often used to indicate that a variable has not been assigned a value.
+> returns the left-hand operand if it is not null,
 
-> In some programming languages, null can also be used to avoid null pointer exceptions.
+> Otherwise, it returns the right-hand operand.
 
-> Null is different from undefined, which has no declared value.
+> It is used for avoiding null pointer exceptions.
 
-> In some cases, null can be treated as a value and used in calculations.
+> It can be used with the null coalescing operator (?:)
+
+> with the null coalescing assignment operator (??=).
+
+> It is a shorthand for the ternary operator.
 
 <br>
 
