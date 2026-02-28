@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the null coalescing operator in C++?
+### ❓ What is the main difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `c++` • 📅 20260227
+🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20260228
 
 </div>
 
@@ -28,19 +28,25 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null coalescing operator
+> let is block-scoped,
 
-> returns the left-hand operand if it is not null,
+> var is function-scoped.
 
-> Otherwise, it returns the right-hand operand.
+> This means that let variables are redeclared if they have the same name in an inner scope,
 
-> It is used for avoiding null pointer exceptions.
+> while var variables can be accessed from any outer scope.
 
-> It can be used with the null coalescing operator (?:)
+> This change was introduced in ECMAScript 2015.
 
-> with the null coalescing assignment operator (??=).
+> It helps to prevent variables from being reused with different values in different parts of the code.
 
-> It is a shorthand for the ternary operator.
+> It makes the code more predictable and easier to maintain.
+
+> It also helps to avoid unexpected behavior in older browsers.
+
+> Don't use var if you're writing new code for modern browsers.
+
+> Use let instead.
 
 <br>
 
