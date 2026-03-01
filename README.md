@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between let and var in JavaScript?
+### ❓ What is the purpose of the `const` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20260228
+🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20260301
 
 </div>
 
@@ -28,25 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is block-scoped,
+> The `const` keyword in JavaScript is used to declare a constant variable.
 
-> var is function-scoped.
+> A constant variable cannot be reassigned a new value.
 
-> This means that let variables are redeclared if they have the same name in an inner scope,
-
-> while var variables can be accessed from any outer scope.
-
-> This change was introduced in ECMAScript 2015.
-
-> It helps to prevent variables from being reused with different values in different parts of the code.
-
-> It makes the code more predictable and easier to maintain.
-
-> It also helps to avoid unexpected behavior in older browsers.
-
-> Don't use var if you're writing new code for modern browsers.
-
-> Use let instead.
+> It is used to declare a variable that should not be changed once it is declared.
 
 <br>
 
