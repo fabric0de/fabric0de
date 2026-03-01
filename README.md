@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `const` keyword in JavaScript?
+### ❓ What is the main difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20260301
+🟢 **beginner** • 🏷️ `javascript fundamentals` `javascript basics` • 📅 20260301
 
 </div>
 
@@ -28,11 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `const` keyword in JavaScript is used to declare a constant variable.
+> Null
 
-> A constant variable cannot be reassigned a new value.
+> is a value with no object value
 
-> It is used to declare a variable that should not be changed once it is declared.
+> Undefined is a property that has not been declared
+
+> It can be set to a defined value later
+
+> Null is always null,
+
+> undefined is undefined.
 
 <br>
 
