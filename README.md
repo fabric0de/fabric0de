@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP method GET?
+### ❓ What is the purpose of the HTTP status code 404?
+It represents a resource not found on the server.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http methods` `rest` • 📅 20260302
+🟡 **intermediate** • 🏷️ `http` `status codes` • 📅 20260302
 
 </div>
 
@@ -28,13 +29,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP GET method is used to retrieve data from a web server.
+> The HTTP status code 404 is used to indicate that a requested resource cannot be found.
 
-> It sends an HTTP request to the server and returns the requested data.
+> This can occur due to various reasons such as a moved or deleted resource,
 
-> It is commonly used for retrieving web pages and data from APIs.
+> or a typo in the URL.
 
-> It is a safe method, as it does not alter the server.
+> It is a client-side error.
+
+> The client receives this status code and can choose to reattempt the request or display an error message to the user.
 
 <br>
 
