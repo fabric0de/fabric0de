@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between null and undefined in JavaScript?
+### ❓ What is the purpose of the HTTP method GET?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript fundamentals` `javascript basics` • 📅 20260301
+🟡 **intermediate** • 🏷️ `http` `http methods` `rest` • 📅 20260302
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> Null
+> The HTTP GET method is used to retrieve data from a web server.
 
-> is a value with no object value
+> It sends an HTTP request to the server and returns the requested data.
 
-> Undefined is a property that has not been declared
+> It is commonly used for retrieving web pages and data from APIs.
 
-> It can be set to a defined value later
-
-> Null is always null,
-
-> undefined is undefined.
+> It is a safe method, as it does not alter the server.
 
 <br>
 
