@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP POST method?
-It is used to send data to a server for storage or processing.
+### ❓ What is the HTTP method used to send a request to a server to delete a resource?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `post` `rest` `api` • 📅 20260303
+🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260303
 
 </div>
 
@@ -29,11 +28,15 @@ It is used to send data to a server for storage or processing.
 
 <br>
 
-> The HTTP POST method is used to send data to a server for storage or processing.
+> The HTTP method used to send a request to a server to delete a resource is DELETE.
 
-> It is commonly used for form submissions and uploading files.
+> This method is used to remove or delete a specific resource from a server.
 
-> It is also used for creating or updating resources on the server.
+> It returns a 204 No Content status code.
+
+> It is similar to the HTTP method used for the HTTP method POST but with an added purpose to delete a resource instead of creating one.
+
+> DELETE is case sensitive and requires a URL that matches the original URL of the resource to be deleted.
 
 <br>
 
