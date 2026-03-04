@@ -11,15 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between `float: left` and `display: inline-block`?
-float: left only affects the positioning of an element within a container,
-while display: inline-block allows an element to be displayed as an inline-level block element.
+### ❓ What is the purpose of the CSS reset CSS file in a website?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `layout` • 📅 20260304
+🟡 **intermediate** • 🏷️ `css` `web development` • 📅 20260304
 
 </div>
 
@@ -30,17 +28,19 @@ while display: inline-block allows an element to be displayed as an inline-level
 
 <br>
 
-> float: left only affects the positioning of an element within a container,
+> A CSS reset file is used to reset the default CSS styles of HTML elements.
 
-> while display: inline-block allows an element to be displayed as an inline-level block element.
+> It helps to create a consistent layout and design across different browsers.
 
-> Both properties can be used to create layouts, but they serve different purposes.
+> It also helps to avoid compatibility issues with different browsers.
 
-> Float: left moves an element to the left of its normal position,
+> By resetting the default styles, a CSS reset file enables developers to create their own unique styles.
 
-> while display: inline-block creates a block-level element that is also displayed inline.
+> This helps to improve the overall look and feel of the website.
 
-> This means that display: inline-block will also add box-sizing to the element, which includes the padding and border in its width and height calculations.
+> It also makes it easier to maintain and update the website's design.
+
+> It is commonly used in web development.
 
 <br>
 
