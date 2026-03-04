@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a request to a server to delete a resource?
+### ❓ What is the difference between `float: left` and `display: inline-block`?
+float: left only affects the positioning of an element within a container,
+while display: inline-block allows an element to be displayed as an inline-level block element.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260303
+🟡 **intermediate** • 🏷️ `css` `layout` • 📅 20260304
 
 </div>
 
@@ -28,15 +30,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP method used to send a request to a server to delete a resource is DELETE.
+> float: left only affects the positioning of an element within a container,
 
-> This method is used to remove or delete a specific resource from a server.
+> while display: inline-block allows an element to be displayed as an inline-level block element.
 
-> It returns a 204 No Content status code.
+> Both properties can be used to create layouts, but they serve different purposes.
 
-> It is similar to the HTTP method used for the HTTP method POST but with an added purpose to delete a resource instead of creating one.
+> Float: left moves an element to the left of its normal position,
 
-> DELETE is case sensitive and requires a URL that matches the original URL of the resource to be deleted.
+> while display: inline-block creates a block-level element that is also displayed inline.
+
+> This means that display: inline-block will also add box-sizing to the element, which includes the padding and border in its width and height calculations.
 
 <br>
 
