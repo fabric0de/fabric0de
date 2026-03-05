@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset CSS file in a website?
+### ❓ What is the purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `web development` • 📅 20260304
+🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20260305
 
 </div>
 
@@ -28,19 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> A CSS reset file is used to reset the default CSS styles of HTML elements.
+> The `require` function is used to load modules.
 
-> It helps to create a consistent layout and design across different browsers.
+> It allows you to import modules and use their functionality.
 
-> It also helps to avoid compatibility issues with different browsers.
+> You can import built-in modules or third-party modules.
 
-> By resetting the default styles, a CSS reset file enables developers to create their own unique styles.
-
-> This helps to improve the overall look and feel of the website.
-
-> It also makes it easier to maintain and update the website's design.
-
-> It is commonly used in web development.
+> Example: `const express = require('express');`
 
 <br>
 
