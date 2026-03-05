@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `require` function in Node.js?
+### ❓ What is the main difference between async and await in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20260305
+🟡 **intermediate** • 🏷️ `async/await` `javascript` `node.js` • 📅 20260305
 
 </div>
 
@@ -28,13 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `require` function is used to load modules.
+> Async is a keyword used to declare an asynchronous function,
 
-> It allows you to import modules and use their functionality.
+> await is used to pause the execution of a function until a promise is resolved or rejected.
 
-> You can import built-in modules or third-party modules.
+> It allows for cleaner, easier-to-read code.
 
-> Example: `const express = require('express');`
+> It can also help prevent callback hell.
+
+> Async/await is a syntax sugar on top of async.
+
+> It makes writing asynchronous code much more readable.
+
+> It can be used with promises or async/await with generators.
 
 <br>
 
