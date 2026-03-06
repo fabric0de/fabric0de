@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'this' keyword in programming?
+### ❓ What is the difference between a function and a variable in programming?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ ` programming` `basics` `object-oriented programming` • 📅 20260306
+🟢 **beginner** • 🏷️ `programming fundamentals` `variables` `functions` • 📅 20260306
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'this' keyword refers to the current object or context.
+> In programming, a function is a block of reusable code that performs a specific task.
 
-> It is used to access variables and methods of the current object.
+> A variable is a storage location that holds a value.
 
-> It can also refer to the global object in some contexts.
+> Functions can take arguments and return values.
 
-> In an object literal, 'this' refers to the object being created.
-
-> It can be overridden in constructor functions using 'this()'
+> Variables can hold only one value at a time.
 
 <br>
 
