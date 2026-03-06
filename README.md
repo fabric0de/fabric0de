@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between async and await in Node.js?
+### ❓ What is the purpose of the 'this' keyword in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `async/await` `javascript` `node.js` • 📅 20260305
+🟢 **beginner** • 🏷️ ` programming` `basics` `object-oriented programming` • 📅 20260306
 
 </div>
 
@@ -28,19 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> Async is a keyword used to declare an asynchronous function,
+> The 'this' keyword refers to the current object or context.
 
-> await is used to pause the execution of a function until a promise is resolved or rejected.
+> It is used to access variables and methods of the current object.
 
-> It allows for cleaner, easier-to-read code.
+> It can also refer to the global object in some contexts.
 
-> It can also help prevent callback hell.
+> In an object literal, 'this' refers to the object being created.
 
-> Async/await is a syntax sugar on top of async.
-
-> It makes writing asynchronous code much more readable.
-
-> It can be used with promises or async/await with generators.
+> It can be overridden in constructor functions using 'this()'
 
 <br>
 
