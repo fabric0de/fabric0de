@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between a function and a variable in programming?
+### ❓ What is the difference between == and === in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `programming fundamentals` `variables` `functions` • 📅 20260306
+🟢 **beginner** • 🏷️ `javascript fundamentals` `equality operators` • 📅 20260307
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> In programming, a function is a block of reusable code that performs a specific task.
+> == checks for value equivalence, while === checks for both value and type equivalence.
 
-> A variable is a storage location that holds a value.
+> For example,
 
-> Functions can take arguments and return values.
+> 5 == "5" returns true, but 5 === "5" returns false.
 
-> Variables can hold only one value at a time.
+> In summary, use == for loose equality and === for strict equality.
 
 <br>
 
