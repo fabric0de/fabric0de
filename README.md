@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between == and === in JavaScript?
+### ❓ What is the purpose of the 'this' keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript fundamentals` `equality operators` • 📅 20260307
+🟡 **intermediate** • 🏷️ `javascript` `variables` `context` `functions` • 📅 20260307
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> == checks for value equivalence, while === checks for both value and type equivalence.
+> The 'this' keyword in JavaScript refers to the current object or context of the function or method.
 
-> For example,
+> It can also refer to the global object when no other context is specified.
 
-> 5 == "5" returns true, but 5 === "5" returns false.
+> In arrow functions, 'this' refers to the global object.
 
-> In summary, use == for loose equality and === for strict equality.
+> In a strict mode, 'this' has a different behavior.
+
+> In some cases, 'this' can be overridden by the use of bind(), call(), or apply().
 
 <br>
 
