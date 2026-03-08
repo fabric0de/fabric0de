@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the callback function in JavaScript?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async` `events` • 📅 20260308
+🟢 **beginner** • 🏷️ `javascript basics` • 📅 20260308
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> A callback function is a function passed to another function that is executed when a specific event occurs.
+> null is a primitive value that represents the absence of any object value.
 
-> It allows for asynchronous operations to be handled in a non-blocking manner.
+> undefined is a value that represents an uninitialized variable.
 
-> This enables efficient use of system resources and improves user experience.
+> In many cases, null and undefined can be confused with each other.
 
-> Callback functions are commonly used in event-driven programming.
+> However, they have different origins and uses in the language.
 
 <br>
 
