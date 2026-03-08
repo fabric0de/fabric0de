@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'this' keyword in JavaScript?
+### ❓ What is the purpose of the callback function in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` `context` `functions` • 📅 20260307
+🟡 **intermediate** • 🏷️ `javascript` `async` `events` • 📅 20260308
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'this' keyword in JavaScript refers to the current object or context of the function or method.
+> A callback function is a function passed to another function that is executed when a specific event occurs.
 
-> It can also refer to the global object when no other context is specified.
+> It allows for asynchronous operations to be handled in a non-blocking manner.
 
-> In arrow functions, 'this' refers to the global object.
+> This enables efficient use of system resources and improves user experience.
 
-> In a strict mode, 'this' has a different behavior.
-
-> In some cases, 'this' can be overridden by the use of bind(), call(), or apply().
+> Callback functions are commonly used in event-driven programming.
 
 <br>
 
