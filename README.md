@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between null and undefined in JavaScript?
+### ❓ What is the HTTP method used for requesting a resource from a server to create a new resource?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript basics` • 📅 20260308
+🟡 **intermediate** • 🏷️ `http` `programming` `web development` • 📅 20260309
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> null is a primitive value that represents the absence of any object value.
+> The HTTP POST method is used to request a resource from a server to create a new resource.
 
-> undefined is a value that represents an uninitialized variable.
+> It is the primary method for creating new resources.
 
-> In many cases, null and undefined can be confused with each other.
+> Other methods like PUT and PATCH can also be used in certain cases.
 
-> However, they have different origins and uses in the language.
+> However, POST is generally the most common and widely supported method for creating new resources.
+
+> It is worth noting that some APIs may require a different method depending on the specific use case.
+
+> In general, if you need to create a new resource, you should use the HTTP POST method.
 
 <br>
 
