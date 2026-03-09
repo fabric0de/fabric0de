@@ -11,13 +11,18 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for requesting a resource from a server to create a new resource?
+### ❓ What is the difference between HTTP and HTTPS?
+HTTP is a protocol that transfers data over the internet.
+It is not encrypted.
+HTTPS is a protocol that transfers data over the internet.
+It uses encryption to secure data.
+It is a variation of HTTP.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `programming` `web development` • 📅 20260309
+🟡 **intermediate** • 🏷️ `http` `https` `security` • 📅 20260309
 
 </div>
 
@@ -28,17 +33,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP POST method is used to request a resource from a server to create a new resource.
+> HTTPS is a variation of HTTP that uses encryption to secure data.
 
-> It is the primary method for creating new resources.
+> It ensures that data is protected from interception and eavesdropping.
 
-> Other methods like PUT and PATCH can also be used in certain cases.
-
-> However, POST is generally the most common and widely supported method for creating new resources.
-
-> It is worth noting that some APIs may require a different method depending on the specific use case.
-
-> In general, if you need to create a new resource, you should use the HTTP POST method.
+> Lookup "SSL/TLS" for more information.
 
 <br>
 
