@@ -11,16 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send a new resource to the server for creation?
-
-It is the opposite of the HTTP method used to retrieve a resource from the server.
-This method is also known as the "POST" method.
+### ❓ What is the HTTP method used for retrieving data from a server?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `http-methods` • 📅 20260310
+🟢 **beginner** • 🏷️ `http` `protocol` • 📅 20260310
 
 </div>
 
@@ -31,11 +28,11 @@ This method is also known as the "POST" method.
 
 <br>
 
-> The HTTP method used to send a new resource to the server for creation is the POST method.
+> GET is used to retrieve data from a server.
 
-> It is the opposite of the HTTP method used to retrieve a resource from the server, which is the GET method.
+> It is the most common HTTP method.
 
-> This method is also known as the "POST" method.
+> Other HTTP methods are used for other purposes, such as creating, updating, and deleting data.
 
 <br>
 
