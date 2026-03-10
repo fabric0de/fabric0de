@@ -11,18 +11,16 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between HTTP and HTTPS?
-HTTP is a protocol that transfers data over the internet.
-It is not encrypted.
-HTTPS is a protocol that transfers data over the internet.
-It uses encryption to secure data.
-It is a variation of HTTP.
+### ❓ What is the HTTP method used to send a new resource to the server for creation?
+
+It is the opposite of the HTTP method used to retrieve a resource from the server.
+This method is also known as the "POST" method.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `https` `security` • 📅 20260309
+🟢 **beginner** • 🏷️ `http` `http-methods` • 📅 20260310
 
 </div>
 
@@ -33,11 +31,11 @@ It is a variation of HTTP.
 
 <br>
 
-> HTTPS is a variation of HTTP that uses encryption to secure data.
+> The HTTP method used to send a new resource to the server for creation is the POST method.
 
-> It ensures that data is protected from interception and eavesdropping.
+> It is the opposite of the HTTP method used to retrieve a resource from the server, which is the GET method.
 
-> Lookup "SSL/TLS" for more information.
+> This method is also known as the "POST" method.
 
 <br>
 
