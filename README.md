@@ -11,15 +11,17 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS selector "#id" refer to?
-It refers to an HTML element with a specific id attribute.
-It refers to all HTML elements with a specific id attribute.
+### ❓ What does the CSS selector "#id" match?
+
+It selects the element with the specified ID.
+It selects all elements with the specified ID.
+It selects all elements with a class or ID matching the specified value.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `selectors` • 📅 20260311
+🟡 **intermediate** • 🏷️ `css selectors` `selectors` • 📅 20260311
 
 </div>
 
@@ -30,11 +32,7 @@ It refers to all HTML elements with a specific id attribute.
 
 <br>
 
-> It refers to an HTML element with a specific id attribute.
-
-> This is because the # symbol is used to indicate an id selector.
-
-> Id selectors are unique within a document.
+> It selects the element with the specified ID.
 
 <br>
 
