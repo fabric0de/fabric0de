@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for retrieving data from a server?
+### ❓ What does the CSS selector "#id" refer to?
+It refers to an HTML element with a specific id attribute.
+It refers to all HTML elements with a specific id attribute.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `protocol` • 📅 20260310
+🟡 **intermediate** • 🏷️ `css` `selectors` • 📅 20260311
 
 </div>
 
@@ -28,11 +30,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> GET is used to retrieve data from a server.
+> It refers to an HTML element with a specific id attribute.
 
-> It is the most common HTTP method.
+> This is because the # symbol is used to indicate an id selector.
 
-> Other HTTP methods are used for other purposes, such as creating, updating, and deleting data.
+> Id selectors are unique within a document.
 
 <br>
 
