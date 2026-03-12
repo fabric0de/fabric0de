@@ -11,17 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS selector "#id" match?
-
-It selects the element with the specified ID.
-It selects all elements with the specified ID.
-It selects all elements with a class or ID matching the specified value.
+### ❓ What is the purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css selectors` `selectors` • 📅 20260311
+🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20260312
 
 </div>
 
@@ -32,7 +28,15 @@ It selects all elements with a class or ID matching the specified value.
 
 <br>
 
-> It selects the element with the specified ID.
+> The `require` function is used to import modules in Node.js.
+
+> It allows you to use the modules in your code.
+
+> You can import built-in modules or third-party modules.
+
+> The `require` function returns the exported value of the module.
+
+> You can use the `require` function to import modules at the top of your file or inside other functions.
 
 <br>
 
