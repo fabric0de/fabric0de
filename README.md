@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20260312
+🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260312
 
 </div>
 
@@ -28,15 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `require` function is used to import modules in Node.js.
+> The `require` function in Node.js is used to import modules.
 
-> It allows you to use the modules in your code.
+> It allows you to load modules and make their variables and functions available in your code.
 
-> You can import built-in modules or third-party modules.
+> You can use it to import built-in modules like `console` or third-party modules like `express`.
 
-> The `require` function returns the exported value of the module.
-
-> You can use the `require` function to import modules at the top of your file or inside other functions.
+> It is the primary way to load modules in Node.js.
 
 <br>
 
