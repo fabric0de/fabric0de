@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a C program?
+### ❓ What is a variable in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `c` `programming fundamentals` • 📅 20260313
+🟢 **beginner** • 🏷️ `variables` `programming fundamentals` • 📅 20260313
 
 </div>
 
@@ -28,13 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a C program.
+> A variable is a name given to a value.
 
-> It is where the program starts execution.
+> It can hold different types of data such as numbers, strings, and booleans.
 
-> It calls other functions to perform tasks.
-
-> It returns an integer to indicate the program's exit status.
+> Variables are used to store and organize data in a program.
 
 <br>
 
