@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is a variable in programming?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `variables` `programming fundamentals` • 📅 20260313
+🟢 **beginner** • 🏷️ `javascript` `variable-declarations` • 📅 20260314
 
 </div>
 
@@ -28,11 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> A variable is a name given to a value.
+> The main difference between let and var is that let is block-scoped
 
-> It can hold different types of data such as numbers, strings, and booleans.
+> while var is function-scoped.
 
-> Variables are used to store and organize data in a program.
+> Let is hoisted but not declared.
+
+> Var is hoisted but declared.
+
+> Use let for block-level declarations.
+
+> Use var for function-level declarations.
 
 <br>
 
