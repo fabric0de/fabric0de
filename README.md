@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between null and undefined in JavaScript?
+### ❓ What is the purpose of the `this` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript basics` `variables` • 📅 20260315
+🟡 **intermediate** • 🏷️ `javascript` `functions` `object-oriented programming` • 📅 20260315
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> null
+> The this keyword refers to the context in which a function is called.
 
-> is a value that has no value
+> It can refer to the global object, a local variable, or an object.
 
-> (undefined) is a variable that has not been assigned a value
+> In object-oriented programming, it refers to the object that the function is bound to.
 
-> both are primitive types in JavaScript
+> In an arrow function, it refers to the surrounding scope.
 
 <br>
 
