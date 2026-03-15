@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript basics` • 📅 20260314
+🟢 **beginner** • 🏷️ `javascript basics` `variables` • 📅 20260315
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> null is a value that represents the absence of any object value.
+> null
 
-> undefined is a value that represents an uninitialized variable.
+> is a value that has no value
 
-> It can also be assigned a value later in the code.
+> (undefined) is a variable that has not been assigned a value
 
-> Both null and undefined are primitive values in JavaScript.
+> both are primitive types in JavaScript
 
 <br>
 
