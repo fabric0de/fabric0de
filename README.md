@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `this` keyword in JavaScript?
+### ❓ What is the purpose of the HTTP Status Code 404?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `functions` `object-oriented programming` • 📅 20260315
+🟡 **intermediate** • 🏷️ `http` `webservers` • 📅 20260316
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The this keyword refers to the context in which a function is called.
+> A 404 error
 
-> It can refer to the global object, a local variable, or an object.
+> occurs when a requested resource
 
-> In object-oriented programming, it refers to the object that the function is bound to.
+> cannot be found.
 
-> In an arrow function, it refers to the surrounding scope.
+> It is typically displayed
+
+> when a URL is incorrect or a resource
+
+> has been deleted.
 
 <br>
 
