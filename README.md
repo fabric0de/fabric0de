@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
-It is used to indicate that a requested resource could not be found.
+### ❓ What is the purpose of the HTTP request method 'PUT'?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20260317
+🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260317
 
 </div>
 
@@ -29,13 +28,15 @@ It is used to indicate that a requested resource could not be found.
 
 <br>
 
-> The HTTP status code 404 is used to indicate that a requested resource could not be found.
+> The HTTP request method 'PUT' is used to update an existing resource.
 
-> It is used to notify the client that the requested URL is not valid.
+> It replaces the entire resource.
 
-> It is often displayed to the user as a 'Page Not Found' error message.
+> It is often used for replacing or modifying existing data.
 
-> It can also be used to handle caching and logging purposes.
+> It should not be used to create new data.
+
+> It should only be used for updating the data that already exists.
 
 <br>
 
