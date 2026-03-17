@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `const` keyword in JavaScript?
+### ❓ What is the purpose of the HTTP status code 404?
+It is used to indicate that a requested resource could not be found.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `es6` • 📅 20260316
+🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20260317
 
 </div>
 
@@ -28,13 +29,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `const` keyword is used to declare a variable that cannot be changed once it is declared.
+> The HTTP status code 404 is used to indicate that a requested resource could not be found.
 
-> This keyword is often used to ensure code readability and prevent unintended mutations.
+> It is used to notify the client that the requested URL is not valid.
 
-> It was introduced in ECMAScript 2015 (ES6).
+> It is often displayed to the user as a 'Page Not Found' error message.
 
-> It is not meant to be used for constants that can change value, but rather for variables that should not be reassigned.
+> It can also be used to handle caching and logging purposes.
 
 <br>
 
