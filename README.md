@@ -11,16 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS selector "#id" match?
-It matches any HTML element with an id attribute.
-It matches a specific HTML element.
-It does not match any HTML elements.
+### ❓ What does the CSS property "display" control?
+It determines how an element is displayed.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css selector` `css basics` `css fundamentals` `css syntax` • 📅 20260318
+🟢 **beginner** • 🏷️ `css` `display` • 📅 20260318
 
 </div>
 
@@ -31,35 +29,13 @@ It does not match any HTML elements.
 
 <br>
 
-> It matches any HTML element with an id attribute.
+> The display property controls how an element is displayed.
 
-> It is used to target a specific element in the DOM.
+> It can be set to inline, block, or inline-block.
 
-> It can be used for styling and accessibility.
+> Each value determines the layout of the element.
 
-> It is a unique identifier for an element.
-
-> It is case-sensitive.
-
-> It is used to provide a way to address a specific element.
-
-> It can be used in conjunction with class selectors.
-
-> It can be used to target elements with a specific class.
-
-> It can be used to target elements with a specific attribute.
-
-> It can be used to target elements with a specific attribute value.
-
-> It can be used to target elements with a specific pseudo-class.
-
-> It can be used to target elements with a specific pseudo-element.
-
-> It can be used to target elements with a specific attribute value and a specific pseudo-class.
-
-> It can be used to target elements with a specific attribute value and a specific pseudo-element.
-
-> It is not case-insensitive.
+> It also affects the element's box model.
 
 <br>
 
