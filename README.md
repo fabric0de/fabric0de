@@ -11,13 +11,16 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP request method 'PUT'?
+### ❓ What does the CSS selector "#id" match?
+It matches any HTML element with an id attribute.
+It matches a specific HTML element.
+It does not match any HTML elements.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `rest` • 📅 20260317
+🟡 **intermediate** • 🏷️ `css selector` `css basics` `css fundamentals` `css syntax` • 📅 20260318
 
 </div>
 
@@ -28,15 +31,35 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP request method 'PUT' is used to update an existing resource.
+> It matches any HTML element with an id attribute.
 
-> It replaces the entire resource.
+> It is used to target a specific element in the DOM.
 
-> It is often used for replacing or modifying existing data.
+> It can be used for styling and accessibility.
 
-> It should not be used to create new data.
+> It is a unique identifier for an element.
 
-> It should only be used for updating the data that already exists.
+> It is case-sensitive.
+
+> It is used to provide a way to address a specific element.
+
+> It can be used in conjunction with class selectors.
+
+> It can be used to target elements with a specific class.
+
+> It can be used to target elements with a specific attribute.
+
+> It can be used to target elements with a specific attribute value.
+
+> It can be used to target elements with a specific pseudo-class.
+
+> It can be used to target elements with a specific pseudo-element.
+
+> It can be used to target elements with a specific attribute value and a specific pseudo-class.
+
+> It can be used to target elements with a specific attribute value and a specific pseudo-element.
+
+> It is not case-insensitive.
 
 <br>
 
