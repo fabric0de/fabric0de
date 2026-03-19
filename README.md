@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS property "display" control?
-It determines how an element is displayed.
+### ❓ What is the purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `css` `display` • 📅 20260318
+🟡 **intermediate** • 🏷️ `nodejs` `modules` • 📅 20260319
 
 </div>
 
@@ -29,13 +28,13 @@ It determines how an element is displayed.
 
 <br>
 
-> The display property controls how an element is displayed.
+> The require function is used to import modules in Node.js.
 
-> It can be set to inline, block, or inline-block.
+> It allows you to use built-in modules or custom modules in your code.
 
-> Each value determines the layout of the element.
+> Without require, Node.js would not be able to find the modules you need.
 
-> It also affects the element's box model.
+> It is the primary way to import modules in Node.js.
 
 <br>
 
