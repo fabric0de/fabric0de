@@ -11,13 +11,17 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `require` function in Node.js?
+### ❓ What is the purpose of the semicolon (;) in programming?
+It is used to end a statement.
+It is used to start a new line.
+It is used for comments.
+It is used for variable declarations.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `module-system` • 📅 20260319
+🟢 **beginner** • 🏷️ `syntax` `basics` • 📅 20260320
 
 </div>
 
@@ -28,13 +32,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `require` function is used to import modules.
+> The semicolon (;) is used to end a statement.
 
-> Modules are pre-written code that can be used in your application.
+> It is not used to start a new line, that is a newline character.
 
-> It allows you to use functions and variables from other files without having to copy and paste them.
+> It is not used for comments, comments are preceded by //.
 
-> This helps to keep your code organized and reusable.
+> It is used to end a statement.
 
 <br>
 
