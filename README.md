@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
-let is function scoped while var is function scoped and also hoisting occurs for var.
+### ❓ What is the difference between var, let, and const in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `scoping` • 📅 20260321
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260321
 
 </div>
 
@@ -29,21 +28,13 @@ let is function scoped while var is function scoped and also hoisting occurs for
 
 <br>
 
-> In JavaScript, let is block scoped, not function scoped. Hoisting only applies to var.
+> var is function-scoped, allowing reassignment of variables anywhere in the function.
 
-> This means that let variables are not accessible before they are declared, whereas var variables are.
+> let is block-scoped, allowing reassignment only within the block it is defined in.
 
-> For example:
+> const is also block-scoped, but its value cannot be changed once it is declared.
 
-> console.log(var x);
-
-> console.log(let x);
-
-> var x = 10;
-
-> let x = 20;
-
-> console.log(x);
+> These differences impact code readability and maintainability.
 
 <br>
 
