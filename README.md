@@ -11,17 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the semicolon (;) in programming?
-It is used to end a statement.
-It is used to start a new line.
-It is used for comments.
-It is used for variable declarations.
+### ❓ What is the difference between let and var in JavaScript?
+let is function scoped while var is function scoped and also hoisting occurs for var.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `syntax` `basics` • 📅 20260320
+🟡 **intermediate** • 🏷️ `javascript` `scoping` • 📅 20260321
 
 </div>
 
@@ -32,13 +29,21 @@ It is used for variable declarations.
 
 <br>
 
-> The semicolon (;) is used to end a statement.
+> In JavaScript, let is block scoped, not function scoped. Hoisting only applies to var.
 
-> It is not used to start a new line, that is a newline character.
+> This means that let variables are not accessible before they are declared, whereas var variables are.
 
-> It is not used for comments, comments are preceded by //.
+> For example:
 
-> It is used to end a statement.
+> console.log(var x);
+
+> console.log(let x);
+
+> var x = 10;
+
+> let x = 20;
+
+> console.log(x);
 
 <br>
 
