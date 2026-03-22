@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between var, let, and const in JavaScript?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260321
+🟢 **beginner** • 🏷️ `javascript basics` `types of variables` • 📅 20260322
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> var is function-scoped, allowing reassignment of variables anywhere in the function.
+> null is a value that has no object value.
 
-> let is block-scoped, allowing reassignment only within the block it is defined in.
+> It is explicitly set using the keyword null.
 
-> const is also block-scoped, but its value cannot be changed once it is declared.
+> undefined is a value that has no object value but is only assigned a value.
 
-> These differences impact code readability and maintainability.
+> It is usually used for variables that have not been declared.
 
 <br>
 
