@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `this` keyword in JavaScript?
+### ❓ What is the difference between GET and POST requests in HTTP?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `es6` `object-oriented programming` • 📅 20260322
+🟡 **intermediate** • 🏷️ `http` `request-methods` • 📅 20260323
 
 </div>
 
@@ -28,17 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `this` keyword refers to the current object in a specific scope.
+> In HTTP, GET requests are used for retrieving data from a server.
 
-> In ES6, `this` can also be accessed using `let` and `const` declarations.
+> They are typically used for reading or fetching data.
 
-> It can also be overridden using arrow functions.
+> POST requests, on the other hand, are used to send data to a server for processing.
 
-> In a class, `this` refers to the instance of the class.
+> They are typically used for creating, updating, or deleting data.
 
-> It is not a built-in global object like `window` in a browser or `global` in Node.js.
-
-> It is not a function that can be called like `new Date()`.
+> The main difference between the two is the type of data being sent.
 
 <br>
 
