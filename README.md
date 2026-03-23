@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between GET and POST requests in HTTP?
+### ❓ What is the purpose of the HTML doctype declaration?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `request-methods` • 📅 20260323
+🟢 **beginner** • 🏷️ `html` `html5` • 📅 20260323
 
 </div>
 
@@ -28,15 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> In HTTP, GET requests are used for retrieving data from a server.
+> The HTML doctype declaration is used to
 
-> They are typically used for reading or fetching data.
+> inform the browser which version of HTML is being used.
 
-> POST requests, on the other hand, are used to send data to a server for processing.
+> It tells the browser how to parse the document
 
-> They are typically used for creating, updating, or deleting data.
+> and what features to expect.
 
-> The main difference between the two is the type of data being sent.
+> Without a doctype declaration, the browser may
+
+> not render the page correctly.
 
 <br>
 
