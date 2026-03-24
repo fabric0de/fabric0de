@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP Status Code 404?
+### ❓ What is the HTTP status code for a successful request?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20260324
+📌 **open** • 🏷️ `http` `status codes` • 📅 20260324
 
 </div>
 
@@ -28,13 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> A 404 error is returned when a requested resource could not be found.
+> The HTTP status code for a successful request is 200 OK.
 
-> This is often the case when a URL is incorrect or a resource has been deleted.
+> This code indicates that the server has received and processed the request successfully.
 
-> In some cases, a 404 may be returned for a requested resource that is still available but not accessible.
+> It is commonly used for GET, HEAD, and OPTIONS requests.
 
-> It indicates to the client that the server cannot fulfill the request.
+> HTTP status codes range from 1xx to 5xx.
+
+> Some common successful HTTP status codes include 200, 201, and 202.
 
 <br>
 
