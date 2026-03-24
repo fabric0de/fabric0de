@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTML doctype declaration?
+### ❓ What is the purpose of the HTTP Status Code 404?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `html` `html5` • 📅 20260323
+🟡 **intermediate** • 🏷️ `http` `status-codes` • 📅 20260324
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTML doctype declaration is used to
+> A 404 error is returned when a requested resource could not be found.
 
-> inform the browser which version of HTML is being used.
+> This is often the case when a URL is incorrect or a resource has been deleted.
 
-> It tells the browser how to parse the document
+> In some cases, a 404 may be returned for a requested resource that is still available but not accessible.
 
-> and what features to expect.
-
-> Without a doctype declaration, the browser may
-
-> not render the page correctly.
+> It indicates to the client that the server cannot fulfill the request.
 
 <br>
 
