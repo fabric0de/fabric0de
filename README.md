@@ -11,14 +11,20 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS box model?
-It determines the layout of an element on a web page.
+### ❓ What is the primary purpose of the CSS reset?
+It is used to
+reset the default
+styles of an HTML document.
+It is used to create a consistent
+visual layout.
+It is used to override
+user-agent styles.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `box-model` • 📅 20260325
+🟡 **intermediate** • 🏷️ `css` ` styling` `layout` • 📅 20260325
 
 </div>
 
@@ -29,17 +35,25 @@ It determines the layout of an element on a web page.
 
 <br>
 
-> The CSS box model consists of four main parts:
+> It is used to create a consistent
 
-> 1. Margin
+> visual layout.
 
-> 2. Border
+> It is used to override
 
-> 3. Padding
+> user-agent styles.
 
-> 4. Content
+> It can also be used to reset
 
-> All these parts contribute to the overall width and height of an element.
+> default browser styles.
+
+> It can also be used to improve
+
+> page loading times by
+
+> reducing the number of
+
+> styles being applied.
 
 <br>
 
