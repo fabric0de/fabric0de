@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful request?
+### ❓ What is the purpose of the CSS box model?
+It determines the layout of an element on a web page.
 
 </div>
 
 <div align="center">
 
-📌 **open** • 🏷️ `http` `status codes` • 📅 20260324
+🟡 **intermediate** • 🏷️ `css` `box-model` • 📅 20260325
 
 </div>
 
@@ -28,15 +29,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP status code for a successful request is 200 OK.
+> The CSS box model consists of four main parts:
 
-> This code indicates that the server has received and processed the request successfully.
+> 1. Margin
 
-> It is commonly used for GET, HEAD, and OPTIONS requests.
+> 2. Border
 
-> HTTP status codes range from 1xx to 5xx.
+> 3. Padding
 
-> Some common successful HTTP status codes include 200, 201, and 202.
+> 4. Content
+
+> All these parts contribute to the overall width and height of an element.
 
 <br>
 
