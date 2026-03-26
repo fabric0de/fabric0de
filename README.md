@@ -11,20 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary purpose of the CSS reset?
-It is used to
-reset the default
-styles of an HTML document.
-It is used to create a consistent
-visual layout.
-It is used to override
-user-agent styles.
+### ❓ What is the purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` ` styling` `layout` • 📅 20260325
+🟢 **beginner** • 🏷️ `javascript` `nodejs` • 📅 20260326
 
 </div>
 
@@ -35,25 +28,15 @@ user-agent styles.
 
 <br>
 
-> It is used to create a consistent
+> The require function is used to import modules in Node.js.
 
-> visual layout.
+> It allows the program to use functions and variables from other modules.
 
-> It is used to override
+> This is useful for organizing code and avoiding global variables.
 
-> user-agent styles.
+> It also enables the use of asynchronous I/O operations.
 
-> It can also be used to reset
-
-> default browser styles.
-
-> It can also be used to improve
-
-> page loading times by
-
-> reducing the number of
-
-> styles being applied.
+> This is a fundamental concept in Node.js programming.
 
 <br>
 
