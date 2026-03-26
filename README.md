@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'require' function in Node.js?
+### ❓ What is the main purpose of the `require` function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `javascript` `nodejs` • 📅 20260326
+🟡 **intermediate** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260326
 
 </div>
 
@@ -28,15 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The require function is used to import modules in Node.js.
+> The `require` function is used to import modules in Node.js.
 
-> It allows the program to use functions and variables from other modules.
+> It allows you to use modules and their functions in your code.
 
-> This is useful for organizing code and avoiding global variables.
+> Modules can contain functions, variables, and other code.
 
-> It also enables the use of asynchronous I/O operations.
+> You can use `require` to import modules from the same directory or from other directories.
 
-> This is a fundamental concept in Node.js programming.
+> You can also use `require` to import modules that are installed in your project using npm or yarn.
 
 <br>
 
