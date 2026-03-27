@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the null value in programming?
+### ❓ What is the primary function of the null coalescing operator in C++?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` • 📅 20260327
+🟡 **intermediate** • 🏷️ `cpp` `operator overloading` • 📅 20260327
 
 </div>
 
@@ -28,11 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The primary function of the null value is to represent the absence of any object value.
+> The null coalescing operator
 
-> It is often used to indicate that a variable has not been initialized or has no value.
+> ":"The null coalescing operator returns the left-hand operand if it is not null,
 
-> In programming, null is different from 0 or an empty string.
+> then returns the right-hand operand if the left-hand operand is null.
 
 <br>
 
