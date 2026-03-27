@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the `require` function in Node.js?
+### ❓ What is the primary function of the null value in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260326
+🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` • 📅 20260327
 
 </div>
 
@@ -28,15 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `require` function is used to import modules in Node.js.
+> The primary function of the null value is to represent the absence of any object value.
 
-> It allows you to use modules and their functions in your code.
+> It is often used to indicate that a variable has not been initialized or has no value.
 
-> Modules can contain functions, variables, and other code.
-
-> You can use `require` to import modules from the same directory or from other directories.
-
-> You can also use `require` to import modules that are installed in your project using npm or yarn.
+> In programming, null is different from 0 or an empty string.
 
 <br>
 
