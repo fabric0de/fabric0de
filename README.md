@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the primary function of the null coalescing operator in C++?
+### ❓ What is the difference between let and const in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `cpp` `operator overloading` • 📅 20260327
+🟢 **beginner** • 🏷️ `javascript` `variables` • 📅 20260328
 
 </div>
 
@@ -28,11 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null coalescing operator
+> let is used to declare a variable.
 
-> ":"The null coalescing operator returns the left-hand operand if it is not null,
+> It can be reassigned a value.
 
-> then returns the right-hand operand if the left-hand operand is null.
+> const is also used to declare a variable.
+
+> It cannot be reassigned a value.
+
+> This is the main difference between them.
 
 <br>
 
