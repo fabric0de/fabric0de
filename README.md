@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `this` keyword in JavaScript?
+### ❓ What is the main difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `functions` • 📅 20260329
+🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` `basics` • 📅 20260329
 
 </div>
 
@@ -28,15 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `this` keyword refers to the current execution context,
+> Null is a primitive value that represents the absence of any value
 
-> which can be the global object, a function, or an object.
+> Undefined is a value that has been declared but not assigned a value
 
-> It can also be used to access the context of an object's methods.
+> Null is always a value, while undefined is not
 
-> In an arrow function, `this` refers to the global object.
+> Null is a keyword used to represent the absence of any value
 
-> It can be overridden using the `bind()` method.
+> In other words, null is always a value, whereas undefined is not.
+
+> Both can be assigned to a variable but have different use cases
+
+> Null is often used when you want to represent the absence of a value, whereas undefined is used when a variable has been declared but not initialized.
 
 <br>
 
