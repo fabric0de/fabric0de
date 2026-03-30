@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is HTTP status code 404?
+### ❓ What is the purpose of the HTTP method GET?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-status-codes` • 📅 20260330
+🟢 **beginner** • 🏷️ `http` `http-methods` • 📅 20260330
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> It is an error response code.
+> The HTTP method GET is used to retrieve data from a server.
 
-> Sent to clients when a requested resource is not found.
+> It is used to request a resource from the server.
 
-> It can also be used to indicate a server error.
+> It is typically used for reading data.
 
-> The client should not cache this response.
-
-> The client should not reuse the response body.
-
-> The client should close the connection.
+> It is not used for modifying data.
 
 <br>
 
