@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main difference between null and undefined in JavaScript?
+### ❓ What is HTTP status code 404?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` `basics` • 📅 20260329
+🟡 **intermediate** • 🏷️ `http` `http-status-codes` • 📅 20260330
 
 </div>
 
@@ -28,19 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> Null is a primitive value that represents the absence of any value
+> It is an error response code.
 
-> Undefined is a value that has been declared but not assigned a value
+> Sent to clients when a requested resource is not found.
 
-> Null is always a value, while undefined is not
+> It can also be used to indicate a server error.
 
-> Null is a keyword used to represent the absence of any value
+> The client should not cache this response.
 
-> In other words, null is always a value, whereas undefined is not.
+> The client should not reuse the response body.
 
-> Both can be assigned to a variable but have different use cases
-
-> Null is often used when you want to represent the absence of a value, whereas undefined is used when a variable has been declared but not initialized.
+> The client should close the connection.
 
 <br>
 
