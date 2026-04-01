@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `css` `display` `layout` • 📅 20260401
+🟡 **intermediate** • 🏷️ `css` `display` • 📅 20260401
 
 </div>
 
@@ -28,15 +28,27 @@ This quiz is generated daily by AI
 
 <br>
 
-> display: block
+> A block-level element
 
 > takes up the full width of its parent
 
-> display: inline-block
+> and starts on a new line.
 
-> only occupies space needed for its content
+> An inline-block element
 
-> also allows for horizontal spacing between elements
+> is displayed next to other elements
+
+> and takes up only the width
+
+> of its content.
+
+> It does not start on a new line.
+
+> In general, block-level elements are used for layouts
+
+> that require a new line, while inline-block elements
+
+> are used for text and other inline content.
 
 <br>
 
