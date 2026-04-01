@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used for sending a new resource to the server to be processed?
+### ❓ What is the difference between `display: block` and `display: inline-block` in CSS?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `http-methods` • 📅 20260331
+🟢 **beginner** • 🏷️ `css` `display` `layout` • 📅 20260401
 
 </div>
 
@@ -28,11 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The POST method is used for sending a new resource to the server to be processed.
+> display: block
 
-> It is commonly used for creating, updating, or deleting resources.
+> takes up the full width of its parent
 
-> It is often used with HTTP POST requests.
+> display: inline-block
+
+> only occupies space needed for its content
+
+> also allows for horizontal spacing between elements
 
 <br>
 
