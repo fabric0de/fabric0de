@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the 'require' function in Node.js do?
+### ❓ What does npm do?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `node` `javascript` `modules` • 📅 20260402
+🟡 **intermediate** • 🏷️ `npm` `package-manager` `node.js` • 📅 20260402
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'require' function in Node.js is used to import modules.
+> npm is the package manager for Node.js.
 
-> It allows you to use the functionality of other JavaScript files.
+> It allows you to easily install and manage dependencies.
 
-> It's the main way to use built-in Node.js modules.
+> It also provides a way to publish your own packages to the community.
 
-> For example, to use the 'fs' module, you would do: 'const fs = require('fs');'
-
-> This makes the 'fs' object available in your code.
-
-> You can then use its methods and properties.
+> This makes it easy to share your projects with others.
 
 <br>
 
