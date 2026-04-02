@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between `display: block` and `display: inline-block` in CSS?
+### ❓ What does the 'require' function in Node.js do?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `display` • 📅 20260401
+🟡 **intermediate** • 🏷️ `node` `javascript` `modules` • 📅 20260402
 
 </div>
 
@@ -28,27 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> A block-level element
+> The 'require' function in Node.js is used to import modules.
 
-> takes up the full width of its parent
+> It allows you to use the functionality of other JavaScript files.
 
-> and starts on a new line.
+> It's the main way to use built-in Node.js modules.
 
-> An inline-block element
+> For example, to use the 'fs' module, you would do: 'const fs = require('fs');'
 
-> is displayed next to other elements
+> This makes the 'fs' object available in your code.
 
-> and takes up only the width
-
-> of its content.
-
-> It does not start on a new line.
-
-> In general, block-level elements are used for layouts
-
-> that require a new line, while inline-block elements
-
-> are used for text and other inline content.
+> You can then use its methods and properties.
 
 <br>
 
