@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does npm do?
+### ❓ What is the purpose of the null value in programming?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `npm` `package-manager` `node.js` • 📅 20260402
+🟡 **intermediate** • 🏷️ `programming fundamentals` `data types` • 📅 20260403
 
 </div>
 
@@ -28,13 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> npm is the package manager for Node.js.
+> The null value is a placeholder for an unspecified or unknown value in programming.
 
-> It allows you to easily install and manage dependencies.
+> It is often used to indicate that a variable has not been initialized or has no value.
 
-> It also provides a way to publish your own packages to the community.
+> It can also be used to avoid errors caused by using an uninitialized variable.
 
-> This makes it easy to share your projects with others.
+> In some cases, the null value can be used to simplify code and make it more readable.
 
 <br>
 
