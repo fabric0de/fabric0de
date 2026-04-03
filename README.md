@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the null value in programming?
+### ❓ What is the purpose of the main() function in a C program?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `programming fundamentals` `data types` • 📅 20260403
+🟢 **beginner** • 🏷️ `c programming` `c basics` • 📅 20260403
 
 </div>
 
@@ -28,13 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The null value is a placeholder for an unspecified or unknown value in programming.
+> The main() function is the entry point of a C program.
 
-> It is often used to indicate that a variable has not been initialized or has no value.
+> It is where the program starts execution.
 
-> It can also be used to avoid errors caused by using an uninitialized variable.
-
-> In some cases, the null value can be used to simplify code and make it more readable.
+> The program terminates when the main() function finishes execution.
 
 <br>
 
