@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main() function in a C program?
+### ❓ What is the difference between null and undefined in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `c programming` `c basics` • 📅 20260403
+🟢 **beginner** • 🏷️ `javascript basics` • 📅 20260404
 
 </div>
 
@@ -28,11 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main() function is the entry point of a C program.
+> Null is a value that represents the absence of any object value.
 
-> It is where the program starts execution.
+> Undefined is a value that has been declared but not assigned any value.
 
-> The program terminates when the main() function finishes execution.
+> A variable that has not been declared is considered undefined.
+
+> Null and undefined are not the same thing, although they can look similar.
 
 <br>
 
