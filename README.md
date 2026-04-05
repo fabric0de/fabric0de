@@ -17,7 +17,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260405
+🟡 **intermediate** • 🏷️ `javascript` `variables` `scoping` • 📅 20260405
 
 </div>
 
@@ -28,17 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is used to declare a variable,
+> let is used to declare variables that can be reassigned
 
-> its scope is function-scoped,
+> const is used to declare variables that cannot be reassigned
 
-> const is used to declare a constant,
+> Both can be used to declare variables that are not reassigned
 
-> its scope is also function-scoped,
-
-> The main difference is that a variable declared with let can be reassigned,
-
-> while a constant declared with const cannot be reassigned.
+> let is function scoped, const is block scoped
 
 <br>
 
