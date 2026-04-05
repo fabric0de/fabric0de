@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `this` keyword in JavaScript?
+### ❓ What is the difference between let and const in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `programming fundamentals` • 📅 20260404
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260405
 
 </div>
 
@@ -28,15 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `this` keyword in JavaScript refers to the current execution context of a function.
+> let is used to declare a variable,
 
-> It can also refer to the object that a function is currently being called on, or the global object if no specific object is provided.
+> its scope is function-scoped,
 
-> In addition, `this` can also refer to the result of a function call, or the undefined value if the function is called without any arguments.
+> const is used to declare a constant,
 
-> In some cases, it can also refer to the value of `null` or `undefined`.
+> its scope is also function-scoped,
 
-> However, the `this` keyword can be overridden by the `bind()`, `call()`, or `apply()` methods.
+> The main difference is that a variable declared with let can be reassigned,
+
+> while a constant declared with const cannot be reassigned.
 
 <br>
 
