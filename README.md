@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between let and const in JavaScript?
+### ❓ What is the difference between HTTP GET and HTTP POST requests?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` `scoping` • 📅 20260405
+🟡 **intermediate** • 🏷️ `http` `web-servers` `requests` • 📅 20260406
 
 </div>
 
@@ -28,13 +28,21 @@ This quiz is generated daily by AI
 
 <br>
 
-> let is used to declare variables that can be reassigned
+> HTTP GET is used to retrieve data from a server,
 
-> const is used to declare variables that cannot be reassigned
+> while HTTP POST is used to send data to a server.
 
-> Both can be used to declare variables that are not reassigned
+> It is generally faster and safer for retrieval,
 
-> let is function scoped, const is block scoped
+> but can be used for sending data as well.
+
+> HTTP POST is used when you need to send more data,
+
+> such as form data or JSON data.
+
+> HTTP GET is typically used for retrieving data that does not require authentication.
+
+> It is also typically used for retrieving data that is already publicly available.
 
 <br>
 
