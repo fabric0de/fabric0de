@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between HTTP GET and HTTP POST requests?
+### ❓ What is the purpose of the HTTP status code 404?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `web-servers` `requests` • 📅 20260406
+🟡 **intermediate** • 🏷️ `http` `web servers` • 📅 20260406
 
 </div>
 
@@ -28,21 +28,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> HTTP GET is used to retrieve data from a server,
+> The HTTP status code 404 is used to indicate that a requested resource could not be found.
 
-> while HTTP POST is used to send data to a server.
+> It is commonly used by web servers to notify clients that a requested URL does not exist.
 
-> It is generally faster and safer for retrieval,
+> This status code is not the same as a 500 error, which indicates a server-side error.
 
-> but can be used for sending data as well.
+> HTTP 404 is often displayed to users when they enter an invalid URL.
 
-> HTTP POST is used when you need to send more data,
+> It can also be used by web applications to handle requests for non-existent resources.
 
-> such as form data or JSON data.
+> In some cases, it can be used to redirect users to a home page.
 
-> HTTP GET is typically used for retrieving data that does not require authentication.
-
-> It is also typically used for retrieving data that is already publicly available.
+> It can also be used for caching and indexing purposes.
 
 <br>
 
