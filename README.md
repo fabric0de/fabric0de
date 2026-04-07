@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the HTTP status code 404?
+### ❓ What is the HTTP status code for a successful response from a server?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `web servers` • 📅 20260406
+🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260407
 
 </div>
 
@@ -28,19 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP status code 404 is used to indicate that a requested resource could not be found.
+> The HTTP status code for a successful response from a server is 200 OK.
 
-> It is commonly used by web servers to notify clients that a requested URL does not exist.
+> This status code indicates that the request was received and processed without errors.
 
-> This status code is not the same as a 500 error, which indicates a server-side error.
-
-> HTTP 404 is often displayed to users when they enter an invalid URL.
-
-> It can also be used by web applications to handle requests for non-existent resources.
-
-> In some cases, it can be used to redirect users to a home page.
-
-> It can also be used for caching and indexing purposes.
+> It is commonly used for GET, HEAD, and OPTIONS requests.
 
 <br>
 
