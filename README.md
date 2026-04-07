@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful response from a server?
+### ❓ What is HTTP status code 404?
+It is an error code.
+It indicates a resource cannot be found.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260407
+🟡 **intermediate** • 🏷️ `http` `status codes` • 📅 20260407
 
 </div>
 
@@ -28,11 +30,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The HTTP status code for a successful response from a server is 200 OK.
+> The HTTP status code 404 is used to indicate that a requested resource could not be found.
 
-> This status code indicates that the request was received and processed without errors.
+> This can occur due to a missing or incorrect URL.
 
-> It is commonly used for GET, HEAD, and OPTIONS requests.
+> It can also be caused by a server-side issue.
+
+> The browser displays a 404 error page to the user.
 
 <br>
 
