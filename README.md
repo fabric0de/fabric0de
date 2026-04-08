@@ -11,17 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS reset?
-It is used to reset browser default styles.
-It is used to define the box model.
-It is used to create a consistent layout.
-It is used to improve website accessibility.
+### ❓ What is the purpose of the CSS selector "#id"?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `css` `web development` • 📅 20260408
+🟢 **beginner** • 🏷️ `css selectors` `html` `css` • 📅 20260408
 
 </div>
 
@@ -32,15 +28,13 @@ It is used to improve website accessibility.
 
 <br>
 
-> The correct answer is:
+> The CSS selector #id selects an HTML element by its ID.
 
-> It is used to reset browser default styles.
+> This element is unique in the HTML document, meaning there can only be one element with a given ID.
 
-> This allows developers to start with a clean slate
+> This makes it useful for targeting specific elements when styling.
 
-> and apply their own styles without interference from
-
-> browser-specific defaults.
+> It can be used in conjunction with other selectors to target elements more precisely.
 
 <br>
 
