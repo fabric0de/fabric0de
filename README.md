@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'require' function in Node.js?
+### ❓ What is the main purpose of the npm package manager in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20260409
+🟢 **beginner** • 🏷️ `npm` `nodejs` `javascript` • 📅 20260409
 
 </div>
 
@@ -28,11 +28,13 @@ This quiz is generated daily by AI
 
 <br>
 
-> The 'require' function in Node.js is used to import modules.
+> The main purpose of npm is to manage dependencies,
 
-> It allows developers to access the module's exports.
+> install packages,
 
-> It is a built-in function in Node.js.
+> and handle versioning.
+
+> It is the default package manager for Node.js.
 
 <br>
 
