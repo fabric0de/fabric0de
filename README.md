@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selector "#id"?
+### ❓ What is the purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `css selectors` `html` `css` • 📅 20260408
+🟢 **beginner** • 🏷️ `nodejs` `javascript` • 📅 20260409
 
 </div>
 
@@ -28,13 +28,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> The CSS selector #id selects an HTML element by its ID.
+> The 'require' function in Node.js is used to import modules.
 
-> This element is unique in the HTML document, meaning there can only be one element with a given ID.
+> It allows developers to access the module's exports.
 
-> This makes it useful for targeting specific elements when styling.
-
-> It can be used in conjunction with other selectors to target elements more precisely.
+> It is a built-in function in Node.js.
 
 <br>
 
