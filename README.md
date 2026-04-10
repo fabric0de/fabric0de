@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the main purpose of the npm package manager in Node.js?
+### ❓ What is the purpose of the main method in Java?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `npm` `nodejs` `javascript` • 📅 20260409
+🟢 **beginner** • 🏷️ `java` `programming fundamentals` • 📅 20260410
 
 </div>
 
@@ -28,13 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main purpose of npm is to manage dependencies,
+> The main method is the entry point of a Java program.
 
-> install packages,
+> It is where the program starts execution.
 
-> and handle versioning.
+> It is defined with the public access modifier and the static keyword.
 
-> It is the default package manager for Node.js.
+> It is the first method called by the Java Virtual Machine (JVM).
+
+> It is where command-line arguments are passed to the program.
+
+> It is responsible for launching the program's execution.
 
 <br>
 
