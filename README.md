@@ -11,7 +11,7 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main method in Java?
+### ❓ What is the purpose of the main method in a Java program?
 
 </div>
 
@@ -28,17 +28,15 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main method is the entry point of a Java program.
+> The main method
 
-> It is where the program starts execution.
+> is the entry point of a Java program.
 
-> It is defined with the public access modifier and the static keyword.
+> It is where the program starts executing.
 
-> It is the first method called by the Java Virtual Machine (JVM).
+> Without the main method, a Java program will not run.
 
-> It is where command-line arguments are passed to the program.
-
-> It is responsible for launching the program's execution.
+> It is defined in a public class.
 
 <br>
 
