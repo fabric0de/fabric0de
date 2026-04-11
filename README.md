@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `this` keyword in JavaScript?
+### ❓ What is the purpose of the `await` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `es5` • 📅 20260411
+🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20260411
 
 </div>
 
@@ -28,23 +28,29 @@ This quiz is generated daily by AI
 
 <br>
 
-> The this keyword in JavaScript refers to the current object.
+> The `await` keyword is used to pause the execution of an async function until a promise is resolved.
 
-> In an object literal, it refers to the object being created.
+> It allows you to write more readable and asynchronous code.
 
-> It can also be forced to refer to another object using the `call()` or `bind()` methods.
+> Example: `async function foo() {
 
-> For example:
+> const promise = new Promise((resolve, reject) => {
 
-> var obj = { foo: 'bar'};
+> setTimeout(() => {
 
-> console.log(this === obj);
+> resolve('Done');
 
-> // false
+> }, 2000);
 
-> var obj = { foo: 'bar' }; var foo = obj; console.log(this === foo);
+> });
 
-> // true
+> await promise;
+
+> console.log('Async operation complete.');
+
+> }
+
+> foo();'
 
 <br>
 
