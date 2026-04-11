@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main method in a Java program?
+### ❓ What is the purpose of the `this` keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `java` `programming fundamentals` • 📅 20260410
+🟡 **intermediate** • 🏷️ `javascript` `es5` • 📅 20260411
 
 </div>
 
@@ -28,15 +28,23 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main method
+> The this keyword in JavaScript refers to the current object.
 
-> is the entry point of a Java program.
+> In an object literal, it refers to the object being created.
 
-> It is where the program starts executing.
+> It can also be forced to refer to another object using the `call()` or `bind()` methods.
 
-> Without the main method, a Java program will not run.
+> For example:
 
-> It is defined in a public class.
+> var obj = { foo: 'bar'};
+
+> console.log(this === obj);
+
+> // false
+
+> var obj = { foo: 'bar' }; var foo = obj; console.log(this === foo);
+
+> // true
 
 <br>
 
