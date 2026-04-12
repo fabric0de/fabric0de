@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the difference between var and let in JavaScript?
+### ❓ What is the purpose of the 'this' keyword in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260412
+🔴 **advanced** • 🏷️ `javascript` `es6` `classes` • 📅 20260412
 
 </div>
 
@@ -28,37 +28,17 @@ This quiz is generated daily by AI
 
 <br>
 
-> var is function-scoped,
+> In JavaScript, 'this' refers to the current object or context in which a function is being executed.
 
-> while let is block-scoped.
+> It can also refer to the global object if a function is executed in a global scope.
 
-> This means that var can access variables outside its scope,
-
-> nesting is not allowed for let.
-
-> It's generally recommended to use let instead.
+> In a class, 'this' refers to an instance of the class.
 
 > For example:
 
-> var x = 10;
+> console.log(this) will print the global object if called in the global scope.
 
-> if (true) {
-
-> let y = 20;
-
-> }
-
-> console.log(x); // outputs 10
-
-> let x = 10;
-
-> if (true) {
-
-> let y = 20;
-
-> }
-
-> console.log(x); // outputs undefined
+> console.log(this) will print an instance of the class if called on an instance.
 
 <br>
 
