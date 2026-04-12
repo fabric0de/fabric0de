@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the `await` keyword in JavaScript?
+### ❓ What is the difference between var and let in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `async/await` • 📅 20260411
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260412
 
 </div>
 
@@ -28,29 +28,37 @@ This quiz is generated daily by AI
 
 <br>
 
-> The `await` keyword is used to pause the execution of an async function until a promise is resolved.
+> var is function-scoped,
 
-> It allows you to write more readable and asynchronous code.
+> while let is block-scoped.
 
-> Example: `async function foo() {
+> This means that var can access variables outside its scope,
 
-> const promise = new Promise((resolve, reject) => {
+> nesting is not allowed for let.
 
-> setTimeout(() => {
+> It's generally recommended to use let instead.
 
-> resolve('Done');
+> For example:
 
-> }, 2000);
+> var x = 10;
 
-> });
+> if (true) {
 
-> await promise;
-
-> console.log('Async operation complete.');
+> let y = 20;
 
 > }
 
-> foo();'
+> console.log(x); // outputs 10
+
+> let x = 10;
+
+> if (true) {
+
+> let y = 20;
+
+> }
+
+> console.log(x); // outputs undefined
 
 <br>
 
