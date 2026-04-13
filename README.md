@@ -11,13 +11,15 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the 'this' keyword in JavaScript?
+### ❓ What is the purpose of the HTTP Status Code 404?
+It is used to indicate that a requested resource is not found.
+It can be displayed to the user.
 
 </div>
 
 <div align="center">
 
-🔴 **advanced** • 🏷️ `javascript` `es6` `classes` • 📅 20260412
+🟡 **intermediate** • 🏷️ `http` `status-code` • 📅 20260413
 
 </div>
 
@@ -28,17 +30,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> In JavaScript, 'this' refers to the current object or context in which a function is being executed.
+> The HTTP Status Code 404 is used to indicate that a requested resource is not found.
 
-> It can also refer to the global object if a function is executed in a global scope.
+> This can be due to a variety of reasons such as a misspelled URL or a deleted resource.
 
-> In a class, 'this' refers to an instance of the class.
-
-> For example:
-
-> console.log(this) will print the global object if called in the global scope.
-
-> console.log(this) will print an instance of the class if called on an instance.
+> It is a standard way for servers to communicate with clients about the status of a requested resource.
 
 <br>
 
