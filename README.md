@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP method used to send data to a server to create a new resource?
+### ❓ What is the HTTP status code for a successful request?
+It indicates that the request was received and processed by the server.
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `http` `programming` • 📅 20260413
+🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260414
 
 </div>
 
@@ -28,11 +29,11 @@ This quiz is generated daily by AI
 
 <br>
 
-> POST
+> 200 OK
 
-> This HTTP method is used to send data to a server to create a new resource
+> It is a standard HTTP status code.
 
-> It is the opposite of the GET method which retrieves data from a server
+> Used to confirm successful requests.
 
 <br>
 
