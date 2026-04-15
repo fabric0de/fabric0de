@@ -11,13 +11,14 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS selector "#id"?
+### ❓ What does the CSS property "display" control?
+It can have the following values: inline-block, block, inline, none.
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `css selectors` • 📅 20260415
+🟡 **intermediate** • 🏷️ `css` `display` • 📅 20260415
 
 </div>
 
@@ -28,21 +29,19 @@ This quiz is generated daily by AI
 
 <br>
 
-> The CSS selector
+> The display property controls the type of box model used for an element.
 
-> #id
+> It can have the following values: inline-block, block, inline, none.
 
-> selects an HTML element
+> These values determine how the element is displayed in the layout of the webpage.
 
-> with the specified id.
+> Inline elements take up only the space needed for their content.
 
-> This id must be unique in the document.
+> Block elements take up the full width of their parent and start on a new line.
 
-> This selector is case-sensitive.
+> The 'none' value makes the element invisible.
 
-> It can be used to target elements.
-
-> for styling or JavaScript events.
+> The 'inline-block' value allows the element to be displayed as both block and inline elements.
 
 <br>
 
