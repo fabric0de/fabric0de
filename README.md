@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the HTTP status code for a successful request?
-It indicates that the request was received and processed by the server.
+### ❓ What is the purpose of the CSS selector "#id"?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `http` `status codes` • 📅 20260414
+🟢 **beginner** • 🏷️ `css selectors` • 📅 20260415
 
 </div>
 
@@ -29,11 +28,21 @@ It indicates that the request was received and processed by the server.
 
 <br>
 
-> 200 OK
+> The CSS selector
 
-> It is a standard HTTP status code.
+> #id
 
-> Used to confirm successful requests.
+> selects an HTML element
+
+> with the specified id.
+
+> This id must be unique in the document.
+
+> This selector is case-sensitive.
+
+> It can be used to target elements.
+
+> for styling or JavaScript events.
 
 <br>
 
