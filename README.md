@@ -11,14 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What does the CSS property "display" control?
-It can have the following values: inline-block, block, inline, none.
+### ❓ What is the purpose of the 'require' function in Node.js?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `css` `display` • 📅 20260415
+🟢 **beginner** • 🏷️ `nodejs` `javascript` `modules` • 📅 20260416
 
 </div>
 
@@ -29,19 +28,13 @@ It can have the following values: inline-block, block, inline, none.
 
 <br>
 
-> The display property controls the type of box model used for an element.
+> The 'require' function is used to import modules in Node.js.
 
-> It can have the following values: inline-block, block, inline, none.
+> It allows developers to use built-in and third-party modules in their code.
 
-> These values determine how the element is displayed in the layout of the webpage.
+> For example, 'const fs = require('fs');' imports the built-in 'fs' module.
 
-> Inline elements take up only the space needed for their content.
-
-> Block elements take up the full width of their parent and start on a new line.
-
-> The 'none' value makes the element invisible.
-
-> The 'inline-block' value allows the element to be displayed as both block and inline elements.
+> This function is essential for building complex applications in Node.js.
 
 <br>
 
