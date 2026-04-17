@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a programming language?
+### ❓ What is the purpose of the main function in a program?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `programming fundamentals` • 📅 20260417
+🟢 **beginner** • 🏷️ `programming fundamentals` `functions` • 📅 20260417
 
 </div>
 
@@ -32,9 +32,13 @@ This quiz is generated daily by AI
 
 > It is where the program starts execution.
 
-> Without a main function, a program will not run.
+> Without a main function, a program cannot run.
 
-> In some languages, the main function is optional.
+> In some programming languages, the main function is not required.
+
+> However, it is a common convention to include one.
+
+> The main function is where the program's execution begins.
 
 <br>
 
