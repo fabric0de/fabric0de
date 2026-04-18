@@ -12,5 +12,20 @@
     ],
     "type": "open",
     "createdAt": "2026-04-18T07:39:23.309Z"
+  },
+  {
+    "id": "20260419",
+    "question": "What is the main difference between a thread and a process in the context of concurrency?",
+    "answer": "A thread is a lightweight process that shares the same memory space with other threads in the same process, whereas a process is a separate entity with its own memory space.\nA thread is typically created and managed by the operating system, whereas a process is created and managed by the operating system.\nThreads can communicate with each other through shared memory, whereas processes communicate through inter-process communication (IPC) mechanisms.\nThis difference in memory management and communication leads to different use cases for threads and processes.\nThreads are suitable for I/O-bound tasks, whereas processes are suitable for CPU-bound tasks.\nIn summary, threads are lighter-weight and more efficient for concurrent execution, while processes provide stronger isolation and are more suitable for parallel execution.",
+    "theme": "Concurrency",
+    "difficulty": "intermediate",
+    "tags": [
+      "concurrency",
+      "multithreading",
+      "processes",
+      "operating-systems"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-18T16:38:35.234Z"
   }
 ]

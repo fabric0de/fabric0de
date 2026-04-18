@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260419 - What is the main difference between a thread and a process in the context of concurrency?
+
+theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `processes` `operating-systems`
+
+> A thread is a lightweight process that shares the same memory space with other threads in the same process, whereas a process is a separate entity with its own memory space.
+
+> A thread is typically created and managed by the operating system, whereas a process is created and managed by the operating system.
+
+> Threads can communicate with each other through shared memory, whereas processes communicate through inter-process communication (IPC) mechanisms.
+
+> This difference in memory management and communication leads to different use cases for threads and processes.
+
+> Threads are suitable for I/O-bound tasks, whereas processes are suitable for CPU-bound tasks.
+
+> In summary, threads are lighter-weight and more efficient for concurrent execution, while processes provide stronger isolation and are more suitable for parallel execution.
+
+---
+
 ## 20260418 - What is the time complexity of the Bubble Sort algorithm?
 
 theme: **Algorithms** • difficulty: **intermediate** • `sorting` `time complexity` `bubble sort`
