@@ -11,13 +11,13 @@ This quiz is generated daily by AI
 
 <div align="center">
 
-### ❓ What is the purpose of the main function in a program?
+### ❓ What is the difference between let and var in JavaScript?
 
 </div>
 
 <div align="center">
 
-🟢 **beginner** • 🏷️ `programming fundamentals` `functions` • 📅 20260417
+🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260418
 
 </div>
 
@@ -28,17 +28,25 @@ This quiz is generated daily by AI
 
 <br>
 
-> The main function is the entry point of a program.
+> var is function-scoped, while let is block-scoped.
 
-> It is where the program starts execution.
+> This means that var can be accessed from anywhere in the function,
 
-> Without a main function, a program cannot run.
+> while let is only accessible within the block it's defined in.
 
-> In some programming languages, the main function is not required.
+> For example:
 
-> However, it is a common convention to include one.
+> var x = 10;
 
-> The main function is where the program's execution begins.
+> if (true) {
+
+> let y = 20;
+
+> }
+
+> console.log(x); // outputs 10
+
+> console.log(y); // outputs undefined
 
 <br>
 
