@@ -21,7 +21,8 @@ config();
 
 const CF_ACCOUNT_ID = process.env.CF_ACCOUNT_ID;
 const CF_API_TOKEN = process.env.CF_API_TOKEN;
-const CF_MODEL = process.env.CF_MODEL || '@cf/meta/llama-3.2-3b-instruct';
+const CF_MODEL =
+  process.env.CF_MODEL || '@cf/meta/llama-3.1-8b-instruct-fast';
 
 // Validate environment variables
 if (!CF_ACCOUNT_ID || !CF_API_TOKEN) {
