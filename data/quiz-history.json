@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20260418",
+    "question": "What is the time complexity of the Bubble Sort algorithm?",
+    "answer": "The time complexity of the Bubble Sort algorithm is O(n^2), where n is the number of items being sorted.\nThis is because in the worst case, the algorithm has to make n-1 passes through the array, and in each pass, it has to compare each pair of adjacent items.\nThis results in a total of n*(n-1)/2 comparisons, which simplifies to O(n^2).\nBubble Sort is not suitable for large data sets due to its high time complexity.",
+    "theme": "Algorithms",
+    "difficulty": "intermediate",
+    "tags": [
+      "sorting",
+      "time complexity",
+      "bubble sort"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-18T07:39:23.309Z"
+  }
+]

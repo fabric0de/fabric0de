@@ -1,0 +1,81 @@
+{
+  "weekdayBuckets": [
+    "foundations",
+    "languages",
+    "web",
+    "networking",
+    "frontend",
+    "backend",
+    "exploration"
+  ],
+  "themes": {
+    "foundations": [
+      "CS Basics",
+      "Algorithms",
+      "Data Structures",
+      "Problem Solving",
+      "Complexity Analysis",
+      "Concurrency"
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "Go",
+      "Rust",
+      "SQL",
+      "Bash"
+    ],
+    "web": [
+      "Web",
+      "Browser APIs",
+      "Accessibility",
+      "Rendering",
+      "HTML Semantics",
+      "SEO"
+    ],
+    "networking": [
+      "HTTP",
+      "Caching",
+      "Networking",
+      "Web Security",
+      "Authentication",
+      "API Gateways"
+    ],
+    "frontend": [
+      "CSS",
+      "UI Engineering",
+      "Frontend Performance",
+      "Responsive Design",
+      "Design Systems",
+      "Animation"
+    ],
+    "backend": [
+      "Node.js",
+      "Databases",
+      "API Design",
+      "System Design",
+      "Distributed Systems",
+      "Message Queues",
+      "Data Modeling"
+    ],
+    "exploration": [
+      "Testing",
+      "Debugging",
+      "Developer Tools",
+      "Architecture",
+      "AI Engineering",
+      "LLMs",
+      "Prompt Engineering",
+      "Machine Learning",
+      "MLOps",
+      "DevOps",
+      "Cloud Infrastructure",
+      "Observability",
+      "Performance Tuning",
+      "Security Engineering",
+      "Mobile Development",
+      "Product Engineering"
+    ]
+  }
+}

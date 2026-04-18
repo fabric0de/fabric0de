@@ -1,23 +1,41 @@
-# 👋 Hello! I'm JungHyeon
+<div align="center">
 
-Welcome! Every day you'll see a **new development quiz** here to challenge your skills.
-Check back daily to test yourself and learn something new!
+# JungHyeon
 
-## 🧩 Today's Development Quiz
+<sub>Reading code, understanding systems, and staying close to the work.</sub>
 
-This quiz is generated daily by AI
+</div>
+
+> Even if AI writes more code, I still want to stay close to code by reading it, understanding it, and solving the problems hidden inside it.
+> If AI helps me see code more clearly, then I still want development to remain part of my everyday life.
+
+<div align="center">
+
+`daily quiz` • `weekday themes` • `archive`
+
+</div>
+
+## 🧩 Daily Development Quiz
+
+One question a day, generated automatically and added to a growing archive.
 
 <!--START_SECTION:quiz-->
 
 <div align="center">
 
-### ❓ What is the difference between let and var in JavaScript?
+### ❓ What is the time complexity of the Bubble Sort algorithm?
 
 </div>
 
 <div align="center">
 
-🟡 **intermediate** • 🏷️ `javascript` `variables` • 📅 20260418
+🗓️ **Algorithms** • 🟡 **intermediate** • 🏷️ `sorting` `time complexity` `bubble sort` • 📅 20260418
+
+</div>
+
+<div align="center">
+
+[Browse archive](./docs/archive.md)
 
 </div>
 
@@ -28,28 +46,18 @@ This quiz is generated daily by AI
 
 <br>
 
-> var is function-scoped, while let is block-scoped.
+> The time complexity of the Bubble Sort algorithm is O(n^2), where n is the number of items being sorted.
 
-> This means that var can be accessed from anywhere in the function,
+> This is because in the worst case, the algorithm has to make n-1 passes through the array, and in each pass, it has to compare each pair of adjacent items.
 
-> while let is only accessible within the block it's defined in.
+> This results in a total of n*(n-1)/2 comparisons, which simplifies to O(n^2).
 
-> For example:
-
-> var x = 10;
-
-> if (true) {
-
-> let y = 20;
-
-> }
-
-> console.log(x); // outputs 10
-
-> console.log(y); // outputs undefined
+> Bubble Sort is not suitable for large data sets due to its high time complexity.
 
 <br>
 
 </details>
 
 <!--END_SECTION:quiz-->
+
+<sub>See every previous question in the [quiz archive](./docs/archive.md).</sub>

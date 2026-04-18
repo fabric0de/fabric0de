@@ -3,29 +3,63 @@ import path from 'path';
 import { config } from 'dotenv';
 import type {
   Quiz,
+  QuizHistoryEntry,
+  ThemeConfig,
   CloudflareAIResponse,
   CloudflareAIRequest,
 } from './types.js';
 import { parseJson, parseJsonWithFallback } from './jsonParser.js';
 import { SYSTEM_PROMPT, buildQuizPrompt } from './prompts.js';
 
-// Load .env file
 config();
 
 const readmePath = path.join(process.cwd(), 'README.md');
+const historyPath = path.join(process.cwd(), 'data', 'quiz-history.json');
+const themesPath = path.join(process.cwd(), 'data', 'themes.json');
+const archivePath = path.join(process.cwd(), 'docs', 'archive.md');
+
+const CF_ACCOUNT_ID = process.env.CF_ACCOUNT_ID;
+const CF_API_TOKEN = process.env.CF_API_TOKEN;
+const CF_MODEL = process.env.CF_MODEL || '@cf/meta/llama-3.1-8b-instruct-fast';
+
+const getKstDate = (): Date => {
+  const now = new Date();
+  return new Date(now.getTime() + 9 * 60 * 60 * 1000);
+};
 
 const getKstDateId = (): string => {
-  const now = new Date();
-  const kst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+  const kst = getKstDate();
   const yyyy = String(kst.getUTCFullYear());
   const mm = String(kst.getUTCMonth() + 1).padStart(2, '0');
   const dd = String(kst.getUTCDate()).padStart(2, '0');
   return `${yyyy}${mm}${dd}`;
 };
 
-const CF_ACCOUNT_ID = process.env.CF_ACCOUNT_ID;
-const CF_API_TOKEN = process.env.CF_API_TOKEN;
-const CF_MODEL = process.env.CF_MODEL || '@cf/meta/llama-3.2-3b-instruct';
+const getThemeOfTheDay = (): string => {
+  const themeConfig = readThemeConfig();
+  const bucketName = themeConfig.weekdayBuckets[getKstDate().getUTCDay()];
+  const bucketThemes = themeConfig.themes[bucketName] ?? [];
+
+  if (bucketThemes.length === 0) {
+    throw new Error(`No themes configured for weekday bucket: ${bucketName}`);
+  }
+
+  const history = readQuizHistory();
+  const recentThemes = history
+    .slice(-14)
+    .map((entry) => entry.theme)
+    .filter((theme): theme is string => Boolean(theme));
+
+  const availableThemes = bucketThemes.filter(
+    (theme) => !recentThemes.includes(theme)
+  );
+  const candidateThemes = availableThemes.length
+    ? availableThemes
+    : bucketThemes;
+
+  const daySeed = Number(getKstDateId());
+  return candidateThemes[daySeed % candidateThemes.length];
+};
 
 const validateGeneratedQuiz = (quiz: Partial<Quiz>): quiz is Quiz => {
   if (
@@ -38,10 +72,152 @@ const validateGeneratedQuiz = (quiz: Partial<Quiz>): quiz is Quiz => {
   }
 
   (quiz as Quiz).id = getKstDateId();
+  (quiz as Quiz).theme = (quiz.theme || getThemeOfTheDay()).trim();
   return true;
 };
 
-const generateQuizWithCloudflareAI = async (): Promise<Quiz | null> => {
+const QUIZ_JSON_SCHEMA = {
+  type: 'object',
+  properties: {
+    id: { type: 'string' },
+    question: { type: 'string' },
+    answer: { type: 'string' },
+    theme: { type: 'string' },
+    difficulty: {
+      type: 'string',
+      enum: ['beginner', 'intermediate', 'advanced'],
+    },
+    tags: {
+      type: 'array',
+      items: { type: 'string' },
+    },
+    type: {
+      type: 'string',
+      enum: ['open', 'mcq'],
+    },
+  },
+  required: ['question', 'answer', 'theme', 'difficulty', 'tags', 'type'],
+  additionalProperties: false,
+} as const;
+
+const ensureDirForFile = (filePath: string): void => {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+};
+
+const readThemeConfig = (): ThemeConfig => {
+  const raw = fs.readFileSync(themesPath, 'utf-8');
+  return JSON.parse(raw) as ThemeConfig;
+};
+
+const readQuizHistory = (): QuizHistoryEntry[] => {
+  try {
+    const raw = fs.readFileSync(historyPath, 'utf-8');
+    const parsed = JSON.parse(raw) as QuizHistoryEntry[];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+};
+
+const getRecentQuestions = (history: QuizHistoryEntry[]): string[] => {
+  return history
+    .slice(-10)
+    .map((entry) => entry.question)
+    .filter(Boolean);
+};
+
+const normalizeText = (value: string): string => {
+  return value.toLowerCase().replace(/\s+/g, ' ').trim();
+};
+
+const isDuplicateQuiz = (quiz: Quiz, history: QuizHistoryEntry[]): boolean => {
+  const normalizedQuestion = normalizeText(quiz.question);
+  return history.some(
+    (entry) => normalizeText(entry.question) === normalizedQuestion
+  );
+};
+
+const formatAnswer = (answer: string): string => {
+  if (answer.includes('```')) {
+    return answer;
+  }
+
+  return answer
+    .split('\n')
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .map((line) => `> ${line}`)
+    .join('\n\n');
+};
+
+const buildArchiveContent = (history: QuizHistoryEntry[]): string => {
+  const entries = [...history].sort((a, b) => b.id.localeCompare(a.id));
+  const sections = entries.map((entry) => {
+    const meta = [
+      entry.theme ? `theme: **${entry.theme}**` : '',
+      entry.difficulty ? `difficulty: **${entry.difficulty}**` : '',
+      entry.tags?.length ? entry.tags.map((tag) => `\`${tag}\``).join(' ') : '',
+    ]
+      .filter(Boolean)
+      .join(' • ');
+
+    return `## ${entry.id} - ${entry.question}
+
+${meta}
+
+${formatAnswer(entry.answer)}`;
+  });
+
+  return `# Quiz Archive
+
+Past quizzes are stored here automatically by the daily update script.
+
+${sections.length ? sections.join('\n\n---\n\n') : '_No archived quizzes yet._'}
+`;
+};
+
+const persistQuiz = (quiz: Quiz): void => {
+  ensureDirForFile(historyPath);
+  ensureDirForFile(archivePath);
+
+  const history = readQuizHistory().filter((entry) => entry.id !== quiz.id);
+  const nextHistory: QuizHistoryEntry[] = [
+    ...history,
+    {
+      ...quiz,
+      theme: quiz.theme ?? getThemeOfTheDay(),
+      createdAt: new Date().toISOString(),
+    },
+  ].sort((a, b) => a.id.localeCompare(b.id));
+
+  fs.writeFileSync(historyPath, JSON.stringify(nextHistory, null, 2) + '\n');
+  fs.writeFileSync(archivePath, buildArchiveContent(nextHistory));
+};
+
+const parseQuizResponse = (response: unknown): Quiz => {
+  if (
+    response &&
+    typeof response === 'object' &&
+    'question' in response &&
+    'answer' in response
+  ) {
+    return response as Quiz;
+  }
+
+  if (typeof response === 'string') {
+    try {
+      return parseJson<Quiz>(response);
+    } catch {
+      return parseJsonWithFallback<Quiz>(response);
+    }
+  }
+
+  throw new Error('Unexpected response format from Cloudflare AI');
+};
+
+const generateQuizWithCloudflareAI = async (
+  recentQuestions: string[]
+): Promise<Quiz | null> => {
   try {
     if (!CF_ACCOUNT_ID || !CF_API_TOKEN) {
       throw new Error(
@@ -49,8 +225,7 @@ const generateQuizWithCloudflareAI = async (): Promise<Quiz | null> => {
       );
     }
 
-    const topics = ['JavaScript', 'Web', 'HTTP', 'CSS', 'Node.js', 'CS Basics'];
-    const topicOfTheDay = topics[new Date().getUTCDay() % topics.length];
+    const topicOfTheDay = getThemeOfTheDay();
 
     const resp = await fetch(
       `https://api.cloudflare.com/client/v4/accounts/${CF_ACCOUNT_ID}/ai/run/${CF_MODEL}`,
@@ -63,10 +238,17 @@ const generateQuizWithCloudflareAI = async (): Promise<Quiz | null> => {
         body: JSON.stringify({
           messages: [
             { role: 'system', content: SYSTEM_PROMPT },
-            { role: 'user', content: buildQuizPrompt(topicOfTheDay) },
+            {
+              role: 'user',
+              content: buildQuizPrompt(topicOfTheDay, recentQuestions),
+            },
           ],
+          response_format: {
+            type: 'json_schema',
+            json_schema: QUIZ_JSON_SCHEMA,
+          },
           max_tokens: 1000,
-          temperature: 0.7,
+          temperature: 0.2,
         } as CloudflareAIRequest),
       }
     );
@@ -77,12 +259,7 @@ const generateQuizWithCloudflareAI = async (): Promise<Quiz | null> => {
     }
 
     const result = (await resp.json()) as CloudflareAIResponse;
-    let parsed: Quiz;
-    try {
-      parsed = parseJson<Quiz>(result.result.response);
-    } catch {
-      parsed = parseJsonWithFallback<Quiz>(result.result.response);
-    }
+    const parsed = parseQuizResponse(result.result.response);
 
     if (!validateGeneratedQuiz(parsed)) {
       console.error('Validation failed for quiz:', parsed);
@@ -97,45 +274,46 @@ const generateQuizWithCloudflareAI = async (): Promise<Quiz | null> => {
   }
 };
 
-const quiz = await generateQuizWithCloudflareAI();
+const history = readQuizHistory();
+const recentQuestions = getRecentQuestions(history);
+
+let quiz: Quiz | null = null;
+
+for (let attempt = 1; attempt <= 3; attempt++) {
+  const generated = await generateQuizWithCloudflareAI(recentQuestions);
+  if (!generated) {
+    continue;
+  }
+
+  if (!isDuplicateQuiz(generated, history)) {
+    quiz = generated;
+    break;
+  }
+
+  console.warn(
+    `Duplicate quiz detected on attempt ${attempt}: ${generated.question}`
+  );
+}
+
 if (!quiz) {
   console.error('No quiz generated by Cloudflare AI. Aborting.');
   process.exit(1);
 }
 
-// Format difficulty badge with emoji
 const difficultyEmoji: Record<string, string> = {
   beginner: '🟢',
   intermediate: '🟡',
   advanced: '🔴',
 };
+
+const themeBadge = quiz.theme ? `🗓️ **${quiz.theme}**` : '';
 const difficultyBadge = quiz.difficulty
   ? `${difficultyEmoji[quiz.difficulty] || '📌'} **${quiz.difficulty}**`
   : '';
-
-// Format tags as badges
 const tagsBadge = quiz.tags?.length
   ? `🏷️ ${quiz.tags.map((tag) => `\`${tag}\``).join(' ')}`
   : '';
-
-// Format date
 const dateBadge = `📅 ${getKstDateId()}`;
-
-// Format answer with better structure
-const formatAnswer = (answer: string): string => {
-  // If answer contains code blocks, preserve them
-  if (answer.includes('```')) {
-    return answer;
-  }
-
-  const lines = answer
-    .split('\n')
-    .map((line) => line.trim())
-    .filter(Boolean);
-
-  // Format as blockquote with proper spacing
-  return lines.map((line) => `> ${line}`).join('\n\n');
-};
 
 const newQuizSection = `<!--START_SECTION:quiz-->
 
@@ -147,7 +325,13 @@ const newQuizSection = `<!--START_SECTION:quiz-->
 
 <div align="center">
 
-${[difficultyBadge, tagsBadge, dateBadge].filter(Boolean).join(' • ')}
+${[themeBadge, difficultyBadge, tagsBadge, dateBadge].filter(Boolean).join(' • ')}
+
+</div>
+
+<div align="center">
+
+[Browse archive](./docs/archive.md)
 
 </div>
 
@@ -174,5 +358,7 @@ fs.writeFileSync(
     newQuizSection
   )
 );
+
+persistQuiz(quiz);
 
 console.log(`Updated quiz: ${quiz.question}`);

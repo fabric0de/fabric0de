@@ -2,3 +2,4 @@
 node_modules/
 SETUP.md
 test-cloudflare-ai.js
+.DS_Store

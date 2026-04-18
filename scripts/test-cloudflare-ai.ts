@@ -43,6 +43,14 @@ interface TestResult {
 
 const testResults: TestResult[] = [];
 
+const stringifyResponse = (value: unknown): string => {
+  if (typeof value === 'string') {
+    return value;
+  }
+
+  return JSON.stringify(value, null, 2);
+};
+
 const testSingleCall = async (attempt: number): Promise<TestResult> => {
   const topic = topics[Math.floor(Math.random() * topics.length)];
   console.log(`\n[Attempt ${attempt}] Testing with topic: ${topic}`);
@@ -59,7 +67,7 @@ const testSingleCall = async (attempt: number): Promise<TestResult> => {
         body: JSON.stringify({
           messages: [
             { role: 'system', content: SYSTEM_PROMPT },
-            { role: 'user', content: buildQuizPrompt(topic) },
+            { role: 'user', content: buildQuizPrompt(topic, []) },
           ],
           max_tokens: 1000,
           temperature: 0.7,
@@ -80,17 +88,18 @@ const testSingleCall = async (attempt: number): Promise<TestResult> => {
 
     const result = (await resp.json()) as CloudflareAIResponse;
     const rawResponse = result.result.response;
+    const responseText = stringifyResponse(rawResponse);
 
     // Try parsing
     let parsed: Quiz;
     try {
-      parsed = parseJson<Quiz>(rawResponse);
+      parsed = parseJson<Quiz>(responseText);
       console.log(`  ✅ parseJson succeeded`);
       return {
         attempt,
         success: true,
         topic,
-        response: rawResponse,
+        response: responseText,
         parsed,
       };
     } catch (e1) {
@@ -99,13 +108,13 @@ const testSingleCall = async (attempt: number): Promise<TestResult> => {
         `  ⚠️  parseJson failed: ${error1.message.substring(0, 100)}`
       );
       try {
-        parsed = parseJsonWithFallback<Quiz>(rawResponse);
+        parsed = parseJsonWithFallback<Quiz>(responseText);
         console.log(`  ✅ parseJsonWithFallback succeeded`);
         return {
           attempt,
           success: true,
           topic,
-          response: rawResponse,
+          response: responseText,
           parsed,
         };
       } catch (e2) {
@@ -118,7 +127,7 @@ const testSingleCall = async (attempt: number): Promise<TestResult> => {
           success: false,
           topic,
           error: error2.message,
-          response: rawResponse,
+          response: responseText,
         };
       }
     }
