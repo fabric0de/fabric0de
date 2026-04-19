@@ -15,17 +15,17 @@
   },
   {
     "id": "20260419",
-    "question": "What is the time complexity of the Binary Search algorithm in a sorted array?",
-    "answer": "The time complexity of the Binary Search algorithm in a sorted array is O(log n).\nThis is because with each iteration, the search space is halved.\nFor example, if we have a sorted array of 100 elements, the first iteration will search in 100 elements, the second iteration will search in 50 elements, and so on.\nThis results in a logarithmic time complexity.\nThis is in contrast to a linear search, which has a time complexity of O(n).",
-    "theme": "Complexity Analysis",
+    "question": "What is the main difference between a thread and a process in the context of concurrency?",
+    "answer": "A thread is a lightweight process that shares the same memory space with other threads in the same process.\nA process, on the other hand, is a separate entity with its own memory space.\nIn a multithreaded program, threads can communicate with each other through shared memory or synchronization primitives.\nProcesses, being separate entities, do not share memory and can only communicate through inter-process communication (IPC) mechanisms.\nThis difference in memory management and communication makes threads more efficient for concurrent execution of tasks within a process, while processes are better suited for independent tasks that require separate resources.",
+    "theme": "Concurrency",
     "difficulty": "intermediate",
     "tags": [
-      "time complexity",
-      "binary search",
-      "algorithms",
-      "data structures"
+      "concurrency",
+      "multithreading",
+      "processes",
+      "memory management"
     ],
     "type": "open",
-    "createdAt": "2026-04-19T00:43:01.510Z"
+    "createdAt": "2026-04-19T12:16:41.482Z"
   }
 ]
