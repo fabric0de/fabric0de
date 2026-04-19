@@ -2,21 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260419 - What is the main difference between a thread and a process in the context of concurrency?
+## 20260419 - What is the time complexity of the Binary Search algorithm in a sorted array?
 
-theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `processes` `operating-systems`
+theme: **Complexity Analysis** • difficulty: **intermediate** • `time complexity` `binary search` `algorithms` `data structures`
 
-> A thread is a lightweight process that shares the same memory space with other threads in the same process, whereas a process is a separate entity with its own memory space.
+> The time complexity of the Binary Search algorithm in a sorted array is O(log n).
 
-> A thread is typically created and managed by the operating system, whereas a process is created and managed by the operating system.
+> This is because with each iteration, the search space is halved.
 
-> Threads can communicate with each other through shared memory, whereas processes communicate through inter-process communication (IPC) mechanisms.
+> For example, if we have a sorted array of 100 elements, the first iteration will search in 100 elements, the second iteration will search in 50 elements, and so on.
 
-> This difference in memory management and communication leads to different use cases for threads and processes.
+> This results in a logarithmic time complexity.
 
-> Threads are suitable for I/O-bound tasks, whereas processes are suitable for CPU-bound tasks.
-
-> In summary, threads are lighter-weight and more efficient for concurrent execution, while processes provide stronger isolation and are more suitable for parallel execution.
+> This is in contrast to a linear search, which has a time complexity of O(n).
 
 ---
 
