@@ -2,13 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260420 - Write a SQL query to retrieve all employees who earn more than the average salary in their department.
+## 20260420 - What is the purpose of the `let` keyword in Rust, and how does it differ from declaring a variable in other languages?
 
-theme: **SQL** • difficulty: **intermediate** • `sql` `query` `database` `average`
+theme: **Rust** • difficulty: **intermediate** • `Rust` `variables` `scope` `memory safety`
 
-> SELECT * FROM employees
-
-> WHERE salary > (SELECT AVG(salary) FROM employees GROUP BY department)
+> The `let` keyword in Rust is used to declare immutable variables. Unlike other languages, Rust's `let` keyword does not declare a variable that can be reassigned. Instead, it creates a new scope for the variable, which is dropped at the end of the scope. This is in contrast to languages like C or Java, where a variable declared with a keyword like `let` or `var` can be reassigned. Rust's `let` keyword is used to ensure memory safety by preventing mutable state from being introduced accidentally.
 
 ---
 
