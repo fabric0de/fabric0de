@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between a thread and a process in the context of concurrency?
+### ❓ Write a SQL query to retrieve all employees who earn more than the average salary in their department.
 
 </div>
 
 <div align="center">
 
-🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `concurrency` `multithreading` `processes` `memory management` • 📅 20260419
+🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `sql` `query` `database` `average` • 📅 20260420
 
 </div>
 
@@ -46,15 +46,9 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A thread is a lightweight process that shares the same memory space with other threads in the same process.
+> SELECT * FROM employees
 
-> A process, on the other hand, is a separate entity with its own memory space.
-
-> In a multithreaded program, threads can communicate with each other through shared memory or synchronization primitives.
-
-> Processes, being separate entities, do not share memory and can only communicate through inter-process communication (IPC) mechanisms.
-
-> This difference in memory management and communication makes threads more efficient for concurrent execution of tasks within a process, while processes are better suited for independent tasks that require separate resources.
+> WHERE salary > (SELECT AVG(salary) FROM employees GROUP BY department)
 
 <br>
 

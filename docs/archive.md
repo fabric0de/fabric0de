@@ -2,6 +2,16 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260420 - Write a SQL query to retrieve all employees who earn more than the average salary in their department.
+
+theme: **SQL** • difficulty: **intermediate** • `sql` `query` `database` `average`
+
+> SELECT * FROM employees
+
+> WHERE salary > (SELECT AVG(salary) FROM employees GROUP BY department)
+
+---
+
 ## 20260419 - What is the main difference between a thread and a process in the context of concurrency?
 
 theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `processes` `memory management`

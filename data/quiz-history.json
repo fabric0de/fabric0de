@@ -27,5 +27,20 @@
     ],
     "type": "open",
     "createdAt": "2026-04-19T12:16:41.482Z"
+  },
+  {
+    "id": "20260420",
+    "question": "Write a SQL query to retrieve all employees who earn more than the average salary in their department.",
+    "answer": "SELECT * FROM employees\nWHERE salary > (SELECT AVG(salary) FROM employees GROUP BY department)\n",
+    "theme": "SQL",
+    "difficulty": "intermediate",
+    "tags": [
+      "sql",
+      "query",
+      "database",
+      "average"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-20T00:42:24.235Z"
   }
 ]
