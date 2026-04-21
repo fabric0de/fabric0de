@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the key factors that determine a webpage's ranking in search engine results pages (SERPs)?
+### ❓ What is the purpose of the `window.history.pushState()` method in a web browser?
 
 </div>
 
 <div align="center">
 
-🗓️ **SEO** • 🟡 **intermediate** • 🏷️ `search engine optimization` `google algorithm` `search engine ranking` • 📅 20260421
+🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `javascript` `browser-apis` `web-development` • 📅 20260421
 
 </div>
 
@@ -46,19 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The key factors that determine a webpage's ranking in search engine results pages (SERPs) include:
-
-> 1. **Relevance**: How well the content matches the user's search query.
-
-> 2. **Authority**: The credibility and trustworthiness of the website and its content.
-
-> 3. **User experience**: How easy it is for users to navigate and engage with the website.
-
-> 4. **Page speed**: How quickly the website loads and responds to user interactions.
-
-> 5. **Mobile-friendliness**: How well the website adapts to different screen sizes and devices.
-
-> 6. **Technical optimization**: Proper use of meta tags, header tags, and other technical SEO elements.
+> The `window.history.pushState()` method is used to update the URL in the browser's address bar without loading a new page. It allows you to manipulate the browser's session history and push a new state onto the browser's history stack. This can be useful for creating a single-page application (SPA) where you want to update the URL without causing a full page reload. The method takes two arguments: the new state object and a title for the new state. The state object can contain any data you want to store, such as the current page's data or the current user's session information.
 
 <br>
 
