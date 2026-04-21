@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260421 - What are the key factors that determine a webpage's ranking in search engine results pages (SERPs)?
+
+theme: **SEO** • difficulty: **intermediate** • `search engine optimization` `google algorithm` `search engine ranking`
+
+> The key factors that determine a webpage's ranking in search engine results pages (SERPs) include:
+
+> 1. **Relevance**: How well the content matches the user's search query.
+
+> 2. **Authority**: The credibility and trustworthiness of the website and its content.
+
+> 3. **User experience**: How easy it is for users to navigate and engage with the website.
+
+> 4. **Page speed**: How quickly the website loads and responds to user interactions.
+
+> 5. **Mobile-friendliness**: How well the website adapts to different screen sizes and devices.
+
+> 6. **Technical optimization**: Proper use of meta tags, header tags, and other technical SEO elements.
+
+---
+
 ## 20260420 - What is the purpose of the `let` keyword in Rust, and how does it differ from declaring a variable in other languages?
 
 theme: **Rust** • difficulty: **intermediate** • `Rust` `variables` `scope` `memory safety`

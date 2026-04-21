@@ -42,5 +42,19 @@
     ],
     "type": "open",
     "createdAt": "2026-04-20T12:31:48.264Z"
+  },
+  {
+    "id": "20260421",
+    "question": "What are the key factors that determine a webpage's ranking in search engine results pages (SERPs)?",
+    "answer": "The key factors that determine a webpage's ranking in search engine results pages (SERPs) include:\n\n1. **Relevance**: How well the content matches the user's search query.\n2. **Authority**: The credibility and trustworthiness of the website and its content.\n3. **User experience**: How easy it is for users to navigate and engage with the website.\n4. **Page speed**: How quickly the website loads and responds to user interactions.\n5. **Mobile-friendliness**: How well the website adapts to different screen sizes and devices.\n6. **Technical optimization**: Proper use of meta tags, header tags, and other technical SEO elements.",
+    "theme": "SEO",
+    "difficulty": "intermediate",
+    "tags": [
+      "search engine optimization",
+      "google algorithm",
+      "search engine ranking"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-21T00:42:21.410Z"
   }
 ]
