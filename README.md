@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the main differences between the HTTP 1.0 and HTTP 2.0 protocols?
+### ❓ What is the main difference between a Cross-Site Scripting (XSS) attack and a Cross-Site Request Forgery (CSRF) attack?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `http-2` `web-development` `networking` • 📅 20260422
+🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `web-security` `xss` `csrf` `security-threats` • 📅 20260422
 
 </div>
 
@@ -46,17 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> HTTP 1.0 and HTTP 2.0 are two different versions of the Hypertext Transfer Protocol (HTTP).
+> XSS is an attack where an attacker injects malicious code into a website, which is then executed by the user's browser, whereas CSRF is an attack where an attacker tricks a user into performing an unintended action on a website they are authenticated with.
 
-> HTTP 1.0 is a text-based protocol that relies on a connection-oriented approach, where a new connection is established for each request.
+> In XSS, the attacker's code is executed on the client-side, whereas in CSRF, the attacker's code is executed on the server-side.
 
-> HTTP 2.0, on the other hand, is a binary protocol that uses multiplexing and header compression to improve performance.
-
-> HTTP 2.0 also introduces the concept of streams, which allow for multiple requests to be sent over a single connection.
-
-> This results in improved performance, reduced latency, and better resource utilization.
-
-> HTTP 2.0 is designed to be backward compatible with HTTP 1.1, but it offers several advantages over its predecessor.
+> XSS is often used to steal user data, while CSRF is often used to perform actions on behalf of the user without their knowledge.
 
 <br>
 
