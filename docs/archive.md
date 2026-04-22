@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260422 - What are the main differences between the HTTP 1.0 and HTTP 2.0 protocols?
+
+theme: **HTTP** • difficulty: **intermediate** • `http` `http-2` `web-development` `networking`
+
+> HTTP 1.0 and HTTP 2.0 are two different versions of the Hypertext Transfer Protocol (HTTP).
+
+> HTTP 1.0 is a text-based protocol that relies on a connection-oriented approach, where a new connection is established for each request.
+
+> HTTP 2.0, on the other hand, is a binary protocol that uses multiplexing and header compression to improve performance.
+
+> HTTP 2.0 also introduces the concept of streams, which allow for multiple requests to be sent over a single connection.
+
+> This results in improved performance, reduced latency, and better resource utilization.
+
+> HTTP 2.0 is designed to be backward compatible with HTTP 1.1, but it offers several advantages over its predecessor.
+
+---
+
 ## 20260421 - What is the purpose of the `window.history.pushState()` method in a web browser?
 
 theme: **Browser APIs** • difficulty: **intermediate** • `javascript` `browser-apis` `web-development`

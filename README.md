@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the `window.history.pushState()` method in a web browser?
+### ❓ What are the main differences between the HTTP 1.0 and HTTP 2.0 protocols?
 
 </div>
 
 <div align="center">
 
-🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `javascript` `browser-apis` `web-development` • 📅 20260421
+🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `http-2` `web-development` `networking` • 📅 20260422
 
 </div>
 
@@ -46,7 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The `window.history.pushState()` method is used to update the URL in the browser's address bar without loading a new page. It allows you to manipulate the browser's session history and push a new state onto the browser's history stack. This can be useful for creating a single-page application (SPA) where you want to update the URL without causing a full page reload. The method takes two arguments: the new state object and a title for the new state. The state object can contain any data you want to store, such as the current page's data or the current user's session information.
+> HTTP 1.0 and HTTP 2.0 are two different versions of the Hypertext Transfer Protocol (HTTP).
+
+> HTTP 1.0 is a text-based protocol that relies on a connection-oriented approach, where a new connection is established for each request.
+
+> HTTP 2.0, on the other hand, is a binary protocol that uses multiplexing and header compression to improve performance.
+
+> HTTP 2.0 also introduces the concept of streams, which allow for multiple requests to be sent over a single connection.
+
+> This results in improved performance, reduced latency, and better resource utilization.
+
+> HTTP 2.0 is designed to be backward compatible with HTTP 1.1, but it offers several advantages over its predecessor.
 
 <br>
 
