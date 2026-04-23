@@ -2,11 +2,23 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260423 - What is the primary goal of a UI engineer when implementing accessibility features in a web application?
+## 20260423 - What are the key benefits of implementing a design system in a software development project?
 
-theme: **UI Engineering** • difficulty: **intermediate** • `accessibility` `ui-engineering` `web-development`
+theme: **Design Systems** • difficulty: **intermediate** • `design-systems` `software-development` `user-experience` `collaboration`
 
-> The primary goal of a UI engineer when implementing accessibility features in a web application is to ensure that the application is usable by people with disabilities, which includes providing screen reader support, high contrast mode, and keyboard navigability. This is achieved by following the Web Content Accessibility Guidelines (WCAG) and using technologies such as ARIA attributes, semantic HTML, and WAI-ARIA roles. By doing so, the UI engineer can make the application more inclusive and usable for a wider range of users. This includes users with visual impairments, motor disabilities, and cognitive disabilities. By implementing accessibility features, the UI engineer can also improve the overall user experience for all users, not just those with disabilities.
+> A design system provides several key benefits, including:
+
+> Improved consistency across the application
+
+> Reduced design debt and maintenance costs
+
+> Increased collaboration among designers and developers
+
+> Faster time-to-market for new features
+
+> Enhanced user experience through standardized design patterns
+
+> Better scalability and maintainability of the application
 
 ---
 
