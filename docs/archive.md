@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260423 - What is the primary goal of a UI engineer when implementing accessibility features in a web application?
+
+theme: **UI Engineering** • difficulty: **intermediate** • `accessibility` `ui-engineering` `web-development`
+
+> The primary goal of a UI engineer when implementing accessibility features in a web application is to ensure that the application is usable by people with disabilities, which includes providing screen reader support, high contrast mode, and keyboard navigability. This is achieved by following the Web Content Accessibility Guidelines (WCAG) and using technologies such as ARIA attributes, semantic HTML, and WAI-ARIA roles. By doing so, the UI engineer can make the application more inclusive and usable for a wider range of users. This includes users with visual impairments, motor disabilities, and cognitive disabilities. By implementing accessibility features, the UI engineer can also improve the overall user experience for all users, not just those with disabilities.
+
+---
+
 ## 20260422 - What is the main difference between a Cross-Site Scripting (XSS) attack and a Cross-Site Request Forgery (CSRF) attack?
 
 theme: **Web Security** • difficulty: **intermediate** • `web-security` `xss` `csrf` `security-threats`

@@ -71,5 +71,19 @@
     ],
     "type": "open",
     "createdAt": "2026-04-22T12:27:40.453Z"
+  },
+  {
+    "id": "20260423",
+    "question": "What is the primary goal of a UI engineer when implementing accessibility features in a web application?",
+    "answer": "The primary goal of a UI engineer when implementing accessibility features in a web application is to ensure that the application is usable by people with disabilities, which includes providing screen reader support, high contrast mode, and keyboard navigability. This is achieved by following the Web Content Accessibility Guidelines (WCAG) and using technologies such as ARIA attributes, semantic HTML, and WAI-ARIA roles. By doing so, the UI engineer can make the application more inclusive and usable for a wider range of users. This includes users with visual impairments, motor disabilities, and cognitive disabilities. By implementing accessibility features, the UI engineer can also improve the overall user experience for all users, not just those with disabilities.",
+    "theme": "UI Engineering",
+    "difficulty": "intermediate",
+    "tags": [
+      "accessibility",
+      "ui-engineering",
+      "web-development"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-23T00:44:15.925Z"
   }
 ]

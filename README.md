@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between a Cross-Site Scripting (XSS) attack and a Cross-Site Request Forgery (CSRF) attack?
+### ❓ What is the primary goal of a UI engineer when implementing accessibility features in a web application?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `web-security` `xss` `csrf` `security-threats` • 📅 20260422
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `accessibility` `ui-engineering` `web-development` • 📅 20260423
 
 </div>
 
@@ -46,11 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> XSS is an attack where an attacker injects malicious code into a website, which is then executed by the user's browser, whereas CSRF is an attack where an attacker tricks a user into performing an unintended action on a website they are authenticated with.
-
-> In XSS, the attacker's code is executed on the client-side, whereas in CSRF, the attacker's code is executed on the server-side.
-
-> XSS is often used to steal user data, while CSRF is often used to perform actions on behalf of the user without their knowledge.
+> The primary goal of a UI engineer when implementing accessibility features in a web application is to ensure that the application is usable by people with disabilities, which includes providing screen reader support, high contrast mode, and keyboard navigability. This is achieved by following the Web Content Accessibility Guidelines (WCAG) and using technologies such as ARIA attributes, semantic HTML, and WAI-ARIA roles. By doing so, the UI engineer can make the application more inclusive and usable for a wider range of users. This includes users with visual impairments, motor disabilities, and cognitive disabilities. By implementing accessibility features, the UI engineer can also improve the overall user experience for all users, not just those with disabilities.
 
 <br>
 
