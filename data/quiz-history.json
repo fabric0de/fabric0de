@@ -86,5 +86,19 @@
     ],
     "type": "open",
     "createdAt": "2026-04-23T12:27:28.543Z"
+  },
+  {
+    "id": "20260424",
+    "question": "What are the key principles of RESTful API design, and how do they improve the overall usability and maintainability of an API?",
+    "answer": "RESTful API design is based on the following key principles:\n\n1. Resource-based: The API is designed around resources, which are identified by URIs.\n2. Client-server architecture: The client and server are separate, with the client making requests to the server to access or modify resources.\n3. Stateless: Each request from the client to the server must contain all the information necessary to complete the request.\n4. Cacheable: Responses from the server can be cached by the client to reduce the number of requests made to the server.\n5. Uniform interface: The API uses a uniform interface for all requests and responses, making it easier for clients to understand and interact with the API.\n\nThese principles improve the usability and maintainability of an API by making it easier for clients to understand how to interact with the API, reducing the complexity of the API, and making it easier to scale and maintain the API over time.",
+    "theme": "API Design",
+    "difficulty": "intermediate",
+    "tags": [
+      "API Design",
+      "RESTful API",
+      "Software Architecture"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-24T00:44:18.049Z"
   }
 ]

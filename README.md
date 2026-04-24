@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the key benefits of implementing a design system in a software development project?
+### ❓ What are the key principles of RESTful API design, and how do they improve the overall usability and maintainability of an API?
 
 </div>
 
 <div align="center">
 
-🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design-systems` `software-development` `user-experience` `collaboration` • 📅 20260423
+🗓️ **API Design** • 🟡 **intermediate** • 🏷️ `API Design` `RESTful API` `Software Architecture` • 📅 20260424
 
 </div>
 
@@ -46,19 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A design system provides several key benefits, including:
+> RESTful API design is based on the following key principles:
 
-> Improved consistency across the application
+> 1. Resource-based: The API is designed around resources, which are identified by URIs.
 
-> Reduced design debt and maintenance costs
+> 2. Client-server architecture: The client and server are separate, with the client making requests to the server to access or modify resources.
 
-> Increased collaboration among designers and developers
+> 3. Stateless: Each request from the client to the server must contain all the information necessary to complete the request.
 
-> Faster time-to-market for new features
+> 4. Cacheable: Responses from the server can be cached by the client to reduce the number of requests made to the server.
 
-> Enhanced user experience through standardized design patterns
+> 5. Uniform interface: The API uses a uniform interface for all requests and responses, making it easier for clients to understand and interact with the API.
 
-> Better scalability and maintainability of the application
+> These principles improve the usability and maintainability of an API by making it easier for clients to understand how to interact with the API, reducing the complexity of the API, and making it easier to scale and maintain the API over time.
 
 <br>
 
