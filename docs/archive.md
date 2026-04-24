@@ -2,23 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260424 - What are the key principles of RESTful API design, and how do they improve the overall usability and maintainability of an API?
+## 20260424 - Design a system to handle a high volume of user registrations with unique usernames, while ensuring data consistency and scalability.
 
-theme: **API Design** • difficulty: **intermediate** • `API Design` `RESTful API` `Software Architecture`
+theme: **System Design** • difficulty: **intermediate** • `system design` `scalability` `database` `caching` `queue`
 
-> RESTful API design is based on the following key principles:
+> To handle a high volume of user registrations with unique usernames, a suitable system design could be implemented as follows:
 
-> 1. Resource-based: The API is designed around resources, which are identified by URIs.
+> 1. Use a distributed database such as Cassandra or MongoDB to store user data, allowing for horizontal scaling and high availability.
 
-> 2. Client-server architecture: The client and server are separate, with the client making requests to the server to access or modify resources.
+> 2. Implement a username validation mechanism using a Trie data structure to efficiently check for duplicate usernames.
 
-> 3. Stateless: Each request from the client to the server must contain all the information necessary to complete the request.
+> 3. Utilize a load balancer to distribute incoming registration requests across multiple application servers, ensuring no single point of failure.
 
-> 4. Cacheable: Responses from the server can be cached by the client to reduce the number of requests made to the server.
+> 4. Employ a caching layer, such as Redis, to store frequently accessed user data and reduce database queries.
 
-> 5. Uniform interface: The API uses a uniform interface for all requests and responses, making it easier for clients to understand and interact with the API.
-
-> These principles improve the usability and maintainability of an API by making it easier for clients to understand how to interact with the API, reducing the complexity of the API, and making it easier to scale and maintain the API over time.
+> 5. Implement a queue-based system, like RabbitMQ, to handle registration requests asynchronously and decouple the registration process from the database.
 
 ---
 
