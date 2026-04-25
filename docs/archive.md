@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260425 - What is the primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline?
+
+theme: **DevOps** • difficulty: **intermediate** • `DevOps` `Infrastructure as Code` `IaC` `Automation`
+
+> The primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline is to
+
+> automate the provisioning and management of infrastructure resources, such as virtual machines, networks, and databases, through code.
+
+> This allows for version control, reproducibility, and scalability of infrastructure, making it easier to manage and maintain complex systems.
+
+> IaC tools, such as Terraform and AWS CloudFormation, enable developers to define infrastructure configurations in a human-readable format, making it easier to collaborate and track changes.
+
+> By automating infrastructure provisioning, IaC reduces the risk of human error and increases the speed of deployment, making it a key component of a DevOps pipeline.
+
+---
+
 ## 20260424 - Design a system to handle a high volume of user registrations with unique usernames, while ensuring data consistency and scalability.
 
 theme: **System Design** • difficulty: **intermediate** • `system design` `scalability` `database` `caching` `queue`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ Design a system to handle a high volume of user registrations with unique usernames, while ensuring data consistency and scalability.
+### ❓ What is the primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline?
 
 </div>
 
 <div align="center">
 
-🗓️ **System Design** • 🟡 **intermediate** • 🏷️ `system design` `scalability` `database` `caching` `queue` • 📅 20260424
+🗓️ **DevOps** • 🟡 **intermediate** • 🏷️ `DevOps` `Infrastructure as Code` `IaC` `Automation` • 📅 20260425
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To handle a high volume of user registrations with unique usernames, a suitable system design could be implemented as follows:
+> The primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline is to
 
-> 1. Use a distributed database such as Cassandra or MongoDB to store user data, allowing for horizontal scaling and high availability.
+> automate the provisioning and management of infrastructure resources, such as virtual machines, networks, and databases, through code.
 
-> 2. Implement a username validation mechanism using a Trie data structure to efficiently check for duplicate usernames.
+> This allows for version control, reproducibility, and scalability of infrastructure, making it easier to manage and maintain complex systems.
 
-> 3. Utilize a load balancer to distribute incoming registration requests across multiple application servers, ensuring no single point of failure.
+> IaC tools, such as Terraform and AWS CloudFormation, enable developers to define infrastructure configurations in a human-readable format, making it easier to collaborate and track changes.
 
-> 4. Employ a caching layer, such as Redis, to store frequently accessed user data and reduce database queries.
-
-> 5. Implement a queue-based system, like RabbitMQ, to handle registration requests asynchronously and decouple the registration process from the database.
+> By automating infrastructure provisioning, IaC reduces the risk of human error and increases the speed of deployment, making it a key component of a DevOps pipeline.
 
 <br>
 
