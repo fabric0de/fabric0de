@@ -2,19 +2,23 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260425 - What is the primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline?
+## 20260425 - What is the primary purpose of a test-driven development (TDD) cycle, and how does it improve the overall quality of the code?
 
-theme: **DevOps** • difficulty: **intermediate** • `DevOps` `Infrastructure as Code` `IaC` `Automation`
+theme: **Testing** • difficulty: **intermediate** • `test-driven development` `TDD` `software testing` `quality assurance`
 
-> The primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline is to
+> The primary purpose of a test-driven development (TDD) cycle is to write automated tests before writing the actual code. This approach ensures that the code is testable, maintainable, and meets the required functionality. By following the TDD cycle, developers can catch bugs early, reduce technical debt, and improve the overall quality of the code. TDD also helps to ensure that the code is modular, reusable, and easy to understand. Additionally, it promotes a culture of testing and continuous improvement within the development team.
 
-> automate the provisioning and management of infrastructure resources, such as virtual machines, networks, and databases, through code.
+> In a TDD cycle, the process typically involves the following steps:
 
-> This allows for version control, reproducibility, and scalability of infrastructure, making it easier to manage and maintain complex systems.
+> 1. Write a test for a specific piece of functionality.
 
-> IaC tools, such as Terraform and AWS CloudFormation, enable developers to define infrastructure configurations in a human-readable format, making it easier to collaborate and track changes.
+> 2. Run the test and see it fail, as the code does not exist yet.
 
-> By automating infrastructure provisioning, IaC reduces the risk of human error and increases the speed of deployment, making it a key component of a DevOps pipeline.
+> 3. Write the minimum amount of code to pass the test.
+
+> 4. Refactor the code to make it clean and efficient.
+
+> 5. Repeat the process for the next piece of functionality.
 
 ---
 

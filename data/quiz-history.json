@@ -105,17 +105,17 @@
   },
   {
     "id": "20260425",
-    "question": "What is the primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline?",
-    "answer": "The primary goal of implementing Infrastructure as Code (IaC) in a DevOps pipeline is to\nautomate the provisioning and management of infrastructure resources, such as virtual machines, networks, and databases, through code.\nThis allows for version control, reproducibility, and scalability of infrastructure, making it easier to manage and maintain complex systems.\nIaC tools, such as Terraform and AWS CloudFormation, enable developers to define infrastructure configurations in a human-readable format, making it easier to collaborate and track changes.\nBy automating infrastructure provisioning, IaC reduces the risk of human error and increases the speed of deployment, making it a key component of a DevOps pipeline.",
-    "theme": "DevOps",
+    "question": "What is the primary purpose of a test-driven development (TDD) cycle, and how does it improve the overall quality of the code?",
+    "answer": "The primary purpose of a test-driven development (TDD) cycle is to write automated tests before writing the actual code. This approach ensures that the code is testable, maintainable, and meets the required functionality. By following the TDD cycle, developers can catch bugs early, reduce technical debt, and improve the overall quality of the code. TDD also helps to ensure that the code is modular, reusable, and easy to understand. Additionally, it promotes a culture of testing and continuous improvement within the development team.\n\nIn a TDD cycle, the process typically involves the following steps:\n1. Write a test for a specific piece of functionality.\n2. Run the test and see it fail, as the code does not exist yet.\n3. Write the minimum amount of code to pass the test.\n4. Refactor the code to make it clean and efficient.\n5. Repeat the process for the next piece of functionality.",
+    "theme": "Testing",
     "difficulty": "intermediate",
     "tags": [
-      "DevOps",
-      "Infrastructure as Code",
-      "IaC",
-      "Automation"
+      "test-driven development",
+      "TDD",
+      "software testing",
+      "quality assurance"
     ],
     "type": "open",
-    "createdAt": "2026-04-25T00:40:03.754Z"
+    "createdAt": "2026-04-25T12:18:47.266Z"
   }
 ]
