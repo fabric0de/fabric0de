@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ Write a function that takes a list of integers as input and returns the first pair of integers in the list that add up to a given target sum.
+### ❓ What is the main advantage of using a linked list over an array in terms of memory usage?
 
 </div>
 
 <div align="center">
 
-🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `algorithms` `data structures` `python` • 📅 20260426
+🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `linked lists` `arrays` `memory efficiency` `data structures` • 📅 20260426
 
 </div>
 
@@ -46,17 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> def two_sum(nums, target):
+> A linked list is more memory-efficient than an array because it only allocates memory for the nodes that are actually needed, whereas an array allocates a contiguous block of memory regardless of how much of it is used.
 
-> for i in range(len(nums)):
+> This is particularly useful when dealing with large datasets where the amount of data is not known in advance.
 
-> for j in range(i+1, len(nums)):
+> For example, in a database, a linked list can be used to store a large number of records, each with a variable amount of data, without wasting memory on unused space.
 
-> if nums[i] + nums[j] == target:
-
-> return [nums[i], nums[j]]
-
-> return None
+> In contrast, an array would require a fixed amount of memory to be allocated upfront, which can lead to memory waste if the data is not fully utilized.
 
 <br>
 
