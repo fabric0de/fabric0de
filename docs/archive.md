@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260426 - Write a function that takes a list of integers as input and returns the first pair of integers in the list that add up to a given target sum.
+
+theme: **Problem Solving** • difficulty: **intermediate** • `algorithms` `data structures` `python`
+
+> def two_sum(nums, target):
+
+> for i in range(len(nums)):
+
+> for j in range(i+1, len(nums)):
+
+> if nums[i] + nums[j] == target:
+
+> return [nums[i], nums[j]]
+
+> return None
+
+---
+
 ## 20260425 - What is the primary purpose of a test-driven development (TDD) cycle, and how does it improve the overall quality of the code?
 
 theme: **Testing** • difficulty: **intermediate** • `test-driven development` `TDD` `software testing` `quality assurance`

@@ -117,5 +117,19 @@
     ],
     "type": "open",
     "createdAt": "2026-04-25T12:18:47.266Z"
+  },
+  {
+    "id": "20260426",
+    "question": "Write a function that takes a list of integers as input and returns the first pair of integers in the list that add up to a given target sum.",
+    "answer": "def two_sum(nums, target):\n    for i in range(len(nums)):\n        for j in range(i+1, len(nums)):\n            if nums[i] + nums[j] == target:\n                return [nums[i], nums[j]]\n    return None",
+    "theme": "Problem Solving",
+    "difficulty": "intermediate",
+    "tags": [
+      "algorithms",
+      "data structures",
+      "python"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-26T00:44:29.266Z"
   }
 ]

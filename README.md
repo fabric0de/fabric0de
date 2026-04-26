@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of a test-driven development (TDD) cycle, and how does it improve the overall quality of the code?
+### ❓ Write a function that takes a list of integers as input and returns the first pair of integers in the list that add up to a given target sum.
 
 </div>
 
 <div align="center">
 
-🗓️ **Testing** • 🟡 **intermediate** • 🏷️ `test-driven development` `TDD` `software testing` `quality assurance` • 📅 20260425
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `algorithms` `data structures` `python` • 📅 20260426
 
 </div>
 
@@ -46,19 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The primary purpose of a test-driven development (TDD) cycle is to write automated tests before writing the actual code. This approach ensures that the code is testable, maintainable, and meets the required functionality. By following the TDD cycle, developers can catch bugs early, reduce technical debt, and improve the overall quality of the code. TDD also helps to ensure that the code is modular, reusable, and easy to understand. Additionally, it promotes a culture of testing and continuous improvement within the development team.
+> def two_sum(nums, target):
 
-> In a TDD cycle, the process typically involves the following steps:
+> for i in range(len(nums)):
 
-> 1. Write a test for a specific piece of functionality.
+> for j in range(i+1, len(nums)):
 
-> 2. Run the test and see it fail, as the code does not exist yet.
+> if nums[i] + nums[j] == target:
 
-> 3. Write the minimum amount of code to pass the test.
+> return [nums[i], nums[j]]
 
-> 4. Refactor the code to make it clean and efficient.
-
-> 5. Repeat the process for the next piece of functionality.
+> return None
 
 <br>
 
