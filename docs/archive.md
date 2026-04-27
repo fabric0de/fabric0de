@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260427 - How do you use the `read` command in Bash to read input from the user?
+
+theme: **Bash** • difficulty: **intermediate** • `bash` `shell scripting` `user input`
+
+> You can use the `read` command in Bash to read input from the user by using the following syntax:
+
+> read -p 'Enter your name: ' name
+
+> This will prompt the user to enter their name, and store it in the `name` variable.
+
+> You can also use the `-r` option to disable backslash escaping, and the `-n` option to specify the number of characters to read.
+
+> For example:
+
+> read -r -n 10 -p 'Enter your name: ' name
+
+> This will read the first 10 characters of the user's input and store it in the `name` variable.
+
+---
+
 ## 20260426 - What is the main advantage of using a linked list over an array in terms of memory usage?
 
 theme: **Data Structures** • difficulty: **intermediate** • `linked lists` `arrays` `memory efficiency` `data structures`

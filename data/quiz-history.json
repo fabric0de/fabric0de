@@ -132,5 +132,19 @@
     ],
     "type": "open",
     "createdAt": "2026-04-26T12:20:22.860Z"
+  },
+  {
+    "id": "20260427",
+    "question": "How do you use the `read` command in Bash to read input from the user?",
+    "answer": "You can use the `read` command in Bash to read input from the user by using the following syntax:\n\nread -p 'Enter your name: ' name\n\nThis will prompt the user to enter their name, and store it in the `name` variable.\n\nYou can also use the `-r` option to disable backslash escaping, and the `-n` option to specify the number of characters to read.\n\nFor example:\n\nread -r -n 10 -p 'Enter your name: ' name\n\nThis will read the first 10 characters of the user's input and store it in the `name` variable.",
+    "theme": "Bash",
+    "difficulty": "intermediate",
+    "tags": [
+      "bash",
+      "shell scripting",
+      "user input"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-27T00:44:47.400Z"
   }
 ]

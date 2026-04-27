@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main advantage of using a linked list over an array in terms of memory usage?
+### ❓ How do you use the `read` command in Bash to read input from the user?
 
 </div>
 
 <div align="center">
 
-🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `linked lists` `arrays` `memory efficiency` `data structures` • 📅 20260426
+🗓️ **Bash** • 🟡 **intermediate** • 🏷️ `bash` `shell scripting` `user input` • 📅 20260427
 
 </div>
 
@@ -46,13 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A linked list is more memory-efficient than an array because it only allocates memory for the nodes that are actually needed, whereas an array allocates a contiguous block of memory regardless of how much of it is used.
+> You can use the `read` command in Bash to read input from the user by using the following syntax:
 
-> This is particularly useful when dealing with large datasets where the amount of data is not known in advance.
+> read -p 'Enter your name: ' name
 
-> For example, in a database, a linked list can be used to store a large number of records, each with a variable amount of data, without wasting memory on unused space.
+> This will prompt the user to enter their name, and store it in the `name` variable.
 
-> In contrast, an array would require a fixed amount of memory to be allocated upfront, which can lead to memory waste if the data is not fully utilized.
+> You can also use the `-r` option to disable backslash escaping, and the `-n` option to specify the number of characters to read.
+
+> For example:
+
+> read -r -n 10 -p 'Enter your name: ' name
+
+> This will read the first 10 characters of the user's input and store it in the `name` variable.
 
 <br>
 
