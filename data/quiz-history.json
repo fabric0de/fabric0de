@@ -135,16 +135,16 @@
   },
   {
     "id": "20260427",
-    "question": "How do you use the `read` command in Bash to read input from the user?",
-    "answer": "You can use the `read` command in Bash to read input from the user by using the following syntax:\n\nread -p 'Enter your name: ' name\n\nThis will prompt the user to enter their name, and store it in the `name` variable.\n\nYou can also use the `-r` option to disable backslash escaping, and the `-n` option to specify the number of characters to read.\n\nFor example:\n\nread -r -n 10 -p 'Enter your name: ' name\n\nThis will read the first 10 characters of the user's input and store it in the `name` variable.",
-    "theme": "Bash",
+    "question": "How do you create a dictionary in Python and then access its elements?",
+    "answer": "You can create a dictionary in Python using the following syntax:\n\n`my_dict = {'key1': 'value1', 'key2': 'value2'}`\n\nTo access the elements of a dictionary, you can use the following methods:\n\n* `my_dict['key1']` to access a specific key-value pair\n* `my_dict.get('key1')` to access a specific key-value pair and return `None` if the key does not exist\n* `for key, value in my_dict.items():` to iterate over the key-value pairs\n* `for key in my_dict.keys():` to iterate over the keys\n* `for value in my_dict.values():` to iterate over the values\n\nNote: Dictionary keys must be immutable types, such as strings or integers.",
+    "theme": "Python",
     "difficulty": "intermediate",
     "tags": [
-      "bash",
-      "shell scripting",
-      "user input"
+      "python",
+      "data-structures",
+      "dictionary"
     ],
     "type": "open",
-    "createdAt": "2026-04-27T00:44:47.400Z"
+    "createdAt": "2026-04-27T12:38:47.149Z"
   }
 ]

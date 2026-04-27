@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How do you use the `read` command in Bash to read input from the user?
+### ❓ How do you create a dictionary in Python and then access its elements?
 
 </div>
 
 <div align="center">
 
-🗓️ **Bash** • 🟡 **intermediate** • 🏷️ `bash` `shell scripting` `user input` • 📅 20260427
+🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `data-structures` `dictionary` • 📅 20260427
 
 </div>
 
@@ -46,19 +46,23 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> You can use the `read` command in Bash to read input from the user by using the following syntax:
+> You can create a dictionary in Python using the following syntax:
 
-> read -p 'Enter your name: ' name
+> `my_dict = {'key1': 'value1', 'key2': 'value2'}`
 
-> This will prompt the user to enter their name, and store it in the `name` variable.
+> To access the elements of a dictionary, you can use the following methods:
 
-> You can also use the `-r` option to disable backslash escaping, and the `-n` option to specify the number of characters to read.
+> * `my_dict['key1']` to access a specific key-value pair
 
-> For example:
+> * `my_dict.get('key1')` to access a specific key-value pair and return `None` if the key does not exist
 
-> read -r -n 10 -p 'Enter your name: ' name
+> * `for key, value in my_dict.items():` to iterate over the key-value pairs
 
-> This will read the first 10 characters of the user's input and store it in the `name` variable.
+> * `for key in my_dict.keys():` to iterate over the keys
+
+> * `for value in my_dict.values():` to iterate over the values
+
+> Note: Dictionary keys must be immutable types, such as strings or integers.
 
 <br>
 
