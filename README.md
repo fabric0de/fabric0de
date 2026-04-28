@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How do you create a dictionary in Python and then access its elements?
+### ❓ What is the purpose of using semantic HTML elements, and how do they improve the accessibility and maintainability of a web page?
 
 </div>
 
 <div align="center">
 
-🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `data-structures` `dictionary` • 📅 20260427
+🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `accessibility` `maintainability` `seo` • 📅 20260428
 
 </div>
 
@@ -46,23 +46,23 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> You can create a dictionary in Python using the following syntax:
+> Semantic HTML elements are used to define the structure and meaning of content on a web page. They provide a clear and consistent way to identify the different parts of a web page, making it easier for search engines, screen readers, and other tools to understand the content. This improves the accessibility of the web page for users with disabilities and makes it easier for developers to maintain and update the code. Semantic HTML elements also improve the SEO of a web page by providing a clear hierarchy of content. For example, using the `<header>` element to define the header section of a web page, the `<nav>` element to define the navigation menu, and the `<main>` element to define the main content of the page.
 
-> `my_dict = {'key1': 'value1', 'key2': 'value2'}`
+> Some examples of semantic HTML elements include:
 
-> To access the elements of a dictionary, you can use the following methods:
+> * `<header>`: defines the header section of a web page
 
-> * `my_dict['key1']` to access a specific key-value pair
+> * `<nav>`: defines the navigation menu
 
-> * `my_dict.get('key1')` to access a specific key-value pair and return `None` if the key does not exist
+> * `<main>`: defines the main content of the page
 
-> * `for key, value in my_dict.items():` to iterate over the key-value pairs
+> * `<section>`: defines a self-contained section of related content
 
-> * `for key in my_dict.keys():` to iterate over the keys
+> * `<article>`: defines an independent piece of content
 
-> * `for value in my_dict.values():` to iterate over the values
+> * `<aside>`: defines a piece of content that is related to the main content but not essential to its understanding
 
-> Note: Dictionary keys must be immutable types, such as strings or integers.
+> * `<footer>`: defines the footer section of a web page
 
 <br>
 

@@ -2,6 +2,30 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260428 - What is the purpose of using semantic HTML elements, and how do they improve the accessibility and maintainability of a web page?
+
+theme: **HTML Semantics** • difficulty: **intermediate** • `html` `semantics` `accessibility` `maintainability` `seo`
+
+> Semantic HTML elements are used to define the structure and meaning of content on a web page. They provide a clear and consistent way to identify the different parts of a web page, making it easier for search engines, screen readers, and other tools to understand the content. This improves the accessibility of the web page for users with disabilities and makes it easier for developers to maintain and update the code. Semantic HTML elements also improve the SEO of a web page by providing a clear hierarchy of content. For example, using the `<header>` element to define the header section of a web page, the `<nav>` element to define the navigation menu, and the `<main>` element to define the main content of the page.
+
+> Some examples of semantic HTML elements include:
+
+> * `<header>`: defines the header section of a web page
+
+> * `<nav>`: defines the navigation menu
+
+> * `<main>`: defines the main content of the page
+
+> * `<section>`: defines a self-contained section of related content
+
+> * `<article>`: defines an independent piece of content
+
+> * `<aside>`: defines a piece of content that is related to the main content but not essential to its understanding
+
+> * `<footer>`: defines the footer section of a web page
+
+---
+
 ## 20260427 - How do you create a dictionary in Python and then access its elements?
 
 theme: **Python** • difficulty: **intermediate** • `python` `data-structures` `dictionary`
