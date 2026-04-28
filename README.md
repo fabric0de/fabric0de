@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of using semantic HTML elements, and how do they improve the accessibility and maintainability of a web page?
+### ❓ What is the difference between a static and dynamic website, and how does it affect the user experience?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `accessibility` `maintainability` `seo` • 📅 20260428
+🗓️ **Web** • 🟡 **intermediate** • 🏷️ `web development` `static vs dynamic` `user experience` • 📅 20260428
 
 </div>
 
@@ -46,23 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Semantic HTML elements are used to define the structure and meaning of content on a web page. They provide a clear and consistent way to identify the different parts of a web page, making it easier for search engines, screen readers, and other tools to understand the content. This improves the accessibility of the web page for users with disabilities and makes it easier for developers to maintain and update the code. Semantic HTML elements also improve the SEO of a web page by providing a clear hierarchy of content. For example, using the `<header>` element to define the header section of a web page, the `<nav>` element to define the navigation menu, and the `<main>` element to define the main content of the page.
+> A static website is a website that is built using pre-existing HTML files and does not change unless manually updated by the developer.
 
-> Some examples of semantic HTML elements include:
+> A dynamic website, on the other hand, uses server-side scripting to generate content and can change in real-time.
 
-> * `<header>`: defines the header section of a web page
+> This difference affects the user experience in that static websites are typically faster and more secure, but dynamic websites offer more interactive and personalized experiences.
 
-> * `<nav>`: defines the navigation menu
+> For example, a static website might be a simple blog with pre-written posts, while a dynamic website might be an e-commerce platform that updates prices and inventory in real-time.
 
-> * `<main>`: defines the main content of the page
+> In terms of development, static websites are often built using HTML, CSS, and JavaScript, while dynamic websites use server-side languages like PHP, Ruby, or Python, along with a database to store and retrieve data.
 
-> * `<section>`: defines a self-contained section of related content
-
-> * `<article>`: defines an independent piece of content
-
-> * `<aside>`: defines a piece of content that is related to the main content but not essential to its understanding
-
-> * `<footer>`: defines the footer section of a web page
+> Overall, the choice between a static and dynamic website depends on the specific needs and goals of the project.
 
 <br>
 
