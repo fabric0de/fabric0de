@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260429 - What is the primary function of an API Gateway in a microservices architecture?
+
+theme: **API Gateways** • difficulty: **intermediate** • `API Gateway` `Microservices` `Architecture` `Software Design`
+
+> An API Gateway acts as an entry point for clients to access multiple microservices, handling tasks such as request routing, authentication, and rate limiting. It provides a single interface for clients to interact with the system, making it easier to manage and scale the microservices. The API Gateway can also perform tasks such as caching, content compression, and SSL termination. This helps to improve the overall performance and security of the system. By acting as a single entry point, the API Gateway can also help to simplify the client-side code and reduce the complexity of the system.
+
+---
+
 ## 20260428 - What is the difference between a static and dynamic website, and how does it affect the user experience?
 
 theme: **Web** • difficulty: **intermediate** • `web development` `static vs dynamic` `user experience`

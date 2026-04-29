@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a static and dynamic website, and how does it affect the user experience?
+### ❓ What is the primary function of an API Gateway in a microservices architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web** • 🟡 **intermediate** • 🏷️ `web development` `static vs dynamic` `user experience` • 📅 20260428
+🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateway` `Microservices` `Architecture` `Software Design` • 📅 20260429
 
 </div>
 
@@ -46,17 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A static website is a website that is built using pre-existing HTML files and does not change unless manually updated by the developer.
-
-> A dynamic website, on the other hand, uses server-side scripting to generate content and can change in real-time.
-
-> This difference affects the user experience in that static websites are typically faster and more secure, but dynamic websites offer more interactive and personalized experiences.
-
-> For example, a static website might be a simple blog with pre-written posts, while a dynamic website might be an e-commerce platform that updates prices and inventory in real-time.
-
-> In terms of development, static websites are often built using HTML, CSS, and JavaScript, while dynamic websites use server-side languages like PHP, Ruby, or Python, along with a database to store and retrieve data.
-
-> Overall, the choice between a static and dynamic website depends on the specific needs and goals of the project.
+> An API Gateway acts as an entry point for clients to access multiple microservices, handling tasks such as request routing, authentication, and rate limiting. It provides a single interface for clients to interact with the system, making it easier to manage and scale the microservices. The API Gateway can also perform tasks such as caching, content compression, and SSL termination. This helps to improve the overall performance and security of the system. By acting as a single entry point, the API Gateway can also help to simplify the client-side code and reduce the complexity of the system.
 
 <br>
 
