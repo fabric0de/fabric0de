@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of an API Gateway in a microservices architecture?
+### ❓ What is the main difference between a cache hit and a cache miss in the context of caching?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateway` `Microservices` `Architecture` `Software Design` • 📅 20260429
+🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `performance` `efficiency` • 📅 20260429
 
 </div>
 
@@ -46,7 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> An API Gateway acts as an entry point for clients to access multiple microservices, handling tasks such as request routing, authentication, and rate limiting. It provides a single interface for clients to interact with the system, making it easier to manage and scale the microservices. The API Gateway can also perform tasks such as caching, content compression, and SSL termination. This helps to improve the overall performance and security of the system. By acting as a single entry point, the API Gateway can also help to simplify the client-side code and reduce the complexity of the system.
+> What is the main difference between a cache hit and a cache miss in the context of caching?
+
+> A cache hit occurs when the requested data is already present in the cache.
+
+> A cache miss occurs when the requested data is not present in the cache.
+
+> In a cache hit, the data is retrieved from the cache, whereas in a cache miss, the data is retrieved from the original source.
+
+> This difference affects the performance and efficiency of the caching system.
 
 <br>
 

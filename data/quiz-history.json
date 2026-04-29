@@ -162,18 +162,17 @@
     "createdAt": "2026-04-28T12:42:03.604Z"
   },
   {
-    "id": "20260429",
-    "question": "What is the primary function of an API Gateway in a microservices architecture?",
-    "answer": "An API Gateway acts as an entry point for clients to access multiple microservices, handling tasks such as request routing, authentication, and rate limiting. It provides a single interface for clients to interact with the system, making it easier to manage and scale the microservices. The API Gateway can also perform tasks such as caching, content compression, and SSL termination. This helps to improve the overall performance and security of the system. By acting as a single entry point, the API Gateway can also help to simplify the client-side code and reduce the complexity of the system.",
-    "theme": "API Gateways",
+    "answer": "What is the main difference between a cache hit and a cache miss in the context of caching?\nA cache hit occurs when the requested data is already present in the cache.\nA cache miss occurs when the requested data is not present in the cache.\nIn a cache hit, the data is retrieved from the cache, whereas in a cache miss, the data is retrieved from the original source.\nThis difference affects the performance and efficiency of the caching system.\n",
     "difficulty": "intermediate",
+    "question": "What is the main difference between a cache hit and a cache miss in the context of caching?",
     "tags": [
-      "API Gateway",
-      "Microservices",
-      "Architecture",
-      "Software Design"
+      "caching",
+      "performance",
+      "efficiency"
     ],
+    "theme": "Caching",
     "type": "open",
-    "createdAt": "2026-04-29T00:48:34.514Z"
+    "id": "20260429",
+    "createdAt": "2026-04-29T12:39:11.029Z"
   }
 ]
