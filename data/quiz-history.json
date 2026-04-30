@@ -176,17 +176,18 @@
     "createdAt": "2026-04-29T12:39:11.029Z"
   },
   {
-    "id": "20260430",
-    "question": "How do you select an HTML element by its class using CSS?",
-    "answer": ".class-name {\n  /* styles go here */\n}\n\nYou can also select multiple classes by separating them with a dot, like this: .class1.class2 {\n  /* styles go here */\n}\n\nTo select an element with a specific attribute, you can use the attribute selector, like this: [attribute='value'] {\n  /* styles go here */\n}",
-    "theme": "CSS",
+    "answer": "What is the primary difference between a mobile-first and a desktop-first approach in responsive design?\nIn a mobile-first approach, the layout and design are created for smaller screens first, and then scaled up for larger screens.\nIn a desktop-first approach, the layout and design are created for larger screens first, and then scaled down for smaller screens.\nMobile-first is generally considered a more efficient and effective approach, as it allows for a more streamlined and intuitive user experience on smaller screens.\nThis approach also helps to reduce the amount of code and complexity, making it easier to maintain and update the design.\nDesktop-first, on the other hand, can result in a more complex and bloated design, with more code and complexity.",
     "difficulty": "intermediate",
+    "question": "What is the primary difference between a mobile-first and a desktop-first approach in responsive design?",
     "tags": [
-      "css",
-      "selectors",
-      "html"
+      "Responsive Design",
+      "Mobile-First",
+      "Desktop-First",
+      "Web Development"
     ],
+    "theme": "Responsive Design",
     "type": "open",
-    "createdAt": "2026-04-30T00:48:15.159Z"
+    "id": "20260430",
+    "createdAt": "2026-04-30T12:38:24.078Z"
   }
 ]

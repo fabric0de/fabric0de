@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How do you select an HTML element by its class using CSS?
+### ❓ What is the primary difference between a mobile-first and a desktop-first approach in responsive design?
 
 </div>
 
 <div align="center">
 
-🗓️ **CSS** • 🟡 **intermediate** • 🏷️ `css` `selectors` `html` • 📅 20260430
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `Mobile-First` `Desktop-First` `Web Development` • 📅 20260430
 
 </div>
 
@@ -46,23 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> .class-name {
+> What is the primary difference between a mobile-first and a desktop-first approach in responsive design?
 
-> /* styles go here */
+> In a mobile-first approach, the layout and design are created for smaller screens first, and then scaled up for larger screens.
 
-> }
+> In a desktop-first approach, the layout and design are created for larger screens first, and then scaled down for smaller screens.
 
-> You can also select multiple classes by separating them with a dot, like this: .class1.class2 {
+> Mobile-first is generally considered a more efficient and effective approach, as it allows for a more streamlined and intuitive user experience on smaller screens.
 
-> /* styles go here */
+> This approach also helps to reduce the amount of code and complexity, making it easier to maintain and update the design.
 
-> }
-
-> To select an element with a specific attribute, you can use the attribute selector, like this: [attribute='value'] {
-
-> /* styles go here */
-
-> }
+> Desktop-first, on the other hand, can result in a more complex and bloated design, with more code and complexity.
 
 <br>
 
