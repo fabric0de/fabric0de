@@ -2,6 +2,30 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260430 - How do you select an HTML element by its class using CSS?
+
+theme: **CSS** • difficulty: **intermediate** • `css` `selectors` `html`
+
+> .class-name {
+
+> /* styles go here */
+
+> }
+
+> You can also select multiple classes by separating them with a dot, like this: .class1.class2 {
+
+> /* styles go here */
+
+> }
+
+> To select an element with a specific attribute, you can use the attribute selector, like this: [attribute='value'] {
+
+> /* styles go here */
+
+> }
+
+---
+
 ## 20260429 - What is the main difference between a cache hit and a cache miss in the context of caching?
 
 theme: **Caching** • difficulty: **intermediate** • `caching` `performance` `efficiency`

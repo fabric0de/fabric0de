@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between a cache hit and a cache miss in the context of caching?
+### ❓ How do you select an HTML element by its class using CSS?
 
 </div>
 
 <div align="center">
 
-🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `performance` `efficiency` • 📅 20260429
+🗓️ **CSS** • 🟡 **intermediate** • 🏷️ `css` `selectors` `html` • 📅 20260430
 
 </div>
 
@@ -46,15 +46,23 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between a cache hit and a cache miss in the context of caching?
+> .class-name {
 
-> A cache hit occurs when the requested data is already present in the cache.
+> /* styles go here */
 
-> A cache miss occurs when the requested data is not present in the cache.
+> }
 
-> In a cache hit, the data is retrieved from the cache, whereas in a cache miss, the data is retrieved from the original source.
+> You can also select multiple classes by separating them with a dot, like this: .class1.class2 {
 
-> This difference affects the performance and efficiency of the caching system.
+> /* styles go here */
+
+> }
+
+> To select an element with a specific attribute, you can use the attribute selector, like this: [attribute='value'] {
+
+> /* styles go here */
+
+> }
 
 <br>
 

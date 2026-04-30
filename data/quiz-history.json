@@ -174,5 +174,19 @@
     "type": "open",
     "id": "20260429",
     "createdAt": "2026-04-29T12:39:11.029Z"
+  },
+  {
+    "id": "20260430",
+    "question": "How do you select an HTML element by its class using CSS?",
+    "answer": ".class-name {\n  /* styles go here */\n}\n\nYou can also select multiple classes by separating them with a dot, like this: .class1.class2 {\n  /* styles go here */\n}\n\nTo select an element with a specific attribute, you can use the attribute selector, like this: [attribute='value'] {\n  /* styles go here */\n}",
+    "theme": "CSS",
+    "difficulty": "intermediate",
+    "tags": [
+      "css",
+      "selectors",
+      "html"
+    ],
+    "type": "open",
+    "createdAt": "2026-04-30T00:48:15.159Z"
   }
 ]
