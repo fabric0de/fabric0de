@@ -2,19 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260501 - What is the primary function of an index in a database, and how does it improve query performance?
+## 20260501 - When designing a RESTful API, what are the key principles that guide the creation of resource identifiers, and how do they impact the overall API's discoverability and usability?
 
-theme: **Databases** • difficulty: **intermediate** • `database` `indexing` `query performance`
+theme: **API Design** • difficulty: **intermediate** • `API Design` `RESTful API` `Resource Identifiers`
 
-> An index in a database is a data structure that improves query performance by allowing the database to quickly locate specific data.
+> When designing a RESTful API, the key principles that guide the creation of resource identifiers are:
 
-> It works by creating a separate data structure that maps key values to the locations of the corresponding data in the database.
+> 1. Use nouns to identify resources, rather than verbs.
 
-> This allows the database to quickly find the required data without having to scan the entire database.
+> 2. Use a consistent naming convention throughout the API.
 
-> Indexes can be created on one or more columns of a table, and they can be used to speed up queries that filter or sort data based on those columns.
+> 3. Use a hierarchical structure to organize resources.
 
-> For example, creating an index on a column used in a WHERE clause can significantly speed up the query performance.
+> 4. Use a unique identifier for each resource.
+
+> These principles help to improve the discoverability and usability of the API by making it easier for clients to understand the structure and relationships between resources.
 
 ---
 

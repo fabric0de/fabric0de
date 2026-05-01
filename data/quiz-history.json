@@ -192,16 +192,16 @@
   },
   {
     "id": "20260501",
-    "question": "What is the primary function of an index in a database, and how does it improve query performance?",
-    "answer": "An index in a database is a data structure that improves query performance by allowing the database to quickly locate specific data. \nIt works by creating a separate data structure that maps key values to the locations of the corresponding data in the database. \nThis allows the database to quickly find the required data without having to scan the entire database. \nIndexes can be created on one or more columns of a table, and they can be used to speed up queries that filter or sort data based on those columns. \nFor example, creating an index on a column used in a WHERE clause can significantly speed up the query performance.",
-    "theme": "Databases",
+    "question": "When designing a RESTful API, what are the key principles that guide the creation of resource identifiers, and how do they impact the overall API's discoverability and usability?",
+    "answer": "When designing a RESTful API, the key principles that guide the creation of resource identifiers are:\n\n1. Use nouns to identify resources, rather than verbs.\n2. Use a consistent naming convention throughout the API.\n3. Use a hierarchical structure to organize resources.\n4. Use a unique identifier for each resource.\n\nThese principles help to improve the discoverability and usability of the API by making it easier for clients to understand the structure and relationships between resources.",
+    "theme": "API Design",
     "difficulty": "intermediate",
     "tags": [
-      "database",
-      "indexing",
-      "query performance"
+      "API Design",
+      "RESTful API",
+      "Resource Identifiers"
     ],
     "type": "open",
-    "createdAt": "2026-05-01T00:51:09.113Z"
+    "createdAt": "2026-05-01T12:26:30.641Z"
   }
 ]
