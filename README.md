@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary difference between a mobile-first and a desktop-first approach in responsive design?
+### ❓ What is the primary function of an index in a database, and how does it improve query performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `Mobile-First` `Desktop-First` `Web Development` • 📅 20260430
+🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `database` `indexing` `query performance` • 📅 20260501
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary difference between a mobile-first and a desktop-first approach in responsive design?
+> An index in a database is a data structure that improves query performance by allowing the database to quickly locate specific data.
 
-> In a mobile-first approach, the layout and design are created for smaller screens first, and then scaled up for larger screens.
+> It works by creating a separate data structure that maps key values to the locations of the corresponding data in the database.
 
-> In a desktop-first approach, the layout and design are created for larger screens first, and then scaled down for smaller screens.
+> This allows the database to quickly find the required data without having to scan the entire database.
 
-> Mobile-first is generally considered a more efficient and effective approach, as it allows for a more streamlined and intuitive user experience on smaller screens.
+> Indexes can be created on one or more columns of a table, and they can be used to speed up queries that filter or sort data based on those columns.
 
-> This approach also helps to reduce the amount of code and complexity, making it easier to maintain and update the design.
-
-> Desktop-first, on the other hand, can result in a more complex and bloated design, with more code and complexity.
+> For example, creating an index on a column used in a WHERE clause can significantly speed up the query performance.
 
 <br>
 

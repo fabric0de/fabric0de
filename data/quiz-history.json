@@ -189,5 +189,19 @@
     "type": "open",
     "id": "20260430",
     "createdAt": "2026-04-30T12:38:24.078Z"
+  },
+  {
+    "id": "20260501",
+    "question": "What is the primary function of an index in a database, and how does it improve query performance?",
+    "answer": "An index in a database is a data structure that improves query performance by allowing the database to quickly locate specific data. \nIt works by creating a separate data structure that maps key values to the locations of the corresponding data in the database. \nThis allows the database to quickly find the required data without having to scan the entire database. \nIndexes can be created on one or more columns of a table, and they can be used to speed up queries that filter or sort data based on those columns. \nFor example, creating an index on a column used in a WHERE clause can significantly speed up the query performance.",
+    "theme": "Databases",
+    "difficulty": "intermediate",
+    "tags": [
+      "database",
+      "indexing",
+      "query performance"
+    ],
+    "type": "open",
+    "createdAt": "2026-05-01T00:51:09.113Z"
   }
 ]

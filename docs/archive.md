@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260501 - What is the primary function of an index in a database, and how does it improve query performance?
+
+theme: **Databases** • difficulty: **intermediate** • `database` `indexing` `query performance`
+
+> An index in a database is a data structure that improves query performance by allowing the database to quickly locate specific data.
+
+> It works by creating a separate data structure that maps key values to the locations of the corresponding data in the database.
+
+> This allows the database to quickly find the required data without having to scan the entire database.
+
+> Indexes can be created on one or more columns of a table, and they can be used to speed up queries that filter or sort data based on those columns.
+
+> For example, creating an index on a column used in a WHERE clause can significantly speed up the query performance.
+
+---
+
 ## 20260430 - What is the primary difference between a mobile-first and a desktop-first approach in responsive design?
 
 theme: **Responsive Design** • difficulty: **intermediate** • `Responsive Design` `Mobile-First` `Desktop-First` `Web Development`
