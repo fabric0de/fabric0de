@@ -205,17 +205,18 @@
     "createdAt": "2026-05-01T12:26:30.641Z"
   },
   {
-    "answer": "In object-oriented programming, a pattern is a reusable design that solves a common problem. \nIt is a blueprint or template that defines how to solve a particular problem, making it easier to implement and maintain.\n\nExamples of design patterns include the Singleton pattern, the Factory pattern, and the Observer pattern.\n\nDesign patterns are categorized into three main types: creational, structural, and behavioral.\n\nCreational patterns focus on object creation, such as the Singleton pattern.\n\nStructural patterns focus on object composition, such as the Adapter pattern.\n\nBehavioral patterns focus on object interaction, such as the Observer pattern.",
-    "difficulty": "intermediate",
-    "question": "What is a design pattern in object-oriented programming, and how are they categorized?",
-    "tags": [
-      "Architecture",
-      "Design Patterns",
-      "Object-Oriented Programming"
-    ],
-    "theme": "Architecture",
-    "type": "open",
     "id": "20260502",
-    "createdAt": "2026-05-02T00:46:09.332Z"
+    "question": "What are some common techniques for optimizing database queries to improve application performance?",
+    "answer": "Some common techniques for optimizing database queries include:\n\n1. Indexing: Creating indexes on columns used in WHERE, JOIN, and ORDER BY clauses can significantly speed up query performance.\n2. Query optimization: Analyzing and rewriting queries to reduce the number of joins, subqueries, and other operations that can slow down performance.\n3. Caching: Storing frequently accessed data in memory or a cache layer to reduce the number of database queries.\n4. Connection pooling: Reusing database connections to reduce the overhead of creating and closing connections.\n5. Regular maintenance: Regularly updating statistics, rebuilding indexes, and running maintenance tasks to ensure optimal database performance.\n\nBy applying these techniques, developers can significantly improve the performance of their applications and reduce the load on the database.",
+    "theme": "Performance Tuning",
+    "difficulty": "intermediate",
+    "tags": [
+      "database",
+      "performance",
+      "optimization",
+      "sql"
+    ],
+    "type": "open",
+    "createdAt": "2026-05-02T12:23:00.409Z"
   }
 ]

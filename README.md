@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a design pattern in object-oriented programming, and how are they categorized?
+### ❓ What are some common techniques for optimizing database queries to improve application performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Design Patterns` `Object-Oriented Programming` • 📅 20260502
+🗓️ **Performance Tuning** • 🟡 **intermediate** • 🏷️ `database` `performance` `optimization` `sql` • 📅 20260502
 
 </div>
 
@@ -46,19 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In object-oriented programming, a pattern is a reusable design that solves a common problem.
+> Some common techniques for optimizing database queries include:
 
-> It is a blueprint or template that defines how to solve a particular problem, making it easier to implement and maintain.
+> 1. Indexing: Creating indexes on columns used in WHERE, JOIN, and ORDER BY clauses can significantly speed up query performance.
 
-> Examples of design patterns include the Singleton pattern, the Factory pattern, and the Observer pattern.
+> 2. Query optimization: Analyzing and rewriting queries to reduce the number of joins, subqueries, and other operations that can slow down performance.
 
-> Design patterns are categorized into three main types: creational, structural, and behavioral.
+> 3. Caching: Storing frequently accessed data in memory or a cache layer to reduce the number of database queries.
 
-> Creational patterns focus on object creation, such as the Singleton pattern.
+> 4. Connection pooling: Reusing database connections to reduce the overhead of creating and closing connections.
 
-> Structural patterns focus on object composition, such as the Adapter pattern.
+> 5. Regular maintenance: Regularly updating statistics, rebuilding indexes, and running maintenance tasks to ensure optimal database performance.
 
-> Behavioral patterns focus on object interaction, such as the Observer pattern.
+> By applying these techniques, developers can significantly improve the performance of their applications and reduce the load on the database.
 
 <br>
 
