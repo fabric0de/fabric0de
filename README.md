@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ When designing a RESTful API, what are the key principles that guide the creation of resource identifiers, and how do they impact the overall API's discoverability and usability?
+### ❓ What is a design pattern in object-oriented programming, and how are they categorized?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Design** • 🟡 **intermediate** • 🏷️ `API Design` `RESTful API` `Resource Identifiers` • 📅 20260501
+🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Design Patterns` `Object-Oriented Programming` • 📅 20260502
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> When designing a RESTful API, the key principles that guide the creation of resource identifiers are:
+> In object-oriented programming, a pattern is a reusable design that solves a common problem.
 
-> 1. Use nouns to identify resources, rather than verbs.
+> It is a blueprint or template that defines how to solve a particular problem, making it easier to implement and maintain.
 
-> 2. Use a consistent naming convention throughout the API.
+> Examples of design patterns include the Singleton pattern, the Factory pattern, and the Observer pattern.
 
-> 3. Use a hierarchical structure to organize resources.
+> Design patterns are categorized into three main types: creational, structural, and behavioral.
 
-> 4. Use a unique identifier for each resource.
+> Creational patterns focus on object creation, such as the Singleton pattern.
 
-> These principles help to improve the discoverability and usability of the API by making it easier for clients to understand the structure and relationships between resources.
+> Structural patterns focus on object composition, such as the Adapter pattern.
+
+> Behavioral patterns focus on object interaction, such as the Observer pattern.
 
 <br>
 

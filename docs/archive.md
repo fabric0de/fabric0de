@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260502 - What is a design pattern in object-oriented programming, and how are they categorized?
+
+theme: **Architecture** • difficulty: **intermediate** • `Architecture` `Design Patterns` `Object-Oriented Programming`
+
+> In object-oriented programming, a pattern is a reusable design that solves a common problem.
+
+> It is a blueprint or template that defines how to solve a particular problem, making it easier to implement and maintain.
+
+> Examples of design patterns include the Singleton pattern, the Factory pattern, and the Observer pattern.
+
+> Design patterns are categorized into three main types: creational, structural, and behavioral.
+
+> Creational patterns focus on object creation, such as the Singleton pattern.
+
+> Structural patterns focus on object composition, such as the Adapter pattern.
+
+> Behavioral patterns focus on object interaction, such as the Observer pattern.
+
+---
+
 ## 20260501 - When designing a RESTful API, what are the key principles that guide the creation of resource identifiers, and how do they impact the overall API's discoverability and usability?
 
 theme: **API Design** • difficulty: **intermediate** • `API Design` `RESTful API` `Resource Identifiers`
