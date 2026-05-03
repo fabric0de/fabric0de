@@ -2,11 +2,17 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260503 - Explain the Big O notation and its significance in measuring the time complexity of an algorithm.
+## 20260503 - What is the main difference between a thread and a process in the context of concurrency, and how do they interact with each other?
 
-theme: **Complexity Analysis** • difficulty: **intermediate** • `algorithm` `time complexity` `big o notation`
+theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `synchronization`
 
-> Big O notation is a mathematical notation that describes the upper bound of an algorithm's time or space complexity. It's a way to express the worst-case scenario of an algorithm's performance, usually expressed as a function of the input size. The significance of Big O notation lies in its ability to predict an algorithm's performance under large input sizes. For example, an algorithm with a time complexity of O(n^2) will become impractically slow for large inputs, while an algorithm with a time complexity of O(log n) will remain efficient even for large inputs. Understanding Big O notation is crucial in software development as it helps developers make informed decisions about algorithm design and optimization.
+> A thread is a lightweight process that shares the same memory space as other threads within the same process.
+
+> A process, on the other hand, is a separate entity that has its own memory space.
+
+> In a multithreaded program, threads can communicate with each other through shared memory, but they also need to be synchronized to avoid conflicts.
+
+> This is typically achieved through synchronization primitives such as locks, semaphores, or monitors.
 
 ---
 
