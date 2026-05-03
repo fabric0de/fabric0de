@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some common techniques for optimizing database queries to improve application performance?
+### ❓ Explain the Big O notation and its significance in measuring the time complexity of an algorithm.
 
 </div>
 
 <div align="center">
 
-🗓️ **Performance Tuning** • 🟡 **intermediate** • 🏷️ `database` `performance` `optimization` `sql` • 📅 20260502
+🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `algorithm` `time complexity` `big o notation` • 📅 20260503
 
 </div>
 
@@ -46,19 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Some common techniques for optimizing database queries include:
-
-> 1. Indexing: Creating indexes on columns used in WHERE, JOIN, and ORDER BY clauses can significantly speed up query performance.
-
-> 2. Query optimization: Analyzing and rewriting queries to reduce the number of joins, subqueries, and other operations that can slow down performance.
-
-> 3. Caching: Storing frequently accessed data in memory or a cache layer to reduce the number of database queries.
-
-> 4. Connection pooling: Reusing database connections to reduce the overhead of creating and closing connections.
-
-> 5. Regular maintenance: Regularly updating statistics, rebuilding indexes, and running maintenance tasks to ensure optimal database performance.
-
-> By applying these techniques, developers can significantly improve the performance of their applications and reduce the load on the database.
+> Big O notation is a mathematical notation that describes the upper bound of an algorithm's time or space complexity. It's a way to express the worst-case scenario of an algorithm's performance, usually expressed as a function of the input size. The significance of Big O notation lies in its ability to predict an algorithm's performance under large input sizes. For example, an algorithm with a time complexity of O(n^2) will become impractically slow for large inputs, while an algorithm with a time complexity of O(log n) will remain efficient even for large inputs. Understanding Big O notation is crucial in software development as it helps developers make informed decisions about algorithm design and optimization.
 
 <br>
 
