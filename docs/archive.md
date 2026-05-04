@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260504 - How do you use the `read` command in Bash to read input from the user and store it in a variable?
+
+theme: **Bash** • difficulty: **beginner** • `bash` `shell scripting` `input/output`
+
+> You can use the `read` command in Bash to read input from the user and store it in a variable by using the following syntax:
+
+> read -p 'Enter your name: ' name
+
+> This will prompt the user to enter their name and store it in the `name` variable.
+
+> Alternatively, you can also use the `-r` option to disable backslash escaping and the `-p` option to specify a prompt message:
+
+> read -r -p 'Enter your name: ' name
+
+> This will achieve the same result as the previous example.
+
+---
+
 ## 20260503 - What is the main difference between a thread and a process in the context of concurrency, and how do they interact with each other?
 
 theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `synchronization`

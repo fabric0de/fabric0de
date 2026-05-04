@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between a thread and a process in the context of concurrency, and how do they interact with each other?
+### ❓ How do you use the `read` command in Bash to read input from the user and store it in a variable?
 
 </div>
 
 <div align="center">
 
-🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `concurrency` `multithreading` `synchronization` • 📅 20260503
+🗓️ **Bash** • 🟢 **beginner** • 🏷️ `bash` `shell scripting` `input/output` • 📅 20260504
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A thread is a lightweight process that shares the same memory space as other threads within the same process.
+> You can use the `read` command in Bash to read input from the user and store it in a variable by using the following syntax:
 
-> A process, on the other hand, is a separate entity that has its own memory space.
+> read -p 'Enter your name: ' name
 
-> In a multithreaded program, threads can communicate with each other through shared memory, but they also need to be synchronized to avoid conflicts.
+> This will prompt the user to enter their name and store it in the `name` variable.
 
-> This is typically achieved through synchronization primitives such as locks, semaphores, or monitors.
+> Alternatively, you can also use the `-r` option to disable backslash escaping and the `-p` option to specify a prompt message:
+
+> read -r -p 'Enter your name: ' name
+
+> This will achieve the same result as the previous example.
 
 <br>
 
