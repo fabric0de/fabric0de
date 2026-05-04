@@ -235,16 +235,16 @@
   },
   {
     "id": "20260504",
-    "question": "How do you use the `read` command in Bash to read input from the user and store it in a variable?",
-    "answer": "You can use the `read` command in Bash to read input from the user and store it in a variable by using the following syntax:\n\nread -p 'Enter your name: ' name\n\nThis will prompt the user to enter their name and store it in the `name` variable.\n\nAlternatively, you can also use the `-r` option to disable backslash escaping and the `-p` option to specify a prompt message:\n\nread -r -p 'Enter your name: ' name\n\nThis will achieve the same result as the previous example.",
-    "theme": "Bash",
-    "difficulty": "beginner",
+    "question": "Write a SQL query to retrieve all orders from a database table where the order total is greater than $1000.",
+    "answer": "SELECT * FROM orders WHERE total > 1000;\nThis query will return all rows from the orders table where the total column value is greater than 1000.\nNote that this assumes that the total column is of a numeric data type.\nIf the total column is of a string data type, you may need to modify the query to use a numeric comparison, such as:\nSELECT * FROM orders WHERE STR_TO_DATE(total, '%f') > 1000;",
+    "theme": "SQL",
+    "difficulty": "intermediate",
     "tags": [
-      "bash",
-      "shell scripting",
-      "input/output"
+      "sql",
+      "database",
+      "query"
     ],
     "type": "open",
-    "createdAt": "2026-05-04T00:48:25.064Z"
+    "createdAt": "2026-05-04T12:40:24.055Z"
   }
 ]
