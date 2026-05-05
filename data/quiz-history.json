@@ -248,17 +248,18 @@
     "createdAt": "2026-05-04T12:40:24.055Z"
   },
   {
-    "answer": "In rendering, what is the difference between a rasterizer and a ray caster?\nA rasterizer is a rendering engine that divides the 3D scene into small pixels and calculates the color of each pixel based on the objects it intersects.\nA ray caster, on the other hand, simulates the path of light rays as they bounce off objects in the scene.\nRasterizers are generally faster and more efficient, but may produce less realistic results.\nRay casters, while more computationally expensive, can produce highly realistic images with accurate lighting and reflections.\nWhich one is used in a typical game engine?",
+    "answer": "A screen reader is a software program that reads out the text on a screen to a user who is blind or has low vision. It can be used in conjunction with a keyboard to navigate through a website or application. Screen readers can be set to read out different types of content, such as headings, links, and form fields. They can also be customized to read out content in different voices and at different speeds. This technology is an important part of web accessibility, as it allows users with visual impairments to access and use digital information.\n\nSome popular screen readers include JAWS, NVDA, and VoiceOver.",
     "difficulty": "intermediate",
-    "question": "What are the key differences between a rasterizer and a ray caster in rendering?",
+    "question": "What is a screen reader and how does it contribute to web accessibility?",
     "tags": [
-      "Rendering",
-      "Graphics",
-      "Game Development"
+      "Accessibility",
+      "Screen Readers",
+      "Web Development",
+      "Disability Inclusion"
     ],
-    "theme": "Rendering",
-    "type": "mcq",
+    "theme": "Accessibility",
+    "type": "open",
     "id": "20260505",
-    "createdAt": "2026-05-05T00:44:31.607Z"
+    "createdAt": "2026-05-05T12:31:34.294Z"
   }
 ]
