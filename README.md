@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ Write a SQL query to retrieve all orders from a database table where the order total is greater than $1000.
+### ❓ What are the key differences between a rasterizer and a ray caster in rendering?
 
 </div>
 
 <div align="center">
 
-🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `sql` `database` `query` • 📅 20260504
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `Rendering` `Graphics` `Game Development` • 📅 20260505
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> SELECT * FROM orders WHERE total > 1000;
+> In rendering, what is the difference between a rasterizer and a ray caster?
 
-> This query will return all rows from the orders table where the total column value is greater than 1000.
+> A rasterizer is a rendering engine that divides the 3D scene into small pixels and calculates the color of each pixel based on the objects it intersects.
 
-> Note that this assumes that the total column is of a numeric data type.
+> A ray caster, on the other hand, simulates the path of light rays as they bounce off objects in the scene.
 
-> If the total column is of a string data type, you may need to modify the query to use a numeric comparison, such as:
+> Rasterizers are generally faster and more efficient, but may produce less realistic results.
 
-> SELECT * FROM orders WHERE STR_TO_DATE(total, '%f') > 1000;
+> Ray casters, while more computationally expensive, can produce highly realistic images with accurate lighting and reflections.
+
+> Which one is used in a typical game engine?
 
 <br>
 

@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260505 - What are the key differences between a rasterizer and a ray caster in rendering?
+
+theme: **Rendering** • difficulty: **intermediate** • `Rendering` `Graphics` `Game Development`
+
+> In rendering, what is the difference between a rasterizer and a ray caster?
+
+> A rasterizer is a rendering engine that divides the 3D scene into small pixels and calculates the color of each pixel based on the objects it intersects.
+
+> A ray caster, on the other hand, simulates the path of light rays as they bounce off objects in the scene.
+
+> Rasterizers are generally faster and more efficient, but may produce less realistic results.
+
+> Ray casters, while more computationally expensive, can produce highly realistic images with accurate lighting and reflections.
+
+> Which one is used in a typical game engine?
+
+---
+
 ## 20260504 - Write a SQL query to retrieve all orders from a database table where the order total is greater than $1000.
 
 theme: **SQL** • difficulty: **intermediate** • `sql` `database` `query`
