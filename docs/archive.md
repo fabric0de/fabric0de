@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260506 - What is the primary purpose of a session cookie in an authentication system?
+
+theme: **Authentication** • difficulty: **intermediate** • `Authentication` `Cookies` `Session Management`
+
+> In an authentication system, what is the primary purpose of a session cookie?
+
+> A session cookie is used to store a unique identifier for each user's session.
+
+> This identifier is used to associate the user's requests with their session data.
+
+> Session cookies are typically stored on the client-side and are deleted when the user closes their browser.
+
+> They are often used in conjunction with a server-side session store to manage user sessions.
+
+> Tags: Authentication, Cookies, Session Management
+
+---
+
 ## 20260505 - What is a screen reader and how does it contribute to web accessibility?
 
 theme: **Accessibility** • difficulty: **intermediate** • `Accessibility` `Screen Readers` `Web Development` `Disability Inclusion`

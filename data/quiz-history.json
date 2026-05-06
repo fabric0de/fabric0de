@@ -261,5 +261,19 @@
     "type": "open",
     "id": "20260505",
     "createdAt": "2026-05-05T12:31:34.294Z"
+  },
+  {
+    "answer": "In an authentication system, what is the primary purpose of a session cookie?\n\nA session cookie is used to store a unique identifier for each user's session.\nThis identifier is used to associate the user's requests with their session data.\nSession cookies are typically stored on the client-side and are deleted when the user closes their browser.\nThey are often used in conjunction with a server-side session store to manage user sessions.\n\nTags: Authentication, Cookies, Session Management",
+    "difficulty": "intermediate",
+    "question": "What is the primary purpose of a session cookie in an authentication system?",
+    "tags": [
+      "Authentication",
+      "Cookies",
+      "Session Management"
+    ],
+    "theme": "Authentication",
+    "type": "open",
+    "id": "20260506",
+    "createdAt": "2026-05-06T00:44:10.828Z"
   }
 ]

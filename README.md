@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a screen reader and how does it contribute to web accessibility?
+### ❓ What is the primary purpose of a session cookie in an authentication system?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟡 **intermediate** • 🏷️ `Accessibility` `Screen Readers` `Web Development` `Disability Inclusion` • 📅 20260505
+🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `Cookies` `Session Management` • 📅 20260506
 
 </div>
 
@@ -46,9 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A screen reader is a software program that reads out the text on a screen to a user who is blind or has low vision. It can be used in conjunction with a keyboard to navigate through a website or application. Screen readers can be set to read out different types of content, such as headings, links, and form fields. They can also be customized to read out content in different voices and at different speeds. This technology is an important part of web accessibility, as it allows users with visual impairments to access and use digital information.
+> In an authentication system, what is the primary purpose of a session cookie?
 
-> Some popular screen readers include JAWS, NVDA, and VoiceOver.
+> A session cookie is used to store a unique identifier for each user's session.
+
+> This identifier is used to associate the user's requests with their session data.
+
+> Session cookies are typically stored on the client-side and are deleted when the user closes their browser.
+
+> They are often used in conjunction with a server-side session store to manage user sessions.
+
+> Tags: Authentication, Cookies, Session Management
 
 <br>
 
