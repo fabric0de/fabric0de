@@ -263,17 +263,18 @@
     "createdAt": "2026-05-05T12:31:34.294Z"
   },
   {
-    "answer": "In an authentication system, what is the primary purpose of a session cookie?\n\nA session cookie is used to store a unique identifier for each user's session.\nThis identifier is used to associate the user's requests with their session data.\nSession cookies are typically stored on the client-side and are deleted when the user closes their browser.\nThey are often used in conjunction with a server-side session store to manage user sessions.\n\nTags: Authentication, Cookies, Session Management",
+    "answer": "To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input data before storing or displaying it on the web page.\nThis can be achieved by using a library like DOMPurify to escape any user-submitted content.\nFor example, in JavaScript, you can use the DOMPurify.sanitize() function to sanitize user input.\nThis will prevent malicious scripts from being executed on the client-side.\nBy sanitizing user input, developers can protect their web applications from XSS attacks and ensure a safer user experience.",
     "difficulty": "intermediate",
-    "question": "What is the primary purpose of a session cookie in an authentication system?",
+    "question": "What is one way to prevent Cross-Site Scripting (XSS) attacks in a web application?",
     "tags": [
-      "Authentication",
-      "Cookies",
-      "Session Management"
+      "Web Security",
+      "XSS",
+      "JavaScript",
+      "DOMPurify"
     ],
-    "theme": "Authentication",
+    "theme": "Web Security",
     "type": "open",
     "id": "20260506",
-    "createdAt": "2026-05-06T00:44:10.828Z"
+    "createdAt": "2026-05-06T12:43:37.243Z"
   }
 ]

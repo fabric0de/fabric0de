@@ -2,21 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260506 - What is the primary purpose of a session cookie in an authentication system?
+## 20260506 - What is one way to prevent Cross-Site Scripting (XSS) attacks in a web application?
 
-theme: **Authentication** • difficulty: **intermediate** • `Authentication` `Cookies` `Session Management`
+theme: **Web Security** • difficulty: **intermediate** • `Web Security` `XSS` `JavaScript` `DOMPurify`
 
-> In an authentication system, what is the primary purpose of a session cookie?
+> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input data before storing or displaying it on the web page.
 
-> A session cookie is used to store a unique identifier for each user's session.
+> This can be achieved by using a library like DOMPurify to escape any user-submitted content.
 
-> This identifier is used to associate the user's requests with their session data.
+> For example, in JavaScript, you can use the DOMPurify.sanitize() function to sanitize user input.
 
-> Session cookies are typically stored on the client-side and are deleted when the user closes their browser.
+> This will prevent malicious scripts from being executed on the client-side.
 
-> They are often used in conjunction with a server-side session store to manage user sessions.
-
-> Tags: Authentication, Cookies, Session Management
+> By sanitizing user input, developers can protect their web applications from XSS attacks and ensure a safer user experience.
 
 ---
 
