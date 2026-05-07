@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260507 - What is the main difference between frame-by-frame animation and tweening in the context of animation?
+
+theme: **Animation** • difficulty: **intermediate** • `Animation` `Computer Graphics` `CGI` `3D Animation`
+
+> In the context of animation, what is the primary difference between frame-by-frame animation and tweening?
+
+> Frame-by-frame animation involves creating each frame individually, whereas tweening involves creating keyframes and letting the software fill in the missing frames.
+
+> This approach can significantly reduce the time and effort required to create an animation.
+
+> Tweening is commonly used in computer-generated imagery (CGI) and 3D animation.
+
+> It allows for more complex and detailed animations to be created with less manual effort.
+
+> Tweening can also be used to create smooth transitions between different states of an object or character.
+
+---
+
 ## 20260506 - What is one way to prevent Cross-Site Scripting (XSS) attacks in a web application?
 
 theme: **Web Security** • difficulty: **intermediate** • `Web Security` `XSS` `JavaScript` `DOMPurify`

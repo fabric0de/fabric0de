@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is one way to prevent Cross-Site Scripting (XSS) attacks in a web application?
+### ❓ What is the main difference between frame-by-frame animation and tweening in the context of animation?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `XSS` `JavaScript` `DOMPurify` • 📅 20260506
+🗓️ **Animation** • 🟡 **intermediate** • 🏷️ `Animation` `Computer Graphics` `CGI` `3D Animation` • 📅 20260507
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input data before storing or displaying it on the web page.
+> In the context of animation, what is the primary difference between frame-by-frame animation and tweening?
 
-> This can be achieved by using a library like DOMPurify to escape any user-submitted content.
+> Frame-by-frame animation involves creating each frame individually, whereas tweening involves creating keyframes and letting the software fill in the missing frames.
 
-> For example, in JavaScript, you can use the DOMPurify.sanitize() function to sanitize user input.
+> This approach can significantly reduce the time and effort required to create an animation.
 
-> This will prevent malicious scripts from being executed on the client-side.
+> Tweening is commonly used in computer-generated imagery (CGI) and 3D animation.
 
-> By sanitizing user input, developers can protect their web applications from XSS attacks and ensure a safer user experience.
+> It allows for more complex and detailed animations to be created with less manual effort.
+
+> Tweening can also be used to create smooth transitions between different states of an object or character.
 
 <br>
 

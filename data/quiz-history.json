@@ -276,5 +276,20 @@
     "type": "open",
     "id": "20260506",
     "createdAt": "2026-05-06T12:43:37.243Z"
+  },
+  {
+    "answer": "In the context of animation, what is the primary difference between frame-by-frame animation and tweening?\nFrame-by-frame animation involves creating each frame individually, whereas tweening involves creating keyframes and letting the software fill in the missing frames.\nThis approach can significantly reduce the time and effort required to create an animation.\nTweening is commonly used in computer-generated imagery (CGI) and 3D animation.\nIt allows for more complex and detailed animations to be created with less manual effort.\nTweening can also be used to create smooth transitions between different states of an object or character.",
+    "difficulty": "intermediate",
+    "question": "What is the main difference between frame-by-frame animation and tweening in the context of animation?",
+    "tags": [
+      "Animation",
+      "Computer Graphics",
+      "CGI",
+      "3D Animation"
+    ],
+    "theme": "Animation",
+    "type": "open",
+    "id": "20260507",
+    "createdAt": "2026-05-07T00:47:48.838Z"
   }
 ]
