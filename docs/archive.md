@@ -2,21 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260507 - What is the main difference between frame-by-frame animation and tweening in the context of animation?
+## 20260507 - What is a design system, and what are its key components?
 
-theme: **Animation** • difficulty: **intermediate** • `Animation` `Computer Graphics` `CGI` `3D Animation`
+theme: **Design Systems** • difficulty: **intermediate** • `design-systems` `user-experience` `product-design` `web-development` `front-end-development`
 
-> In the context of animation, what is the primary difference between frame-by-frame animation and tweening?
+> A design system is a collection of reusable components, guidelines, and assets that aim to standardize the visual language and user experience of a product or application.
 
-> Frame-by-frame animation involves creating each frame individually, whereas tweening involves creating keyframes and letting the software fill in the missing frames.
+> It typically includes a set of principles, patterns, and modules that define the overall aesthetic and behavior of the product.
 
-> This approach can significantly reduce the time and effort required to create an animation.
+> Design systems can be used to improve consistency, reduce development time, and enhance the overall user experience.
 
-> Tweening is commonly used in computer-generated imagery (CGI) and 3D animation.
+> They often consist of a style guide, component library, and design tokens.
 
-> It allows for more complex and detailed animations to be created with less manual effort.
+> A well-designed design system can be a valuable asset for companies looking to scale their product offerings and maintain a cohesive brand identity.
 
-> Tweening can also be used to create smooth transitions between different states of an object or character.
+> It can also help to reduce the time and cost associated with designing and developing new features.
 
 ---
 
