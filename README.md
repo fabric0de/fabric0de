@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a design system, and what are its key components?
+### ❓ What is the primary purpose of using Message Queues in a system?
 
 </div>
 
 <div align="center">
 
-🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design-systems` `user-experience` `product-design` `web-development` `front-end-development` • 📅 20260507
+🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `message-queues` `asynchronous-communication` `microservices-architecture` • 📅 20260508
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A design system is a collection of reusable components, guidelines, and assets that aim to standardize the visual language and user experience of a product or application.
+> Message Queues are used to handle asynchronous communication between different components of a system.
 
-> It typically includes a set of principles, patterns, and modules that define the overall aesthetic and behavior of the product.
+> They allow producers to send messages to a queue without blocking, and consumers to retrieve messages from the queue as needed.
 
-> Design systems can be used to improve consistency, reduce development time, and enhance the overall user experience.
+> This decouples the producer and consumer, making it easier to scale and manage the system.
 
-> They often consist of a style guide, component library, and design tokens.
+> Examples of Message Queues include RabbitMQ, Apache Kafka, and Amazon SQS.
 
-> A well-designed design system can be a valuable asset for companies looking to scale their product offerings and maintain a cohesive brand identity.
+> Message Queues are commonly used in microservices architecture to handle communication between services.
 
-> It can also help to reduce the time and cost associated with designing and developing new features.
+> They provide a reliable and fault-tolerant way to handle messages, even in the presence of failures or network partitions.
 
 <br>
 
