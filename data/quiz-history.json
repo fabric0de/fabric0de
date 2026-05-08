@@ -294,17 +294,19 @@
     "createdAt": "2026-05-07T12:44:12.759Z"
   },
   {
-    "answer": "Message Queues are used to handle asynchronous communication between different components of a system.\nThey allow producers to send messages to a queue without blocking, and consumers to retrieve messages from the queue as needed.\nThis decouples the producer and consumer, making it easier to scale and manage the system.\nExamples of Message Queues include RabbitMQ, Apache Kafka, and Amazon SQS.\nMessage Queues are commonly used in microservices architecture to handle communication between services.\nThey provide a reliable and fault-tolerant way to handle messages, even in the presence of failures or network partitions.",
+    "answer": "In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?\nA load balancer helps to improve the responsiveness and reliability of the system by\n- Reducing the load on individual servers\n- Improving fault tolerance by allowing the system to continue functioning even if one or more servers fail\n- Enhancing scalability by allowing the system to handle increased traffic without a significant decrease in performance\n- Improving user experience by providing a consistent and fast response time\n- Allowing for easier maintenance and upgrades of individual servers without affecting the overall system.",
     "difficulty": "intermediate",
-    "question": "What is the primary purpose of using Message Queues in a system?",
+    "question": "In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?",
     "tags": [
-      "message-queues",
-      "asynchronous-communication",
-      "microservices-architecture"
+      "distributed systems",
+      "load balancing",
+      "scalability",
+      "fault tolerance",
+      "responsiveness"
     ],
-    "theme": "Message Queues",
+    "theme": "Distributed Systems",
     "type": "open",
     "id": "20260508",
-    "createdAt": "2026-05-08T00:47:47.535Z"
+    "createdAt": "2026-05-08T12:35:16.667Z"
   }
 ]

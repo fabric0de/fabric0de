@@ -2,21 +2,23 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260508 - What is the primary purpose of using Message Queues in a system?
+## 20260508 - In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
 
-theme: **Message Queues** • difficulty: **intermediate** • `message-queues` `asynchronous-communication` `microservices-architecture`
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `load balancing` `scalability` `fault tolerance` `responsiveness`
 
-> Message Queues are used to handle asynchronous communication between different components of a system.
+> In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
 
-> They allow producers to send messages to a queue without blocking, and consumers to retrieve messages from the queue as needed.
+> A load balancer helps to improve the responsiveness and reliability of the system by
 
-> This decouples the producer and consumer, making it easier to scale and manage the system.
+> - Reducing the load on individual servers
 
-> Examples of Message Queues include RabbitMQ, Apache Kafka, and Amazon SQS.
+> - Improving fault tolerance by allowing the system to continue functioning even if one or more servers fail
 
-> Message Queues are commonly used in microservices architecture to handle communication between services.
+> - Enhancing scalability by allowing the system to handle increased traffic without a significant decrease in performance
 
-> They provide a reliable and fault-tolerant way to handle messages, even in the presence of failures or network partitions.
+> - Improving user experience by providing a consistent and fast response time
+
+> - Allowing for easier maintenance and upgrades of individual servers without affecting the overall system.
 
 ---
 
