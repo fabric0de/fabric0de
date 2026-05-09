@@ -2,6 +2,16 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260509 - What are some common strategies used in AI Engineering to address the challenge of concept drift?
+
+theme: **AI Engineering** • difficulty: **intermediate** • `AI Engineering` `concept drift` `ensemble methods` `online learning` `model retraining`
+
+> In AI Engineering, a key challenge is handling concept drift, which refers to the change in the underlying distribution of data over time. This can be addressed by using ensemble methods, such as bagging and boosting, which combine the predictions of multiple models to improve overall performance. Another approach is to use online learning algorithms, which can adapt to changing data distributions as new data becomes available. Additionally, monitoring and retraining models regularly can help to mitigate the effects of concept drift.
+
+> Tags: AI Engineering, concept drift, ensemble methods, online learning, model retraining
+
+---
+
 ## 20260508 - In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
 
 theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `load balancing` `scalability` `fault tolerance` `responsiveness`

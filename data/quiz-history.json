@@ -308,5 +308,21 @@
     "type": "open",
     "id": "20260508",
     "createdAt": "2026-05-08T12:35:16.667Z"
+  },
+  {
+    "answer": "In AI Engineering, a key challenge is handling concept drift, which refers to the change in the underlying distribution of data over time. This can be addressed by using ensemble methods, such as bagging and boosting, which combine the predictions of multiple models to improve overall performance. Another approach is to use online learning algorithms, which can adapt to changing data distributions as new data becomes available. Additionally, monitoring and retraining models regularly can help to mitigate the effects of concept drift.\n\nTags: AI Engineering, concept drift, ensemble methods, online learning, model retraining",
+    "difficulty": "intermediate",
+    "question": "What are some common strategies used in AI Engineering to address the challenge of concept drift?",
+    "tags": [
+      "AI Engineering",
+      "concept drift",
+      "ensemble methods",
+      "online learning",
+      "model retraining"
+    ],
+    "theme": "AI Engineering",
+    "type": "open",
+    "id": "20260509",
+    "createdAt": "2026-05-09T00:48:13.760Z"
   }
 ]

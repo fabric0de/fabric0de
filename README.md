@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
+### ❓ What are some common strategies used in AI Engineering to address the challenge of concept drift?
 
 </div>
 
 <div align="center">
 
-🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `load balancing` `scalability` `fault tolerance` `responsiveness` • 📅 20260508
+🗓️ **AI Engineering** • 🟡 **intermediate** • 🏷️ `AI Engineering` `concept drift` `ensemble methods` `online learning` `model retraining` • 📅 20260509
 
 </div>
 
@@ -46,19 +46,9 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
+> In AI Engineering, a key challenge is handling concept drift, which refers to the change in the underlying distribution of data over time. This can be addressed by using ensemble methods, such as bagging and boosting, which combine the predictions of multiple models to improve overall performance. Another approach is to use online learning algorithms, which can adapt to changing data distributions as new data becomes available. Additionally, monitoring and retraining models regularly can help to mitigate the effects of concept drift.
 
-> A load balancer helps to improve the responsiveness and reliability of the system by
-
-> - Reducing the load on individual servers
-
-> - Improving fault tolerance by allowing the system to continue functioning even if one or more servers fail
-
-> - Enhancing scalability by allowing the system to handle increased traffic without a significant decrease in performance
-
-> - Improving user experience by providing a consistent and fast response time
-
-> - Allowing for easier maintenance and upgrades of individual servers without affecting the overall system.
+> Tags: AI Engineering, concept drift, ensemble methods, online learning, model retraining
 
 <br>
 
