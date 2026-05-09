@@ -2,13 +2,17 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260509 - What are some common strategies used in AI Engineering to address the challenge of concept drift?
+## 20260509 - What is inheritance in object-oriented programming, and how does it facilitate code reuse in architecture?
 
-theme: **AI Engineering** • difficulty: **intermediate** • `AI Engineering` `concept drift` `ensemble methods` `online learning` `model retraining`
+theme: **Architecture** • difficulty: **intermediate** • `object-oriented programming` `inheritance` `architecture` `oop`
 
-> In AI Engineering, a key challenge is handling concept drift, which refers to the change in the underlying distribution of data over time. This can be addressed by using ensemble methods, such as bagging and boosting, which combine the predictions of multiple models to improve overall performance. Another approach is to use online learning algorithms, which can adapt to changing data distributions as new data becomes available. Additionally, monitoring and retraining models regularly can help to mitigate the effects of concept drift.
+> In object-oriented programming, a class is a blueprint for creating objects that define properties and behaviors. A class can inherit properties and behaviors from another class through inheritance.
 
-> Tags: AI Engineering, concept drift, ensemble methods, online learning, model retraining
+> Inheritance allows for code reuse and facilitates the creation of a hierarchy of related classes.
+
+> For example, a `Vehicle` class can inherit from a `Transportation` class, inheriting common properties and behaviors.
+
+> This enables the creation of more specific classes, such as `Car` and `Truck`, which inherit from `Vehicle`.
 
 ---
 
