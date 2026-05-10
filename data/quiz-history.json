@@ -325,17 +325,18 @@
     "createdAt": "2026-05-09T12:24:44.304Z"
   },
   {
-    "answer": "Problem Solving",
+    "answer": "A linked list is a data structure that consists of a sequence of nodes, where each node contains a value and a reference to the next node in the sequence. Linked lists are useful for implementing dynamic memory allocation and efficient insertion/deletion of elements. They can be implemented using a variety of techniques, including singly-linked lists, doubly-linked lists, and circularly-linked lists. Linked lists are particularly useful in scenarios where frequent insertion and deletion of elements are required, such as in database indexing and caching systems.\n\nHere's an example of a basic linked list implementation in Python:\n\nclass Node:\n    def __init__(self, value):\n        self.value = value\n        self.next = None\n\nclass LinkedList:\n    def __init__(self):\n        self.head = None\n\n    def append(self, value):\n        new_node = Node(value)\n        if not self.head:\n            self.head = new_node\n        else:\n            current = self.head\n            while current.next:\n                current = current.next\n            current.next = new_node\n",
     "difficulty": "intermediate",
-    "question": "What is the primary goal of the 'divide and conquer' problem-solving strategy in computer science?",
+    "question": "What is a linked list, and how does it differ from other data structures?",
     "tags": [
-      "Problem Solving",
-      "Algorithms",
-      "Computer Science"
+      "data structures",
+      "linked lists",
+      "dynamic memory allocation",
+      "insertion/deletion"
     ],
-    "theme": "Problem Solving",
+    "theme": "Data Structures",
     "type": "open",
     "id": "20260510",
-    "createdAt": "2026-05-10T00:51:08.866Z"
+    "createdAt": "2026-05-10T12:24:22.949Z"
   }
 ]
