@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260510 - What is the primary goal of the 'divide and conquer' problem-solving strategy in computer science?
+
+theme: **Problem Solving** • difficulty: **intermediate** • `Problem Solving` `Algorithms` `Computer Science`
+
+> Problem Solving
+
+---
+
 ## 20260509 - What is inheritance in object-oriented programming, and how does it facilitate code reuse in architecture?
 
 theme: **Architecture** • difficulty: **intermediate** • `object-oriented programming` `inheritance` `architecture` `oop`

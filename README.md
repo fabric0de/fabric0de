@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is inheritance in object-oriented programming, and how does it facilitate code reuse in architecture?
+### ❓ What is the primary goal of the 'divide and conquer' problem-solving strategy in computer science?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `object-oriented programming` `inheritance` `architecture` `oop` • 📅 20260509
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `Problem Solving` `Algorithms` `Computer Science` • 📅 20260510
 
 </div>
 
@@ -46,13 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In object-oriented programming, a class is a blueprint for creating objects that define properties and behaviors. A class can inherit properties and behaviors from another class through inheritance.
-
-> Inheritance allows for code reuse and facilitates the creation of a hierarchy of related classes.
-
-> For example, a `Vehicle` class can inherit from a `Transportation` class, inheriting common properties and behaviors.
-
-> This enables the creation of more specific classes, such as `Car` and `Truck`, which inherit from `Vehicle`.
+> Problem Solving
 
 <br>
 

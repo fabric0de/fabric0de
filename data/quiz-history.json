@@ -323,5 +323,19 @@
     "type": "open",
     "id": "20260509",
     "createdAt": "2026-05-09T12:24:44.304Z"
+  },
+  {
+    "answer": "Problem Solving",
+    "difficulty": "intermediate",
+    "question": "What is the primary goal of the 'divide and conquer' problem-solving strategy in computer science?",
+    "tags": [
+      "Problem Solving",
+      "Algorithms",
+      "Computer Science"
+    ],
+    "theme": "Problem Solving",
+    "type": "open",
+    "id": "20260510",
+    "createdAt": "2026-05-10T00:51:08.866Z"
   }
 ]
