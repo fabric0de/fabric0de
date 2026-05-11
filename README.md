@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the key benefits and features of using TypeScript in a web development project?
+### ❓ How can you iterate over a list in Python and get both the index and the value of each item?
 
 </div>
 
 <div align="center">
 
-🗓️ **TypeScript** • 🟡 **intermediate** • 🏷️ `typescript` `javascript` `web development` `static typing` `code completion` • 📅 20260511
+🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `list` `iteration` `enumerate` • 📅 20260511
 
 </div>
 
@@ -46,17 +46,23 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> TypeScript is a statically typed language that compiles to JavaScript.
+> In Python, you can use the `enumerate` function to iterate over a list and get both the index and the value of each item.
 
-> It is designed to help developers catch type errors early in the development process.
+> For example:
 
-> TypeScript is often used for large-scale applications due to its ability to provide better code completion and refactoring.
+> list = ['apple', 'banana', 'cherry']
 
-> It also supports features like interfaces, generics, and modules.
+> for i, item in enumerate(list):
 
-> TypeScript can be used with popular frameworks like React and Angular.
+> print(f'Index: {i}, Value: {item}')
 
-> TypeScript is also widely used in enterprise environments due to its scalability and maintainability.
+> This will output:
+
+> Index: 0, Value: apple
+
+> Index: 1, Value: banana
+
+> Index: 2, Value: cherry
 
 <br>
 
