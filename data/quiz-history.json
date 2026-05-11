@@ -338,5 +338,21 @@
     "type": "open",
     "id": "20260510",
     "createdAt": "2026-05-10T12:24:22.949Z"
+  },
+  {
+    "answer": "TypeScript is a statically typed language that compiles to JavaScript.\nIt is designed to help developers catch type errors early in the development process.\nTypeScript is often used for large-scale applications due to its ability to provide better code completion and refactoring.\nIt also supports features like interfaces, generics, and modules.\nTypeScript can be used with popular frameworks like React and Angular.\nTypeScript is also widely used in enterprise environments due to its scalability and maintainability.",
+    "difficulty": "intermediate",
+    "question": "What are the key benefits and features of using TypeScript in a web development project?",
+    "tags": [
+      "typescript",
+      "javascript",
+      "web development",
+      "static typing",
+      "code completion"
+    ],
+    "theme": "TypeScript",
+    "type": "open",
+    "id": "20260511",
+    "createdAt": "2026-05-11T00:51:12.022Z"
   }
 ]

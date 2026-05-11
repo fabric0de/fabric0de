@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260511 - What are the key benefits and features of using TypeScript in a web development project?
+
+theme: **TypeScript** • difficulty: **intermediate** • `typescript` `javascript` `web development` `static typing` `code completion`
+
+> TypeScript is a statically typed language that compiles to JavaScript.
+
+> It is designed to help developers catch type errors early in the development process.
+
+> TypeScript is often used for large-scale applications due to its ability to provide better code completion and refactoring.
+
+> It also supports features like interfaces, generics, and modules.
+
+> TypeScript can be used with popular frameworks like React and Angular.
+
+> TypeScript is also widely used in enterprise environments due to its scalability and maintainability.
+
+---
+
 ## 20260510 - What is a linked list, and how does it differ from other data structures?
 
 theme: **Data Structures** • difficulty: **intermediate** • `data structures` `linked lists` `dynamic memory allocation` `insertion/deletion`
