@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you iterate over a list in Python and get both the index and the value of each item?
+### ❓ What are the main differences between the Web Storage API and the Web Database API in terms of their functionality and use cases?
 
 </div>
 
 <div align="center">
 
-🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `list` `iteration` `enumerate` • 📅 20260511
+🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Web Storage API` `Web Database API` • 📅 20260512
 
 </div>
 
@@ -46,23 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Python, you can use the `enumerate` function to iterate over a list and get both the index and the value of each item.
+> The Web Storage API allows you to store data locally in a user's browser, while the Web Database API provides a client-side database for storing and retrieving data.
 
-> For example:
+> Both APIs are used for client-side data storage, but the Web Database API is a full-fledged database, whereas the Web Storage API is a simple key-value store.
 
-> list = ['apple', 'banana', 'cherry']
-
-> for i, item in enumerate(list):
-
-> print(f'Index: {i}, Value: {item}')
-
-> This will output:
-
-> Index: 0, Value: apple
-
-> Index: 1, Value: banana
-
-> Index: 2, Value: cherry
+> The Web Storage API is suitable for storing small amounts of data, such as user preferences or session data, while the Web Database API is better suited for storing larger amounts of data, such as user profiles or application data.
 
 <br>
 

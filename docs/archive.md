@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260512 - What are the main differences between the Web Storage API and the Web Database API in terms of their functionality and use cases?
+
+theme: **Browser APIs** • difficulty: **intermediate** • `Browser APIs` `Web Storage API` `Web Database API`
+
+> The Web Storage API allows you to store data locally in a user's browser, while the Web Database API provides a client-side database for storing and retrieving data.
+
+> Both APIs are used for client-side data storage, but the Web Database API is a full-fledged database, whereas the Web Storage API is a simple key-value store.
+
+> The Web Storage API is suitable for storing small amounts of data, such as user preferences or session data, while the Web Database API is better suited for storing larger amounts of data, such as user profiles or application data.
+
+---
+
 ## 20260511 - How can you iterate over a list in Python and get both the index and the value of each item?
 
 theme: **Python** • difficulty: **intermediate** • `python` `list` `iteration` `enumerate`
