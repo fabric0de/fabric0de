@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the main differences between the Web Storage API and the Web Database API in terms of their functionality and use cases?
+### ❓ What is the purpose of the 'alt' attribute in an HTML image tag?
 
 </div>
 
 <div align="center">
 
-🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Web Storage API` `Web Database API` • 📅 20260512
+🗓️ **Web** • 🟢 **beginner** • 🏷️ `HTML` `Accessibility` `Web` • 📅 20260512
 
 </div>
 
@@ -46,11 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The Web Storage API allows you to store data locally in a user's browser, while the Web Database API provides a client-side database for storing and retrieving data.
+> What is the purpose of the 'alt' attribute in an HTML image tag?
 
-> Both APIs are used for client-side data storage, but the Web Database API is a full-fledged database, whereas the Web Storage API is a simple key-value store.
+> It provides a text description of the image for users who cannot view the image.
 
-> The Web Storage API is suitable for storing small amounts of data, such as user preferences or session data, while the Web Database API is better suited for storing larger amounts of data, such as user profiles or application data.
+> This is especially important for users with visual impairments who rely on screen readers.
+
+> Without the 'alt' attribute, screen readers will often read out the file name of the image, which can be confusing.
+
+> Using the 'alt' attribute improves the accessibility of the web page.
 
 <br>
 
