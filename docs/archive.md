@@ -2,11 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260513 - What is the primary function of a network switch in a local area network (LAN)?
+## 20260513 - What is the primary difference between a cache hit and a cache miss in the context of caching?
 
-theme: **Networking** • difficulty: **intermediate** • `Networking` `LAN` `Switch` `Data Link Layer`
+theme: **Caching** • difficulty: **intermediate** • `Caching` `Computer Science` `Software Engineering`
 
-> A network switch is a device that connects multiple computers or devices to a network and forwards data packets between them. It operates at the data link layer of the OSI model. A network switch is different from a hub in that it can filter and forward data packets based on their MAC addresses.
+> What is the primary difference between a cache hit and a cache miss in the context of caching?
+
+> A cache hit occurs when the requested data is already present in the cache.
+
+> A cache miss occurs when the requested data is not present in the cache and must be retrieved from a slower storage location.
+
+> Cache hits are generally faster and more efficient than cache misses.
+
+> This is because cache hits eliminate the need for additional storage access and retrieval.
+
+> In contrast, cache misses require the system to access slower storage locations, resulting in increased latency and reduced performance.
 
 ---
 
