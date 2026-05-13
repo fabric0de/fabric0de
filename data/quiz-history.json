@@ -367,5 +367,20 @@
     "type": "open",
     "id": "20260512",
     "createdAt": "2026-05-12T12:47:55.988Z"
+  },
+  {
+    "answer": "A network switch is a device that connects multiple computers or devices to a network and forwards data packets between them. It operates at the data link layer of the OSI model. A network switch is different from a hub in that it can filter and forward data packets based on their MAC addresses.",
+    "difficulty": "intermediate",
+    "question": "What is the primary function of a network switch in a local area network (LAN)?",
+    "tags": [
+      "Networking",
+      "LAN",
+      "Switch",
+      "Data Link Layer"
+    ],
+    "theme": "Networking",
+    "type": "open",
+    "id": "20260513",
+    "createdAt": "2026-05-13T00:50:53.383Z"
   }
 ]

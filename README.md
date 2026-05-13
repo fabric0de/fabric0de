@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the 'alt' attribute in an HTML image tag?
+### ❓ What is the primary function of a network switch in a local area network (LAN)?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web** • 🟢 **beginner** • 🏷️ `HTML` `Accessibility` `Web` • 📅 20260512
+🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `LAN` `Switch` `Data Link Layer` • 📅 20260513
 
 </div>
 
@@ -46,15 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the purpose of the 'alt' attribute in an HTML image tag?
-
-> It provides a text description of the image for users who cannot view the image.
-
-> This is especially important for users with visual impairments who rely on screen readers.
-
-> Without the 'alt' attribute, screen readers will often read out the file name of the image, which can be confusing.
-
-> Using the 'alt' attribute improves the accessibility of the web page.
+> A network switch is a device that connects multiple computers or devices to a network and forwards data packets between them. It operates at the data link layer of the OSI model. A network switch is different from a hub in that it can filter and forward data packets based on their MAC addresses.
 
 <br>
 

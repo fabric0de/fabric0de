@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260513 - What is the primary function of a network switch in a local area network (LAN)?
+
+theme: **Networking** • difficulty: **intermediate** • `Networking` `LAN` `Switch` `Data Link Layer`
+
+> A network switch is a device that connects multiple computers or devices to a network and forwards data packets between them. It operates at the data link layer of the OSI model. A network switch is different from a hub in that it can filter and forward data packets based on their MAC addresses.
+
+---
+
 ## 20260512 - What is the purpose of the 'alt' attribute in an HTML image tag?
 
 theme: **Web** • difficulty: **beginner** • `HTML` `Accessibility` `Web`
