@@ -383,17 +383,18 @@
     "createdAt": "2026-05-13T12:50:12.558Z"
   },
   {
-    "answer": "To improve frontend performance, consider the following best practices:\n1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.\n2. Leverage browser caching by setting appropriate cache headers.\n3. Optimize images by compressing them without sacrificing quality.\n4. Use lazy loading for non-critical resources.\n5. Avoid using too many DOM mutations.",
+    "answer": "To achieve responsive design, you can use a combination of HTML, CSS, and JavaScript. One key technique is to use CSS media queries to apply different styles based on the screen size or device type.\nFor example, you can use the following CSS code to apply a different background color on large screens:\n@media only screen and (min-width: 768px) {\n  body {\n    background-color: #f2f2f2;\n  }\n}\nThis code will apply the background color only on screens with a minimum width of 768 pixels.\nYou can also use JavaScript to detect the screen size and apply styles accordingly.\nFor instance, you can use the following JavaScript code to change the background color on small screens:\nif (window.innerWidth < 768) {\n  document.body.style.backgroundColor = '#f2f2f2';\n}",
     "difficulty": "intermediate",
-    "question": "What are some strategies to enhance frontend performance?",
+    "question": "What are some key techniques used in responsive design to adapt to different screen sizes and devices?",
     "tags": [
-      "frontend-performance",
-      "optimization",
-      "best-practices"
+      "responsive design",
+      "css",
+      "javascript",
+      "media queries"
     ],
-    "theme": "Frontend Performance",
+    "theme": "Responsive Design",
     "type": "open",
     "id": "20260514",
-    "createdAt": "2026-05-14T00:53:11.435Z"
+    "createdAt": "2026-05-14T12:43:39.901Z"
   }
 ]
