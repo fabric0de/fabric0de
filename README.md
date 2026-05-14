@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary difference between a cache hit and a cache miss in the context of caching?
+### ❓ What are some strategies to enhance frontend performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `Caching` `Computer Science` `Software Engineering` • 📅 20260513
+🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend-performance` `optimization` `best-practices` • 📅 20260514
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary difference between a cache hit and a cache miss in the context of caching?
+> To improve frontend performance, consider the following best practices:
 
-> A cache hit occurs when the requested data is already present in the cache.
+> 1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.
 
-> A cache miss occurs when the requested data is not present in the cache and must be retrieved from a slower storage location.
+> 2. Leverage browser caching by setting appropriate cache headers.
 
-> Cache hits are generally faster and more efficient than cache misses.
+> 3. Optimize images by compressing them without sacrificing quality.
 
-> This is because cache hits eliminate the need for additional storage access and retrieval.
+> 4. Use lazy loading for non-critical resources.
 
-> In contrast, cache misses require the system to access slower storage locations, resulting in increased latency and reduced performance.
+> 5. Avoid using too many DOM mutations.
 
 <br>
 

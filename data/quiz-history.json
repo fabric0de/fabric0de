@@ -381,5 +381,19 @@
     "type": "open",
     "id": "20260513",
     "createdAt": "2026-05-13T12:50:12.558Z"
+  },
+  {
+    "answer": "To improve frontend performance, consider the following best practices:\n1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.\n2. Leverage browser caching by setting appropriate cache headers.\n3. Optimize images by compressing them without sacrificing quality.\n4. Use lazy loading for non-critical resources.\n5. Avoid using too many DOM mutations.",
+    "difficulty": "intermediate",
+    "question": "What are some strategies to enhance frontend performance?",
+    "tags": [
+      "frontend-performance",
+      "optimization",
+      "best-practices"
+    ],
+    "theme": "Frontend Performance",
+    "type": "open",
+    "id": "20260514",
+    "createdAt": "2026-05-14T00:53:11.435Z"
   }
 ]

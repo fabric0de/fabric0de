@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260514 - What are some strategies to enhance frontend performance?
+
+theme: **Frontend Performance** • difficulty: **intermediate** • `frontend-performance` `optimization` `best-practices`
+
+> To improve frontend performance, consider the following best practices:
+
+> 1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.
+
+> 2. Leverage browser caching by setting appropriate cache headers.
+
+> 3. Optimize images by compressing them without sacrificing quality.
+
+> 4. Use lazy loading for non-critical resources.
+
+> 5. Avoid using too many DOM mutations.
+
+---
+
 ## 20260513 - What is the primary difference between a cache hit and a cache miss in the context of caching?
 
 theme: **Caching** • difficulty: **intermediate** • `Caching` `Computer Science` `Software Engineering`
