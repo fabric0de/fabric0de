@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ Node.js uses both 'require' and 'import' to import modules, but they have distinct differences. What are these differences?
+### ❓ What is the difference between a clustered and non-clustered index in a database?
 
 </div>
 
 <div align="center">
 
-🗓️ **Node.js** • 🟡 **intermediate** • 🏷️ `Node.js` `JavaScript` `Module System` • 📅 20260515
+🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `databases` `sql` `database-design` `indexing` • 📅 20260515
 
 </div>
 
@@ -46,7 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Node.js, what is the primary difference between 'require' and 'import'?
+> What is the difference between a clustered and non-clustered index in a database?
+
+> A clustered index rearranges the physical order of the data in a table, whereas a non-clustered index creates a separate data structure that contains the index keys and their corresponding row locators.
+
+> Clustered indexes can improve query performance by allowing the database to quickly locate specific data, but they can also slow down insert, update, and delete operations.
+
+> Non-clustered indexes, on the other hand, can improve query performance without slowing down insert, update, and delete operations, but they require additional storage space.
+
+> In general, clustered indexes are used for columns that are frequently used in WHERE and JOIN clauses, while non-clustered indexes are used for columns that are frequently used in WHERE and ORDER BY clauses.
+
+> Choosing the right type of index depends on the specific database schema and query patterns.
 
 <br>
 
