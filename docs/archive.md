@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260515 - Node.js uses both 'require' and 'import' to import modules, but they have distinct differences. What are these differences?
+
+theme: **Node.js** • difficulty: **intermediate** • `Node.js` `JavaScript` `Module System`
+
+> In Node.js, what is the primary difference between 'require' and 'import'?
+
+---
+
 ## 20260514 - What are some key techniques used in responsive design to adapt to different screen sizes and devices?
 
 theme: **Responsive Design** • difficulty: **intermediate** • `responsive design` `css` `javascript` `media queries`

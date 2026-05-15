@@ -396,5 +396,19 @@
     "type": "open",
     "id": "20260514",
     "createdAt": "2026-05-14T12:43:39.901Z"
+  },
+  {
+    "answer": "In Node.js, what is the primary difference between 'require' and 'import'?",
+    "difficulty": "intermediate",
+    "question": "Node.js uses both 'require' and 'import' to import modules, but they have distinct differences. What are these differences?",
+    "tags": [
+      "Node.js",
+      "JavaScript",
+      "Module System"
+    ],
+    "theme": "Node.js",
+    "type": "open",
+    "id": "20260515",
+    "createdAt": "2026-05-15T00:50:22.092Z"
   }
 ]

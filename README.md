@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key techniques used in responsive design to adapt to different screen sizes and devices?
+### ❓ Node.js uses both 'require' and 'import' to import modules, but they have distinct differences. What are these differences?
 
 </div>
 
 <div align="center">
 
-🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `responsive design` `css` `javascript` `media queries` • 📅 20260514
+🗓️ **Node.js** • 🟡 **intermediate** • 🏷️ `Node.js` `JavaScript` `Module System` • 📅 20260515
 
 </div>
 
@@ -46,31 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To achieve responsive design, you can use a combination of HTML, CSS, and JavaScript. One key technique is to use CSS media queries to apply different styles based on the screen size or device type.
-
-> For example, you can use the following CSS code to apply a different background color on large screens:
-
-> @media only screen and (min-width: 768px) {
-
-> body {
-
-> background-color: #f2f2f2;
-
-> }
-
-> }
-
-> This code will apply the background color only on screens with a minimum width of 768 pixels.
-
-> You can also use JavaScript to detect the screen size and apply styles accordingly.
-
-> For instance, you can use the following JavaScript code to change the background color on small screens:
-
-> if (window.innerWidth < 768) {
-
-> document.body.style.backgroundColor = '#f2f2f2';
-
-> }
+> In Node.js, what is the primary difference between 'require' and 'import'?
 
 <br>
 
