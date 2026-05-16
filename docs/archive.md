@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260516 - What is the primary purpose of a service mesh in the context of Observability?
+
+theme: **Observability** • difficulty: **intermediate** • `Observability` `Service Mesh` `Distributed Systems` `Microservices`
+
+> What is the primary purpose of a service mesh in the context of Observability?
+
+> A service mesh is a layer of infrastructure that provides features such as service discovery, traffic management, and observability.
+
+> In the context of Observability, a service mesh helps to provide a unified view of system performance and behavior by collecting and aggregating metrics and logs from multiple services.
+
+> This allows developers to gain insights into system performance, identify bottlenecks, and troubleshoot issues more effectively.
+
+> Service meshes like Istio and Linkerd provide built-in support for Observability features such as tracing, metrics, and logging.
+
+> By using a service mesh, developers can improve the Observability of their system and make it easier to monitor and debug.
+
+---
+
 ## 20260515 - What is the difference between a clustered and non-clustered index in a database?
 
 theme: **Databases** • difficulty: **intermediate** • `databases` `sql` `database-design` `indexing`

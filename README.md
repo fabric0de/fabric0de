@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a clustered and non-clustered index in a database?
+### ❓ What is the primary purpose of a service mesh in the context of Observability?
 
 </div>
 
 <div align="center">
 
-🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `databases` `sql` `database-design` `indexing` • 📅 20260515
+🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `Observability` `Service Mesh` `Distributed Systems` `Microservices` • 📅 20260516
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a clustered and non-clustered index in a database?
+> What is the primary purpose of a service mesh in the context of Observability?
 
-> A clustered index rearranges the physical order of the data in a table, whereas a non-clustered index creates a separate data structure that contains the index keys and their corresponding row locators.
+> A service mesh is a layer of infrastructure that provides features such as service discovery, traffic management, and observability.
 
-> Clustered indexes can improve query performance by allowing the database to quickly locate specific data, but they can also slow down insert, update, and delete operations.
+> In the context of Observability, a service mesh helps to provide a unified view of system performance and behavior by collecting and aggregating metrics and logs from multiple services.
 
-> Non-clustered indexes, on the other hand, can improve query performance without slowing down insert, update, and delete operations, but they require additional storage space.
+> This allows developers to gain insights into system performance, identify bottlenecks, and troubleshoot issues more effectively.
 
-> In general, clustered indexes are used for columns that are frequently used in WHERE and JOIN clauses, while non-clustered indexes are used for columns that are frequently used in WHERE and ORDER BY clauses.
+> Service meshes like Istio and Linkerd provide built-in support for Observability features such as tracing, metrics, and logging.
 
-> Choosing the right type of index depends on the specific database schema and query patterns.
+> By using a service mesh, developers can improve the Observability of their system and make it easier to monitor and debug.
 
 <br>
 
