@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of a service mesh in the context of Observability?
+### ❓ What is the primary goal of performance tuning in software development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `Observability` `Service Mesh` `Distributed Systems` `Microservices` • 📅 20260516
+🗓️ **Performance Tuning** • 🟡 **intermediate** • 🏷️ `performance-tuning` `software-development` `optimization` `efficiency` `speed` • 📅 20260516
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary purpose of a service mesh in the context of Observability?
+> What is the primary goal of performance tuning in software development?
 
-> A service mesh is a layer of infrastructure that provides features such as service discovery, traffic management, and observability.
+> A) To improve code readability
 
-> In the context of Observability, a service mesh helps to provide a unified view of system performance and behavior by collecting and aggregating metrics and logs from multiple services.
+> B) To reduce memory usage
 
-> This allows developers to gain insights into system performance, identify bottlenecks, and troubleshoot issues more effectively.
+> C) To increase application speed and efficiency
 
-> Service meshes like Istio and Linkerd provide built-in support for Observability features such as tracing, metrics, and logging.
+> D) To enhance user experience
 
-> By using a service mesh, developers can improve the Observability of their system and make it easier to monitor and debug.
+> The correct answer is C) To increase application speed and efficiency.
+
+> Tags: performance-tuning, software-development, optimization, efficiency, speed
 
 <br>
 
