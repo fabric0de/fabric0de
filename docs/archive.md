@@ -2,19 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260517 - What is a bubble sort algorithm, and how does it work?
+## 20260517 - What is the key difference between a top-down and a bottom-up approach in problem-solving?
 
-theme: **Algorithms** • difficulty: **intermediate** • `algorithms` `sorting` `data structures` `programming`
+theme: **Problem Solving** • difficulty: **intermediate** • `problem_solving` `algorithm` `design`
 
-> A bubble sort algorithm is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
-
-> In each pass, the algorithm compares each pair of adjacent items and swaps them if they are in the wrong order.
-
-> This process continues until the list is sorted.
-
-> Bubble sort is not a very efficient sorting algorithm for large lists, but it is simple to implement.
-
-> It has a worst-case and average time complexity of O(n^2), where n is the number of items being sorted.
+> Problem Solving
 
 ---
 
