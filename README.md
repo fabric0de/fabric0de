@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary goal of performance tuning in software development?
+### ❓ What is a bubble sort algorithm, and how does it work?
 
 </div>
 
 <div align="center">
 
-🗓️ **Performance Tuning** • 🟡 **intermediate** • 🏷️ `performance-tuning` `software-development` `optimization` `efficiency` `speed` • 📅 20260516
+🗓️ **Algorithms** • 🟡 **intermediate** • 🏷️ `algorithms` `sorting` `data structures` `programming` • 📅 20260517
 
 </div>
 
@@ -46,19 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary goal of performance tuning in software development?
+> A bubble sort algorithm is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
-> A) To improve code readability
+> In each pass, the algorithm compares each pair of adjacent items and swaps them if they are in the wrong order.
 
-> B) To reduce memory usage
+> This process continues until the list is sorted.
 
-> C) To increase application speed and efficiency
+> Bubble sort is not a very efficient sorting algorithm for large lists, but it is simple to implement.
 
-> D) To enhance user experience
-
-> The correct answer is C) To increase application speed and efficiency.
-
-> Tags: performance-tuning, software-development, optimization, efficiency, speed
+> It has a worst-case and average time complexity of O(n^2), where n is the number of items being sorted.
 
 <br>
 

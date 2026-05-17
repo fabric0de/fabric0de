@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260517 - What is a bubble sort algorithm, and how does it work?
+
+theme: **Algorithms** • difficulty: **intermediate** • `algorithms` `sorting` `data structures` `programming`
+
+> A bubble sort algorithm is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+
+> In each pass, the algorithm compares each pair of adjacent items and swaps them if they are in the wrong order.
+
+> This process continues until the list is sorted.
+
+> Bubble sort is not a very efficient sorting algorithm for large lists, but it is simple to implement.
+
+> It has a worst-case and average time complexity of O(n^2), where n is the number of items being sorted.
+
+---
+
 ## 20260516 - What is the primary goal of performance tuning in software development?
 
 theme: **Performance Tuning** • difficulty: **intermediate** • `performance-tuning` `software-development` `optimization` `efficiency` `speed`
