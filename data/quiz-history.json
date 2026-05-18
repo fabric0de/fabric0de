@@ -441,5 +441,19 @@
     "type": "open",
     "id": "20260517",
     "createdAt": "2026-05-17T12:25:45.654Z"
+  },
+  {
+    "answer": "In Rust, the `std::mem::size_of` function returns the size of a type in bytes.\nThis function is often used to determine the size of a struct or enum.\nFor example, you can use it to check the size of a custom struct like this: `println!(\"Size of MyStruct: {}\", std::mem::size_of::<MyStruct>());`",
+    "difficulty": "intermediate",
+    "question": "What Rust function returns the size of a type in bytes?",
+    "tags": [
+      "Rust",
+      "memory",
+      "programming"
+    ],
+    "theme": "Rust",
+    "type": "open",
+    "id": "20260518",
+    "createdAt": "2026-05-18T00:53:23.779Z"
   }
 ]

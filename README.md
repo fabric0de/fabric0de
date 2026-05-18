@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the key difference between a top-down and a bottom-up approach in problem-solving?
+### ❓ What Rust function returns the size of a type in bytes?
 
 </div>
 
 <div align="center">
 
-🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem_solving` `algorithm` `design` • 📅 20260517
+🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `Rust` `memory` `programming` • 📅 20260518
 
 </div>
 
@@ -46,7 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Problem Solving
+> In Rust, the `std::mem::size_of` function returns the size of a type in bytes.
+
+> This function is often used to determine the size of a struct or enum.
+
+> For example, you can use it to check the size of a custom struct like this: `println!("Size of MyStruct: {}", std::mem::size_of::<MyStruct>());`
 
 <br>
 
