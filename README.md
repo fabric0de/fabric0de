@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What Rust function returns the size of a type in bytes?
+### ❓ What is the purpose of the following SQL query: SELECT * FROM customers WHERE country='USA';
 
 </div>
 
 <div align="center">
 
-🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `Rust` `memory` `programming` • 📅 20260518
+🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `SQL` `database` `query` • 📅 20260518
 
 </div>
 
@@ -46,11 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Rust, the `std::mem::size_of` function returns the size of a type in bytes.
+> SELECT * FROM customers WHERE country='USA';
 
-> This function is often used to determine the size of a struct or enum.
+> This query will return all rows from the customers table where the country is 'USA'.
 
-> For example, you can use it to check the size of a custom struct like this: `println!("Size of MyStruct: {}", std::mem::size_of::<MyStruct>());`
+> It uses the WHERE clause to filter the results based on the specified condition.
+
+> This is an example of a basic SQL query that retrieves data from a database table.
+
+> It is a SELECT statement that uses a WHERE clause to filter the results.
+
+> This type of query is commonly used in data analysis and reporting.
 
 <br>
 
