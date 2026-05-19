@@ -2,25 +2,31 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260519 - What are the primary factors that influence a website's search engine ranking in SEO?
+## 20260519 - What is the primary difference between the 'header' and 'nav' elements in HTML?
 
-theme: **SEO** • difficulty: **intermediate** • `SEO` `search engine ranking` `relevance` `authority` `user experience` `technical optimization` `content quality`
+theme: **HTML Semantics** • difficulty: **intermediate** • `html` `semantics` `html5`
 
-> What are the primary factors that influence a website's search engine ranking in SEO?
+> The main difference between the 'header' and 'nav' elements in HTML is that the 'header' element represents the introductory content of a document, while the 'nav' element represents navigation links. The 'header' element can contain the 'nav' element, but not the other way around.
 
-> In SEO, the primary factors that influence a website's search engine ranking include:
+> Example:
 
-> 1. Relevance: How well does the website's content match the user's search query?
+> <header>
 
-> 2. Authority: How trustworthy and credible is the website?
+> <h1>Site Title</h1>
 
-> 3. User Experience: How easy is it for users to navigate and engage with the website?
+> <nav>
 
-> 4. Technical Optimization: How well is the website optimized for search engines in terms of structure, speed, and mobile-friendliness?
+> <ul>
 
-> 5. Content Quality: How high-quality and engaging is the website's content?
+> <li><a href='#'>Home</a></li>
 
-> Tags: SEO, search engine ranking, relevance, authority, user experience, technical optimization, content quality
+> <li><a href='#'>About</a></li>
+
+> </ul>
+
+> </nav>
+
+> </header>
 
 ---
 
