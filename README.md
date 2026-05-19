@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the following SQL query: SELECT * FROM customers WHERE country='USA';
+### ❓ What are the primary factors that influence a website's search engine ranking in SEO?
 
 </div>
 
 <div align="center">
 
-🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `SQL` `database` `query` • 📅 20260518
+🗓️ **SEO** • 🟡 **intermediate** • 🏷️ `SEO` `search engine ranking` `relevance` `authority` `user experience` `technical optimization` `content quality` • 📅 20260519
 
 </div>
 
@@ -46,17 +46,21 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> SELECT * FROM customers WHERE country='USA';
+> What are the primary factors that influence a website's search engine ranking in SEO?
 
-> This query will return all rows from the customers table where the country is 'USA'.
+> In SEO, the primary factors that influence a website's search engine ranking include:
 
-> It uses the WHERE clause to filter the results based on the specified condition.
+> 1. Relevance: How well does the website's content match the user's search query?
 
-> This is an example of a basic SQL query that retrieves data from a database table.
+> 2. Authority: How trustworthy and credible is the website?
 
-> It is a SELECT statement that uses a WHERE clause to filter the results.
+> 3. User Experience: How easy is it for users to navigate and engage with the website?
 
-> This type of query is commonly used in data analysis and reporting.
+> 4. Technical Optimization: How well is the website optimized for search engines in terms of structure, speed, and mobile-friendliness?
+
+> 5. Content Quality: How high-quality and engaging is the website's content?
+
+> Tags: SEO, search engine ranking, relevance, authority, user experience, technical optimization, content quality
 
 <br>
 
