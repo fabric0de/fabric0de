@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary difference between the 'header' and 'nav' elements in HTML?
+### ❓ What is a key characteristic of the HTTP protocol?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `html5` • 📅 20260519
+🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `web development` `networking` • 📅 20260520
 
 </div>
 
@@ -46,27 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The main difference between the 'header' and 'nav' elements in HTML is that the 'header' element represents the introductory content of a document, while the 'nav' element represents navigation links. The 'header' element can contain the 'nav' element, but not the other way around.
+> HTTP is a stateless protocol, meaning each request contains all the information necessary to complete the request.
 
-> Example:
+> It does not rely on any information from previous requests.
 
-> <header>
+> This is in contrast to a stateful protocol, which maintains context between requests.
 
-> <h1>Site Title</h1>
+> HTTP's statelessness allows for greater scalability and flexibility in web development.
 
-> <nav>
-
-> <ul>
-
-> <li><a href='#'>Home</a></li>
-
-> <li><a href='#'>About</a></li>
-
-> </ul>
-
-> </nav>
-
-> </header>
+> However, it can also make it more difficult to implement certain features, such as user sessions.
 
 <br>
 

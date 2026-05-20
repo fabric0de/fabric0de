@@ -469,5 +469,19 @@
     "type": "open",
     "id": "20260519",
     "createdAt": "2026-05-19T13:13:05.375Z"
+  },
+  {
+    "answer": "HTTP is a stateless protocol, meaning each request contains all the information necessary to complete the request.\nIt does not rely on any information from previous requests.\nThis is in contrast to a stateful protocol, which maintains context between requests.\nHTTP's statelessness allows for greater scalability and flexibility in web development.\nHowever, it can also make it more difficult to implement certain features, such as user sessions.\n",
+    "difficulty": "intermediate",
+    "question": "What is a key characteristic of the HTTP protocol?",
+    "tags": [
+      "http",
+      "web development",
+      "networking"
+    ],
+    "theme": "HTTP",
+    "type": "open",
+    "id": "20260520",
+    "createdAt": "2026-05-20T00:56:17.065Z"
   }
 ]
