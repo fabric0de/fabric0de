@@ -2,19 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260520 - What is a key characteristic of the HTTP protocol?
+## 20260520 - What is the primary difference between a static IP address and a dynamic IP address in the context of networking?
 
-theme: **HTTP** • difficulty: **intermediate** • `http` `web development` `networking`
+theme: **Networking** • difficulty: **intermediate** • `Networking` `IP Addresses` `Static IP` `Dynamic IP`
 
-> HTTP is a stateless protocol, meaning each request contains all the information necessary to complete the request.
+> What is the primary difference between a static IP address and a dynamic IP address in the context of networking?
 
-> It does not rely on any information from previous requests.
+> A static IP address is assigned permanently to a device, while a dynamic IP address is assigned temporarily and can change over time.
 
-> This is in contrast to a stateful protocol, which maintains context between requests.
+> Static IP addresses are typically used for servers and other devices that require a fixed IP address, while dynamic IP addresses are commonly used for home networks and other devices that do not require a fixed IP address.
 
-> HTTP's statelessness allows for greater scalability and flexibility in web development.
+> This is because static IP addresses provide a consistent and predictable IP address, while dynamic IP addresses can change and may require additional configuration to access devices on the network.
 
-> However, it can also make it more difficult to implement certain features, such as user sessions.
+> In summary, the primary difference between a static IP address and a dynamic IP address is the level of permanence and predictability of the IP address assigned to a device.
 
 ---
 
