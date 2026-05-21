@@ -486,19 +486,18 @@
     "createdAt": "2026-05-20T12:59:17.633Z"
   },
   {
-    "answer": "In UI Engineering, what is the purpose of using a CSS preprocessor like Sass or Less?\nA CSS preprocessor allows you to write more efficient and modular CSS code by using variables, nesting, and mixins.\nThis can improve the maintainability and scalability of your CSS codebase.\nFor example, you can define a color palette as variables and reuse them throughout your stylesheets.\nThis approach also enables you to write more complex CSS logic and reuse it across multiple components.\nBy using a CSS preprocessor, you can write more efficient and maintainable CSS code.",
+    "answer": "To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by adding the 'loading' attribute to the image tag and setting it to 'lazy'.\nYou can also use the 'IntersectionObserver' API to load resources only when they are visible in the viewport.\nAdditionally, you can use code splitting to split your JavaScript code into smaller chunks and load them only when needed.\nThis can help reduce the initial load time and improve the overall performance of your frontend application.",
     "difficulty": "intermediate",
-    "question": "What is the purpose of using a CSS preprocessor like Sass or Less in UI Engineering?",
+    "question": "What are some techniques to improve frontend performance?",
     "tags": [
-      "UI Engineering",
-      "CSS",
-      "Sass",
-      "Less",
-      "Front-end Development"
+      "frontend performance",
+      "lazy loading",
+      "intersection observer",
+      "code splitting"
     ],
-    "theme": "UI Engineering",
+    "theme": "Frontend Performance",
     "type": "open",
     "id": "20260521",
-    "createdAt": "2026-05-21T00:55:56.084Z"
+    "createdAt": "2026-05-21T13:14:40.760Z"
   }
 ]
