@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary difference between a static IP address and a dynamic IP address in the context of networking?
+### ❓ What is the purpose of using a CSS preprocessor like Sass or Less in UI Engineering?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `IP Addresses` `Static IP` `Dynamic IP` • 📅 20260520
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `CSS` `Sass` `Less` `Front-end Development` • 📅 20260521
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary difference between a static IP address and a dynamic IP address in the context of networking?
+> In UI Engineering, what is the purpose of using a CSS preprocessor like Sass or Less?
 
-> A static IP address is assigned permanently to a device, while a dynamic IP address is assigned temporarily and can change over time.
+> A CSS preprocessor allows you to write more efficient and modular CSS code by using variables, nesting, and mixins.
 
-> Static IP addresses are typically used for servers and other devices that require a fixed IP address, while dynamic IP addresses are commonly used for home networks and other devices that do not require a fixed IP address.
+> This can improve the maintainability and scalability of your CSS codebase.
 
-> This is because static IP addresses provide a consistent and predictable IP address, while dynamic IP addresses can change and may require additional configuration to access devices on the network.
+> For example, you can define a color palette as variables and reuse them throughout your stylesheets.
 
-> In summary, the primary difference between a static IP address and a dynamic IP address is the level of permanence and predictability of the IP address assigned to a device.
+> This approach also enables you to write more complex CSS logic and reuse it across multiple components.
+
+> By using a CSS preprocessor, you can write more efficient and maintainable CSS code.
 
 <br>
 

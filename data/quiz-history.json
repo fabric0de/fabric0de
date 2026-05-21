@@ -484,5 +484,21 @@
     "type": "open",
     "id": "20260520",
     "createdAt": "2026-05-20T12:59:17.633Z"
+  },
+  {
+    "answer": "In UI Engineering, what is the purpose of using a CSS preprocessor like Sass or Less?\nA CSS preprocessor allows you to write more efficient and modular CSS code by using variables, nesting, and mixins.\nThis can improve the maintainability and scalability of your CSS codebase.\nFor example, you can define a color palette as variables and reuse them throughout your stylesheets.\nThis approach also enables you to write more complex CSS logic and reuse it across multiple components.\nBy using a CSS preprocessor, you can write more efficient and maintainable CSS code.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of using a CSS preprocessor like Sass or Less in UI Engineering?",
+    "tags": [
+      "UI Engineering",
+      "CSS",
+      "Sass",
+      "Less",
+      "Front-end Development"
+    ],
+    "theme": "UI Engineering",
+    "type": "open",
+    "id": "20260521",
+    "createdAt": "2026-05-21T00:55:56.084Z"
   }
 ]

@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260521 - What is the purpose of using a CSS preprocessor like Sass or Less in UI Engineering?
+
+theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `CSS` `Sass` `Less` `Front-end Development`
+
+> In UI Engineering, what is the purpose of using a CSS preprocessor like Sass or Less?
+
+> A CSS preprocessor allows you to write more efficient and modular CSS code by using variables, nesting, and mixins.
+
+> This can improve the maintainability and scalability of your CSS codebase.
+
+> For example, you can define a color palette as variables and reuse them throughout your stylesheets.
+
+> This approach also enables you to write more complex CSS logic and reuse it across multiple components.
+
+> By using a CSS preprocessor, you can write more efficient and maintainable CSS code.
+
+---
+
 ## 20260520 - What is the primary difference between a static IP address and a dynamic IP address in the context of networking?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `IP Addresses` `Static IP` `Dynamic IP`
