@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some techniques to improve frontend performance?
+### ❓ What are some key components to consider when designing a system to handle a large volume of user requests?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend performance` `lazy loading` `intersection observer` `code splitting` • 📅 20260521
+🗓️ **System Design** • 🟡 **intermediate** • 🏷️ `System Design` `Scalability` `Performance Optimization` • 📅 20260522
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by adding the 'loading' attribute to the image tag and setting it to 'lazy'.
+> A system designed to handle a large volume of user requests should consider the following components:
 
-> You can also use the 'IntersectionObserver' API to load resources only when they are visible in the viewport.
+> - Load Balancer: distributes incoming traffic across multiple servers to prevent any one server from becoming a bottleneck.
 
-> Additionally, you can use code splitting to split your JavaScript code into smaller chunks and load them only when needed.
+> - Scalable Database: allows the system to handle increased traffic without compromising performance.
 
-> This can help reduce the initial load time and improve the overall performance of your frontend application.
+> - Caching Layer: reduces the load on the database by storing frequently accessed data in memory.
+
+> - Queue Service: handles tasks asynchronously to prevent delays and improve responsiveness.
+
+> - Monitoring and Logging: provides insights into system performance and helps identify areas for improvement.
 
 <br>
 

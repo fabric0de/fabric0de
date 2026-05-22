@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260522 - What are some key components to consider when designing a system to handle a large volume of user requests?
+
+theme: **System Design** • difficulty: **intermediate** • `System Design` `Scalability` `Performance Optimization`
+
+> A system designed to handle a large volume of user requests should consider the following components:
+
+> - Load Balancer: distributes incoming traffic across multiple servers to prevent any one server from becoming a bottleneck.
+
+> - Scalable Database: allows the system to handle increased traffic without compromising performance.
+
+> - Caching Layer: reduces the load on the database by storing frequently accessed data in memory.
+
+> - Queue Service: handles tasks asynchronously to prevent delays and improve responsiveness.
+
+> - Monitoring and Logging: provides insights into system performance and helps identify areas for improvement.
+
+---
+
 ## 20260521 - What are some techniques to improve frontend performance?
 
 theme: **Frontend Performance** • difficulty: **intermediate** • `frontend performance` `lazy loading` `intersection observer` `code splitting`

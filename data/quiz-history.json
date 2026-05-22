@@ -499,5 +499,19 @@
     "type": "open",
     "id": "20260521",
     "createdAt": "2026-05-21T13:14:40.760Z"
+  },
+  {
+    "answer": "A system designed to handle a large volume of user requests should consider the following components:\n- Load Balancer: distributes incoming traffic across multiple servers to prevent any one server from becoming a bottleneck.\n- Scalable Database: allows the system to handle increased traffic without compromising performance.\n- Caching Layer: reduces the load on the database by storing frequently accessed data in memory.\n- Queue Service: handles tasks asynchronously to prevent delays and improve responsiveness.\n- Monitoring and Logging: provides insights into system performance and helps identify areas for improvement.",
+    "difficulty": "intermediate",
+    "question": "What are some key components to consider when designing a system to handle a large volume of user requests?",
+    "tags": [
+      "System Design",
+      "Scalability",
+      "Performance Optimization"
+    ],
+    "theme": "System Design",
+    "type": "open",
+    "id": "20260522",
+    "createdAt": "2026-05-22T00:54:10.960Z"
   }
 ]
