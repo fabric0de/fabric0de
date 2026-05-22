@@ -2,21 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260522 - What are some key components to consider when designing a system to handle a large volume of user requests?
+## 20260522 - What is the primary advantage of using a load balancer in a distributed system?
 
-theme: **System Design** • difficulty: **intermediate** • `System Design` `Scalability` `Performance Optimization`
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `load balancing` `fault tolerance` `performance optimization`
 
-> A system designed to handle a large volume of user requests should consider the following components:
+> In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
 
-> - Load Balancer: distributes incoming traffic across multiple servers to prevent any one server from becoming a bottleneck.
+> A load balancer can improve the responsiveness and reliability of a system by ensuring that no single server becomes overwhelmed with requests.
 
-> - Scalable Database: allows the system to handle increased traffic without compromising performance.
+> This can be achieved through techniques such as round-robin scheduling, IP hashing, and session persistence.
 
-> - Caching Layer: reduces the load on the database by storing frequently accessed data in memory.
+> Load balancers can also help to improve fault tolerance by automatically redirecting traffic to a different server in the event of a failure.
 
-> - Queue Service: handles tasks asynchronously to prevent delays and improve responsiveness.
+> This can help to minimize downtime and ensure that users can continue to access the system even if one or more servers become unavailable.
 
-> - Monitoring and Logging: provides insights into system performance and helps identify areas for improvement.
+> By distributing the load across multiple servers, a load balancer can help to improve the overall performance and availability of a distributed system.
 
 ---
 
