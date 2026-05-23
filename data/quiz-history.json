@@ -514,5 +514,20 @@
     "type": "open",
     "id": "20260522",
     "createdAt": "2026-05-22T12:55:50.778Z"
+  },
+  {
+    "answer": "What is the primary function of a model interpretability technique in AI Engineering?\nModel interpretability techniques are used to provide insights into the decision-making process of a machine learning model.\nThey help to identify the features that contribute most to the model's predictions.\nThis is useful for understanding why a model is making certain predictions and for identifying potential biases in the model.\nExamples of model interpretability techniques include feature importance, partial dependence plots, and SHAP values.\nThese techniques are essential for building trust in AI systems and for ensuring that they are fair and transparent.",
+    "difficulty": "intermediate",
+    "question": "What is the primary function of a model interpretability technique in AI Engineering?",
+    "tags": [
+      "AI Engineering",
+      "Machine Learning",
+      "Model Interpretability",
+      "Explainable AI"
+    ],
+    "theme": "AI Engineering",
+    "type": "open",
+    "id": "20260523",
+    "createdAt": "2026-05-23T00:52:09.296Z"
   }
 ]

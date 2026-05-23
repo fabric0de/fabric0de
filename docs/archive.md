@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260523 - What is the primary function of a model interpretability technique in AI Engineering?
+
+theme: **AI Engineering** • difficulty: **intermediate** • `AI Engineering` `Machine Learning` `Model Interpretability` `Explainable AI`
+
+> What is the primary function of a model interpretability technique in AI Engineering?
+
+> Model interpretability techniques are used to provide insights into the decision-making process of a machine learning model.
+
+> They help to identify the features that contribute most to the model's predictions.
+
+> This is useful for understanding why a model is making certain predictions and for identifying potential biases in the model.
+
+> Examples of model interpretability techniques include feature importance, partial dependence plots, and SHAP values.
+
+> These techniques are essential for building trust in AI systems and for ensuring that they are fair and transparent.
+
+---
+
 ## 20260522 - What is the primary advantage of using a load balancer in a distributed system?
 
 theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `load balancing` `fault tolerance` `performance optimization`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary advantage of using a load balancer in a distributed system?
+### ❓ What is the primary function of a model interpretability technique in AI Engineering?
 
 </div>
 
 <div align="center">
 
-🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `load balancing` `fault tolerance` `performance optimization` • 📅 20260522
+🗓️ **AI Engineering** • 🟡 **intermediate** • 🏷️ `AI Engineering` `Machine Learning` `Model Interpretability` `Explainable AI` • 📅 20260523
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In a distributed system, what is the primary advantage of using a load balancer to distribute incoming traffic across multiple servers?
+> What is the primary function of a model interpretability technique in AI Engineering?
 
-> A load balancer can improve the responsiveness and reliability of a system by ensuring that no single server becomes overwhelmed with requests.
+> Model interpretability techniques are used to provide insights into the decision-making process of a machine learning model.
 
-> This can be achieved through techniques such as round-robin scheduling, IP hashing, and session persistence.
+> They help to identify the features that contribute most to the model's predictions.
 
-> Load balancers can also help to improve fault tolerance by automatically redirecting traffic to a different server in the event of a failure.
+> This is useful for understanding why a model is making certain predictions and for identifying potential biases in the model.
 
-> This can help to minimize downtime and ensure that users can continue to access the system even if one or more servers become unavailable.
+> Examples of model interpretability techniques include feature importance, partial dependence plots, and SHAP values.
 
-> By distributing the load across multiple servers, a load balancer can help to improve the overall performance and availability of a distributed system.
+> These techniques are essential for building trust in AI systems and for ensuring that they are fair and transparent.
 
 <br>
 
