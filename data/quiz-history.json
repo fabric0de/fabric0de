@@ -516,18 +516,17 @@
     "createdAt": "2026-05-22T12:55:50.778Z"
   },
   {
-    "answer": "What is the primary function of a model interpretability technique in AI Engineering?\nModel interpretability techniques are used to provide insights into the decision-making process of a machine learning model.\nThey help to identify the features that contribute most to the model's predictions.\nThis is useful for understanding why a model is making certain predictions and for identifying potential biases in the model.\nExamples of model interpretability techniques include feature importance, partial dependence plots, and SHAP values.\nThese techniques are essential for building trust in AI systems and for ensuring that they are fair and transparent.",
+    "answer": "A building's facade is the exterior wall that provides a visual boundary between the interior and exterior of a building. It can be made of various materials such as stone, brick, glass, or metal.\n\nIn architecture, the facade is often designed to be aesthetically pleasing and to provide protection from the elements.\n\nThere are several types of facades, including:\n\n- Curtain wall facade: a non-structural facade that is typically made of glass and aluminum.\n\n- Load-bearing facade: a facade that supports the weight of the building.\n\n- Green facade: a facade that incorporates plants and greenery.\n\n- Double-skin facade: a facade that has two layers of glazing, with a gap in between for ventilation and insulation.",
     "difficulty": "intermediate",
-    "question": "What is the primary function of a model interpretability technique in AI Engineering?",
+    "question": "What is a building's facade and what are some common types of facades in architecture?",
     "tags": [
-      "AI Engineering",
-      "Machine Learning",
-      "Model Interpretability",
-      "Explainable AI"
+      "Architecture",
+      "Building Design",
+      "Exterior Design"
     ],
-    "theme": "AI Engineering",
+    "theme": "Architecture",
     "type": "open",
     "id": "20260523",
-    "createdAt": "2026-05-23T00:52:09.296Z"
+    "createdAt": "2026-05-23T12:26:01.553Z"
   }
 ]

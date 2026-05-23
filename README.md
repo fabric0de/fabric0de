@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a model interpretability technique in AI Engineering?
+### ❓ What is a building's facade and what are some common types of facades in architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **AI Engineering** • 🟡 **intermediate** • 🏷️ `AI Engineering` `Machine Learning` `Model Interpretability` `Explainable AI` • 📅 20260523
+🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Building Design` `Exterior Design` • 📅 20260523
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary function of a model interpretability technique in AI Engineering?
+> A building's facade is the exterior wall that provides a visual boundary between the interior and exterior of a building. It can be made of various materials such as stone, brick, glass, or metal.
 
-> Model interpretability techniques are used to provide insights into the decision-making process of a machine learning model.
+> In architecture, the facade is often designed to be aesthetically pleasing and to provide protection from the elements.
 
-> They help to identify the features that contribute most to the model's predictions.
+> There are several types of facades, including:
 
-> This is useful for understanding why a model is making certain predictions and for identifying potential biases in the model.
+> - Curtain wall facade: a non-structural facade that is typically made of glass and aluminum.
 
-> Examples of model interpretability techniques include feature importance, partial dependence plots, and SHAP values.
+> - Load-bearing facade: a facade that supports the weight of the building.
 
-> These techniques are essential for building trust in AI systems and for ensuring that they are fair and transparent.
+> - Green facade: a facade that incorporates plants and greenery.
+
+> - Double-skin facade: a facade that has two layers of glazing, with a gap in between for ventilation and insulation.
 
 <br>
 
