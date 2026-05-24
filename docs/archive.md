@@ -2,6 +2,16 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260524 - What is Big O notation and how is it used to describe the time complexity of an algorithm?
+
+theme: **CS Basics** • difficulty: **intermediate** • `algorithm` `big-o` `time-complexity` `cs-basics`
+
+> In CS Basics, the concept of Big O notation is used to describe the time complexity of an algorithm. It is typically represented as O(n), where n is the input size. For example, a linear search algorithm has a time complexity of O(n), because it needs to search through each element in the list once. In contrast, a binary search algorithm has a time complexity of O(log n), because it can eliminate half of the search space with each comparison.
+
+> Big O notation is used to predict the performance of an algorithm as the input size increases.
+
+---
+
 ## 20260523 - What is a building's facade and what are some common types of facades in architecture?
 
 theme: **Architecture** • difficulty: **intermediate** • `Architecture` `Building Design` `Exterior Design`

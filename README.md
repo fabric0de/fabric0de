@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a building's facade and what are some common types of facades in architecture?
+### ❓ What is Big O notation and how is it used to describe the time complexity of an algorithm?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Building Design` `Exterior Design` • 📅 20260523
+🗓️ **CS Basics** • 🟡 **intermediate** • 🏷️ `algorithm` `big-o` `time-complexity` `cs-basics` • 📅 20260524
 
 </div>
 
@@ -46,19 +46,9 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A building's facade is the exterior wall that provides a visual boundary between the interior and exterior of a building. It can be made of various materials such as stone, brick, glass, or metal.
+> In CS Basics, the concept of Big O notation is used to describe the time complexity of an algorithm. It is typically represented as O(n), where n is the input size. For example, a linear search algorithm has a time complexity of O(n), because it needs to search through each element in the list once. In contrast, a binary search algorithm has a time complexity of O(log n), because it can eliminate half of the search space with each comparison.
 
-> In architecture, the facade is often designed to be aesthetically pleasing and to provide protection from the elements.
-
-> There are several types of facades, including:
-
-> - Curtain wall facade: a non-structural facade that is typically made of glass and aluminum.
-
-> - Load-bearing facade: a facade that supports the weight of the building.
-
-> - Green facade: a facade that incorporates plants and greenery.
-
-> - Double-skin facade: a facade that has two layers of glazing, with a gap in between for ventilation and insulation.
+> Big O notation is used to predict the performance of an algorithm as the input size increases.
 
 <br>
 
