@@ -530,18 +530,17 @@
     "createdAt": "2026-05-23T12:26:01.553Z"
   },
   {
-    "answer": "In CS Basics, the concept of Big O notation is used to describe the time complexity of an algorithm. It is typically represented as O(n), where n is the input size. For example, a linear search algorithm has a time complexity of O(n), because it needs to search through each element in the list once. In contrast, a binary search algorithm has a time complexity of O(log n), because it can eliminate half of the search space with each comparison.\n\nBig O notation is used to predict the performance of an algorithm as the input size increases.",
+    "answer": "A sorting algorithm is a type of algorithm that takes an array of elements as input and rearranges them in a specific order, such as ascending or descending order.\n\nSome common sorting algorithms include Bubble Sort, Selection Sort, and Quick Sort.\n\nWhich of the following is a characteristic of a stable sorting algorithm?\nA) It is always faster than Quick Sort\nB) It preserves the order of equal elements\nC) It is always slower than Bubble Sort\nD) It is only used for sorting integers\n\nAnswer: B) It preserves the order of equal elements",
     "difficulty": "intermediate",
-    "question": "What is Big O notation and how is it used to describe the time complexity of an algorithm?",
+    "question": "What is a characteristic of a stable sorting algorithm?",
     "tags": [
-      "algorithm",
-      "big-o",
-      "time-complexity",
-      "cs-basics"
+      "Algorithms",
+      "Sorting",
+      "Stability"
     ],
-    "theme": "CS Basics",
-    "type": "open",
+    "theme": "Algorithms",
+    "type": "mcq",
     "id": "20260524",
-    "createdAt": "2026-05-24T00:54:47.863Z"
+    "createdAt": "2026-05-24T12:28:54.175Z"
   }
 ]
