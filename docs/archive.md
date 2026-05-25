@@ -2,6 +2,34 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260525 - What is the purpose of the 'this' keyword in JavaScript and how is it used in a function?
+
+theme: **JavaScript** • difficulty: **intermediate** • `javascript` `object-oriented-programming` `functions`
+
+> In JavaScript, the 'this' keyword refers to the current execution context of a function. It can be used to access the function's own properties and methods.
+
+> For example:
+
+> function Person(name) {
+
+> this.name = name;
+
+> this.sayHello = function() {
+
+> console.log(`Hello, my name is ${this.name}`);
+
+> }
+
+> }
+
+> const person = new Person('John');
+
+> person.sayHello();
+
+> In this example, 'this' refers to the 'person' object.
+
+---
+
 ## 20260524 - What is a characteristic of a stable sorting algorithm?
 
 theme: **Algorithms** • difficulty: **intermediate** • `Algorithms` `Sorting` `Stability`

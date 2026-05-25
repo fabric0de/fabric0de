@@ -542,5 +542,19 @@
     "type": "mcq",
     "id": "20260524",
     "createdAt": "2026-05-24T12:28:54.175Z"
+  },
+  {
+    "answer": "In JavaScript, the 'this' keyword refers to the current execution context of a function. It can be used to access the function's own properties and methods.\n\nFor example:\n\nfunction Person(name) {\n  this.name = name;\n  this.sayHello = function() {\n    console.log(`Hello, my name is ${this.name}`);\n  }\n}\n\nconst person = new Person('John');\nperson.sayHello();\n\nIn this example, 'this' refers to the 'person' object.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the 'this' keyword in JavaScript and how is it used in a function?",
+    "tags": [
+      "javascript",
+      "object-oriented-programming",
+      "functions"
+    ],
+    "theme": "JavaScript",
+    "type": "open",
+    "id": "20260525",
+    "createdAt": "2026-05-25T00:56:11.429Z"
   }
 ]
