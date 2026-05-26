@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the key differences between a rasterizer and a ray caster in the context of rendering?
+### ❓ What is one way to make a web page more accessible to users with visual impairments?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `rendering` `3d graphics` `rasterization` `ray casting` • 📅 20260526
+🗓️ **Accessibility** • 🟡 **intermediate** • 🏷️ `Accessibility` `Web Development` `Screen Readers` `Visual Impairments` • 📅 20260526
 
 </div>
 
@@ -46,13 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In rendering, what is the difference between a rasterizer and a ray caster?
+> To make a web page accessible, you should use the 'alt' attribute to provide a text description of an image.
 
-> A rasterizer is used to render 3D scenes by dividing the scene into small pixels and calculating the color of each pixel.
+> This allows screen readers to describe the image to visually impaired users.
 
-> A ray caster, on the other hand, is used to render 3D scenes by casting rays from the viewer's perspective and calculating the color of the objects that the rays intersect.
+> For example, an image of a logo could have the following HTML: <img src='logo.png' alt='Company logo'>.
 
-> Rasterizers are generally faster and more efficient, but can produce lower-quality images, while ray casters can produce higher-quality images, but are often slower and more computationally expensive.
+> This way, users with visual impairments can understand the content of the image.
+
+> Using the 'alt' attribute is a key principle of web accessibility.
+
+> It helps ensure that all users can access and understand the content of a web page.
+
+> This is especially important for users who rely on screen readers to navigate the web.
 
 <br>
 
