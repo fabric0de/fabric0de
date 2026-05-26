@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is TypeScript and what are its key features?
+### ❓ What are the key differences between a rasterizer and a ray caster in the context of rendering?
 
 </div>
 
 <div align="center">
 
-🗓️ **typescript** • 🟡 **intermediate** • 🏷️ `typescript` `javascript` `programming-language` `static-typing` • 📅 20260525
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `rendering` `3d graphics` `rasterization` `ray casting` • 📅 20260526
 
 </div>
 
@@ -46,17 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> TypeScript is a statically typed language that compiles to JavaScript.
+> In rendering, what is the difference between a rasterizer and a ray caster?
 
-> It is designed to help developers catch errors early and improve code maintainability.
+> A rasterizer is used to render 3D scenes by dividing the scene into small pixels and calculating the color of each pixel.
 
-> TypeScript is often used for large-scale JavaScript applications.
+> A ray caster, on the other hand, is used to render 3D scenes by casting rays from the viewer's perspective and calculating the color of the objects that the rays intersect.
 
-> It supports interfaces, type annotations, and generics.
-
-> TypeScript can be used with popular frameworks like React and Angular.
-
-> TypeScript is maintained by Microsoft.
+> Rasterizers are generally faster and more efficient, but can produce lower-quality images, while ray casters can produce higher-quality images, but are often slower and more computationally expensive.
 
 <br>
 

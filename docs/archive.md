@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260526 - What are the key differences between a rasterizer and a ray caster in the context of rendering?
+
+theme: **Rendering** • difficulty: **intermediate** • `rendering` `3d graphics` `rasterization` `ray casting`
+
+> In rendering, what is the difference between a rasterizer and a ray caster?
+
+> A rasterizer is used to render 3D scenes by dividing the scene into small pixels and calculating the color of each pixel.
+
+> A ray caster, on the other hand, is used to render 3D scenes by casting rays from the viewer's perspective and calculating the color of the objects that the rays intersect.
+
+> Rasterizers are generally faster and more efficient, but can produce lower-quality images, while ray casters can produce higher-quality images, but are often slower and more computationally expensive.
+
+---
+
 ## 20260525 - What is TypeScript and what are its key features?
 
 theme: **typescript** • difficulty: **intermediate** • `typescript` `javascript` `programming-language` `static-typing`
