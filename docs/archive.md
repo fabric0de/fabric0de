@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260527 - What is the primary function of an API Gateway in a microservices architecture?
+
+theme: **API Gateways** • difficulty: **intermediate** • `API Gateways` `Microservices` `API Management` `Serverless Architecture`
+
+> An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.
+
+> It sits between clients and backend services, providing a single interface for API management.
+
+> API Gateways can be implemented using various tools and technologies, including AWS API Gateway, Google Cloud Endpoints, and Azure API Management.
+
+> They offer several benefits, including improved security, scalability, and monitoring capabilities.
+
+> API Gateways can also help to simplify API development and integration by providing a unified interface for API management.
+
+---
+
 ## 20260526 - What is one way to make a web page more accessible to users with visual impairments?
 
 theme: **Accessibility** • difficulty: **intermediate** • `Accessibility` `Web Development` `Screen Readers` `Visual Impairments`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is one way to make a web page more accessible to users with visual impairments?
+### ❓ What is the primary function of an API Gateway in a microservices architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟡 **intermediate** • 🏷️ `Accessibility` `Web Development` `Screen Readers` `Visual Impairments` • 📅 20260526
+🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `Microservices` `API Management` `Serverless Architecture` • 📅 20260527
 
 </div>
 
@@ -46,19 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To make a web page accessible, you should use the 'alt' attribute to provide a text description of an image.
+> An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.
 
-> This allows screen readers to describe the image to visually impaired users.
+> It sits between clients and backend services, providing a single interface for API management.
 
-> For example, an image of a logo could have the following HTML: <img src='logo.png' alt='Company logo'>.
+> API Gateways can be implemented using various tools and technologies, including AWS API Gateway, Google Cloud Endpoints, and Azure API Management.
 
-> This way, users with visual impairments can understand the content of the image.
+> They offer several benefits, including improved security, scalability, and monitoring capabilities.
 
-> Using the 'alt' attribute is a key principle of web accessibility.
-
-> It helps ensure that all users can access and understand the content of a web page.
-
-> This is especially important for users who rely on screen readers to navigate the web.
+> API Gateways can also help to simplify API development and integration by providing a unified interface for API management.
 
 <br>
 

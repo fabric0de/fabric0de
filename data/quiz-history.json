@@ -572,5 +572,20 @@
     "type": "open",
     "id": "20260526",
     "createdAt": "2026-05-26T13:06:55.800Z"
+  },
+  {
+    "answer": "An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.\nIt sits between clients and backend services, providing a single interface for API management.\nAPI Gateways can be implemented using various tools and technologies, including AWS API Gateway, Google Cloud Endpoints, and Azure API Management.\nThey offer several benefits, including improved security, scalability, and monitoring capabilities.\nAPI Gateways can also help to simplify API development and integration by providing a unified interface for API management.",
+    "difficulty": "intermediate",
+    "question": "What is the primary function of an API Gateway in a microservices architecture?",
+    "tags": [
+      "API Gateways",
+      "Microservices",
+      "API Management",
+      "Serverless Architecture"
+    ],
+    "theme": "API Gateways",
+    "type": "open",
+    "id": "20260527",
+    "createdAt": "2026-05-27T00:55:23.673Z"
   }
 ]
