@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of an API Gateway in a microservices architecture?
+### ❓ What is the main difference between Basic Authentication and Digest Authentication in HTTP?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `Microservices` `API Management` `Serverless Architecture` • 📅 20260527
+🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `HTTP` `Security` `Web Development` • 📅 20260527
 
 </div>
 
@@ -46,15 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.
+> What is the main difference between Basic Authentication and Digest Authentication in HTTP?
 
-> It sits between clients and backend services, providing a single interface for API management.
+> Basic Authentication sends the username and password in plain text,
 
-> API Gateways can be implemented using various tools and technologies, including AWS API Gateway, Google Cloud Endpoints, and Azure API Management.
+> while Digest Authentication sends a hashed version of the username and password.
 
-> They offer several benefits, including improved security, scalability, and monitoring capabilities.
+> This makes Digest Authentication more secure than Basic Authentication.
 
-> API Gateways can also help to simplify API development and integration by providing a unified interface for API management.
+> Tags: Authentication, HTTP, Security, Web Development
 
 <br>
 
