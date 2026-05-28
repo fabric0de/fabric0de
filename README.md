@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is one way to make text appear in italics using CSS?
+### ❓ What is a design system in UI Engineering, and what does it typically include?
 
 </div>
 
 <div align="center">
 
-🗓️ **CSS** • 🟡 **intermediate** • 🏷️ `CSS` `HTML` `font-style` `italic` `oblique` • 📅 20260528
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `Design Systems` `Frontend Development` `Consistency` `Collaboration` • 📅 20260528
 
 </div>
 
@@ -46,17 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To make a text appear in italics, you can use the CSS property 'font-style' with the value 'italic'.
+> In UI Engineering, a design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or platform.
 
-> Alternatively, you can use the HTML tag '<i>' or '</i>' around the text.
+> It typically includes a style guide, component library, and other resources to facilitate collaboration and maintain a unified visual language.
 
-> You can also use the CSS property 'font-style' with the value 'oblique' to create a similar effect.
-
-> However, 'oblique' is not supported in all browsers.
-
-> In CSS, you can also use the 'font-style' property in combination with the 'font-family' property to specify a font that is already in italics.
-
-> For example: font-family: 'Times New Roman', Times, serif; font-style: italic;
+> Design systems can be implemented using various tools and frameworks, such as Storybook or Bit.
 
 <br>
 

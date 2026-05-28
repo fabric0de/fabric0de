@@ -589,19 +589,19 @@
     "createdAt": "2026-05-27T13:17:59.181Z"
   },
   {
-    "answer": "To make a text appear in italics, you can use the CSS property 'font-style' with the value 'italic'.\nAlternatively, you can use the HTML tag '<i>' or '</i>' around the text.\nYou can also use the CSS property 'font-style' with the value 'oblique' to create a similar effect.\nHowever, 'oblique' is not supported in all browsers.\nIn CSS, you can also use the 'font-style' property in combination with the 'font-family' property to specify a font that is already in italics.\nFor example: font-family: 'Times New Roman', Times, serif; font-style: italic;",
+    "answer": "In UI Engineering, a design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or platform.\nIt typically includes a style guide, component library, and other resources to facilitate collaboration and maintain a unified visual language.\nDesign systems can be implemented using various tools and frameworks, such as Storybook or Bit.",
     "difficulty": "intermediate",
-    "question": "What is one way to make text appear in italics using CSS?",
+    "question": "What is a design system in UI Engineering, and what does it typically include?",
     "tags": [
-      "CSS",
-      "HTML",
-      "font-style",
-      "italic",
-      "oblique"
+      "UI Engineering",
+      "Design Systems",
+      "Frontend Development",
+      "Consistency",
+      "Collaboration"
     ],
-    "theme": "CSS",
+    "theme": "UI Engineering",
     "type": "open",
     "id": "20260528",
-    "createdAt": "2026-05-28T00:50:20.123Z"
+    "createdAt": "2026-05-28T13:21:50.127Z"
   }
 ]
