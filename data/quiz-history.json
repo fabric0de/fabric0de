@@ -587,5 +587,21 @@
     "type": "open",
     "id": "20260527",
     "createdAt": "2026-05-27T13:17:59.181Z"
+  },
+  {
+    "answer": "To make a text appear in italics, you can use the CSS property 'font-style' with the value 'italic'.\nAlternatively, you can use the HTML tag '<i>' or '</i>' around the text.\nYou can also use the CSS property 'font-style' with the value 'oblique' to create a similar effect.\nHowever, 'oblique' is not supported in all browsers.\nIn CSS, you can also use the 'font-style' property in combination with the 'font-family' property to specify a font that is already in italics.\nFor example: font-family: 'Times New Roman', Times, serif; font-style: italic;",
+    "difficulty": "intermediate",
+    "question": "What is one way to make text appear in italics using CSS?",
+    "tags": [
+      "CSS",
+      "HTML",
+      "font-style",
+      "italic",
+      "oblique"
+    ],
+    "theme": "CSS",
+    "type": "open",
+    "id": "20260528",
+    "createdAt": "2026-05-28T00:50:20.123Z"
   }
 ]

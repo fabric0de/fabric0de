@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between Basic Authentication and Digest Authentication in HTTP?
+### ❓ What is one way to make text appear in italics using CSS?
 
 </div>
 
 <div align="center">
 
-🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `HTTP` `Security` `Web Development` • 📅 20260527
+🗓️ **CSS** • 🟡 **intermediate** • 🏷️ `CSS` `HTML` `font-style` `italic` `oblique` • 📅 20260528
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between Basic Authentication and Digest Authentication in HTTP?
+> To make a text appear in italics, you can use the CSS property 'font-style' with the value 'italic'.
 
-> Basic Authentication sends the username and password in plain text,
+> Alternatively, you can use the HTML tag '<i>' or '</i>' around the text.
 
-> while Digest Authentication sends a hashed version of the username and password.
+> You can also use the CSS property 'font-style' with the value 'oblique' to create a similar effect.
 
-> This makes Digest Authentication more secure than Basic Authentication.
+> However, 'oblique' is not supported in all browsers.
 
-> Tags: Authentication, HTTP, Security, Web Development
+> In CSS, you can also use the 'font-style' property in combination with the 'font-family' property to specify a font that is already in italics.
+
+> For example: font-family: 'Times New Roman', Times, serif; font-style: italic;
 
 <br>
 

@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260528 - What is one way to make text appear in italics using CSS?
+
+theme: **CSS** • difficulty: **intermediate** • `CSS` `HTML` `font-style` `italic` `oblique`
+
+> To make a text appear in italics, you can use the CSS property 'font-style' with the value 'italic'.
+
+> Alternatively, you can use the HTML tag '<i>' or '</i>' around the text.
+
+> You can also use the CSS property 'font-style' with the value 'oblique' to create a similar effect.
+
+> However, 'oblique' is not supported in all browsers.
+
+> In CSS, you can also use the 'font-style' property in combination with the 'font-family' property to specify a font that is already in italics.
+
+> For example: font-family: 'Times New Roman', Times, serif; font-style: italic;
+
+---
+
 ## 20260527 - What is the main difference between Basic Authentication and Digest Authentication in HTTP?
 
 theme: **Authentication** • difficulty: **intermediate** • `Authentication` `HTTP` `Security` `Web Development`
