@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Data Modeling and how is it used in database design?
+### ❓ What is the primary purpose of using a Message Queue in software development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Data Modeling** • 🟡 **intermediate** • 🏷️ `Data Modeling` `Database Design` `Entity-Relationship Modeling` `Object-Relational Mapping` • 📅 20260529
+🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `Message Queues` `Asynchronous Communication` `Decoupling` `Scalability` `Event-Driven Architecture` • 📅 20260529
 
 </div>
 
@@ -46,13 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Data Modeling is the process of creating a conceptual representation of data, including its structure, relationships, and constraints. This representation is used to design and implement databases, data warehouses, and other data storage systems.
+> Message Queues are used to handle asynchronous communication between different components of a system.
 
-> In Data Modeling, entities are represented as tables, and relationships between entities are represented as foreign keys or join tables.
+> They provide a way to decouple producers and consumers, allowing for greater flexibility and scalability.
 
-> Data Modeling is used to ensure data consistency, improve data quality, and support business intelligence and analytics.
+> Message Queues can be used in a variety of scenarios, including handling high volumes of data, implementing event-driven architectures, and providing fault-tolerant communication.
 
-> Some common data modeling techniques include Entity-Relationship Modeling (ERM), Object-Relational Mapping (ORM), and Data Vault Modeling.
+> Some popular Message Queue systems include RabbitMQ, Apache Kafka, and Amazon SQS.
 
 <br>
 

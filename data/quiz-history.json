@@ -605,18 +605,19 @@
     "createdAt": "2026-05-28T13:21:50.127Z"
   },
   {
-    "answer": "Data Modeling is the process of creating a conceptual representation of data, including its structure, relationships, and constraints. This representation is used to design and implement databases, data warehouses, and other data storage systems.\n\nIn Data Modeling, entities are represented as tables, and relationships between entities are represented as foreign keys or join tables.\n\nData Modeling is used to ensure data consistency, improve data quality, and support business intelligence and analytics.\n\nSome common data modeling techniques include Entity-Relationship Modeling (ERM), Object-Relational Mapping (ORM), and Data Vault Modeling.",
+    "answer": "Message Queues are used to handle asynchronous communication between different components of a system.\nThey provide a way to decouple producers and consumers, allowing for greater flexibility and scalability.\nMessage Queues can be used in a variety of scenarios, including handling high volumes of data, implementing event-driven architectures, and providing fault-tolerant communication.\nSome popular Message Queue systems include RabbitMQ, Apache Kafka, and Amazon SQS.",
     "difficulty": "intermediate",
-    "question": "What is Data Modeling and how is it used in database design?",
+    "question": "What is the primary purpose of using a Message Queue in software development?",
     "tags": [
-      "Data Modeling",
-      "Database Design",
-      "Entity-Relationship Modeling",
-      "Object-Relational Mapping"
+      "Message Queues",
+      "Asynchronous Communication",
+      "Decoupling",
+      "Scalability",
+      "Event-Driven Architecture"
     ],
-    "theme": "Data Modeling",
+    "theme": "Message Queues",
     "type": "open",
     "id": "20260529",
-    "createdAt": "2026-05-29T00:57:43.615Z"
+    "createdAt": "2026-05-29T13:12:36.917Z"
   }
 ]
