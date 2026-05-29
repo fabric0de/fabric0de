@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a design system in UI Engineering, and what does it typically include?
+### ❓ What is Data Modeling and how is it used in database design?
 
 </div>
 
 <div align="center">
 
-🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `Design Systems` `Frontend Development` `Consistency` `Collaboration` • 📅 20260528
+🗓️ **Data Modeling** • 🟡 **intermediate** • 🏷️ `Data Modeling` `Database Design` `Entity-Relationship Modeling` `Object-Relational Mapping` • 📅 20260529
 
 </div>
 
@@ -46,11 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In UI Engineering, a design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or platform.
+> Data Modeling is the process of creating a conceptual representation of data, including its structure, relationships, and constraints. This representation is used to design and implement databases, data warehouses, and other data storage systems.
 
-> It typically includes a style guide, component library, and other resources to facilitate collaboration and maintain a unified visual language.
+> In Data Modeling, entities are represented as tables, and relationships between entities are represented as foreign keys or join tables.
 
-> Design systems can be implemented using various tools and frameworks, such as Storybook or Bit.
+> Data Modeling is used to ensure data consistency, improve data quality, and support business intelligence and analytics.
+
+> Some common data modeling techniques include Entity-Relationship Modeling (ERM), Object-Relational Mapping (ORM), and Data Vault Modeling.
 
 <br>
 

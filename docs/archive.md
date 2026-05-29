@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260529 - What is Data Modeling and how is it used in database design?
+
+theme: **Data Modeling** • difficulty: **intermediate** • `Data Modeling` `Database Design` `Entity-Relationship Modeling` `Object-Relational Mapping`
+
+> Data Modeling is the process of creating a conceptual representation of data, including its structure, relationships, and constraints. This representation is used to design and implement databases, data warehouses, and other data storage systems.
+
+> In Data Modeling, entities are represented as tables, and relationships between entities are represented as foreign keys or join tables.
+
+> Data Modeling is used to ensure data consistency, improve data quality, and support business intelligence and analytics.
+
+> Some common data modeling techniques include Entity-Relationship Modeling (ERM), Object-Relational Mapping (ORM), and Data Vault Modeling.
+
+---
+
 ## 20260528 - What is a design system in UI Engineering, and what does it typically include?
 
 theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `Design Systems` `Frontend Development` `Consistency` `Collaboration`

@@ -603,5 +603,20 @@
     "type": "open",
     "id": "20260528",
     "createdAt": "2026-05-28T13:21:50.127Z"
+  },
+  {
+    "answer": "Data Modeling is the process of creating a conceptual representation of data, including its structure, relationships, and constraints. This representation is used to design and implement databases, data warehouses, and other data storage systems.\n\nIn Data Modeling, entities are represented as tables, and relationships between entities are represented as foreign keys or join tables.\n\nData Modeling is used to ensure data consistency, improve data quality, and support business intelligence and analytics.\n\nSome common data modeling techniques include Entity-Relationship Modeling (ERM), Object-Relational Mapping (ORM), and Data Vault Modeling.",
+    "difficulty": "intermediate",
+    "question": "What is Data Modeling and how is it used in database design?",
+    "tags": [
+      "Data Modeling",
+      "Database Design",
+      "Entity-Relationship Modeling",
+      "Object-Relational Mapping"
+    ],
+    "theme": "Data Modeling",
+    "type": "open",
+    "id": "20260529",
+    "createdAt": "2026-05-29T00:57:43.615Z"
   }
 ]
