@@ -2,21 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260530 - What is Observability and how is it typically implemented in software development?
+## 20260530 - A caching layer is implemented in an application to improve performance. What is the primary goal of using a caching layer in this scenario?
 
-theme: **Observability** • difficulty: **intermediate** • `observability` `software development` `logging` `monitoring` `tracing`
+theme: **Performance Tuning** • difficulty: **intermediate** • `performance-tuning` `caching` `application-performance`
 
-> Observability is the ability of a system to generate insights into its internal state and behavior, allowing developers to understand and troubleshoot issues. It involves collecting and analyzing data from various sources to identify problems and improve the system's performance.
-
-> In the context of software development, observability is often achieved through the use of logging, monitoring, and tracing tools.
-
-> Some common techniques used to implement observability include:
-
-> - Using a logging framework to collect and store log messages
-
-> - Implementing a monitoring system to track system performance and resource usage
-
-> - Utilizing a tracing tool to analyze request flow and identify bottlenecks
+> In performance tuning, what is the primary goal of using a caching layer in an application?
 
 ---
 

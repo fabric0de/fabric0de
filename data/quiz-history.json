@@ -621,19 +621,17 @@
     "createdAt": "2026-05-29T13:12:36.917Z"
   },
   {
-    "answer": "Observability is the ability of a system to generate insights into its internal state and behavior, allowing developers to understand and troubleshoot issues. It involves collecting and analyzing data from various sources to identify problems and improve the system's performance.\n\nIn the context of software development, observability is often achieved through the use of logging, monitoring, and tracing tools.\n\nSome common techniques used to implement observability include:\n\n- Using a logging framework to collect and store log messages\n- Implementing a monitoring system to track system performance and resource usage\n- Utilizing a tracing tool to analyze request flow and identify bottlenecks",
+    "answer": "In performance tuning, what is the primary goal of using a caching layer in an application?",
     "difficulty": "intermediate",
-    "question": "What is Observability and how is it typically implemented in software development?",
+    "question": "A caching layer is implemented in an application to improve performance. What is the primary goal of using a caching layer in this scenario?",
     "tags": [
-      "observability",
-      "software development",
-      "logging",
-      "monitoring",
-      "tracing"
+      "performance-tuning",
+      "caching",
+      "application-performance"
     ],
-    "theme": "Observability",
+    "theme": "Performance Tuning",
     "type": "open",
     "id": "20260530",
-    "createdAt": "2026-05-30T00:53:45.595Z"
+    "createdAt": "2026-05-30T12:31:19.262Z"
   }
 ]
