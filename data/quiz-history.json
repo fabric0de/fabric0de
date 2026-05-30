@@ -619,5 +619,21 @@
     "type": "open",
     "id": "20260529",
     "createdAt": "2026-05-29T13:12:36.917Z"
+  },
+  {
+    "answer": "Observability is the ability of a system to generate insights into its internal state and behavior, allowing developers to understand and troubleshoot issues. It involves collecting and analyzing data from various sources to identify problems and improve the system's performance.\n\nIn the context of software development, observability is often achieved through the use of logging, monitoring, and tracing tools.\n\nSome common techniques used to implement observability include:\n\n- Using a logging framework to collect and store log messages\n- Implementing a monitoring system to track system performance and resource usage\n- Utilizing a tracing tool to analyze request flow and identify bottlenecks",
+    "difficulty": "intermediate",
+    "question": "What is Observability and how is it typically implemented in software development?",
+    "tags": [
+      "observability",
+      "software development",
+      "logging",
+      "monitoring",
+      "tracing"
+    ],
+    "theme": "Observability",
+    "type": "open",
+    "id": "20260530",
+    "createdAt": "2026-05-30T00:53:45.595Z"
   }
 ]

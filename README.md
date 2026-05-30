@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of using a Message Queue in software development?
+### ❓ What is Observability and how is it typically implemented in software development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `Message Queues` `Asynchronous Communication` `Decoupling` `Scalability` `Event-Driven Architecture` • 📅 20260529
+🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `observability` `software development` `logging` `monitoring` `tracing` • 📅 20260530
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Message Queues are used to handle asynchronous communication between different components of a system.
+> Observability is the ability of a system to generate insights into its internal state and behavior, allowing developers to understand and troubleshoot issues. It involves collecting and analyzing data from various sources to identify problems and improve the system's performance.
 
-> They provide a way to decouple producers and consumers, allowing for greater flexibility and scalability.
+> In the context of software development, observability is often achieved through the use of logging, monitoring, and tracing tools.
 
-> Message Queues can be used in a variety of scenarios, including handling high volumes of data, implementing event-driven architectures, and providing fault-tolerant communication.
+> Some common techniques used to implement observability include:
 
-> Some popular Message Queue systems include RabbitMQ, Apache Kafka, and Amazon SQS.
+> - Using a logging framework to collect and store log messages
+
+> - Implementing a monitoring system to track system performance and resource usage
+
+> - Utilizing a tracing tool to analyze request flow and identify bottlenecks
 
 <br>
 
