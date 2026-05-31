@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260531 - What is a deadlock in concurrency, and how can it be prevented?
+
+theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `deadlock` `thread-safety`
+
+> What is a deadlock in concurrency, and how can it be prevented?
+
+> A deadlock is a situation where two or more threads are unable to proceed because each is waiting for the other to release a resource.
+
+> To prevent deadlocks, you can use techniques such as:
+
+> - Avoiding nested locks
+
+> - Using a lock hierarchy
+
+> - Implementing a timeout for locks
+
+> - Using a lock-free data structure
+
+---
+
 ## 20260530 - A caching layer is implemented in an application to improve performance. What is the primary goal of using a caching layer in this scenario?
 
 theme: **Performance Tuning** • difficulty: **intermediate** • `performance-tuning` `caching` `application-performance`

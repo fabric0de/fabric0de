@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ A caching layer is implemented in an application to improve performance. What is the primary goal of using a caching layer in this scenario?
+### ❓ What is a deadlock in concurrency, and how can it be prevented?
 
 </div>
 
 <div align="center">
 
-🗓️ **Performance Tuning** • 🟡 **intermediate** • 🏷️ `performance-tuning` `caching` `application-performance` • 📅 20260530
+🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `concurrency` `multithreading` `deadlock` `thread-safety` • 📅 20260531
 
 </div>
 
@@ -46,7 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In performance tuning, what is the primary goal of using a caching layer in an application?
+> What is a deadlock in concurrency, and how can it be prevented?
+
+> A deadlock is a situation where two or more threads are unable to proceed because each is waiting for the other to release a resource.
+
+> To prevent deadlocks, you can use techniques such as:
+
+> - Avoiding nested locks
+
+> - Using a lock hierarchy
+
+> - Implementing a timeout for locks
+
+> - Using a lock-free data structure
 
 <br>
 

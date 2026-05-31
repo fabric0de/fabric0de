@@ -633,5 +633,20 @@
     "type": "open",
     "id": "20260530",
     "createdAt": "2026-05-30T12:31:19.262Z"
+  },
+  {
+    "answer": "What is a deadlock in concurrency, and how can it be prevented?\n\nA deadlock is a situation where two or more threads are unable to proceed because each is waiting for the other to release a resource.\n\nTo prevent deadlocks, you can use techniques such as:\n- Avoiding nested locks\n- Using a lock hierarchy\n- Implementing a timeout for locks\n- Using a lock-free data structure",
+    "difficulty": "intermediate",
+    "question": "What is a deadlock in concurrency, and how can it be prevented?",
+    "tags": [
+      "concurrency",
+      "multithreading",
+      "deadlock",
+      "thread-safety"
+    ],
+    "theme": "Concurrency",
+    "type": "open",
+    "id": "20260531",
+    "createdAt": "2026-05-31T00:58:20.530Z"
   }
 ]
