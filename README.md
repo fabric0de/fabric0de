@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a deadlock in concurrency, and how can it be prevented?
+### ❓ What is Big O notation, and how is it used to describe the complexity of an algorithm?
 
 </div>
 
 <div align="center">
 
-🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `concurrency` `multithreading` `deadlock` `thread-safety` • 📅 20260531
+🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `complexity-analysis` `algorithms` `time-complexity` • 📅 20260531
 
 </div>
 
@@ -46,19 +46,9 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is a deadlock in concurrency, and how can it be prevented?
+> Big O notation is used to describe the complexity of an algorithm. It is a measure of the amount of time or space an algorithm requires as a function of the size of the input. For example, if an algorithm has a time complexity of O(n^2), it means that the time it takes to complete the algorithm will increase quadratically with the size of the input. This is different from a time complexity of O(n), which means that the time it takes to complete the algorithm will increase linearly with the size of the input.
 
-> A deadlock is a situation where two or more threads are unable to proceed because each is waiting for the other to release a resource.
-
-> To prevent deadlocks, you can use techniques such as:
-
-> - Avoiding nested locks
-
-> - Using a lock hierarchy
-
-> - Implementing a timeout for locks
-
-> - Using a lock-free data structure
+> In general, a time complexity of O(1) is considered optimal, as it means that the algorithm will always take the same amount of time to complete, regardless of the size of the input.
 
 <br>
 
