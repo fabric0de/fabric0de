@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260601 - What is the basic syntax for printing output to the console in Bash?
+
+theme: **Bash** • difficulty: **beginner** • `bash` `shell` `printing`
+
+> echo 'Hello World'
+
+> This will print 'Hello World' to the console.
+
+> You can also use it to print variables, like this:
+
+> echo $variable
+
+---
+
 ## 20260531 - What is Big O notation, and how is it used to describe the complexity of an algorithm?
 
 theme: **Complexity Analysis** • difficulty: **intermediate** • `complexity-analysis` `algorithms` `time-complexity`

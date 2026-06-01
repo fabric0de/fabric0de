@@ -647,5 +647,19 @@
     "type": "open",
     "id": "20260531",
     "createdAt": "2026-05-31T12:35:04.167Z"
+  },
+  {
+    "answer": "echo 'Hello World'\nThis will print 'Hello World' to the console.\nYou can also use it to print variables, like this:\necho $variable",
+    "difficulty": "beginner",
+    "question": "What is the basic syntax for printing output to the console in Bash?",
+    "tags": [
+      "bash",
+      "shell",
+      "printing"
+    ],
+    "theme": "Bash",
+    "type": "open",
+    "id": "20260601",
+    "createdAt": "2026-06-01T01:01:28.245Z"
   }
 ]
