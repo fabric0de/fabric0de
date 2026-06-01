@@ -649,17 +649,19 @@
     "createdAt": "2026-05-31T12:35:04.167Z"
   },
   {
-    "answer": "echo 'Hello World'\nThis will print 'Hello World' to the console.\nYou can also use it to print variables, like this:\necho $variable",
-    "difficulty": "beginner",
-    "question": "What is the basic syntax for printing output to the console in Bash?",
+    "answer": "What is the difference between INNER JOIN and LEFT JOIN in SQL?\nINNER JOIN returns records that have matching values in both tables.\nLEFT JOIN returns all records from the left table and the matching records from the right table.\nINNER JOIN is used when you want to retrieve data from two tables where the relationship between the tables is a match.\nLEFT JOIN is used when you want to retrieve data from two tables where the relationship between the tables is a match, but you also want to include records from the left table that do not have a match in the right table.\nThis is useful for retrieving data from a table that may not have a match in another table.",
+    "difficulty": "intermediate",
+    "question": "What is the difference between INNER JOIN and LEFT JOIN in SQL?",
     "tags": [
-      "bash",
-      "shell",
-      "printing"
+      "SQL",
+      "database",
+      "join",
+      "inner join",
+      "left join"
     ],
-    "theme": "Bash",
+    "theme": "SQL",
     "type": "open",
     "id": "20260601",
-    "createdAt": "2026-06-01T01:01:28.245Z"
+    "createdAt": "2026-06-01T14:08:01.938Z"
   }
 ]

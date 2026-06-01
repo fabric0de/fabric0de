@@ -2,17 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260601 - What is the basic syntax for printing output to the console in Bash?
+## 20260601 - What is the difference between INNER JOIN and LEFT JOIN in SQL?
 
-theme: **Bash** • difficulty: **beginner** • `bash` `shell` `printing`
+theme: **SQL** • difficulty: **intermediate** • `SQL` `database` `join` `inner join` `left join`
 
-> echo 'Hello World'
+> What is the difference between INNER JOIN and LEFT JOIN in SQL?
 
-> This will print 'Hello World' to the console.
+> INNER JOIN returns records that have matching values in both tables.
 
-> You can also use it to print variables, like this:
+> LEFT JOIN returns all records from the left table and the matching records from the right table.
 
-> echo $variable
+> INNER JOIN is used when you want to retrieve data from two tables where the relationship between the tables is a match.
+
+> LEFT JOIN is used when you want to retrieve data from two tables where the relationship between the tables is a match, but you also want to include records from the left table that do not have a match in the right table.
+
+> This is useful for retrieving data from a table that may not have a match in another table.
 
 ---
 
