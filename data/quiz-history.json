@@ -665,18 +665,17 @@
     "createdAt": "2026-06-01T14:08:01.938Z"
   },
   {
-    "answer": "What is the difference between a synchronous and an asynchronous rendering in web development?\nSynchronous rendering refers to the traditional approach where the browser waits for each resource to load before rendering the page.\nAsynchronous rendering, on the other hand, allows the browser to continue rendering the page while waiting for resources to load.\nThis is achieved through techniques such as lazy loading and preloading.\nAsynchronous rendering can improve the user experience by providing a faster and more seamless experience.\nIt is commonly used in modern web applications that rely heavily on JavaScript and dynamic content.",
+    "answer": "The main difference between the article and section elements in HTML is that the article element represents an independent piece of content, whereas the section element represents a section of a document.\n\nThe article element is typically used to wrap self-contained content, such as a blog post or a news article, whereas the section element is used to divide a document into sections, such as a chapter or a part.\n\nFor example:\n\n<article>\n  <h1>My Blog Post</h1>\n  <p>This is my blog post.</p>\n</article>\n\n<section>\n  <h1>Chapter 1</h1>\n  <p>This is the first chapter of my book.</p>\n</section>",
     "difficulty": "intermediate",
-    "question": "What is the difference between synchronous and asynchronous rendering in web development?",
+    "question": "What is the main difference between the article and section elements in HTML?",
     "tags": [
-      "web development",
-      "rendering",
-      "synchronous rendering",
-      "asynchronous rendering"
+      "html",
+      "semantics",
+      "html-elements"
     ],
-    "theme": "Rendering",
+    "theme": "HTML Semantics",
     "type": "open",
     "id": "20260602",
-    "createdAt": "2026-06-02T01:00:37.077Z"
+    "createdAt": "2026-06-02T13:23:39.359Z"
   }
 ]
