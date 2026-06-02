@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between INNER JOIN and LEFT JOIN in SQL?
+### ❓ What is the difference between synchronous and asynchronous rendering in web development?
 
 </div>
 
 <div align="center">
 
-🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `SQL` `database` `join` `inner join` `left join` • 📅 20260601
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `web development` `rendering` `synchronous rendering` `asynchronous rendering` • 📅 20260602
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between INNER JOIN and LEFT JOIN in SQL?
+> What is the difference between a synchronous and an asynchronous rendering in web development?
 
-> INNER JOIN returns records that have matching values in both tables.
+> Synchronous rendering refers to the traditional approach where the browser waits for each resource to load before rendering the page.
 
-> LEFT JOIN returns all records from the left table and the matching records from the right table.
+> Asynchronous rendering, on the other hand, allows the browser to continue rendering the page while waiting for resources to load.
 
-> INNER JOIN is used when you want to retrieve data from two tables where the relationship between the tables is a match.
+> This is achieved through techniques such as lazy loading and preloading.
 
-> LEFT JOIN is used when you want to retrieve data from two tables where the relationship between the tables is a match, but you also want to include records from the left table that do not have a match in the right table.
+> Asynchronous rendering can improve the user experience by providing a faster and more seamless experience.
 
-> This is useful for retrieving data from a table that may not have a match in another table.
+> It is commonly used in modern web applications that rely heavily on JavaScript and dynamic content.
 
 <br>
 

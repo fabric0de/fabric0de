@@ -663,5 +663,20 @@
     "type": "open",
     "id": "20260601",
     "createdAt": "2026-06-01T14:08:01.938Z"
+  },
+  {
+    "answer": "What is the difference between a synchronous and an asynchronous rendering in web development?\nSynchronous rendering refers to the traditional approach where the browser waits for each resource to load before rendering the page.\nAsynchronous rendering, on the other hand, allows the browser to continue rendering the page while waiting for resources to load.\nThis is achieved through techniques such as lazy loading and preloading.\nAsynchronous rendering can improve the user experience by providing a faster and more seamless experience.\nIt is commonly used in modern web applications that rely heavily on JavaScript and dynamic content.",
+    "difficulty": "intermediate",
+    "question": "What is the difference between synchronous and asynchronous rendering in web development?",
+    "tags": [
+      "web development",
+      "rendering",
+      "synchronous rendering",
+      "asynchronous rendering"
+    ],
+    "theme": "Rendering",
+    "type": "open",
+    "id": "20260602",
+    "createdAt": "2026-06-02T01:00:37.077Z"
   }
 ]

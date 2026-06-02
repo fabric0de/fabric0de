@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260602 - What is the difference between synchronous and asynchronous rendering in web development?
+
+theme: **Rendering** • difficulty: **intermediate** • `web development` `rendering` `synchronous rendering` `asynchronous rendering`
+
+> What is the difference between a synchronous and an asynchronous rendering in web development?
+
+> Synchronous rendering refers to the traditional approach where the browser waits for each resource to load before rendering the page.
+
+> Asynchronous rendering, on the other hand, allows the browser to continue rendering the page while waiting for resources to load.
+
+> This is achieved through techniques such as lazy loading and preloading.
+
+> Asynchronous rendering can improve the user experience by providing a faster and more seamless experience.
+
+> It is commonly used in modern web applications that rely heavily on JavaScript and dynamic content.
+
+---
+
 ## 20260601 - What is the difference between INNER JOIN and LEFT JOIN in SQL?
 
 theme: **SQL** • difficulty: **intermediate** • `SQL` `database` `join` `inner join` `left join`
