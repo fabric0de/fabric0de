@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between the article and section elements in HTML?
+### ❓ What is the primary function of an API Gateway in a microservices architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `html-elements` • 📅 20260602
+🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `Microservices` `Security` `Scalability` `Reliability` • 📅 20260603
 
 </div>
 
@@ -46,27 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The main difference between the article and section elements in HTML is that the article element represents an independent piece of content, whereas the section element represents a section of a document.
+> API Gateways are used to manage and secure APIs by acting as an entry point for incoming requests, routing them to the appropriate backend services.
 
-> The article element is typically used to wrap self-contained content, such as a blog post or a news article, whereas the section element is used to divide a document into sections, such as a chapter or a part.
+> They can also handle tasks such as authentication, rate limiting, and caching.
 
-> For example:
+> This helps to improve the scalability, reliability, and security of the API.
 
-> <article>
+> API Gateways can be implemented using tools such as AWS API Gateway, Google Cloud Endpoints, or NGINX.
 
-> <h1>My Blog Post</h1>
+> They provide a layer of abstraction between the client and the backend services, making it easier to manage and maintain the API.
 
-> <p>This is my blog post.</p>
-
-> </article>
-
-> <section>
-
-> <h1>Chapter 1</h1>
-
-> <p>This is the first chapter of my book.</p>
-
-> </section>
+> This helps to reduce the complexity of the system and improve the overall performance of the API.
 
 <br>
 

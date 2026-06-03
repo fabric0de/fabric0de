@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260603 - What is the primary function of an API Gateway in a microservices architecture?
+
+theme: **API Gateways** • difficulty: **intermediate** • `API Gateways` `Microservices` `Security` `Scalability` `Reliability`
+
+> API Gateways are used to manage and secure APIs by acting as an entry point for incoming requests, routing them to the appropriate backend services.
+
+> They can also handle tasks such as authentication, rate limiting, and caching.
+
+> This helps to improve the scalability, reliability, and security of the API.
+
+> API Gateways can be implemented using tools such as AWS API Gateway, Google Cloud Endpoints, or NGINX.
+
+> They provide a layer of abstraction between the client and the backend services, making it easier to manage and maintain the API.
+
+> This helps to reduce the complexity of the system and improve the overall performance of the API.
+
+---
+
 ## 20260602 - What is the main difference between the article and section elements in HTML?
 
 theme: **HTML Semantics** • difficulty: **intermediate** • `html` `semantics` `html-elements`

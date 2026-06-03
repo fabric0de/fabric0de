@@ -677,5 +677,21 @@
     "type": "open",
     "id": "20260602",
     "createdAt": "2026-06-02T13:23:39.359Z"
+  },
+  {
+    "answer": "API Gateways are used to manage and secure APIs by acting as an entry point for incoming requests, routing them to the appropriate backend services.\nThey can also handle tasks such as authentication, rate limiting, and caching.\nThis helps to improve the scalability, reliability, and security of the API.\nAPI Gateways can be implemented using tools such as AWS API Gateway, Google Cloud Endpoints, or NGINX.\nThey provide a layer of abstraction between the client and the backend services, making it easier to manage and maintain the API.\nThis helps to reduce the complexity of the system and improve the overall performance of the API.",
+    "difficulty": "intermediate",
+    "question": "What is the primary function of an API Gateway in a microservices architecture?",
+    "tags": [
+      "API Gateways",
+      "Microservices",
+      "Security",
+      "Scalability",
+      "Reliability"
+    ],
+    "theme": "API Gateways",
+    "type": "open",
+    "id": "20260603",
+    "createdAt": "2026-06-03T01:06:52.503Z"
   }
 ]
