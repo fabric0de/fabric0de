@@ -2,21 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260603 - What is the primary function of an API Gateway in a microservices architecture?
+## 20260603 - What is one way to prevent Cross-Site Scripting (XSS) attacks in web applications?
 
-theme: **API Gateways** • difficulty: **intermediate** • `API Gateways` `Microservices` `Security` `Scalability` `Reliability`
+theme: **Web Security** • difficulty: **intermediate** • `Web Security` `Cross-Site Scripting` `XSS` `Input Validation` `Sanitization`
 
-> API Gateways are used to manage and secure APIs by acting as an entry point for incoming requests, routing them to the appropriate backend services.
+> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input data before rendering it on the webpage.
 
-> They can also handle tasks such as authentication, rate limiting, and caching.
+> This can be achieved using techniques such as HTML escaping and input filtering.
 
-> This helps to improve the scalability, reliability, and security of the API.
+> For example, in JavaScript, the `escape()` function can be used to escape special characters in user input.
 
-> API Gateways can be implemented using tools such as AWS API Gateway, Google Cloud Endpoints, or NGINX.
+> In server-side languages like PHP, the `htmlspecialchars()` function can be used for similar purposes.
 
-> They provide a layer of abstraction between the client and the backend services, making it easier to manage and maintain the API.
-
-> This helps to reduce the complexity of the system and improve the overall performance of the API.
+> By doing so, developers can prevent malicious scripts from being injected into the webpage and executed by the user's browser.
 
 ---
 

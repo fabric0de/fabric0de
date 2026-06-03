@@ -679,19 +679,19 @@
     "createdAt": "2026-06-02T13:23:39.359Z"
   },
   {
-    "answer": "API Gateways are used to manage and secure APIs by acting as an entry point for incoming requests, routing them to the appropriate backend services.\nThey can also handle tasks such as authentication, rate limiting, and caching.\nThis helps to improve the scalability, reliability, and security of the API.\nAPI Gateways can be implemented using tools such as AWS API Gateway, Google Cloud Endpoints, or NGINX.\nThey provide a layer of abstraction between the client and the backend services, making it easier to manage and maintain the API.\nThis helps to reduce the complexity of the system and improve the overall performance of the API.",
+    "answer": "To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input data before rendering it on the webpage.\nThis can be achieved using techniques such as HTML escaping and input filtering.\nFor example, in JavaScript, the `escape()` function can be used to escape special characters in user input.\nIn server-side languages like PHP, the `htmlspecialchars()` function can be used for similar purposes.\nBy doing so, developers can prevent malicious scripts from being injected into the webpage and executed by the user's browser.",
     "difficulty": "intermediate",
-    "question": "What is the primary function of an API Gateway in a microservices architecture?",
+    "question": "What is one way to prevent Cross-Site Scripting (XSS) attacks in web applications?",
     "tags": [
-      "API Gateways",
-      "Microservices",
-      "Security",
-      "Scalability",
-      "Reliability"
+      "Web Security",
+      "Cross-Site Scripting",
+      "XSS",
+      "Input Validation",
+      "Sanitization"
     ],
-    "theme": "API Gateways",
+    "theme": "Web Security",
     "type": "open",
     "id": "20260603",
-    "createdAt": "2026-06-03T01:06:52.503Z"
+    "createdAt": "2026-06-03T13:45:27.959Z"
   }
 ]
