@@ -2,6 +2,38 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260604 - What is the purpose of the CSS :hover pseudo-class, and how can it be used to style elements?
+
+theme: **CSS** • difficulty: **intermediate** • `css` `pseudo-classes` `styling`
+
+> You can use the CSS `:hover` pseudo-class to apply styles when an element is being hovered over.
+
+> For example:
+
+> a:hover {
+
+> color: blue;
+
+> text-decoration: underline;
+
+> }
+
+> This will change the color of the link to blue and add an underline when the link is hovered over.
+
+> Alternatively, you can use the `:active` pseudo-class to apply styles when an element is being clicked.
+
+> a:active {
+
+> color: red;
+
+> text-decoration: none;
+
+> }
+
+> This will change the color of the link to red and remove the underline when the link is clicked.
+
+---
+
 ## 20260603 - What is one way to prevent Cross-Site Scripting (XSS) attacks in web applications?
 
 theme: **Web Security** • difficulty: **intermediate** • `Web Security` `Cross-Site Scripting` `XSS` `Input Validation` `Sanitization`

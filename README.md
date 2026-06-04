@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is one way to prevent Cross-Site Scripting (XSS) attacks in web applications?
+### ❓ What is the purpose of the CSS :hover pseudo-class, and how can it be used to style elements?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `Cross-Site Scripting` `XSS` `Input Validation` `Sanitization` • 📅 20260603
+🗓️ **CSS** • 🟡 **intermediate** • 🏷️ `css` `pseudo-classes` `styling` • 📅 20260604
 
 </div>
 
@@ -46,15 +46,31 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input data before rendering it on the webpage.
+> You can use the CSS `:hover` pseudo-class to apply styles when an element is being hovered over.
 
-> This can be achieved using techniques such as HTML escaping and input filtering.
+> For example:
 
-> For example, in JavaScript, the `escape()` function can be used to escape special characters in user input.
+> a:hover {
 
-> In server-side languages like PHP, the `htmlspecialchars()` function can be used for similar purposes.
+> color: blue;
 
-> By doing so, developers can prevent malicious scripts from being injected into the webpage and executed by the user's browser.
+> text-decoration: underline;
+
+> }
+
+> This will change the color of the link to blue and add an underline when the link is hovered over.
+
+> Alternatively, you can use the `:active` pseudo-class to apply styles when an element is being clicked.
+
+> a:active {
+
+> color: red;
+
+> text-decoration: none;
+
+> }
+
+> This will change the color of the link to red and remove the underline when the link is clicked.
 
 <br>
 

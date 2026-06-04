@@ -693,5 +693,19 @@
     "type": "open",
     "id": "20260603",
     "createdAt": "2026-06-03T13:45:27.959Z"
+  },
+  {
+    "answer": "You can use the CSS `:hover` pseudo-class to apply styles when an element is being hovered over.\nFor example:\n\na:hover {\n  color: blue;\n  text-decoration: underline;\n}\n\nThis will change the color of the link to blue and add an underline when the link is hovered over.\n\nAlternatively, you can use the `:active` pseudo-class to apply styles when an element is being clicked.\n\na:active {\n  color: red;\n  text-decoration: none;\n}\n\nThis will change the color of the link to red and remove the underline when the link is clicked.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the CSS :hover pseudo-class, and how can it be used to style elements?",
+    "tags": [
+      "css",
+      "pseudo-classes",
+      "styling"
+    ],
+    "theme": "CSS",
+    "type": "open",
+    "id": "20260604",
+    "createdAt": "2026-06-04T01:06:45.212Z"
   }
 ]
