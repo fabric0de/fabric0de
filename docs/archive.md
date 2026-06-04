@@ -2,35 +2,17 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260604 - What is the purpose of the CSS :hover pseudo-class, and how can it be used to style elements?
+## 20260604 - What is one technique to improve frontend performance when loading images and other resources?
 
-theme: **CSS** • difficulty: **intermediate** • `css` `pseudo-classes` `styling`
+theme: **Frontend Performance** • difficulty: **intermediate** • `Frontend Performance` `Web Performance` `Lazy Loading`
 
-> You can use the CSS `:hover` pseudo-class to apply styles when an element is being hovered over.
+> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by adding the 'loading' attribute to the img tag and setting it to 'lazy'.
 
 > For example:
 
-> a:hover {
+> <img src='image.jpg' loading='lazy'>
 
-> color: blue;
-
-> text-decoration: underline;
-
-> }
-
-> This will change the color of the link to blue and add an underline when the link is hovered over.
-
-> Alternatively, you can use the `:active` pseudo-class to apply styles when an element is being clicked.
-
-> a:active {
-
-> color: red;
-
-> text-decoration: none;
-
-> }
-
-> This will change the color of the link to red and remove the underline when the link is clicked.
+> This will load the image only when it comes into view, reducing the initial load time and improving the user experience.
 
 ---
 
