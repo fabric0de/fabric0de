@@ -709,17 +709,17 @@
     "createdAt": "2026-06-04T13:12:05.030Z"
   },
   {
-    "answer": "In Node.js, you can use the 'require' function to import modules. For example:\nconst http = require('http');\nconst fs = require('fs');\nThis is because Node.js uses CommonJS modules by default.\nHowever, you can also use ES6 import syntax with the '--experimental-specifier-resolution' flag or by using a bundler like Webpack.\nThis allows you to write code like:\nimport http from 'http';\nimport fs from 'fs';",
+    "answer": "What is the difference between a primary key and a unique key in a database?\nA primary key is a column or set of columns that uniquely identifies each row in a table.\nA unique key is a column or set of columns that ensures uniqueness for each value, but it does not have to be the primary key.\nPrimary keys are used to identify each row in a table, while unique keys are used to prevent duplicate values in a column.\nIn most databases, a primary key is also a unique key, but not all unique keys are primary keys.\nFor example, in a table with a primary key of 'id', you can have a unique key of 'email' to ensure that each email address is unique.",
     "difficulty": "intermediate",
-    "question": "How do you import modules in Node.js?",
+    "question": "What is the difference between a primary key and a unique key in a database?",
     "tags": [
-      "Node.js",
-      "JavaScript",
-      "Modules"
+      "databases",
+      "sql",
+      "database-design"
     ],
-    "theme": "Node.js",
+    "theme": "Databases",
     "type": "open",
     "id": "20260605",
-    "createdAt": "2026-06-05T00:58:08.365Z"
+    "createdAt": "2026-06-05T13:08:10.700Z"
   }
 ]
