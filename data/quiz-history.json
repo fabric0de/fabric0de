@@ -707,5 +707,19 @@
     "type": "open",
     "id": "20260604",
     "createdAt": "2026-06-04T13:12:05.030Z"
+  },
+  {
+    "answer": "In Node.js, you can use the 'require' function to import modules. For example:\nconst http = require('http');\nconst fs = require('fs');\nThis is because Node.js uses CommonJS modules by default.\nHowever, you can also use ES6 import syntax with the '--experimental-specifier-resolution' flag or by using a bundler like Webpack.\nThis allows you to write code like:\nimport http from 'http';\nimport fs from 'fs';",
+    "difficulty": "intermediate",
+    "question": "How do you import modules in Node.js?",
+    "tags": [
+      "Node.js",
+      "JavaScript",
+      "Modules"
+    ],
+    "theme": "Node.js",
+    "type": "open",
+    "id": "20260605",
+    "createdAt": "2026-06-05T00:58:08.365Z"
   }
 ]

@@ -2,6 +2,28 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260605 - How do you import modules in Node.js?
+
+theme: **Node.js** • difficulty: **intermediate** • `Node.js` `JavaScript` `Modules`
+
+> In Node.js, you can use the 'require' function to import modules. For example:
+
+> const http = require('http');
+
+> const fs = require('fs');
+
+> This is because Node.js uses CommonJS modules by default.
+
+> However, you can also use ES6 import syntax with the '--experimental-specifier-resolution' flag or by using a bundler like Webpack.
+
+> This allows you to write code like:
+
+> import http from 'http';
+
+> import fs from 'fs';
+
+---
+
 ## 20260604 - What is one technique to improve frontend performance when loading images and other resources?
 
 theme: **Frontend Performance** • difficulty: **intermediate** • `Frontend Performance` `Web Performance` `Lazy Loading`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is one technique to improve frontend performance when loading images and other resources?
+### ❓ How do you import modules in Node.js?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `Frontend Performance` `Web Performance` `Lazy Loading` • 📅 20260604
+🗓️ **Node.js** • 🟡 **intermediate** • 🏷️ `Node.js` `JavaScript` `Modules` • 📅 20260605
 
 </div>
 
@@ -46,13 +46,21 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by adding the 'loading' attribute to the img tag and setting it to 'lazy'.
+> In Node.js, you can use the 'require' function to import modules. For example:
 
-> For example:
+> const http = require('http');
 
-> <img src='image.jpg' loading='lazy'>
+> const fs = require('fs');
 
-> This will load the image only when it comes into view, reducing the initial load time and improving the user experience.
+> This is because Node.js uses CommonJS modules by default.
+
+> However, you can also use ES6 import syntax with the '--experimental-specifier-resolution' flag or by using a bundler like Webpack.
+
+> This allows you to write code like:
+
+> import http from 'http';
+
+> import fs from 'fs';
 
 <br>
 
