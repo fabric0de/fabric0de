@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a primary key and a unique key in a database?
+### ❓ What is Chrome DevTools, and what features does it provide to web developers?
 
 </div>
 
 <div align="center">
 
-🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `databases` `sql` `database-design` • 📅 20260605
+🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `Developer Tools` `Chrome DevTools` `Web Development` `Debugging` `Performance Analysis` • 📅 20260606
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a primary key and a unique key in a database?
+> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of features to help developers inspect and debug their web applications.
 
-> A primary key is a column or set of columns that uniquely identifies each row in a table.
+> Some of the key features of Chrome DevTools include:
 
-> A unique key is a column or set of columns that ensures uniqueness for each value, but it does not have to be the primary key.
+> - Inspecting and editing HTML and CSS
 
-> Primary keys are used to identify each row in a table, while unique keys are used to prevent duplicate values in a column.
+> - Debugging JavaScript code
 
-> In most databases, a primary key is also a unique key, but not all unique keys are primary keys.
+> - Analyzing performance and memory usage
 
-> For example, in a table with a primary key of 'id', you can have a unique key of 'email' to ensure that each email address is unique.
+> - Viewing network requests and responses
+
+> - Using the Elements, Sources, and Console panels to inspect and debug web applications
 
 <br>
 

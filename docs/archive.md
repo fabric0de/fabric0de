@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260606 - What is Chrome DevTools, and what features does it provide to web developers?
+
+theme: **Developer Tools** • difficulty: **intermediate** • `Developer Tools` `Chrome DevTools` `Web Development` `Debugging` `Performance Analysis`
+
+> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of features to help developers inspect and debug their web applications.
+
+> Some of the key features of Chrome DevTools include:
+
+> - Inspecting and editing HTML and CSS
+
+> - Debugging JavaScript code
+
+> - Analyzing performance and memory usage
+
+> - Viewing network requests and responses
+
+> - Using the Elements, Sources, and Console panels to inspect and debug web applications
+
+---
+
 ## 20260605 - What is the difference between a primary key and a unique key in a database?
 
 theme: **Databases** • difficulty: **intermediate** • `databases` `sql` `database-design`
