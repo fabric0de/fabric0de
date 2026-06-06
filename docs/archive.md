@@ -2,23 +2,13 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260606 - What is Chrome DevTools, and what features does it provide to web developers?
+## 20260606 - What is a microkernel in operating system architecture, and how does it differ from a traditional kernel?
 
-theme: **Developer Tools** • difficulty: **intermediate** • `Developer Tools` `Chrome DevTools` `Web Development` `Debugging` `Performance Analysis`
+theme: **Architecture** • difficulty: **advanced** • `operating system` `architecture` `microkernel` `kernel` `os`
 
-> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of features to help developers inspect and debug their web applications.
+> A microkernel is a type of operating system architecture that separates the kernel into two main components: the microkernel and the device drivers. The microkernel handles process scheduling, memory management, and inter-process communication, while the device drivers handle hardware-specific tasks. This approach provides a number of benefits, including improved modularity, flexibility, and fault tolerance.
 
-> Some of the key features of Chrome DevTools include:
-
-> - Inspecting and editing HTML and CSS
-
-> - Debugging JavaScript code
-
-> - Analyzing performance and memory usage
-
-> - Viewing network requests and responses
-
-> - Using the Elements, Sources, and Console panels to inspect and debug web applications
+> Examples of microkernel-based operating systems include QNX and L4.
 
 ---
 
