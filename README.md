@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a microkernel in operating system architecture, and how does it differ from a traditional kernel?
+### ❓ In concurrency, what is the key difference between a thread and a process?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🔴 **advanced** • 🏷️ `operating system` `architecture` `microkernel` `kernel` `os` • 📅 20260606
+🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `Concurrency` `Multithreading` `Operating Systems` • 📅 20260607
 
 </div>
 
@@ -46,9 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A microkernel is a type of operating system architecture that separates the kernel into two main components: the microkernel and the device drivers. The microkernel handles process scheduling, memory management, and inter-process communication, while the device drivers handle hardware-specific tasks. This approach provides a number of benefits, including improved modularity, flexibility, and fault tolerance.
+> What is the difference between a thread and a process in the context of concurrency?
 
-> Examples of microkernel-based operating systems include QNX and L4.
+> A thread is a single flow of execution within a process.
+
+> A process is an independent unit of execution that contains one or more threads.
+
+> In concurrency, threads can share resources with other threads in the same process, while processes have their own separate memory space.
+
+> This distinction is important for understanding how to manage and synchronize access to shared resources in concurrent systems.
 
 <br>
 

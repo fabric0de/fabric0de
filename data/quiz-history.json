@@ -737,5 +737,19 @@
     "type": "open",
     "id": "20260606",
     "createdAt": "2026-06-06T12:33:19.675Z"
+  },
+  {
+    "answer": "What is the difference between a thread and a process in the context of concurrency?\nA thread is a single flow of execution within a process.\nA process is an independent unit of execution that contains one or more threads.\nIn concurrency, threads can share resources with other threads in the same process, while processes have their own separate memory space.\nThis distinction is important for understanding how to manage and synchronize access to shared resources in concurrent systems.\n",
+    "difficulty": "intermediate",
+    "question": "In concurrency, what is the key difference between a thread and a process?",
+    "tags": [
+      "Concurrency",
+      "Multithreading",
+      "Operating Systems"
+    ],
+    "theme": "Concurrency",
+    "type": "open",
+    "id": "20260607",
+    "createdAt": "2026-06-07T01:01:35.937Z"
   }
 ]

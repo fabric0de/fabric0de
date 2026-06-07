@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260607 - In concurrency, what is the key difference between a thread and a process?
+
+theme: **Concurrency** • difficulty: **intermediate** • `Concurrency` `Multithreading` `Operating Systems`
+
+> What is the difference between a thread and a process in the context of concurrency?
+
+> A thread is a single flow of execution within a process.
+
+> A process is an independent unit of execution that contains one or more threads.
+
+> In concurrency, threads can share resources with other threads in the same process, while processes have their own separate memory space.
+
+> This distinction is important for understanding how to manage and synchronize access to shared resources in concurrent systems.
+
+---
+
 ## 20260606 - What is a microkernel in operating system architecture, and how does it differ from a traditional kernel?
 
 theme: **Architecture** • difficulty: **advanced** • `operating system` `architecture` `microkernel` `kernel` `os`
