@@ -753,18 +753,18 @@
     "createdAt": "2026-06-07T12:38:46.936Z"
   },
   {
-    "answer": "In JavaScript, the 'this' keyword refers to the context in which a function is being called. When a function is called as a method of an object, 'this' refers to that object.\nFor example:\nvar obj = { name: 'John', sayHello: function() { console.log(this.name); } };\nobj.sayHello(); // Outputs: John\nHowever, if a function is called as a standalone function, 'this' refers to the global object (usually the window object in a browser).\nFor example:\nfunction sayHello() { console.log(this.name); }\nsayHello(); // Outputs: undefined\nTo fix this, you can use the 'bind' method to bind the function to a specific context.\nFor example:\nvar boundSayHello = sayHello.bind({ name: 'Jane' });\nboundSayHello(); // Outputs: Jane",
+    "answer": "In Rust, the `let` keyword is used to declare immutable variables, while the `mut` keyword is used to declare mutable variables.\n\nFor example:\nlet x = 5; // immutable variable\nlet mut y = 5; // mutable variable\ny = 10; // allowed because y is mutable\nx = 10; // not allowed because x is immutable\n",
     "difficulty": "intermediate",
-    "question": "What is the behavior of the 'this' keyword in JavaScript, and how can you control its context?",
+    "question": "How do you declare immutable and mutable variables in Rust?",
     "tags": [
-      "javascript",
-      "this keyword",
-      "context",
-      "bind method"
+      "Rust",
+      "Variables",
+      "Immutability",
+      "Mutability"
     ],
-    "theme": "JavaScript",
+    "theme": "Rust",
     "type": "open",
     "id": "20260608",
-    "createdAt": "2026-06-08T01:01:17.485Z"
+    "createdAt": "2026-06-08T13:33:39.789Z"
   }
 ]
