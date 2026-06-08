@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the term for the process of breaking down a complex problem into smaller, more manageable sub-problems, and then solving each sub-problem to find a solution to the original problem?
+### ❓ What is the behavior of the 'this' keyword in JavaScript, and how can you control its context?
 
 </div>
 
 <div align="center">
 
-🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem_solving` `algorithm_design` `software_engineering` • 📅 20260607
+🗓️ **JavaScript** • 🟡 **intermediate** • 🏷️ `javascript` `this keyword` `context` `bind method` • 📅 20260608
 
 </div>
 
@@ -46,7 +46,29 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Problem Solving
+> In JavaScript, the 'this' keyword refers to the context in which a function is being called. When a function is called as a method of an object, 'this' refers to that object.
+
+> For example:
+
+> var obj = { name: 'John', sayHello: function() { console.log(this.name); } };
+
+> obj.sayHello(); // Outputs: John
+
+> However, if a function is called as a standalone function, 'this' refers to the global object (usually the window object in a browser).
+
+> For example:
+
+> function sayHello() { console.log(this.name); }
+
+> sayHello(); // Outputs: undefined
+
+> To fix this, you can use the 'bind' method to bind the function to a specific context.
+
+> For example:
+
+> var boundSayHello = sayHello.bind({ name: 'Jane' });
+
+> boundSayHello(); // Outputs: Jane
 
 <br>
 
