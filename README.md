@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the Geolocation API used for in web development, and how can you access it?
+### ❓ What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
 
 </div>
 
 <div align="center">
 
-🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Geolocation API` `Web Development` • 📅 20260609
+🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Web Development` • 📅 20260609
 
 </div>
 
@@ -46,29 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object.
+> What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
 
-> It provides methods such as `getCurrentPosition()` and `watchPosition()` to get the user's location.
+> The 'alt' attribute provides a text description of an image, making it accessible to screen readers and visually impaired users. This is especially important for images that convey important information or have a functional purpose.
 
-> This API is commonly used in mapping and location-based applications.
+> For example:
 
-> It is supported by most modern web browsers.
+> <img src='image.jpg' alt='A photo of a cat'>
 
-> However, it requires the user's permission to access their location.
-
-> This can be achieved by adding the `geolocation` permission to the manifest file in a Progressive Web App (PWA).
-
-> For example, in a PWA, you can add the following code to the manifest file:
-
-> {
-
-> "permissions": [
-
-> "geolocation"
-
-> ]
-
-> }
+> In this example, the 'alt' attribute provides a text description of the image, allowing screen readers to read the description to visually impaired users.
 
 <br>
 

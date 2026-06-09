@@ -2,33 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260609 - What is the Geolocation API used for in web development, and how can you access it?
+## 20260609 - What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
 
-theme: **Browser APIs** • difficulty: **intermediate** • `Browser APIs` `Geolocation API` `Web Development`
+theme: **Accessibility** • difficulty: **beginner** • `Accessibility` `HTML` `Web Development`
 
-> The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object.
+> What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
 
-> It provides methods such as `getCurrentPosition()` and `watchPosition()` to get the user's location.
+> The 'alt' attribute provides a text description of an image, making it accessible to screen readers and visually impaired users. This is especially important for images that convey important information or have a functional purpose.
 
-> This API is commonly used in mapping and location-based applications.
+> For example:
 
-> It is supported by most modern web browsers.
+> <img src='image.jpg' alt='A photo of a cat'>
 
-> However, it requires the user's permission to access their location.
-
-> This can be achieved by adding the `geolocation` permission to the manifest file in a Progressive Web App (PWA).
-
-> For example, in a PWA, you can add the following code to the manifest file:
-
-> {
-
-> "permissions": [
-
-> "geolocation"
-
-> ]
-
-> }
+> In this example, the 'alt' attribute provides a text description of the image, allowing screen readers to read the description to visually impaired users.
 
 ---
 

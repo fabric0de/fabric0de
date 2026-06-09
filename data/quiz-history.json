@@ -768,17 +768,17 @@
     "createdAt": "2026-06-08T13:33:39.789Z"
   },
   {
-    "answer": "The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object.\nIt provides methods such as `getCurrentPosition()` and `watchPosition()` to get the user's location.\nThis API is commonly used in mapping and location-based applications.\nIt is supported by most modern web browsers.\nHowever, it requires the user's permission to access their location.\nThis can be achieved by adding the `geolocation` permission to the manifest file in a Progressive Web App (PWA).\nFor example, in a PWA, you can add the following code to the manifest file: \n{\n  \"permissions\": [\n    \"geolocation\"\n  ]\n}",
-    "difficulty": "intermediate",
-    "question": "What is the Geolocation API used for in web development, and how can you access it?",
+    "answer": "What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?\n\nThe 'alt' attribute provides a text description of an image, making it accessible to screen readers and visually impaired users. This is especially important for images that convey important information or have a functional purpose.\n\nFor example:\n\n<img src='image.jpg' alt='A photo of a cat'>\n\nIn this example, the 'alt' attribute provides a text description of the image, allowing screen readers to read the description to visually impaired users.",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?",
     "tags": [
-      "Browser APIs",
-      "Geolocation API",
+      "Accessibility",
+      "HTML",
       "Web Development"
     ],
-    "theme": "Browser APIs",
+    "theme": "Accessibility",
     "type": "open",
     "id": "20260609",
-    "createdAt": "2026-06-09T00:53:57.564Z"
+    "createdAt": "2026-06-09T13:06:05.468Z"
   }
 ]
