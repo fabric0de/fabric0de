@@ -2,6 +2,36 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260609 - What is the Geolocation API used for in web development, and how can you access it?
+
+theme: **Browser APIs** • difficulty: **intermediate** • `Browser APIs` `Geolocation API` `Web Development`
+
+> The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object.
+
+> It provides methods such as `getCurrentPosition()` and `watchPosition()` to get the user's location.
+
+> This API is commonly used in mapping and location-based applications.
+
+> It is supported by most modern web browsers.
+
+> However, it requires the user's permission to access their location.
+
+> This can be achieved by adding the `geolocation` permission to the manifest file in a Progressive Web App (PWA).
+
+> For example, in a PWA, you can add the following code to the manifest file:
+
+> {
+
+> "permissions": [
+
+> "geolocation"
+
+> ]
+
+> }
+
+---
+
 ## 20260608 - How do you declare immutable and mutable variables in Rust?
 
 theme: **Rust** • difficulty: **intermediate** • `Rust` `Variables` `Immutability` `Mutability`

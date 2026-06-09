@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How do you declare immutable and mutable variables in Rust?
+### ❓ What is the Geolocation API used for in web development, and how can you access it?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `Rust` `Variables` `Immutability` `Mutability` • 📅 20260608
+🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Geolocation API` `Web Development` • 📅 20260609
 
 </div>
 
@@ -46,17 +46,29 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Rust, the `let` keyword is used to declare immutable variables, while the `mut` keyword is used to declare mutable variables.
+> The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object.
 
-> For example:
+> It provides methods such as `getCurrentPosition()` and `watchPosition()` to get the user's location.
 
-> let x = 5; // immutable variable
+> This API is commonly used in mapping and location-based applications.
 
-> let mut y = 5; // mutable variable
+> It is supported by most modern web browsers.
 
-> y = 10; // allowed because y is mutable
+> However, it requires the user's permission to access their location.
 
-> x = 10; // not allowed because x is immutable
+> This can be achieved by adding the `geolocation` permission to the manifest file in a Progressive Web App (PWA).
+
+> For example, in a PWA, you can add the following code to the manifest file:
+
+> {
+
+> "permissions": [
+
+> "geolocation"
+
+> ]
+
+> }
 
 <br>
 
