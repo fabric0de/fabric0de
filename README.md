@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between HTTP and HTTPS protocols in web communication?
+### ❓ What is the main difference between Basic Authentication and Digest Authentication in web applications?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `HTTP` `HTTPS` `Web Development` `Security` • 📅 20260610
+🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `Web Development` `Security` • 📅 20260610
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between HTTP and HTTPS protocols?
+> What is the main difference between Basic Authentication and Digest Authentication in web applications?
 
-> HTTP is a stateless protocol that transmits data in plain text.
+> Basic Authentication sends the username and password in plain text, while Digest Authentication sends a hashed version of the password.
 
-> HTTPS is a secure version of HTTP that uses SSL/TLS encryption to protect data in transit.
+> Digest Authentication is more secure than Basic Authentication.
 
-> HTTPS is used for secure communication between a client and a server.
+> Basic Authentication is typically used for simple applications, while Digest Authentication is used for more secure applications.
 
-> HTTP is commonly used for web browsing, while HTTPS is used for secure transactions.
+> Digest Authentication is also more suitable for applications that require high security, such as banking and e-commerce sites.
 
-> HTTPS is indicated by a lock icon in the browser's address bar.
+> Basic Authentication can be easily intercepted by hackers, while Digest Authentication is more resistant to hacking attempts.
 
 <br>
 

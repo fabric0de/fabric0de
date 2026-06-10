@@ -782,19 +782,17 @@
     "createdAt": "2026-06-09T13:06:05.468Z"
   },
   {
-    "answer": "What is the difference between HTTP and HTTPS protocols?\nHTTP is a stateless protocol that transmits data in plain text.\nHTTPS is a secure version of HTTP that uses SSL/TLS encryption to protect data in transit.\nHTTPS is used for secure communication between a client and a server.\nHTTP is commonly used for web browsing, while HTTPS is used for secure transactions.\nHTTPS is indicated by a lock icon in the browser's address bar.",
+    "answer": "What is the main difference between Basic Authentication and Digest Authentication in web applications?\nBasic Authentication sends the username and password in plain text, while Digest Authentication sends a hashed version of the password.\nDigest Authentication is more secure than Basic Authentication.\nBasic Authentication is typically used for simple applications, while Digest Authentication is used for more secure applications.\nDigest Authentication is also more suitable for applications that require high security, such as banking and e-commerce sites.\nBasic Authentication can be easily intercepted by hackers, while Digest Authentication is more resistant to hacking attempts.",
     "difficulty": "intermediate",
-    "question": "What is the main difference between HTTP and HTTPS protocols in web communication?",
+    "question": "What is the main difference between Basic Authentication and Digest Authentication in web applications?",
     "tags": [
-      "Networking",
-      "HTTP",
-      "HTTPS",
+      "Authentication",
       "Web Development",
       "Security"
     ],
-    "theme": "Networking",
+    "theme": "Authentication",
     "type": "open",
     "id": "20260610",
-    "createdAt": "2026-06-10T01:00:08.840Z"
+    "createdAt": "2026-06-10T13:17:37.925Z"
   }
 ]
