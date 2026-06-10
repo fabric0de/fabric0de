@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260610 - What is the main difference between HTTP and HTTPS protocols in web communication?
+
+theme: **Networking** • difficulty: **intermediate** • `Networking` `HTTP` `HTTPS` `Web Development` `Security`
+
+> What is the difference between HTTP and HTTPS protocols?
+
+> HTTP is a stateless protocol that transmits data in plain text.
+
+> HTTPS is a secure version of HTTP that uses SSL/TLS encryption to protect data in transit.
+
+> HTTPS is used for secure communication between a client and a server.
+
+> HTTP is commonly used for web browsing, while HTTPS is used for secure transactions.
+
+> HTTPS is indicated by a lock icon in the browser's address bar.
+
+---
+
 ## 20260609 - What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
 
 theme: **Accessibility** • difficulty: **beginner** • `Accessibility` `HTML` `Web Development`

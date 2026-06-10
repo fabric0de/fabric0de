@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
+### ❓ What is the main difference between HTTP and HTTPS protocols in web communication?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Web Development` • 📅 20260609
+🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `HTTP` `HTTPS` `Web Development` `Security` • 📅 20260610
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the purpose of the 'alt' attribute in HTML, and how does it improve accessibility?
+> What is the difference between HTTP and HTTPS protocols?
 
-> The 'alt' attribute provides a text description of an image, making it accessible to screen readers and visually impaired users. This is especially important for images that convey important information or have a functional purpose.
+> HTTP is a stateless protocol that transmits data in plain text.
 
-> For example:
+> HTTPS is a secure version of HTTP that uses SSL/TLS encryption to protect data in transit.
 
-> <img src='image.jpg' alt='A photo of a cat'>
+> HTTPS is used for secure communication between a client and a server.
 
-> In this example, the 'alt' attribute provides a text description of the image, allowing screen readers to read the description to visually impaired users.
+> HTTP is commonly used for web browsing, while HTTPS is used for secure transactions.
+
+> HTTPS is indicated by a lock icon in the browser's address bar.
 
 <br>
 

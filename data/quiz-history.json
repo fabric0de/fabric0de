@@ -780,5 +780,21 @@
     "type": "open",
     "id": "20260609",
     "createdAt": "2026-06-09T13:06:05.468Z"
+  },
+  {
+    "answer": "What is the difference between HTTP and HTTPS protocols?\nHTTP is a stateless protocol that transmits data in plain text.\nHTTPS is a secure version of HTTP that uses SSL/TLS encryption to protect data in transit.\nHTTPS is used for secure communication between a client and a server.\nHTTP is commonly used for web browsing, while HTTPS is used for secure transactions.\nHTTPS is indicated by a lock icon in the browser's address bar.",
+    "difficulty": "intermediate",
+    "question": "What is the main difference between HTTP and HTTPS protocols in web communication?",
+    "tags": [
+      "Networking",
+      "HTTP",
+      "HTTPS",
+      "Web Development",
+      "Security"
+    ],
+    "theme": "Networking",
+    "type": "open",
+    "id": "20260610",
+    "createdAt": "2026-06-10T01:00:08.840Z"
   }
 ]
