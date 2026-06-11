@@ -794,5 +794,22 @@
     "type": "open",
     "id": "20260610",
     "createdAt": "2026-06-10T13:17:37.925Z"
+  },
+  {
+    "answer": "In the context of animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, rotation, and scale to create a smooth animation. This can be achieved using various methods, including linear interpolation, easing functions, and physics-based simulations.\n\nIn software development, tweening is often implemented using libraries and frameworks that provide animation capabilities, such as CSS animations, SVG animations, and 3D graphics engines.",
+    "difficulty": "intermediate",
+    "question": "What is tweening in animation, and how is it used to create smooth transitions between keyframes?",
+    "tags": [
+      "animation",
+      "tweening",
+      "keyframes",
+      "interpolation",
+      "easing",
+      "physics-based simulations"
+    ],
+    "theme": "Animation",
+    "type": "open",
+    "id": "20260611",
+    "createdAt": "2026-06-11T00:59:37.316Z"
   }
 ]

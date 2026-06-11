@@ -2,6 +2,16 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260611 - What is tweening in animation, and how is it used to create smooth transitions between keyframes?
+
+theme: **Animation** • difficulty: **intermediate** • `animation` `tweening` `keyframes` `interpolation` `easing` `physics-based simulations`
+
+> In the context of animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, rotation, and scale to create a smooth animation. This can be achieved using various methods, including linear interpolation, easing functions, and physics-based simulations.
+
+> In software development, tweening is often implemented using libraries and frameworks that provide animation capabilities, such as CSS animations, SVG animations, and 3D graphics engines.
+
+---
+
 ## 20260610 - What is the main difference between Basic Authentication and Digest Authentication in web applications?
 
 theme: **Authentication** • difficulty: **intermediate** • `Authentication` `Web Development` `Security`

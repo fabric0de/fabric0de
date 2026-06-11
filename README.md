@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between Basic Authentication and Digest Authentication in web applications?
+### ❓ What is tweening in animation, and how is it used to create smooth transitions between keyframes?
 
 </div>
 
 <div align="center">
 
-🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `Web Development` `Security` • 📅 20260610
+🗓️ **Animation** • 🟡 **intermediate** • 🏷️ `animation` `tweening` `keyframes` `interpolation` `easing` `physics-based simulations` • 📅 20260611
 
 </div>
 
@@ -46,17 +46,9 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between Basic Authentication and Digest Authentication in web applications?
+> In the context of animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, rotation, and scale to create a smooth animation. This can be achieved using various methods, including linear interpolation, easing functions, and physics-based simulations.
 
-> Basic Authentication sends the username and password in plain text, while Digest Authentication sends a hashed version of the password.
-
-> Digest Authentication is more secure than Basic Authentication.
-
-> Basic Authentication is typically used for simple applications, while Digest Authentication is used for more secure applications.
-
-> Digest Authentication is also more suitable for applications that require high security, such as banking and e-commerce sites.
-
-> Basic Authentication can be easily intercepted by hackers, while Digest Authentication is more resistant to hacking attempts.
+> In software development, tweening is often implemented using libraries and frameworks that provide animation capabilities, such as CSS animations, SVG animations, and 3D graphics engines.
 
 <br>
 
