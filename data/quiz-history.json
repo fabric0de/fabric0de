@@ -796,20 +796,20 @@
     "createdAt": "2026-06-10T13:17:37.925Z"
   },
   {
-    "answer": "In the context of animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, rotation, and scale to create a smooth animation. This can be achieved using various methods, including linear interpolation, easing functions, and physics-based simulations.\n\nIn software development, tweening is often implemented using libraries and frameworks that provide animation capabilities, such as CSS animations, SVG animations, and 3D graphics engines.",
+    "answer": "A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.\nIt helps to establish a shared visual language and user experience.\nDesign systems can be implemented using various tools and frameworks, such as Storybook or Figma.\nThey are beneficial for large-scale projects, as they promote collaboration and reduce design debt.\nDesign systems can be categorized into different types, including component-based, style guide-based, and platform-based.\nThey are an essential part of modern product development, as they enable teams to work efficiently and maintain a consistent user experience.",
     "difficulty": "intermediate",
-    "question": "What is tweening in animation, and how is it used to create smooth transitions between keyframes?",
+    "question": "What is a design system, and what are its main benefits?",
     "tags": [
-      "animation",
-      "tweening",
-      "keyframes",
-      "interpolation",
-      "easing",
-      "physics-based simulations"
+      "design systems",
+      "product development",
+      "user experience",
+      "component-based design",
+      "style guide-based design",
+      "platform-based design"
     ],
-    "theme": "Animation",
+    "theme": "Design Systems",
     "type": "open",
     "id": "20260611",
-    "createdAt": "2026-06-11T00:59:37.316Z"
+    "createdAt": "2026-06-11T13:26:06.936Z"
   }
 ]

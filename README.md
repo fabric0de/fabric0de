@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is tweening in animation, and how is it used to create smooth transitions between keyframes?
+### ❓ What is a design system, and what are its main benefits?
 
 </div>
 
 <div align="center">
 
-🗓️ **Animation** • 🟡 **intermediate** • 🏷️ `animation` `tweening` `keyframes` `interpolation` `easing` `physics-based simulations` • 📅 20260611
+🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design systems` `product development` `user experience` `component-based design` `style guide-based design` `platform-based design` • 📅 20260611
 
 </div>
 
@@ -46,9 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In the context of animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, rotation, and scale to create a smooth animation. This can be achieved using various methods, including linear interpolation, easing functions, and physics-based simulations.
+> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
 
-> In software development, tweening is often implemented using libraries and frameworks that provide animation capabilities, such as CSS animations, SVG animations, and 3D graphics engines.
+> It helps to establish a shared visual language and user experience.
+
+> Design systems can be implemented using various tools and frameworks, such as Storybook or Figma.
+
+> They are beneficial for large-scale projects, as they promote collaboration and reduce design debt.
+
+> Design systems can be categorized into different types, including component-based, style guide-based, and platform-based.
+
+> They are an essential part of modern product development, as they enable teams to work efficiently and maintain a consistent user experience.
 
 <br>
 
