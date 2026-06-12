@@ -2,11 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260612 - What are the key components of a scalable and fault-tolerant system design, and how do they interact with each other?
+## 20260612 - What is the primary function of a load balancer in a distributed system?
 
-theme: **System Design** • difficulty: **intermediate** • `System Design` `Scalability` `Fault Tolerance` `Microservices` `Distributed Systems`
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed-systems` `load-balancing` `scalability` `availability`
 
-> System Design
+> In a distributed system, a load balancer is used to distribute workload across multiple servers to improve responsiveness, reliability, and scalability.
+
+> It achieves this by routing incoming network traffic across a group of servers, each of which can handle a portion of the total load.
+
+> This helps to prevent any one server from becoming overwhelmed and reduces the risk of a single point of failure.
+
+> Load balancers can be implemented using software or hardware solutions, and they often use algorithms such as round-robin or least-connections to determine which server to route traffic to.
+
+> By distributing the workload across multiple servers, load balancers can help to improve the overall performance and availability of a distributed system.
 
 ---
 
