@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a design system, and what are its main benefits?
+### ❓ What are the key components of a scalable and fault-tolerant system design, and how do they interact with each other?
 
 </div>
 
 <div align="center">
 
-🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design systems` `product development` `user experience` `component-based design` `style guide-based design` `platform-based design` • 📅 20260611
+🗓️ **System Design** • 🟡 **intermediate** • 🏷️ `System Design` `Scalability` `Fault Tolerance` `Microservices` `Distributed Systems` • 📅 20260612
 
 </div>
 
@@ -46,17 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
-
-> It helps to establish a shared visual language and user experience.
-
-> Design systems can be implemented using various tools and frameworks, such as Storybook or Figma.
-
-> They are beneficial for large-scale projects, as they promote collaboration and reduce design debt.
-
-> Design systems can be categorized into different types, including component-based, style guide-based, and platform-based.
-
-> They are an essential part of modern product development, as they enable teams to work efficiently and maintain a consistent user experience.
+> System Design
 
 <br>
 

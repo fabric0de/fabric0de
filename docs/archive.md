@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260612 - What are the key components of a scalable and fault-tolerant system design, and how do they interact with each other?
+
+theme: **System Design** • difficulty: **intermediate** • `System Design` `Scalability` `Fault Tolerance` `Microservices` `Distributed Systems`
+
+> System Design
+
+---
+
 ## 20260611 - What is a design system, and what are its main benefits?
 
 theme: **Design Systems** • difficulty: **intermediate** • `design systems` `product development` `user experience` `component-based design` `style guide-based design` `platform-based design`

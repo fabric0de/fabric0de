@@ -811,5 +811,21 @@
     "type": "open",
     "id": "20260611",
     "createdAt": "2026-06-11T13:26:06.936Z"
+  },
+  {
+    "answer": "System Design",
+    "difficulty": "intermediate",
+    "question": "What are the key components of a scalable and fault-tolerant system design, and how do they interact with each other?",
+    "tags": [
+      "System Design",
+      "Scalability",
+      "Fault Tolerance",
+      "Microservices",
+      "Distributed Systems"
+    ],
+    "theme": "System Design",
+    "type": "open",
+    "id": "20260612",
+    "createdAt": "2026-06-12T01:03:14.704Z"
   }
 ]
