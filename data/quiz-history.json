@@ -828,19 +828,20 @@
     "createdAt": "2026-06-12T13:16:24.726Z"
   },
   {
-    "answer": "In Cloud Infrastructure, a load balancer is used to distribute incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.\nIt acts as a single entry point for all incoming traffic and directs it to the available servers.\nThis helps to prevent any single server from becoming a bottleneck and ensures that no server is overwhelmed with requests.\nLoad balancers can be implemented using software or hardware solutions, such as HAProxy or F5.\nThey can also be deployed in the cloud, using services like AWS Elastic Load Balancer or Google Cloud Load Balancing.",
+    "answer": "Observability is the practice of ensuring that your system is designed to provide insights into its internal state and behavior, allowing you to understand and troubleshoot issues more effectively.\nIt involves collecting and analyzing data from various sources, such as logs, metrics, and traces, to gain a deeper understanding of how your system is performing.\nThis allows you to identify and resolve issues more quickly, and make data-driven decisions to improve the overall health and performance of your system.\n\nTags: Observability, Monitoring, Logging, Tracing, System Design, Troubleshooting",
     "difficulty": "intermediate",
-    "question": "What is the primary function of a load balancer in Cloud Infrastructure?",
+    "question": "What is Observability, and why is it important in system design?",
     "tags": [
-      "Cloud Infrastructure",
-      "Load Balancing",
-      "Distributed Systems",
-      "Scalability",
-      "Reliability"
+      "Observability",
+      "Monitoring",
+      "Logging",
+      "Tracing",
+      "System Design",
+      "Troubleshooting"
     ],
-    "theme": "Cloud Infrastructure",
+    "theme": "Observability",
     "type": "open",
     "id": "20260613",
-    "createdAt": "2026-06-13T01:01:56.323Z"
+    "createdAt": "2026-06-13T12:42:26.982Z"
   }
 ]

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a load balancer in Cloud Infrastructure?
+### ❓ What is Observability, and why is it important in system design?
 
 </div>
 
 <div align="center">
 
-🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `Cloud Infrastructure` `Load Balancing` `Distributed Systems` `Scalability` `Reliability` • 📅 20260613
+🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `Observability` `Monitoring` `Logging` `Tracing` `System Design` `Troubleshooting` • 📅 20260613
 
 </div>
 
@@ -46,15 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Cloud Infrastructure, a load balancer is used to distribute incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
+> Observability is the practice of ensuring that your system is designed to provide insights into its internal state and behavior, allowing you to understand and troubleshoot issues more effectively.
 
-> It acts as a single entry point for all incoming traffic and directs it to the available servers.
+> It involves collecting and analyzing data from various sources, such as logs, metrics, and traces, to gain a deeper understanding of how your system is performing.
 
-> This helps to prevent any single server from becoming a bottleneck and ensures that no server is overwhelmed with requests.
+> This allows you to identify and resolve issues more quickly, and make data-driven decisions to improve the overall health and performance of your system.
 
-> Load balancers can be implemented using software or hardware solutions, such as HAProxy or F5.
-
-> They can also be deployed in the cloud, using services like AWS Elastic Load Balancer or Google Cloud Load Balancing.
+> Tags: Observability, Monitoring, Logging, Tracing, System Design, Troubleshooting
 
 <br>
 
