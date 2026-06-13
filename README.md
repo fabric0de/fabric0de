@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a load balancer in a distributed system?
+### ❓ What is the primary function of a load balancer in Cloud Infrastructure?
 
 </div>
 
 <div align="center">
 
-🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed-systems` `load-balancing` `scalability` `availability` • 📅 20260612
+🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `Cloud Infrastructure` `Load Balancing` `Distributed Systems` `Scalability` `Reliability` • 📅 20260613
 
 </div>
 
@@ -46,15 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In a distributed system, a load balancer is used to distribute workload across multiple servers to improve responsiveness, reliability, and scalability.
+> In Cloud Infrastructure, a load balancer is used to distribute incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
 
-> It achieves this by routing incoming network traffic across a group of servers, each of which can handle a portion of the total load.
+> It acts as a single entry point for all incoming traffic and directs it to the available servers.
 
-> This helps to prevent any one server from becoming overwhelmed and reduces the risk of a single point of failure.
+> This helps to prevent any single server from becoming a bottleneck and ensures that no server is overwhelmed with requests.
 
-> Load balancers can be implemented using software or hardware solutions, and they often use algorithms such as round-robin or least-connections to determine which server to route traffic to.
+> Load balancers can be implemented using software or hardware solutions, such as HAProxy or F5.
 
-> By distributing the workload across multiple servers, load balancers can help to improve the overall performance and availability of a distributed system.
+> They can also be deployed in the cloud, using services like AWS Elastic Load Balancer or Google Cloud Load Balancing.
 
 <br>
 

@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260613 - What is the primary function of a load balancer in Cloud Infrastructure?
+
+theme: **Cloud Infrastructure** • difficulty: **intermediate** • `Cloud Infrastructure` `Load Balancing` `Distributed Systems` `Scalability` `Reliability`
+
+> In Cloud Infrastructure, a load balancer is used to distribute incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
+
+> It acts as a single entry point for all incoming traffic and directs it to the available servers.
+
+> This helps to prevent any single server from becoming a bottleneck and ensures that no server is overwhelmed with requests.
+
+> Load balancers can be implemented using software or hardware solutions, such as HAProxy or F5.
+
+> They can also be deployed in the cloud, using services like AWS Elastic Load Balancer or Google Cloud Load Balancing.
+
+---
+
 ## 20260612 - What is the primary function of a load balancer in a distributed system?
 
 theme: **Distributed Systems** • difficulty: **intermediate** • `distributed-systems` `load-balancing` `scalability` `availability`
