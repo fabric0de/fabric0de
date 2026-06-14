@@ -845,18 +845,17 @@
     "createdAt": "2026-06-13T12:42:26.982Z"
   },
   {
-    "answer": "A stack is a data structure that follows the Last In, First Out (LIFO) principle. It is implemented using a collection of elements, where the most recently added element is removed first.\n\nFor example, consider a stack of plates. When you add a new plate, it goes on top of the existing plates. When you remove a plate, you take the top one off first.\n\nStacks are commonly used in recursive algorithms and function calls, as well as in parsing and evaluating postfix expressions.",
+    "answer": "Big O notation is used to describe the complexity of an algorithm, which is the amount of time or space it requires as the input size increases. It is usually expressed as a function of the input size, n.\nFor example, if an algorithm takes 2n^2 + 3n time, its Big O notation would be O(n^2).\nThis is because as n increases, the 2n^2 term dominates the 3n term.\nBig O notation is used to analyze the efficiency of algorithms and compare their performance.",
     "difficulty": "intermediate",
-    "question": "What is a stack in data structures, and how does it work?",
+    "question": "What is Big O notation, and how is it used in complexity analysis?",
     "tags": [
-      "Data Structures",
-      "Stack",
-      "LIFO",
-      "Last In First Out"
+      "complexity-analysis",
+      "algorithms",
+      "big-o-notation"
     ],
-    "theme": "Data Structures",
+    "theme": "Complexity Analysis",
     "type": "open",
     "id": "20260614",
-    "createdAt": "2026-06-14T01:02:39.566Z"
+    "createdAt": "2026-06-14T12:45:09.536Z"
   }
 ]
