@@ -843,5 +843,20 @@
     "type": "open",
     "id": "20260613",
     "createdAt": "2026-06-13T12:42:26.982Z"
+  },
+  {
+    "answer": "A stack is a data structure that follows the Last In, First Out (LIFO) principle. It is implemented using a collection of elements, where the most recently added element is removed first.\n\nFor example, consider a stack of plates. When you add a new plate, it goes on top of the existing plates. When you remove a plate, you take the top one off first.\n\nStacks are commonly used in recursive algorithms and function calls, as well as in parsing and evaluating postfix expressions.",
+    "difficulty": "intermediate",
+    "question": "What is a stack in data structures, and how does it work?",
+    "tags": [
+      "Data Structures",
+      "Stack",
+      "LIFO",
+      "Last In First Out"
+    ],
+    "theme": "Data Structures",
+    "type": "open",
+    "id": "20260614",
+    "createdAt": "2026-06-14T01:02:39.566Z"
   }
 ]

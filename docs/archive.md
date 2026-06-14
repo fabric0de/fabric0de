@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260614 - What is a stack in data structures, and how does it work?
+
+theme: **Data Structures** • difficulty: **intermediate** • `Data Structures` `Stack` `LIFO` `Last In First Out`
+
+> A stack is a data structure that follows the Last In, First Out (LIFO) principle. It is implemented using a collection of elements, where the most recently added element is removed first.
+
+> For example, consider a stack of plates. When you add a new plate, it goes on top of the existing plates. When you remove a plate, you take the top one off first.
+
+> Stacks are commonly used in recursive algorithms and function calls, as well as in parsing and evaluating postfix expressions.
+
+---
+
 ## 20260613 - What is Observability, and why is it important in system design?
 
 theme: **Observability** • difficulty: **intermediate** • `Observability` `Monitoring` `Logging` `Tracing` `System Design` `Troubleshooting`

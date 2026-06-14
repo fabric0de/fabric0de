@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Observability, and why is it important in system design?
+### ❓ What is a stack in data structures, and how does it work?
 
 </div>
 
 <div align="center">
 
-🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `Observability` `Monitoring` `Logging` `Tracing` `System Design` `Troubleshooting` • 📅 20260613
+🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `Data Structures` `Stack` `LIFO` `Last In First Out` • 📅 20260614
 
 </div>
 
@@ -46,13 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Observability is the practice of ensuring that your system is designed to provide insights into its internal state and behavior, allowing you to understand and troubleshoot issues more effectively.
+> A stack is a data structure that follows the Last In, First Out (LIFO) principle. It is implemented using a collection of elements, where the most recently added element is removed first.
 
-> It involves collecting and analyzing data from various sources, such as logs, metrics, and traces, to gain a deeper understanding of how your system is performing.
+> For example, consider a stack of plates. When you add a new plate, it goes on top of the existing plates. When you remove a plate, you take the top one off first.
 
-> This allows you to identify and resolve issues more quickly, and make data-driven decisions to improve the overall health and performance of your system.
-
-> Tags: Observability, Monitoring, Logging, Tracing, System Design, Troubleshooting
+> Stacks are commonly used in recursive algorithms and function calls, as well as in parsing and evaluating postfix expressions.
 
 <br>
 
