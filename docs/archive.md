@@ -2,25 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260615 - What is the purpose of the 'this' keyword in JavaScript, and how does it differ when a function is called as a method versus when it is called as a standalone function?
+## 20260615 - What is TypeScript, and what are its key features?
 
-theme: **JavaScript** • difficulty: **intermediate** • `javascript` `this keyword` `context` `functions`
+theme: **TypeScript** • difficulty: **intermediate** • `TypeScript` `JavaScript` `Programming Language` `Static Typing`
 
-> In JavaScript, the 'this' keyword refers to the context in which a function is being called. It can be used to access the current object's properties and methods.
+> TypeScript is a statically typed language that compiles to JavaScript.
 
-> For example, consider the following code:
+> It is designed to help developers catch type-related errors early in the development process.
 
-> function sayHello() {
+> TypeScript is often used for large-scale JavaScript applications.
 
-> console.log(this.name);
+> It supports features like interfaces, generics, and type inference.
 
-> }
+> TypeScript can be used with popular frameworks like React and Angular.
 
-> const person = { name: 'John' };
-
-> sayHello.call(person);
-
-> In this case, the 'this' keyword refers to the 'person' object, so the output will be 'John'.
+> TypeScript is widely used in enterprise-level applications.
 
 ---
 
