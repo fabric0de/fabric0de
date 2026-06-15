@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Big O notation, and how is it used in complexity analysis?
+### ❓ What is the purpose of the 'this' keyword in JavaScript, and how does it differ when a function is called as a method versus when it is called as a standalone function?
 
 </div>
 
 <div align="center">
 
-🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `complexity-analysis` `algorithms` `big-o-notation` • 📅 20260614
+🗓️ **JavaScript** • 🟡 **intermediate** • 🏷️ `javascript` `this keyword` `context` `functions` • 📅 20260615
 
 </div>
 
@@ -46,13 +46,21 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Big O notation is used to describe the complexity of an algorithm, which is the amount of time or space it requires as the input size increases. It is usually expressed as a function of the input size, n.
+> In JavaScript, the 'this' keyword refers to the context in which a function is being called. It can be used to access the current object's properties and methods.
 
-> For example, if an algorithm takes 2n^2 + 3n time, its Big O notation would be O(n^2).
+> For example, consider the following code:
 
-> This is because as n increases, the 2n^2 term dominates the 3n term.
+> function sayHello() {
 
-> Big O notation is used to analyze the efficiency of algorithms and compare their performance.
+> console.log(this.name);
+
+> }
+
+> const person = { name: 'John' };
+
+> sayHello.call(person);
+
+> In this case, the 'this' keyword refers to the 'person' object, so the output will be 'John'.
 
 <br>
 

@@ -857,5 +857,20 @@
     "type": "open",
     "id": "20260614",
     "createdAt": "2026-06-14T12:45:09.536Z"
+  },
+  {
+    "answer": "In JavaScript, the 'this' keyword refers to the context in which a function is being called. It can be used to access the current object's properties and methods.\nFor example, consider the following code:\n\nfunction sayHello() {\n  console.log(this.name);\n}\n\nconst person = { name: 'John' };\nsayHello.call(person);\n\nIn this case, the 'this' keyword refers to the 'person' object, so the output will be 'John'.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the 'this' keyword in JavaScript, and how does it differ when a function is called as a method versus when it is called as a standalone function?",
+    "tags": [
+      "javascript",
+      "this keyword",
+      "context",
+      "functions"
+    ],
+    "theme": "JavaScript",
+    "type": "open",
+    "id": "20260615",
+    "createdAt": "2026-06-15T01:04:59.510Z"
   }
 ]

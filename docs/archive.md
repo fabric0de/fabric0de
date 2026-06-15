@@ -2,6 +2,28 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260615 - What is the purpose of the 'this' keyword in JavaScript, and how does it differ when a function is called as a method versus when it is called as a standalone function?
+
+theme: **JavaScript** • difficulty: **intermediate** • `javascript` `this keyword` `context` `functions`
+
+> In JavaScript, the 'this' keyword refers to the context in which a function is being called. It can be used to access the current object's properties and methods.
+
+> For example, consider the following code:
+
+> function sayHello() {
+
+> console.log(this.name);
+
+> }
+
+> const person = { name: 'John' };
+
+> sayHello.call(person);
+
+> In this case, the 'this' keyword refers to the 'person' object, so the output will be 'John'.
+
+---
+
 ## 20260614 - What is Big O notation, and how is it used in complexity analysis?
 
 theme: **Complexity Analysis** • difficulty: **intermediate** • `complexity-analysis` `algorithms` `big-o-notation`
