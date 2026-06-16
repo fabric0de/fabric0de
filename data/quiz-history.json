@@ -874,19 +874,17 @@
     "createdAt": "2026-06-15T14:13:12.946Z"
   },
   {
-    "answer": "A cookie is a small piece of data stored on a user's device by a web browser. It is used to track user preferences, login information, and other data.\nCookies can be categorized into first-party and third-party cookies.\nFirst-party cookies are set by the same domain as the website being visited, while third-party cookies are set by a different domain.\nCookies can be further classified into session cookies and persistent cookies.\nSession cookies are deleted when the user closes their browser, while persistent cookies remain on the user's device until they expire or are manually deleted.",
+    "answer": "The Geolocation API is used to determine the user's location, and it can be accessed using the navigator.geolocation object.\nIt has three main methods: getCurrentPosition(), watchPosition(), and clearWatch().\nThe getCurrentPosition() method retrieves the user's current location, while watchPosition() continuously updates the user's location.\nThe clearWatch() method stops the location updates.",
     "difficulty": "intermediate",
-    "question": "What are cookies in web development, and how are they categorized?",
+    "question": "What is the purpose of the Geolocation API in a web application, and how can it be accessed?",
     "tags": [
-      "Web",
-      "Cookies",
-      "Web Development",
-      "Frontend",
-      "Backend"
+      "Browser APIs",
+      "Geolocation API",
+      "Web Development"
     ],
-    "theme": "Web",
+    "theme": "Browser APIs",
     "type": "open",
     "id": "20260616",
-    "createdAt": "2026-06-16T01:09:13.611Z"
+    "createdAt": "2026-06-16T13:54:17.989Z"
   }
 ]

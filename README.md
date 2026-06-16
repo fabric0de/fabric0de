@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are cookies in web development, and how are they categorized?
+### ❓ What is the purpose of the Geolocation API in a web application, and how can it be accessed?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web** • 🟡 **intermediate** • 🏷️ `Web` `Cookies` `Web Development` `Frontend` `Backend` • 📅 20260616
+🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Geolocation API` `Web Development` • 📅 20260616
 
 </div>
 
@@ -46,15 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A cookie is a small piece of data stored on a user's device by a web browser. It is used to track user preferences, login information, and other data.
+> The Geolocation API is used to determine the user's location, and it can be accessed using the navigator.geolocation object.
 
-> Cookies can be categorized into first-party and third-party cookies.
+> It has three main methods: getCurrentPosition(), watchPosition(), and clearWatch().
 
-> First-party cookies are set by the same domain as the website being visited, while third-party cookies are set by a different domain.
+> The getCurrentPosition() method retrieves the user's current location, while watchPosition() continuously updates the user's location.
 
-> Cookies can be further classified into session cookies and persistent cookies.
-
-> Session cookies are deleted when the user closes their browser, while persistent cookies remain on the user's device until they expire or are manually deleted.
+> The clearWatch() method stops the location updates.
 
 <br>
 
