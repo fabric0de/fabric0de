@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is TypeScript, and what are its key features?
+### ❓ What are cookies in web development, and how are they categorized?
 
 </div>
 
 <div align="center">
 
-🗓️ **TypeScript** • 🟡 **intermediate** • 🏷️ `TypeScript` `JavaScript` `Programming Language` `Static Typing` • 📅 20260615
+🗓️ **Web** • 🟡 **intermediate** • 🏷️ `Web` `Cookies` `Web Development` `Frontend` `Backend` • 📅 20260616
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> TypeScript is a statically typed language that compiles to JavaScript.
+> A cookie is a small piece of data stored on a user's device by a web browser. It is used to track user preferences, login information, and other data.
 
-> It is designed to help developers catch type-related errors early in the development process.
+> Cookies can be categorized into first-party and third-party cookies.
 
-> TypeScript is often used for large-scale JavaScript applications.
+> First-party cookies are set by the same domain as the website being visited, while third-party cookies are set by a different domain.
 
-> It supports features like interfaces, generics, and type inference.
+> Cookies can be further classified into session cookies and persistent cookies.
 
-> TypeScript can be used with popular frameworks like React and Angular.
-
-> TypeScript is widely used in enterprise-level applications.
+> Session cookies are deleted when the user closes their browser, while persistent cookies remain on the user's device until they expire or are manually deleted.
 
 <br>
 

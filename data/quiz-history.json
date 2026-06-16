@@ -872,5 +872,21 @@
     "type": "open",
     "id": "20260615",
     "createdAt": "2026-06-15T14:13:12.946Z"
+  },
+  {
+    "answer": "A cookie is a small piece of data stored on a user's device by a web browser. It is used to track user preferences, login information, and other data.\nCookies can be categorized into first-party and third-party cookies.\nFirst-party cookies are set by the same domain as the website being visited, while third-party cookies are set by a different domain.\nCookies can be further classified into session cookies and persistent cookies.\nSession cookies are deleted when the user closes their browser, while persistent cookies remain on the user's device until they expire or are manually deleted.",
+    "difficulty": "intermediate",
+    "question": "What are cookies in web development, and how are they categorized?",
+    "tags": [
+      "Web",
+      "Cookies",
+      "Web Development",
+      "Frontend",
+      "Backend"
+    ],
+    "theme": "Web",
+    "type": "open",
+    "id": "20260616",
+    "createdAt": "2026-06-16T01:09:13.611Z"
   }
 ]

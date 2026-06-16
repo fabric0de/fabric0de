@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260616 - What are cookies in web development, and how are they categorized?
+
+theme: **Web** • difficulty: **intermediate** • `Web` `Cookies` `Web Development` `Frontend` `Backend`
+
+> A cookie is a small piece of data stored on a user's device by a web browser. It is used to track user preferences, login information, and other data.
+
+> Cookies can be categorized into first-party and third-party cookies.
+
+> First-party cookies are set by the same domain as the website being visited, while third-party cookies are set by a different domain.
+
+> Cookies can be further classified into session cookies and persistent cookies.
+
+> Session cookies are deleted when the user closes their browser, while persistent cookies remain on the user's device until they expire or are manually deleted.
+
+---
+
 ## 20260615 - What is TypeScript, and what are its key features?
 
 theme: **TypeScript** • difficulty: **intermediate** • `TypeScript` `JavaScript` `Programming Language` `Static Typing`
