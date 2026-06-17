@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260617 - What is the primary purpose of caching in a web application?
+
+theme: **Caching** • difficulty: **intermediate** • `caching` `web development` `performance optimization`
+
+> What is the primary purpose of caching in a web application?
+
+> Caching is a technique used to store frequently accessed data in a temporary storage location, such as memory or a disk cache, to improve the performance and efficiency of a web application. This is achieved by storing the results of expensive database queries or computations, so that they can be quickly retrieved and reused instead of being recalculated or re-retrieved from the database.
+
+> Caching can be implemented using various techniques, including cache expiration, cache invalidation, and cache clustering.
+
+---
+
 ## 20260616 - What is the purpose of the Geolocation API in a web application, and how can it be accessed?
 
 theme: **Browser APIs** • difficulty: **intermediate** • `Browser APIs` `Geolocation API` `Web Development`
