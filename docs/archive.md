@@ -2,15 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260617 - What is the primary purpose of caching in a web application?
+## 20260617 - What is the primary function of a network switch in a local area network (LAN)?
 
-theme: **Caching** • difficulty: **intermediate** • `caching` `web development` `performance optimization`
+theme: **Networking** • difficulty: **intermediate** • `Networking` `LAN` `OSI model` `data link layer`
 
-> What is the primary purpose of caching in a web application?
-
-> Caching is a technique used to store frequently accessed data in a temporary storage location, such as memory or a disk cache, to improve the performance and efficiency of a web application. This is achieved by storing the results of expensive database queries or computations, so that they can be quickly retrieved and reused instead of being recalculated or re-retrieved from the database.
-
-> Caching can be implemented using various techniques, including cache expiration, cache invalidation, and cache clustering.
+> A network switch is a device that connects multiple computers and other devices together within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model, forwarding frames between devices based on their MAC addresses.
 
 ---
 
