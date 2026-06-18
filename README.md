@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a network switch in a local area network (LAN)?
+### ❓ What are some key techniques used to achieve responsive design in web development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `LAN` `OSI model` `data link layer` • 📅 20260617
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `HTML` `CSS` `JavaScript` `Media Queries` • 📅 20260618
 
 </div>
 
@@ -46,7 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A network switch is a device that connects multiple computers and other devices together within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model, forwarding frames between devices based on their MAC addresses.
+> To achieve responsive design, you can use a combination of HTML, CSS, and JavaScript.
+
+> One key technique is to use media queries in CSS to apply different styles based on the screen size or device type.
+
+> For example, you can use the '@media' keyword to define a query for a specific screen width, and then apply different styles within that query.
+
+> This allows you to create a flexible layout that adapts to different screen sizes and devices.
 
 <br>
 

@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260618 - What are some key techniques used to achieve responsive design in web development?
+
+theme: **Responsive Design** • difficulty: **intermediate** • `Responsive Design` `HTML` `CSS` `JavaScript` `Media Queries`
+
+> To achieve responsive design, you can use a combination of HTML, CSS, and JavaScript.
+
+> One key technique is to use media queries in CSS to apply different styles based on the screen size or device type.
+
+> For example, you can use the '@media' keyword to define a query for a specific screen width, and then apply different styles within that query.
+
+> This allows you to create a flexible layout that adapts to different screen sizes and devices.
+
+---
+
 ## 20260617 - What is the primary function of a network switch in a local area network (LAN)?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `LAN` `OSI model` `data link layer`

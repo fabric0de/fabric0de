@@ -901,5 +901,21 @@
     "type": "open",
     "id": "20260617",
     "createdAt": "2026-06-17T13:22:08.386Z"
+  },
+  {
+    "answer": "To achieve responsive design, you can use a combination of HTML, CSS, and JavaScript. \nOne key technique is to use media queries in CSS to apply different styles based on the screen size or device type. \nFor example, you can use the '@media' keyword to define a query for a specific screen width, and then apply different styles within that query. \nThis allows you to create a flexible layout that adapts to different screen sizes and devices.",
+    "difficulty": "intermediate",
+    "question": "What are some key techniques used to achieve responsive design in web development?",
+    "tags": [
+      "Responsive Design",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Media Queries"
+    ],
+    "theme": "Responsive Design",
+    "type": "open",
+    "id": "20260618",
+    "createdAt": "2026-06-18T01:02:14.219Z"
   }
 ]
