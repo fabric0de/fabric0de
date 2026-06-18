@@ -2,17 +2,37 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260618 - What are some key techniques used to achieve responsive design in web development?
+## 20260618 - What is one technique to improve frontend performance, and how can it be implemented?
 
-theme: **Responsive Design** • difficulty: **intermediate** • `Responsive Design` `HTML` `CSS` `JavaScript` `Media Queries`
+theme: **Frontend Performance** • difficulty: **intermediate** • `Frontend Performance` `Lazy Loading` `HTML` `JavaScript`
 
-> To achieve responsive design, you can use a combination of HTML, CSS, and JavaScript.
+> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved using the 'loading' attribute in HTML. For example:
 
-> One key technique is to use media queries in CSS to apply different styles based on the screen size or device type.
+> <img src='image.jpg' loading='lazy'>
 
-> For example, you can use the '@media' keyword to define a query for a specific screen width, and then apply different styles within that query.
+> This attribute tells the browser to load the image only when it comes into view. Additionally, you can also use the 'IntersectionObserver' API to lazy load elements as they come into view.
 
-> This allows you to create a flexible layout that adapts to different screen sizes and devices.
+> const observer = new IntersectionObserver((entries) => {
+
+> entries.forEach((entry) => {
+
+> if (entry.isIntersecting) {
+
+> observer.unobserve(entry.target);
+
+> // Load the element here
+
+> }
+
+> });
+
+> }, {
+
+> rootMargin: '50px',
+
+> });
+
+> observer.observe(document.querySelector('#element'));
 
 ---
 
