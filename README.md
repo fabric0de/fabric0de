@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is one technique to improve frontend performance, and how can it be implemented?
+### ❓ What is Data Modeling, and why is it an essential step in database design and development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `Frontend Performance` `Lazy Loading` `HTML` `JavaScript` • 📅 20260618
+🗓️ **Data Modeling** • 🟡 **intermediate** • 🏷️ `Data Modeling` `Database Design` `Database Development` `Entity-Relationship Diagrams` `Data Flow Diagrams` • 📅 20260619
 
 </div>
 
@@ -46,33 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved using the 'loading' attribute in HTML. For example:
+> Data Modeling is the process of creating a conceptual representation of data to organize and structure it in a database.
 
-> <img src='image.jpg' loading='lazy'>
+> It involves identifying entities, attributes, and relationships between them.
 
-> This attribute tells the browser to load the image only when it comes into view. Additionally, you can also use the 'IntersectionObserver' API to lazy load elements as they come into view.
+> Data Modeling is used to improve data consistency, reduce data redundancy, and enhance data integrity.
 
-> const observer = new IntersectionObserver((entries) => {
+> It also helps in designing efficient database schema and improving data retrieval and manipulation.
 
-> entries.forEach((entry) => {
+> Data Modeling is a crucial step in database design and development.
 
-> if (entry.isIntersecting) {
-
-> observer.unobserve(entry.target);
-
-> // Load the element here
-
-> }
-
-> });
-
-> }, {
-
-> rootMargin: '50px',
-
-> });
-
-> observer.observe(document.querySelector('#element'));
+> It involves creating a visual representation of the data using various techniques such as Entity-Relationship Diagrams (ERDs) and Data Flow Diagrams (DFDs).
 
 <br>
 
