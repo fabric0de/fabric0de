@@ -2,21 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260619 - What is Data Modeling, and why is it an essential step in database design and development?
+## 20260619 - What is a message queue, and what are its primary benefits?
 
-theme: **Data Modeling** • difficulty: **intermediate** • `Data Modeling` `Database Design` `Database Development` `Entity-Relationship Diagrams` `Data Flow Diagrams`
+theme: **Message Queues** • difficulty: **intermediate** • `message-queues` `asynchronous-programming` `system-design` `scalability` `fault-tolerance`
 
-> Data Modeling is the process of creating a conceptual representation of data to organize and structure it in a database.
+> A message queue is a data structure that allows messages to be sent and received asynchronously.
 
-> It involves identifying entities, attributes, and relationships between them.
+> It provides a way to decouple producers and consumers of messages, improving system scalability and fault tolerance.
 
-> Data Modeling is used to improve data consistency, reduce data redundancy, and enhance data integrity.
+> Message queues can be used to handle tasks such as email sending, payment processing, and job scheduling.
 
-> It also helps in designing efficient database schema and improving data retrieval and manipulation.
+> Some popular message queue systems include RabbitMQ, Apache Kafka, and Amazon SQS.
 
-> Data Modeling is a crucial step in database design and development.
-
-> It involves creating a visual representation of the data using various techniques such as Entity-Relationship Diagrams (ERDs) and Data Flow Diagrams (DFDs).
+> Message queues can be implemented using various technologies, including message broker software, message-oriented middleware, and in-memory data grids.
 
 ---
 
