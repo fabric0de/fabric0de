@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260620 - What is Chrome DevTools, and what are some of its key features?
+
+theme: **Developer Tools** • difficulty: **intermediate** • `developer-tools` `chrome-devtools` `web-development`
+
+> Chrome DevTools is a set of web developer tools built directly into the Google Chrome web browser. It provides a variety of tools for debugging, inspecting, and optimizing web pages.
+
+> Some of the key features of Chrome DevTools include:
+
+> - Inspecting and editing HTML and CSS
+
+> - Debugging JavaScript code
+
+> - Analyzing performance and memory usage
+
+> - Viewing and editing network requests
+
+> - Using the Elements panel to inspect and modify the DOM
+
+---
+
 ## 20260619 - What is a message queue, and what are its primary benefits?
 
 theme: **Message Queues** • difficulty: **intermediate** • `message-queues` `asynchronous-programming` `system-design` `scalability` `fault-tolerance`
