@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Chrome DevTools, and what are some of its key features?
+### ❓ In object-oriented programming, what is the main difference between an abstract class and an interface in architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `developer-tools` `chrome-devtools` `web-development` • 📅 20260620
+🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Object-Oriented Programming` `Abstract Class` `Interface` • 📅 20260620
 
 </div>
 
@@ -46,19 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Chrome DevTools is a set of web developer tools built directly into the Google Chrome web browser. It provides a variety of tools for debugging, inspecting, and optimizing web pages.
-
-> Some of the key features of Chrome DevTools include:
-
-> - Inspecting and editing HTML and CSS
-
-> - Debugging JavaScript code
-
-> - Analyzing performance and memory usage
-
-> - Viewing and editing network requests
-
-> - Using the Elements panel to inspect and modify the DOM
+> In object-oriented programming, what is the main difference between an abstract class and an interface in architecture?
 
 <br>
 
