@@ -947,5 +947,19 @@
     "type": "open",
     "id": "20260620",
     "createdAt": "2026-06-20T12:42:39.351Z"
+  },
+  {
+    "answer": "A sorting algorithm is a method for arranging elements in a list in a specific order. There are several types of sorting algorithms, including bubble sort, selection sort, and quicksort.\n\nBubble sort works by repeatedly swapping the adjacent elements if they are in wrong order.\n\nSelection sort works by selecting the smallest (or largest, depending on the sorting order) element from the unsorted part and putting it at the beginning.\n\nQuicksort works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.\n\nThe choice of sorting algorithm depends on the size of the list and the requirements of the application.",
+    "difficulty": "intermediate",
+    "question": "What are some common types of sorting algorithms, and how do they work?",
+    "tags": [
+      "sorting",
+      "algorithms",
+      "data structures"
+    ],
+    "theme": "Algorithms",
+    "type": "open",
+    "id": "20260621",
+    "createdAt": "2026-06-21T01:04:08.729Z"
   }
 ]

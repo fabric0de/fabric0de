@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In object-oriented programming, what is the main difference between an abstract class and an interface in architecture?
+### ❓ What are some common types of sorting algorithms, and how do they work?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Object-Oriented Programming` `Abstract Class` `Interface` • 📅 20260620
+🗓️ **Algorithms** • 🟡 **intermediate** • 🏷️ `sorting` `algorithms` `data structures` • 📅 20260621
 
 </div>
 
@@ -46,7 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In object-oriented programming, what is the main difference between an abstract class and an interface in architecture?
+> A sorting algorithm is a method for arranging elements in a list in a specific order. There are several types of sorting algorithms, including bubble sort, selection sort, and quicksort.
+
+> Bubble sort works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+> Selection sort works by selecting the smallest (or largest, depending on the sorting order) element from the unsorted part and putting it at the beginning.
+
+> Quicksort works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+
+> The choice of sorting algorithm depends on the size of the list and the requirements of the application.
 
 <br>
 
