@@ -963,5 +963,20 @@
     "type": "open",
     "id": "20260621",
     "createdAt": "2026-06-21T12:46:05.835Z"
+  },
+  {
+    "answer": "In Go, the `range` keyword is used to iterate over a slice or array. The iteration can be over the index and value of each element, or just the value.\n\nExample:\n\nslice := []int{1, 2, 3, 4, 5}\n\nfor i, val := range slice {\n  fmt.Println(i, val)\n}\n\nfor _, val := range slice {\n  fmt.Println(val)\n}\n",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the `range` keyword in Go, and how can it be used to iterate over a slice or array?",
+    "tags": [
+      "Go",
+      "language",
+      "iteration",
+      "slicing"
+    ],
+    "theme": "Go",
+    "type": "open",
+    "id": "20260622",
+    "createdAt": "2026-06-22T01:03:41.345Z"
   }
 ]

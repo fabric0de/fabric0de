@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a stack in data structures, and how is it typically implemented?
+### ❓ What is the purpose of the `range` keyword in Go, and how can it be used to iterate over a slice or array?
 
 </div>
 
 <div align="center">
 
-🗓️ **Data Structures** • 🟢 **beginner** • 🏷️ `Data Structures` `Stack` `LIFO` `Linked List` `Array` • 📅 20260621
+🗓️ **Go** • 🟡 **intermediate** • 🏷️ `Go` `language` `iteration` `slicing` • 📅 20260622
 
 </div>
 
@@ -46,9 +46,23 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A stack is a data structure that follows the Last-In-First-Out (LIFO) principle, meaning the last element added to the stack will be the first one to be removed. It is commonly implemented using a linked list or an array.
+> In Go, the `range` keyword is used to iterate over a slice or array. The iteration can be over the index and value of each element, or just the value.
 
-> Some common stack operations include push, pop, peek, and isEmpty.
+> Example:
+
+> slice := []int{1, 2, 3, 4, 5}
+
+> for i, val := range slice {
+
+> fmt.Println(i, val)
+
+> }
+
+> for _, val := range slice {
+
+> fmt.Println(val)
+
+> }
 
 <br>
 
