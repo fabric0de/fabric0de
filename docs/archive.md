@@ -2,27 +2,29 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260622 - What is the purpose of the `range` keyword in Go, and how can it be used to iterate over a slice or array?
+## 20260622 - What is the purpose of the `vec!` macro in Rust, and how can it be used to create a vector?
 
-theme: **Go** • difficulty: **intermediate** • `Go` `language` `iteration` `slicing`
+theme: **Rust** • difficulty: **intermediate** • `Rust` `Macros` `Vectors`
 
-> In Go, the `range` keyword is used to iterate over a slice or array. The iteration can be over the index and value of each element, or just the value.
+> In Rust, the `vec!` macro is used to create a vector. It is a shorthand way to create a vector with a list of elements.
 
-> Example:
+> For example:
 
-> slice := []int{1, 2, 3, 4, 5}
+> let numbers = vec![1, 2, 3, 4, 5];
 
-> for i, val := range slice {
+> This is equivalent to creating a vector with the `Vec::new()` method and then pushing elements onto it.
 
-> fmt.Println(i, val)
+> let numbers = Vec::new();
 
-> }
+> numbers.push(1);
 
-> for _, val := range slice {
+> numbers.push(2);
 
-> fmt.Println(val)
+> numbers.push(3);
 
-> }
+> numbers.push(4);
+
+> numbers.push(5);
 
 ---
 
