@@ -979,30 +979,17 @@
     "createdAt": "2026-06-22T13:57:37.007Z"
   },
   {
-    "answer": "To improve the visibility of a website in search engine results, SEO (Search Engine Optimization) involves optimizing the website's content, structure, and coding to make it more search engine-friendly.\n\nSome key SEO techniques include:\n- Conducting keyword research to identify relevant terms and phrases.\n- Optimizing page titles, meta descriptions, and header tags.\n- Creating high-quality, engaging, and informative content.\n- Building high-quality backlinks from authoritative sources.\n- Ensuring mobile-friendliness and page speed.\n- Using header tags (H1, H2, H3, etc.) to structure content.\n- Optimizing images by adding alt tags and descriptive text.\n- Using internal linking to help users and search engines navigate the site.\n- Regularly updating and refreshing content to keep it relevant and fresh.\n- Using schema markup to provide additional context to search engines.\n- Ensuring website security and trustworthiness by using HTTPS and avoiding malware.\n- Monitoring and analyzing website performance using tools like Google Analytics and Search Console.\n\nBy implementing these techniques, website owners can improve their website's visibility, drive more traffic, and increase conversions.\n\nTags: SEO, Search Engine Optimization, Keyword Research, On-page Optimization, Technical SEO, Content Marketing, Link Building, Mobile-friendliness, Page Speed, Header Tags, Image Optimization, Internal Linking, Schema Markup, Website Security, Analytics, Search Console.",
+    "answer": "The main difference between the article and section elements in HTML is that the article element represents a self-contained composition, whereas the section element represents a generic section within a document.\n\nThe article element is typically used to wrap content that could stand alone, such as a blog post or a news article, while the section element is used to divide a document into sections, such as a chapter or a part.\n\nFor example:\n\n<article>\n  <h1>Blog Post</h1>\n  <p>This is a sample blog post.</p>\n</article>\n\n<section>\n  <h1>Chapter 1</h1>\n  <p>This is the first chapter of a book.</p>\n</section>",
     "difficulty": "intermediate",
-    "question": "What is SEO, and how can it be implemented to improve a website's visibility in search engine results?",
+    "question": "What is the primary difference between the article and section elements in HTML, and how are they used?",
     "tags": [
-      "SEO",
-      "Search Engine Optimization",
-      "Keyword Research",
-      "On-page Optimization",
-      "Technical SEO",
-      "Content Marketing",
-      "Link Building",
-      "Mobile-friendliness",
-      "Page Speed",
-      "Header Tags",
-      "Image Optimization",
-      "Internal Linking",
-      "Schema Markup",
-      "Website Security",
-      "Analytics",
-      "Search Console"
+      "html",
+      "semantics",
+      "html-elements"
     ],
-    "theme": "SEO",
+    "theme": "HTML Semantics",
     "type": "open",
     "id": "20260623",
-    "createdAt": "2026-06-23T00:54:17.944Z"
+    "createdAt": "2026-06-23T13:04:35.243Z"
   }
 ]
