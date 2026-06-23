@@ -2,6 +2,44 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260623 - What is SEO, and how can it be implemented to improve a website's visibility in search engine results?
+
+theme: **SEO** • difficulty: **intermediate** • `SEO` `Search Engine Optimization` `Keyword Research` `On-page Optimization` `Technical SEO` `Content Marketing` `Link Building` `Mobile-friendliness` `Page Speed` `Header Tags` `Image Optimization` `Internal Linking` `Schema Markup` `Website Security` `Analytics` `Search Console`
+
+> To improve the visibility of a website in search engine results, SEO (Search Engine Optimization) involves optimizing the website's content, structure, and coding to make it more search engine-friendly.
+
+> Some key SEO techniques include:
+
+> - Conducting keyword research to identify relevant terms and phrases.
+
+> - Optimizing page titles, meta descriptions, and header tags.
+
+> - Creating high-quality, engaging, and informative content.
+
+> - Building high-quality backlinks from authoritative sources.
+
+> - Ensuring mobile-friendliness and page speed.
+
+> - Using header tags (H1, H2, H3, etc.) to structure content.
+
+> - Optimizing images by adding alt tags and descriptive text.
+
+> - Using internal linking to help users and search engines navigate the site.
+
+> - Regularly updating and refreshing content to keep it relevant and fresh.
+
+> - Using schema markup to provide additional context to search engines.
+
+> - Ensuring website security and trustworthiness by using HTTPS and avoiding malware.
+
+> - Monitoring and analyzing website performance using tools like Google Analytics and Search Console.
+
+> By implementing these techniques, website owners can improve their website's visibility, drive more traffic, and increase conversions.
+
+> Tags: SEO, Search Engine Optimization, Keyword Research, On-page Optimization, Technical SEO, Content Marketing, Link Building, Mobile-friendliness, Page Speed, Header Tags, Image Optimization, Internal Linking, Schema Markup, Website Security, Analytics, Search Console.
+
+---
+
 ## 20260622 - What is the purpose of the `vec!` macro in Rust, and how can it be used to create a vector?
 
 theme: **Rust** • difficulty: **intermediate** • `Rust` `Macros` `Vectors`
