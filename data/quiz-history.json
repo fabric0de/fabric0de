@@ -991,5 +991,19 @@
     "type": "open",
     "id": "20260623",
     "createdAt": "2026-06-23T13:04:35.243Z"
+  },
+  {
+    "answer": "HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary for the server to process the request.\nThis is in contrast to a stateful protocol, where the server maintains information about the client's previous requests.\nHTTP's statelessness allows for greater scalability and flexibility in web applications.\nIt also enables features like caching and load balancing.\nHowever, it can make it more difficult to implement certain types of applications, such as those that require maintaining a user's session information.\nIn these cases, techniques like cookies or token-based authentication can be used to simulate statefulness.",
+    "difficulty": "intermediate",
+    "question": "What is a key characteristic of the HTTP protocol, and how does it impact web application design?",
+    "tags": [
+      "http",
+      "web-development",
+      "networking"
+    ],
+    "theme": "HTTP",
+    "type": "open",
+    "id": "20260624",
+    "createdAt": "2026-06-24T00:51:31.372Z"
   }
 ]

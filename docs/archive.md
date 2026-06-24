@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260624 - What is a key characteristic of the HTTP protocol, and how does it impact web application design?
+
+theme: **HTTP** • difficulty: **intermediate** • `http` `web-development` `networking`
+
+> HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary for the server to process the request.
+
+> This is in contrast to a stateful protocol, where the server maintains information about the client's previous requests.
+
+> HTTP's statelessness allows for greater scalability and flexibility in web applications.
+
+> It also enables features like caching and load balancing.
+
+> However, it can make it more difficult to implement certain types of applications, such as those that require maintaining a user's session information.
+
+> In these cases, techniques like cookies or token-based authentication can be used to simulate statefulness.
+
+---
+
 ## 20260623 - What is the primary difference between the article and section elements in HTML, and how are they used?
 
 theme: **HTML Semantics** • difficulty: **intermediate** • `html` `semantics` `html-elements`
