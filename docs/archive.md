@@ -2,21 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260624 - What is a key characteristic of the HTTP protocol, and how does it impact web application design?
+## 20260624 - What is the primary purpose of caching in a web application, and how does it improve performance?
 
-theme: **HTTP** • difficulty: **intermediate** • `http` `web-development` `networking`
+theme: **Caching** • difficulty: **intermediate** • `caching` `web performance` `data storage`
 
-> HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary for the server to process the request.
+> What is the primary purpose of caching in a web application, and how does it improve performance?
 
-> This is in contrast to a stateful protocol, where the server maintains information about the client's previous requests.
+> Caching is a technique used to store frequently accessed data in a faster and more accessible location, such as memory or a cache server, to reduce the time it takes to retrieve data from a slower storage location, such as a database or file system.
 
-> HTTP's statelessness allows for greater scalability and flexibility in web applications.
+> By storing data in a cache, a web application can improve performance by reducing the number of requests made to slower storage locations, decreasing the time it takes to load pages, and improving the overall user experience.
 
-> It also enables features like caching and load balancing.
+> Tags: caching, web performance, data storage
 
-> However, it can make it more difficult to implement certain types of applications, such as those that require maintaining a user's session information.
+> Difficulty: Intermediate
 
-> In these cases, techniques like cookies or token-based authentication can be used to simulate statefulness.
+> Type: Open
 
 ---
 
