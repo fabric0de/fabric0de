@@ -1005,5 +1005,22 @@
     "type": "open",
     "id": "20260624",
     "createdAt": "2026-06-24T12:51:03.467Z"
+  },
+  {
+    "answer": "In UI Engineering, what is the primary purpose of using a CSS preprocessor like Sass or Less?\n\nA CSS preprocessor is used to write CSS code in a more efficient and modular way, allowing for features like variables, nesting, and mixins.\n\nThis enables developers to write more maintainable and scalable CSS code, reducing the need for repetitive code and improving the overall development process.\n\nTags: UI Engineering, CSS, Sass, Less, Frontend Development, Web Development\nDifficulty: Intermediate\nType: open\n",
+    "difficulty": "intermediate",
+    "question": "What is the primary purpose of using a CSS preprocessor like Sass or Less in UI Engineering?",
+    "tags": [
+      "UI Engineering",
+      "CSS",
+      "Sass",
+      "Less",
+      "Frontend Development",
+      "Web Development"
+    ],
+    "theme": "UI Engineering",
+    "type": "open",
+    "id": "20260625",
+    "createdAt": "2026-06-25T00:55:48.847Z"
   }
 ]

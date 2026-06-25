@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260625 - What is the primary purpose of using a CSS preprocessor like Sass or Less in UI Engineering?
+
+theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `CSS` `Sass` `Less` `Frontend Development` `Web Development`
+
+> In UI Engineering, what is the primary purpose of using a CSS preprocessor like Sass or Less?
+
+> A CSS preprocessor is used to write CSS code in a more efficient and modular way, allowing for features like variables, nesting, and mixins.
+
+> This enables developers to write more maintainable and scalable CSS code, reducing the need for repetitive code and improving the overall development process.
+
+> Tags: UI Engineering, CSS, Sass, Less, Frontend Development, Web Development
+
+> Difficulty: Intermediate
+
+> Type: open
+
+---
+
 ## 20260624 - What is the primary purpose of caching in a web application, and how does it improve performance?
 
 theme: **Caching** • difficulty: **intermediate** • `caching` `web performance` `data storage`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of caching in a web application, and how does it improve performance?
+### ❓ What is the primary purpose of using a CSS preprocessor like Sass or Less in UI Engineering?
 
 </div>
 
 <div align="center">
 
-🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `web performance` `data storage` • 📅 20260624
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `CSS` `Sass` `Less` `Frontend Development` `Web Development` • 📅 20260625
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary purpose of caching in a web application, and how does it improve performance?
+> In UI Engineering, what is the primary purpose of using a CSS preprocessor like Sass or Less?
 
-> Caching is a technique used to store frequently accessed data in a faster and more accessible location, such as memory or a cache server, to reduce the time it takes to retrieve data from a slower storage location, such as a database or file system.
+> A CSS preprocessor is used to write CSS code in a more efficient and modular way, allowing for features like variables, nesting, and mixins.
 
-> By storing data in a cache, a web application can improve performance by reducing the number of requests made to slower storage locations, decreasing the time it takes to load pages, and improving the overall user experience.
+> This enables developers to write more maintainable and scalable CSS code, reducing the need for repetitive code and improving the overall development process.
 
-> Tags: caching, web performance, data storage
+> Tags: UI Engineering, CSS, Sass, Less, Frontend Development, Web Development
 
 > Difficulty: Intermediate
 
-> Type: Open
+> Type: open
 
 <br>
 
