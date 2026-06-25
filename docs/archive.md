@@ -2,21 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260625 - What is the primary purpose of using a CSS preprocessor like Sass or Less in UI Engineering?
+## 20260625 - What are some key techniques for implementing responsive design in a website?
 
-theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `CSS` `Sass` `Less` `Frontend Development` `Web Development`
+theme: **Responsive Design** • difficulty: **intermediate** • `responsive-design` `css` `web-development` `frontend`
 
-> In UI Engineering, what is the primary purpose of using a CSS preprocessor like Sass or Less?
+> To ensure that a website's layout adapts to different screen sizes and devices, you can use a combination of CSS media queries and flexible grid systems.
 
-> A CSS preprocessor is used to write CSS code in a more efficient and modular way, allowing for features like variables, nesting, and mixins.
+> For example, you can use the `max-width` property in CSS to set a maximum width for a container, and then use media queries to apply different styles based on the screen size.
 
-> This enables developers to write more maintainable and scalable CSS code, reducing the need for repetitive code and improving the overall development process.
+> This can be achieved by using a flexible grid system like Bootstrap or a CSS framework that provides a responsive design.
 
-> Tags: UI Engineering, CSS, Sass, Less, Frontend Development, Web Development
+> Additionally, you can use relative units like percentages or ems to make your layout more adaptable to different screen sizes.
 
-> Difficulty: Intermediate
-
-> Type: open
+> By using these techniques, you can create a website that looks great on a variety of devices and screen sizes.
 
 ---
 
