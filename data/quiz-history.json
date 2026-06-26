@@ -1020,5 +1020,19 @@
     "type": "open",
     "id": "20260625",
     "createdAt": "2026-06-25T12:52:33.981Z"
+  },
+  {
+    "answer": "What is the difference between a primary key and a unique constraint in a database?\nA primary key is a column or set of columns that uniquely identifies each row in a table.\nA unique constraint is a column or set of columns that ensures uniqueness, but does not necessarily identify the row.\nPrimary keys are typically used to identify the rows in a table, while unique constraints are used to prevent duplicate values.\nFor example, a primary key might be the 'id' column in a table, while a unique constraint might be the 'email' column to prevent duplicate email addresses.\nIn most databases, a primary key is automatically indexed, while a unique constraint is not.",
+    "difficulty": "intermediate",
+    "question": "What is the difference between a primary key and a unique constraint in a database?",
+    "tags": [
+      "databases",
+      "sql",
+      "database-design"
+    ],
+    "theme": "Databases",
+    "type": "open",
+    "id": "20260626",
+    "createdAt": "2026-06-26T00:58:10.482Z"
   }
 ]

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key techniques for implementing responsive design in a website?
+### ❓ What is the difference between a primary key and a unique constraint in a database?
 
 </div>
 
 <div align="center">
 
-🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `responsive-design` `css` `web-development` `frontend` • 📅 20260625
+🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `databases` `sql` `database-design` • 📅 20260626
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To ensure that a website's layout adapts to different screen sizes and devices, you can use a combination of CSS media queries and flexible grid systems.
+> What is the difference between a primary key and a unique constraint in a database?
 
-> For example, you can use the `max-width` property in CSS to set a maximum width for a container, and then use media queries to apply different styles based on the screen size.
+> A primary key is a column or set of columns that uniquely identifies each row in a table.
 
-> This can be achieved by using a flexible grid system like Bootstrap or a CSS framework that provides a responsive design.
+> A unique constraint is a column or set of columns that ensures uniqueness, but does not necessarily identify the row.
 
-> Additionally, you can use relative units like percentages or ems to make your layout more adaptable to different screen sizes.
+> Primary keys are typically used to identify the rows in a table, while unique constraints are used to prevent duplicate values.
 
-> By using these techniques, you can create a website that looks great on a variety of devices and screen sizes.
+> For example, a primary key might be the 'id' column in a table, while a unique constraint might be the 'email' column to prevent duplicate email addresses.
+
+> In most databases, a primary key is automatically indexed, while a unique constraint is not.
 
 <br>
 

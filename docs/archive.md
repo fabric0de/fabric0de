@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260626 - What is the difference between a primary key and a unique constraint in a database?
+
+theme: **Databases** • difficulty: **intermediate** • `databases` `sql` `database-design`
+
+> What is the difference between a primary key and a unique constraint in a database?
+
+> A primary key is a column or set of columns that uniquely identifies each row in a table.
+
+> A unique constraint is a column or set of columns that ensures uniqueness, but does not necessarily identify the row.
+
+> Primary keys are typically used to identify the rows in a table, while unique constraints are used to prevent duplicate values.
+
+> For example, a primary key might be the 'id' column in a table, while a unique constraint might be the 'email' column to prevent duplicate email addresses.
+
+> In most databases, a primary key is automatically indexed, while a unique constraint is not.
+
+---
+
 ## 20260625 - What are some key techniques for implementing responsive design in a website?
 
 theme: **Responsive Design** • difficulty: **intermediate** • `responsive-design` `css` `web-development` `frontend`
