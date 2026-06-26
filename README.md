@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a primary key and a unique constraint in a database?
+### ❓ What is the main principle behind the 'HATEOAS' constraint in RESTful API design, and how does it improve the user experience?
 
 </div>
 
 <div align="center">
 
-🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `databases` `sql` `database-design` • 📅 20260626
+🗓️ **API Design** • 🟡 **intermediate** • 🏷️ `API Design` `RESTful API` `HATEOAS` `Hypermedia` `User Experience` • 📅 20260626
 
 </div>
 
@@ -46,17 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a primary key and a unique constraint in a database?
-
-> A primary key is a column or set of columns that uniquely identifies each row in a table.
-
-> A unique constraint is a column or set of columns that ensures uniqueness, but does not necessarily identify the row.
-
-> Primary keys are typically used to identify the rows in a table, while unique constraints are used to prevent duplicate values.
-
-> For example, a primary key might be the 'id' column in a table, while a unique constraint might be the 'email' column to prevent duplicate email addresses.
-
-> In most databases, a primary key is automatically indexed, while a unique constraint is not.
+> API Design
 
 <br>
 

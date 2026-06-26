@@ -1022,17 +1022,19 @@
     "createdAt": "2026-06-25T12:52:33.981Z"
   },
   {
-    "answer": "What is the difference between a primary key and a unique constraint in a database?\nA primary key is a column or set of columns that uniquely identifies each row in a table.\nA unique constraint is a column or set of columns that ensures uniqueness, but does not necessarily identify the row.\nPrimary keys are typically used to identify the rows in a table, while unique constraints are used to prevent duplicate values.\nFor example, a primary key might be the 'id' column in a table, while a unique constraint might be the 'email' column to prevent duplicate email addresses.\nIn most databases, a primary key is automatically indexed, while a unique constraint is not.",
+    "answer": "API Design",
     "difficulty": "intermediate",
-    "question": "What is the difference between a primary key and a unique constraint in a database?",
+    "question": "What is the main principle behind the 'HATEOAS' constraint in RESTful API design, and how does it improve the user experience?",
     "tags": [
-      "databases",
-      "sql",
-      "database-design"
+      "API Design",
+      "RESTful API",
+      "HATEOAS",
+      "Hypermedia",
+      "User Experience"
     ],
-    "theme": "Databases",
+    "theme": "API Design",
     "type": "open",
     "id": "20260626",
-    "createdAt": "2026-06-26T00:58:10.482Z"
+    "createdAt": "2026-06-26T12:49:54.381Z"
   }
 ]
