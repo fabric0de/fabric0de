@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main principle behind the 'HATEOAS' constraint in RESTful API design, and how does it improve the user experience?
+### ❓ What is cloud infrastructure, and how does it provide benefits to businesses and organizations?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Design** • 🟡 **intermediate** • 🏷️ `API Design` `RESTful API` `HATEOAS` `Hypermedia` `User Experience` • 📅 20260626
+🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `cloud` `infrastructure` `computing` `scalability` `flexibility` `cost-effectiveness` • 📅 20260627
 
 </div>
 
@@ -46,7 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> API Design
+> A cloud infrastructure is a model for delivering computing services over the internet, where resources such as servers, storage, databases, software, and networking are provided as a service to users on-demand.
+
+> This model is often referred to as 'cloud computing'.
+
+> Examples of cloud infrastructure include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+> Cloud infrastructure provides scalability, flexibility, and cost-effectiveness for businesses and organizations.
+
+> It also enables users to access resources from anywhere, at any time, as long as they have an internet connection.
+
+> This has revolutionized the way businesses operate and has opened up new opportunities for innovation and growth.
 
 <br>
 

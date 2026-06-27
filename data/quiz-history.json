@@ -1036,5 +1036,22 @@
     "type": "open",
     "id": "20260626",
     "createdAt": "2026-06-26T12:49:54.381Z"
+  },
+  {
+    "answer": "A cloud infrastructure is a model for delivering computing services over the internet, where resources such as servers, storage, databases, software, and networking are provided as a service to users on-demand.\nThis model is often referred to as 'cloud computing'.\nExamples of cloud infrastructure include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).\nCloud infrastructure provides scalability, flexibility, and cost-effectiveness for businesses and organizations.\nIt also enables users to access resources from anywhere, at any time, as long as they have an internet connection.\nThis has revolutionized the way businesses operate and has opened up new opportunities for innovation and growth.",
+    "difficulty": "intermediate",
+    "question": "What is cloud infrastructure, and how does it provide benefits to businesses and organizations?",
+    "tags": [
+      "cloud",
+      "infrastructure",
+      "computing",
+      "scalability",
+      "flexibility",
+      "cost-effectiveness"
+    ],
+    "theme": "Cloud Infrastructure",
+    "type": "open",
+    "id": "20260627",
+    "createdAt": "2026-06-27T00:54:36.989Z"
   }
 ]

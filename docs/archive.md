@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260627 - What is cloud infrastructure, and how does it provide benefits to businesses and organizations?
+
+theme: **Cloud Infrastructure** • difficulty: **intermediate** • `cloud` `infrastructure` `computing` `scalability` `flexibility` `cost-effectiveness`
+
+> A cloud infrastructure is a model for delivering computing services over the internet, where resources such as servers, storage, databases, software, and networking are provided as a service to users on-demand.
+
+> This model is often referred to as 'cloud computing'.
+
+> Examples of cloud infrastructure include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+> Cloud infrastructure provides scalability, flexibility, and cost-effectiveness for businesses and organizations.
+
+> It also enables users to access resources from anywhere, at any time, as long as they have an internet connection.
+
+> This has revolutionized the way businesses operate and has opened up new opportunities for innovation and growth.
+
+---
+
 ## 20260626 - What is the main principle behind the 'HATEOAS' constraint in RESTful API design, and how does it improve the user experience?
 
 theme: **API Design** • difficulty: **intermediate** • `API Design` `RESTful API` `HATEOAS` `Hypermedia` `User Experience`
