@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is cloud infrastructure, and how does it provide benefits to businesses and organizations?
+### ❓ What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?
 
 </div>
 
 <div align="center">
 
-🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `cloud` `infrastructure` `computing` `scalability` `flexibility` `cost-effectiveness` • 📅 20260627
+🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `Observability` `Distributed Tracing` `Debugging` `Performance Optimization` • 📅 20260627
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A cloud infrastructure is a model for delivering computing services over the internet, where resources such as servers, storage, databases, software, and networking are provided as a service to users on-demand.
+> What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?
 
-> This model is often referred to as 'cloud computing'.
+> A distributed tracing system is used to track the flow of a request across multiple services in a microservices architecture.
 
-> Examples of cloud infrastructure include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+> It helps in debugging by providing a clear view of the request flow and identifying bottlenecks.
 
-> Cloud infrastructure provides scalability, flexibility, and cost-effectiveness for businesses and organizations.
+> It also helps in performance optimization by providing insights into the performance of individual services and their interactions.
 
-> It also enables users to access resources from anywhere, at any time, as long as they have an internet connection.
-
-> This has revolutionized the way businesses operate and has opened up new opportunities for innovation and growth.
+> This is achieved through the use of unique identifiers, such as trace IDs and span IDs, which are propagated across services to create a complete picture of the request flow.
 
 <br>
 

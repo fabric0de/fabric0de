@@ -1038,20 +1038,18 @@
     "createdAt": "2026-06-26T12:49:54.381Z"
   },
   {
-    "answer": "A cloud infrastructure is a model for delivering computing services over the internet, where resources such as servers, storage, databases, software, and networking are provided as a service to users on-demand.\nThis model is often referred to as 'cloud computing'.\nExamples of cloud infrastructure include Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).\nCloud infrastructure provides scalability, flexibility, and cost-effectiveness for businesses and organizations.\nIt also enables users to access resources from anywhere, at any time, as long as they have an internet connection.\nThis has revolutionized the way businesses operate and has opened up new opportunities for innovation and growth.",
+    "answer": "What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?\n\nA distributed tracing system is used to track the flow of a request across multiple services in a microservices architecture.\nIt helps in debugging by providing a clear view of the request flow and identifying bottlenecks.\nIt also helps in performance optimization by providing insights into the performance of individual services and their interactions.\nThis is achieved through the use of unique identifiers, such as trace IDs and span IDs, which are propagated across services to create a complete picture of the request flow.",
     "difficulty": "intermediate",
-    "question": "What is cloud infrastructure, and how does it provide benefits to businesses and organizations?",
+    "question": "What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?",
     "tags": [
-      "cloud",
-      "infrastructure",
-      "computing",
-      "scalability",
-      "flexibility",
-      "cost-effectiveness"
+      "Observability",
+      "Distributed Tracing",
+      "Debugging",
+      "Performance Optimization"
     ],
-    "theme": "Cloud Infrastructure",
+    "theme": "Observability",
     "type": "open",
     "id": "20260627",
-    "createdAt": "2026-06-27T00:54:36.989Z"
+    "createdAt": "2026-06-27T12:33:12.370Z"
   }
 ]
