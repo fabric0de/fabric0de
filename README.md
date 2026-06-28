@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a variable in programming, and how is it used?
+### ❓ What is a bubble sort algorithm and how does it work?
 
 </div>
 
 <div align="center">
 
-🗓️ **CS Basics** • 🟢 **beginner** • 🏷️ `CS Basics` `Variables` `Programming Fundamentals` • 📅 20260628
+🗓️ **Algorithms** • 🟢 **beginner** • 🏷️ `Algorithms` `Sorting` `Data Structures` • 📅 20260628
 
 </div>
 
@@ -46,13 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A variable in programming is a container that stores a value. It can be thought of as a labeled box where you can store a value and then use the label to access the value later.
-
-> In most programming languages, variables are declared before they are used, and they have a specific data type that determines the type of value they can hold.
-
-> For example, in Python, you can declare a variable like this: `x = 5`, which assigns the value 5 to the variable x.
-
-> Variables are a fundamental concept in programming and are used extensively in all programming languages.
+> A bubble sort algorithm is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
 <br>
 
