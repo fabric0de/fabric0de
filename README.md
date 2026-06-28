@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?
+### ❓ What is a variable in programming, and how is it used?
 
 </div>
 
 <div align="center">
 
-🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `Observability` `Distributed Tracing` `Debugging` `Performance Optimization` • 📅 20260627
+🗓️ **CS Basics** • 🟢 **beginner** • 🏷️ `CS Basics` `Variables` `Programming Fundamentals` • 📅 20260628
 
 </div>
 
@@ -46,15 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?
+> A variable in programming is a container that stores a value. It can be thought of as a labeled box where you can store a value and then use the label to access the value later.
 
-> A distributed tracing system is used to track the flow of a request across multiple services in a microservices architecture.
+> In most programming languages, variables are declared before they are used, and they have a specific data type that determines the type of value they can hold.
 
-> It helps in debugging by providing a clear view of the request flow and identifying bottlenecks.
+> For example, in Python, you can declare a variable like this: `x = 5`, which assigns the value 5 to the variable x.
 
-> It also helps in performance optimization by providing insights into the performance of individual services and their interactions.
-
-> This is achieved through the use of unique identifiers, such as trace IDs and span IDs, which are propagated across services to create a complete picture of the request flow.
+> Variables are a fundamental concept in programming and are used extensively in all programming languages.
 
 <br>
 

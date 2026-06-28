@@ -1051,5 +1051,19 @@
     "type": "open",
     "id": "20260627",
     "createdAt": "2026-06-27T12:33:12.370Z"
+  },
+  {
+    "answer": "A variable in programming is a container that stores a value. It can be thought of as a labeled box where you can store a value and then use the label to access the value later.\n\nIn most programming languages, variables are declared before they are used, and they have a specific data type that determines the type of value they can hold.\n\nFor example, in Python, you can declare a variable like this: `x = 5`, which assigns the value 5 to the variable x.\n\nVariables are a fundamental concept in programming and are used extensively in all programming languages.",
+    "difficulty": "beginner",
+    "question": "What is a variable in programming, and how is it used?",
+    "tags": [
+      "CS Basics",
+      "Variables",
+      "Programming Fundamentals"
+    ],
+    "theme": "CS Basics",
+    "type": "open",
+    "id": "20260628",
+    "createdAt": "2026-06-28T00:57:58.406Z"
   }
 ]

@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260628 - What is a variable in programming, and how is it used?
+
+theme: **CS Basics** • difficulty: **beginner** • `CS Basics` `Variables` `Programming Fundamentals`
+
+> A variable in programming is a container that stores a value. It can be thought of as a labeled box where you can store a value and then use the label to access the value later.
+
+> In most programming languages, variables are declared before they are used, and they have a specific data type that determines the type of value they can hold.
+
+> For example, in Python, you can declare a variable like this: `x = 5`, which assigns the value 5 to the variable x.
+
+> Variables are a fundamental concept in programming and are used extensively in all programming languages.
+
+---
+
 ## 20260627 - What is the primary purpose of a distributed tracing system in Observability, and how does it help in debugging and performance optimization?
 
 theme: **Observability** • difficulty: **intermediate** • `Observability` `Distributed Tracing` `Debugging` `Performance Optimization`
