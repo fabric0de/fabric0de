@@ -1065,5 +1065,19 @@
     "type": "open",
     "id": "20260628",
     "createdAt": "2026-06-28T12:34:07.101Z"
+  },
+  {
+    "answer": "In Bash, you can use the `declare` command to create an associative array. \nFor example, to create an associative array called `my_array`, you would use the following command: \n\ndeclare -A my_array\n\nYou can then add key-value pairs to the array using the following syntax: \n\nmy_array[key]='value'\n\nFor example: \n\nmy_array[name]='John'\nmy_array[age]='30'\n\nYou can also use the `echo` command to print the contents of the array: \n\necho ${my_array[@]}\n\nThis will output: \n\nname=John\nage=30\n",
+    "difficulty": "intermediate",
+    "question": "How do you create and use an associative array in Bash?",
+    "tags": [
+      "bash",
+      "arrays",
+      "variables"
+    ],
+    "theme": "Bash",
+    "type": "open",
+    "id": "20260629",
+    "createdAt": "2026-06-29T00:59:15.613Z"
   }
 ]

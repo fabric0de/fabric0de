@@ -2,6 +2,38 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260629 - How do you create and use an associative array in Bash?
+
+theme: **Bash** • difficulty: **intermediate** • `bash` `arrays` `variables`
+
+> In Bash, you can use the `declare` command to create an associative array.
+
+> For example, to create an associative array called `my_array`, you would use the following command:
+
+> declare -A my_array
+
+> You can then add key-value pairs to the array using the following syntax:
+
+> my_array[key]='value'
+
+> For example:
+
+> my_array[name]='John'
+
+> my_array[age]='30'
+
+> You can also use the `echo` command to print the contents of the array:
+
+> echo ${my_array[@]}
+
+> This will output:
+
+> name=John
+
+> age=30
+
+---
+
 ## 20260628 - What is a bubble sort algorithm and how does it work?
 
 theme: **Algorithms** • difficulty: **beginner** • `Algorithms` `Sorting` `Data Structures`

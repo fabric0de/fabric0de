@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a bubble sort algorithm and how does it work?
+### ❓ How do you create and use an associative array in Bash?
 
 </div>
 
 <div align="center">
 
-🗓️ **Algorithms** • 🟢 **beginner** • 🏷️ `Algorithms` `Sorting` `Data Structures` • 📅 20260628
+🗓️ **Bash** • 🟡 **intermediate** • 🏷️ `bash` `arrays` `variables` • 📅 20260629
 
 </div>
 
@@ -46,7 +46,31 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A bubble sort algorithm is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+> In Bash, you can use the `declare` command to create an associative array.
+
+> For example, to create an associative array called `my_array`, you would use the following command:
+
+> declare -A my_array
+
+> You can then add key-value pairs to the array using the following syntax:
+
+> my_array[key]='value'
+
+> For example:
+
+> my_array[name]='John'
+
+> my_array[age]='30'
+
+> You can also use the `echo` command to print the contents of the array:
+
+> echo ${my_array[@]}
+
+> This will output:
+
+> name=John
+
+> age=30
 
 <br>
 
