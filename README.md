@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How do you create and use an associative array in Bash?
+### ❓ Write a SQL query to retrieve all columns from a table named 'employees' where the employee's salary is greater than 50000.
 
 </div>
 
 <div align="center">
 
-🗓️ **Bash** • 🟡 **intermediate** • 🏷️ `bash` `arrays` `variables` • 📅 20260629
+🗓️ **SQL** • 🟢 **beginner** • 🏷️ `SQL` `SELECT` `WHERE` `clause` • 📅 20260629
 
 </div>
 
@@ -46,31 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Bash, you can use the `declare` command to create an associative array.
+> What is the correct SQL query to retrieve all columns from a table named 'employees' where the employee's salary is greater than 50000?
 
-> For example, to create an associative array called `my_array`, you would use the following command:
+> SELECT * FROM employees WHERE salary > 50000;
 
-> declare -A my_array
+> Explanation: The SQL query uses the SELECT statement to retrieve all columns (*) from the employees table where the salary is greater than 50000.
 
-> You can then add key-value pairs to the array using the following syntax:
+> Tags: SQL, SELECT, WHERE, clause
 
-> my_array[key]='value'
+> Difficulty: Beginner
 
-> For example:
-
-> my_array[name]='John'
-
-> my_array[age]='30'
-
-> You can also use the `echo` command to print the contents of the array:
-
-> echo ${my_array[@]}
-
-> This will output:
-
-> name=John
-
-> age=30
+> Type: open
 
 <br>
 
