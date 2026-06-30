@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260630 - What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?
+
+theme: **Rendering** • difficulty: **intermediate** • `javascript` `web-development` `rendering` `animation`
+
+> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?
+
+> requestAnimationFrame is a function provided by the browser to schedule a task to be executed before the next repaint, whereas setTimeout schedules a task to be executed after a specified delay.
+
+> requestAnimationFrame is generally preferred for animations and rendering because it allows the browser to optimize the rendering process.
+
+> On the other hand, setTimeout is typically used for tasks that are not related to rendering, such as making API calls or updating the DOM.
+
+> Using requestAnimationFrame can improve the performance of animations and rendering by allowing the browser to optimize the rendering process.
+
+> It can also help to prevent jank and improve the overall user experience.
+
+---
+
 ## 20260629 - Write a SQL query to retrieve all columns from a table named 'employees' where the employee's salary is greater than 50000.
 
 theme: **SQL** • difficulty: **beginner** • `SQL` `SELECT` `WHERE` `clause`

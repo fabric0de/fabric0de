@@ -1080,5 +1080,20 @@
     "type": "open",
     "id": "20260629",
     "createdAt": "2026-06-29T13:35:37.593Z"
+  },
+  {
+    "answer": "What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?\nrequestAnimationFrame is a function provided by the browser to schedule a task to be executed before the next repaint, whereas setTimeout schedules a task to be executed after a specified delay.\nrequestAnimationFrame is generally preferred for animations and rendering because it allows the browser to optimize the rendering process.\nOn the other hand, setTimeout is typically used for tasks that are not related to rendering, such as making API calls or updating the DOM.\nUsing requestAnimationFrame can improve the performance of animations and rendering by allowing the browser to optimize the rendering process.\nIt can also help to prevent jank and improve the overall user experience.",
+    "difficulty": "intermediate",
+    "question": "What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?",
+    "tags": [
+      "javascript",
+      "web-development",
+      "rendering",
+      "animation"
+    ],
+    "theme": "Rendering",
+    "type": "open",
+    "id": "20260630",
+    "createdAt": "2026-06-30T00:55:47.352Z"
   }
 ]

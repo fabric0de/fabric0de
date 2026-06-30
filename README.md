@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ Write a SQL query to retrieve all columns from a table named 'employees' where the employee's salary is greater than 50000.
+### ❓ What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?
 
 </div>
 
 <div align="center">
 
-🗓️ **SQL** • 🟢 **beginner** • 🏷️ `SQL` `SELECT` `WHERE` `clause` • 📅 20260629
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `javascript` `web-development` `rendering` `animation` • 📅 20260630
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the correct SQL query to retrieve all columns from a table named 'employees' where the employee's salary is greater than 50000?
+> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?
 
-> SELECT * FROM employees WHERE salary > 50000;
+> requestAnimationFrame is a function provided by the browser to schedule a task to be executed before the next repaint, whereas setTimeout schedules a task to be executed after a specified delay.
 
-> Explanation: The SQL query uses the SELECT statement to retrieve all columns (*) from the employees table where the salary is greater than 50000.
+> requestAnimationFrame is generally preferred for animations and rendering because it allows the browser to optimize the rendering process.
 
-> Tags: SQL, SELECT, WHERE, clause
+> On the other hand, setTimeout is typically used for tasks that are not related to rendering, such as making API calls or updating the DOM.
 
-> Difficulty: Beginner
+> Using requestAnimationFrame can improve the performance of animations and rendering by allowing the browser to optimize the rendering process.
 
-> Type: open
+> It can also help to prevent jank and improve the overall user experience.
 
 <br>
 
