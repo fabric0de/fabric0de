@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?
+### ❓ What is the purpose of the 'alt' attribute in HTML images, and how does it improve accessibility?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `javascript` `web-development` `rendering` `animation` • 📅 20260630
+🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Screen Readers` `Web Development` `Beginner` • 📅 20260630
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering a webpage?
+> What is the purpose of the 'alt' attribute in HTML images, and how does it improve accessibility?
 
-> requestAnimationFrame is a function provided by the browser to schedule a task to be executed before the next repaint, whereas setTimeout schedules a task to be executed after a specified delay.
+> The 'alt' attribute provides a text description of an image for screen readers and other assistive technologies.
 
-> requestAnimationFrame is generally preferred for animations and rendering because it allows the browser to optimize the rendering process.
+> It is essential for images that convey important information or have a functional purpose.
 
-> On the other hand, setTimeout is typically used for tasks that are not related to rendering, such as making API calls or updating the DOM.
+> Without the 'alt' attribute, screen readers will announce the image file name, which can be confusing.
 
-> Using requestAnimationFrame can improve the performance of animations and rendering by allowing the browser to optimize the rendering process.
+> Tags: Accessibility, HTML, Screen Readers, Web Development, Beginner
 
-> It can also help to prevent jank and improve the overall user experience.
+> Type: open
+
+> Difficulty: Beginner
 
 <br>
 
