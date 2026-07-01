@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key strategies for preventing Cross-Site Scripting (XSS) and SQL injection attacks in web applications?
+### ❓ What is the primary function of a network switch in a computer network?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `XSS` `SQL Injection` `Input Validation` `Sanitization` • 📅 20260701
+🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `Computer Networks` `Network Devices` • 📅 20260701
 
 </div>
 
@@ -46,15 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input before echoing it in the HTML response.
+> A network switch is a device that connects multiple computers and other devices together within a network. It forwards data packets between them based on their MAC addresses.
 
-> This can be achieved by using functions like `htmlspecialchars()` in PHP or `h()` in Haskell.
+> A network switch is different from a hub in that it can filter and forward data packets, whereas a hub simply broadcasts them to all connected devices.
 
-> Additionally, developers should use prepared statements when interacting with databases to prevent SQL injection attacks.
+> This makes network switches more efficient and secure than hubs.
 
-> This helps to ensure that user input is treated as data, not code, and prevents malicious scripts from being executed.
-
-> By following these best practices, developers can significantly reduce the risk of XSS and SQL injection attacks.
+> They are commonly used in local area networks (LANs) and are an essential component of many computer networks.
 
 <br>
 
