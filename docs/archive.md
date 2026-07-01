@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260701 - What are some key strategies for preventing Cross-Site Scripting (XSS) and SQL injection attacks in web applications?
+
+theme: **Web Security** • difficulty: **intermediate** • `Web Security` `XSS` `SQL Injection` `Input Validation` `Sanitization`
+
+> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input before echoing it in the HTML response.
+
+> This can be achieved by using functions like `htmlspecialchars()` in PHP or `h()` in Haskell.
+
+> Additionally, developers should use prepared statements when interacting with databases to prevent SQL injection attacks.
+
+> This helps to ensure that user input is treated as data, not code, and prevents malicious scripts from being executed.
+
+> By following these best practices, developers can significantly reduce the risk of XSS and SQL injection attacks.
+
+---
+
 ## 20260630 - What is the purpose of the 'alt' attribute in HTML images, and how does it improve accessibility?
 
 theme: **Accessibility** • difficulty: **beginner** • `Accessibility` `HTML` `Screen Readers` `Web Development` `Beginner`

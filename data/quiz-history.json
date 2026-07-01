@@ -1096,5 +1096,21 @@
     "type": "open",
     "id": "20260630",
     "createdAt": "2026-06-30T12:46:59.128Z"
+  },
+  {
+    "answer": "To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input before echoing it in the HTML response.\nThis can be achieved by using functions like `htmlspecialchars()` in PHP or `h()` in Haskell.\nAdditionally, developers should use prepared statements when interacting with databases to prevent SQL injection attacks.\nThis helps to ensure that user input is treated as data, not code, and prevents malicious scripts from being executed.\nBy following these best practices, developers can significantly reduce the risk of XSS and SQL injection attacks.",
+    "difficulty": "intermediate",
+    "question": "What are some key strategies for preventing Cross-Site Scripting (XSS) and SQL injection attacks in web applications?",
+    "tags": [
+      "Web Security",
+      "XSS",
+      "SQL Injection",
+      "Input Validation",
+      "Sanitization"
+    ],
+    "theme": "Web Security",
+    "type": "open",
+    "id": "20260701",
+    "createdAt": "2026-07-01T00:59:18.393Z"
   }
 ]

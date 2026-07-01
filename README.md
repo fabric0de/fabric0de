@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the 'alt' attribute in HTML images, and how does it improve accessibility?
+### ❓ What are some key strategies for preventing Cross-Site Scripting (XSS) and SQL injection attacks in web applications?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Screen Readers` `Web Development` `Beginner` • 📅 20260630
+🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `XSS` `SQL Injection` `Input Validation` `Sanitization` • 📅 20260701
 
 </div>
 
@@ -46,19 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the purpose of the 'alt' attribute in HTML images, and how does it improve accessibility?
+> To prevent Cross-Site Scripting (XSS) attacks, developers should always validate and sanitize user input before echoing it in the HTML response.
 
-> The 'alt' attribute provides a text description of an image for screen readers and other assistive technologies.
+> This can be achieved by using functions like `htmlspecialchars()` in PHP or `h()` in Haskell.
 
-> It is essential for images that convey important information or have a functional purpose.
+> Additionally, developers should use prepared statements when interacting with databases to prevent SQL injection attacks.
 
-> Without the 'alt' attribute, screen readers will announce the image file name, which can be confusing.
+> This helps to ensure that user input is treated as data, not code, and prevents malicious scripts from being executed.
 
-> Tags: Accessibility, HTML, Screen Readers, Web Development, Beginner
-
-> Type: open
-
-> Difficulty: Beginner
+> By following these best practices, developers can significantly reduce the risk of XSS and SQL injection attacks.
 
 <br>
 
