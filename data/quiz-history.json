@@ -1112,19 +1112,17 @@
     "createdAt": "2026-07-01T13:02:20.878Z"
   },
   {
-    "answer": "A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.\nIt typically includes a set of principles, patterns, and standards that guide the design and development process.\nDesign systems can be implemented using various tools and technologies, such as style guides, component libraries, and design systems platforms.\nThey help to improve collaboration, reduce design debt, and increase the speed of development.\nDesign systems can be applied to various aspects of a product, including user interface, user experience, and interaction design.\nBy implementing a design system, organizations can achieve a consistent and cohesive visual identity across their products and services.",
+    "answer": "To improve frontend performance, consider the following best practices:\n1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.\n2. Use a Content Delivery Network (CDN) to reduce latency and improve page load times.\n3. Optimize images by compressing them without sacrificing quality.\n4. Leverage browser caching to store frequently-used resources locally.\n5. Use lazy loading to delay loading non-essential resources until they are needed.",
     "difficulty": "intermediate",
-    "question": "What is a design system and how does it benefit an organization?",
+    "question": "What are some key strategies for improving frontend performance in a web application?",
     "tags": [
-      "design systems",
-      "user experience",
-      "user interface",
-      "collaboration",
-      "consistency"
+      "frontend-performance",
+      "optimization",
+      "best-practices"
     ],
-    "theme": "Design Systems",
+    "theme": "Frontend Performance",
     "type": "open",
     "id": "20260702",
-    "createdAt": "2026-07-02T00:55:43.031Z"
+    "createdAt": "2026-07-02T12:43:33.429Z"
   }
 ]

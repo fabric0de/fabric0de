@@ -2,21 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260702 - What is a design system and how does it benefit an organization?
+## 20260702 - What are some key strategies for improving frontend performance in a web application?
 
-theme: **Design Systems** • difficulty: **intermediate** • `design systems` `user experience` `user interface` `collaboration` `consistency`
+theme: **Frontend Performance** • difficulty: **intermediate** • `frontend-performance` `optimization` `best-practices`
 
-> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
+> To improve frontend performance, consider the following best practices:
 
-> It typically includes a set of principles, patterns, and standards that guide the design and development process.
+> 1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.
 
-> Design systems can be implemented using various tools and technologies, such as style guides, component libraries, and design systems platforms.
+> 2. Use a Content Delivery Network (CDN) to reduce latency and improve page load times.
 
-> They help to improve collaboration, reduce design debt, and increase the speed of development.
+> 3. Optimize images by compressing them without sacrificing quality.
 
-> Design systems can be applied to various aspects of a product, including user interface, user experience, and interaction design.
+> 4. Leverage browser caching to store frequently-used resources locally.
 
-> By implementing a design system, organizations can achieve a consistent and cohesive visual identity across their products and services.
+> 5. Use lazy loading to delay loading non-essential resources until they are needed.
 
 ---
 
