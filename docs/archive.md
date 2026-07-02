@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260702 - What is a design system and how does it benefit an organization?
+
+theme: **Design Systems** • difficulty: **intermediate** • `design systems` `user experience` `user interface` `collaboration` `consistency`
+
+> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
+
+> It typically includes a set of principles, patterns, and standards that guide the design and development process.
+
+> Design systems can be implemented using various tools and technologies, such as style guides, component libraries, and design systems platforms.
+
+> They help to improve collaboration, reduce design debt, and increase the speed of development.
+
+> Design systems can be applied to various aspects of a product, including user interface, user experience, and interaction design.
+
+> By implementing a design system, organizations can achieve a consistent and cohesive visual identity across their products and services.
+
+---
+
 ## 20260701 - What is the primary function of a network switch in a computer network?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `Computer Networks` `Network Devices`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a network switch in a computer network?
+### ❓ What is a design system and how does it benefit an organization?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `Computer Networks` `Network Devices` • 📅 20260701
+🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design systems` `user experience` `user interface` `collaboration` `consistency` • 📅 20260702
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A network switch is a device that connects multiple computers and other devices together within a network. It forwards data packets between them based on their MAC addresses.
+> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
 
-> A network switch is different from a hub in that it can filter and forward data packets, whereas a hub simply broadcasts them to all connected devices.
+> It typically includes a set of principles, patterns, and standards that guide the design and development process.
 
-> This makes network switches more efficient and secure than hubs.
+> Design systems can be implemented using various tools and technologies, such as style guides, component libraries, and design systems platforms.
 
-> They are commonly used in local area networks (LANs) and are an essential component of many computer networks.
+> They help to improve collaboration, reduce design debt, and increase the speed of development.
+
+> Design systems can be applied to various aspects of a product, including user interface, user experience, and interaction design.
+
+> By implementing a design system, organizations can achieve a consistent and cohesive visual identity across their products and services.
 
 <br>
 

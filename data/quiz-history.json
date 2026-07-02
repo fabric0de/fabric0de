@@ -1110,5 +1110,21 @@
     "type": "open",
     "id": "20260701",
     "createdAt": "2026-07-01T13:02:20.878Z"
+  },
+  {
+    "answer": "A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.\nIt typically includes a set of principles, patterns, and standards that guide the design and development process.\nDesign systems can be implemented using various tools and technologies, such as style guides, component libraries, and design systems platforms.\nThey help to improve collaboration, reduce design debt, and increase the speed of development.\nDesign systems can be applied to various aspects of a product, including user interface, user experience, and interaction design.\nBy implementing a design system, organizations can achieve a consistent and cohesive visual identity across their products and services.",
+    "difficulty": "intermediate",
+    "question": "What is a design system and how does it benefit an organization?",
+    "tags": [
+      "design systems",
+      "user experience",
+      "user interface",
+      "collaboration",
+      "consistency"
+    ],
+    "theme": "Design Systems",
+    "type": "open",
+    "id": "20260702",
+    "createdAt": "2026-07-02T00:55:43.031Z"
   }
 ]
