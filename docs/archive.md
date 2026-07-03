@@ -2,6 +2,30 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260703 - What are the key characteristics of a distributed system?
+
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking`
+
+> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. Each computer in the system can fail independently without affecting the overall system's functionality.
+
+> In a distributed system, the following characteristics are typically present:
+
+> - Location transparency: The system hides the location of resources from the user.
+
+> - Failure transparency: The system hides the failure of individual components from the user.
+
+> - Heterogeneity: The system can consist of different types of hardware and software components.
+
+> - Scalability: The system can be scaled up or down to meet changing demands.
+
+> - Autonomy: Each component in the system operates independently.
+
+> - Weak consistency: The system does not guarantee strong consistency across all components.
+
+> Examples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.
+
+---
+
 ## 20260702 - What are some key strategies for improving frontend performance in a web application?
 
 theme: **Frontend Performance** • difficulty: **intermediate** • `frontend-performance` `optimization` `best-practices`

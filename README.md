@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key strategies for improving frontend performance in a web application?
+### ❓ What are the key characteristics of a distributed system?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend-performance` `optimization` `best-practices` • 📅 20260702
+🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `computer science` `networking` • 📅 20260703
 
 </div>
 
@@ -46,17 +46,23 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, consider the following best practices:
+> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. Each computer in the system can fail independently without affecting the overall system's functionality.
 
-> 1. Minify and compress JavaScript and CSS files using tools like Gzip or Brotli.
+> In a distributed system, the following characteristics are typically present:
 
-> 2. Use a Content Delivery Network (CDN) to reduce latency and improve page load times.
+> - Location transparency: The system hides the location of resources from the user.
 
-> 3. Optimize images by compressing them without sacrificing quality.
+> - Failure transparency: The system hides the failure of individual components from the user.
 
-> 4. Leverage browser caching to store frequently-used resources locally.
+> - Heterogeneity: The system can consist of different types of hardware and software components.
 
-> 5. Use lazy loading to delay loading non-essential resources until they are needed.
+> - Scalability: The system can be scaled up or down to meet changing demands.
+
+> - Autonomy: Each component in the system operates independently.
+
+> - Weak consistency: The system does not guarantee strong consistency across all components.
+
+> Examples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.
 
 <br>
 
