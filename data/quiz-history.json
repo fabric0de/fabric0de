@@ -1126,17 +1126,18 @@
     "createdAt": "2026-07-02T12:43:33.429Z"
   },
   {
-    "answer": "A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. Each computer in the system can fail independently without affecting the overall system's functionality.\n\nIn a distributed system, the following characteristics are typically present:\n- Location transparency: The system hides the location of resources from the user.\n- Failure transparency: The system hides the failure of individual components from the user.\n- Heterogeneity: The system can consist of different types of hardware and software components.\n- Scalability: The system can be scaled up or down to meet changing demands.\n- Autonomy: Each component in the system operates independently.\n- Weak consistency: The system does not guarantee strong consistency across all components.\n\nExamples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.",
+    "answer": "What is the main difference between a message queue and a message broker in the context of message queues?",
     "difficulty": "intermediate",
-    "question": "What are the key characteristics of a distributed system?",
+    "question": "In the context of message queues, a message queue is often used in conjunction with a message broker. What is the main difference between these two concepts, and how do they work together?",
     "tags": [
-      "distributed systems",
-      "computer science",
-      "networking"
+      "message-queues",
+      "message-broker",
+      "distributed-systems",
+      "concurrency"
     ],
-    "theme": "Distributed Systems",
+    "theme": "Message Queues",
     "type": "open",
     "id": "20260703",
-    "createdAt": "2026-07-03T00:44:45.478Z"
+    "createdAt": "2026-07-03T12:42:43.801Z"
   }
 ]

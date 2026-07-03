@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the key characteristics of a distributed system?
+### ❓ In the context of message queues, a message queue is often used in conjunction with a message broker. What is the main difference between these two concepts, and how do they work together?
 
 </div>
 
 <div align="center">
 
-🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `computer science` `networking` • 📅 20260703
+🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `message-queues` `message-broker` `distributed-systems` `concurrency` • 📅 20260703
 
 </div>
 
@@ -46,23 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. Each computer in the system can fail independently without affecting the overall system's functionality.
-
-> In a distributed system, the following characteristics are typically present:
-
-> - Location transparency: The system hides the location of resources from the user.
-
-> - Failure transparency: The system hides the failure of individual components from the user.
-
-> - Heterogeneity: The system can consist of different types of hardware and software components.
-
-> - Scalability: The system can be scaled up or down to meet changing demands.
-
-> - Autonomy: Each component in the system operates independently.
-
-> - Weak consistency: The system does not guarantee strong consistency across all components.
-
-> Examples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.
+> What is the main difference between a message queue and a message broker in the context of message queues?
 
 <br>
 
