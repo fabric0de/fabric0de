@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In the context of message queues, a message queue is often used in conjunction with a message broker. What is the main difference between these two concepts, and how do they work together?
+### ❓ What is a code profiler, and how does it help in optimizing code performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `message-queues` `message-broker` `distributed-systems` `concurrency` • 📅 20260703
+🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `Developer Tools` `Code Profiler` `Performance Optimization` • 📅 20260704
 
 </div>
 
@@ -46,7 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between a message queue and a message broker in the context of message queues?
+> A code profiler is a tool used to measure the performance of a program by analyzing the time it takes to execute different parts of the code.
+
+> It helps developers identify performance bottlenecks and optimize the code for better execution.
+
+> Some popular code profilers include gprof, Valgrind, and Visual Studio Profiler.
+
+> Code profilers can be used in various programming languages, including C, C++, Java, and Python.
+
+> They can be integrated into the development process to improve code quality and performance.
+
+> This helps developers to write more efficient and scalable code.
 
 <br>
 

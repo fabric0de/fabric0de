@@ -1139,5 +1139,19 @@
     "type": "open",
     "id": "20260703",
     "createdAt": "2026-07-03T12:42:43.801Z"
+  },
+  {
+    "answer": "A code profiler is a tool used to measure the performance of a program by analyzing the time it takes to execute different parts of the code.\nIt helps developers identify performance bottlenecks and optimize the code for better execution.\nSome popular code profilers include gprof, Valgrind, and Visual Studio Profiler.\nCode profilers can be used in various programming languages, including C, C++, Java, and Python.\nThey can be integrated into the development process to improve code quality and performance.\nThis helps developers to write more efficient and scalable code.",
+    "difficulty": "intermediate",
+    "question": "What is a code profiler, and how does it help in optimizing code performance?",
+    "tags": [
+      "Developer Tools",
+      "Code Profiler",
+      "Performance Optimization"
+    ],
+    "theme": "Developer Tools",
+    "type": "open",
+    "id": "20260704",
+    "createdAt": "2026-07-04T00:43:23.661Z"
   }
 ]
