@@ -1141,17 +1141,18 @@
     "createdAt": "2026-07-03T12:42:43.801Z"
   },
   {
-    "answer": "A code profiler is a tool used to measure the performance of a program by analyzing the time it takes to execute different parts of the code.\nIt helps developers identify performance bottlenecks and optimize the code for better execution.\nSome popular code profilers include gprof, Valgrind, and Visual Studio Profiler.\nCode profilers can be used in various programming languages, including C, C++, Java, and Python.\nThey can be integrated into the development process to improve code quality and performance.\nThis helps developers to write more efficient and scalable code.",
+    "answer": "In object-oriented programming, what is the main purpose of the 'Factory Method' design pattern in architecture?\nIt provides a way to create objects without specifying the exact class of object that will be created.\nThis allows for more flexibility and extensibility in the design of a system.\nIt is often used in situations where the type of object to be created may vary depending on certain conditions.\nFor example, in a game, the Factory Method pattern could be used to create different types of game objects, such as characters or obstacles.\nThis allows the game to be more flexible and adaptable to different game scenarios.\n\n",
     "difficulty": "intermediate",
-    "question": "What is a code profiler, and how does it help in optimizing code performance?",
+    "question": "What is the main purpose of the 'Factory Method' design pattern in architecture?",
     "tags": [
-      "Developer Tools",
-      "Code Profiler",
-      "Performance Optimization"
+      "Architecture",
+      "Design Patterns",
+      "Object-Oriented Programming",
+      "Software Design"
     ],
-    "theme": "Developer Tools",
+    "theme": "Architecture",
     "type": "open",
     "id": "20260704",
-    "createdAt": "2026-07-04T00:43:23.661Z"
+    "createdAt": "2026-07-04T12:28:55.254Z"
   }
 ]
