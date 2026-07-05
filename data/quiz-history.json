@@ -1156,17 +1156,20 @@
     "createdAt": "2026-07-04T12:28:55.254Z"
   },
   {
-    "answer": "Problem Solving",
+    "answer": "A stack is a data structure that follows the Last-In-First-Out (LIFO) principle, where the last item added to the stack is the first one to be removed.\nIt is commonly implemented using an array or linked list.\nStacks are used in many applications, such as parsing expressions, evaluating postfix notation, and implementing recursive algorithms.\nSome common stack operations include push, pop, and peek.\nStacks are often used in conjunction with queues to implement more complex data structures, such as a deque (double-ended queue).\nStacks are also used in parsing and evaluating mathematical expressions.",
     "difficulty": "intermediate",
-    "question": "What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving, and how do they impact the efficiency of a solution?",
+    "question": "What is a stack data structure, and how is it used in programming?",
     "tags": [
-      "problem_solving",
-      "algorithm_design",
-      "computational_complexity"
+      "Data Structures",
+      "Stacks",
+      "Arrays",
+      "Linked Lists",
+      "Queue",
+      "Deque"
     ],
-    "theme": "Problem Solving",
+    "theme": "Data Structures",
     "type": "open",
     "id": "20260705",
-    "createdAt": "2026-07-05T00:47:34.029Z"
+    "createdAt": "2026-07-05T12:32:54.008Z"
   }
 ]

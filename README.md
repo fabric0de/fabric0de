@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving, and how do they impact the efficiency of a solution?
+### ❓ What is a stack data structure, and how is it used in programming?
 
 </div>
 
 <div align="center">
 
-🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem_solving` `algorithm_design` `computational_complexity` • 📅 20260705
+🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `Data Structures` `Stacks` `Arrays` `Linked Lists` `Queue` `Deque` • 📅 20260705
 
 </div>
 
@@ -46,7 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Problem Solving
+> A stack is a data structure that follows the Last-In-First-Out (LIFO) principle, where the last item added to the stack is the first one to be removed.
+
+> It is commonly implemented using an array or linked list.
+
+> Stacks are used in many applications, such as parsing expressions, evaluating postfix notation, and implementing recursive algorithms.
+
+> Some common stack operations include push, pop, and peek.
+
+> Stacks are often used in conjunction with queues to implement more complex data structures, such as a deque (double-ended queue).
+
+> Stacks are also used in parsing and evaluating mathematical expressions.
 
 <br>
 
