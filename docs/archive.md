@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260705 - What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving, and how do they impact the efficiency of a solution?
+
+theme: **Problem Solving** • difficulty: **intermediate** • `problem_solving` `algorithm_design` `computational_complexity`
+
+> Problem Solving
+
+---
+
 ## 20260704 - What is the main purpose of the 'Factory Method' design pattern in architecture?
 
 theme: **Architecture** • difficulty: **intermediate** • `Architecture` `Design Patterns` `Object-Oriented Programming` `Software Design`

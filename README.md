@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main purpose of the 'Factory Method' design pattern in architecture?
+### ❓ What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving, and how do they impact the efficiency of a solution?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Design Patterns` `Object-Oriented Programming` `Software Design` • 📅 20260704
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem_solving` `algorithm_design` `computational_complexity` • 📅 20260705
 
 </div>
 
@@ -46,17 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In object-oriented programming, what is the main purpose of the 'Factory Method' design pattern in architecture?
-
-> It provides a way to create objects without specifying the exact class of object that will be created.
-
-> This allows for more flexibility and extensibility in the design of a system.
-
-> It is often used in situations where the type of object to be created may vary depending on certain conditions.
-
-> For example, in a game, the Factory Method pattern could be used to create different types of game objects, such as characters or obstacles.
-
-> This allows the game to be more flexible and adaptable to different game scenarios.
+> Problem Solving
 
 <br>
 

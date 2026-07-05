@@ -1154,5 +1154,19 @@
     "type": "open",
     "id": "20260704",
     "createdAt": "2026-07-04T12:28:55.254Z"
+  },
+  {
+    "answer": "Problem Solving",
+    "difficulty": "intermediate",
+    "question": "What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving, and how do they impact the efficiency of a solution?",
+    "tags": [
+      "problem_solving",
+      "algorithm_design",
+      "computational_complexity"
+    ],
+    "theme": "Problem Solving",
+    "type": "open",
+    "id": "20260705",
+    "createdAt": "2026-07-05T00:47:34.029Z"
   }
 ]
