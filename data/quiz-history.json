@@ -1171,5 +1171,21 @@
     "type": "open",
     "id": "20260705",
     "createdAt": "2026-07-05T12:32:54.008Z"
+  },
+  {
+    "answer": "TypeScript is a statically typed language that compiles to JavaScript.\nIt is designed to help catch type errors early in the development process.\nTypeScript is often used for large-scale JavaScript applications.\nTypeScript supports interfaces, classes, and enums.\nTypeScript can be used with popular frameworks such as React and Angular.\nTypeScript is maintained by Microsoft.",
+    "difficulty": "intermediate",
+    "question": "What is TypeScript and how is it used in development?",
+    "tags": [
+      "typescript",
+      "javascript",
+      "statically-typed",
+      "compilation",
+      "development"
+    ],
+    "theme": "typescript",
+    "type": "open",
+    "id": "20260706",
+    "createdAt": "2026-07-06T00:47:38.151Z"
   }
 ]

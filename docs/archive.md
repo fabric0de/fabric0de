@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260706 - What is TypeScript and how is it used in development?
+
+theme: **typescript** • difficulty: **intermediate** • `typescript` `javascript` `statically-typed` `compilation` `development`
+
+> TypeScript is a statically typed language that compiles to JavaScript.
+
+> It is designed to help catch type errors early in the development process.
+
+> TypeScript is often used for large-scale JavaScript applications.
+
+> TypeScript supports interfaces, classes, and enums.
+
+> TypeScript can be used with popular frameworks such as React and Angular.
+
+> TypeScript is maintained by Microsoft.
+
+---
+
 ## 20260705 - What is a stack data structure, and how is it used in programming?
 
 theme: **Data Structures** • difficulty: **intermediate** • `Data Structures` `Stacks` `Arrays` `Linked Lists` `Queue` `Deque`
