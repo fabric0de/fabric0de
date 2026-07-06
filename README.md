@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is TypeScript and how is it used in development?
+### ❓ How can you iterate over a list in Python and get both the index and value of each item?
 
 </div>
 
 <div align="center">
 
-🗓️ **typescript** • 🟡 **intermediate** • 🏷️ `typescript` `javascript` `statically-typed` `compilation` `development` • 📅 20260706
+🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `list` `iteration` `enumerate` • 📅 20260706
 
 </div>
 
@@ -46,17 +46,25 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> TypeScript is a statically typed language that compiles to JavaScript.
+> In Python, you can use the 'enumerate' function to iterate over a list and get both the index and value of each item.
 
-> It is designed to help catch type errors early in the development process.
+> For example:
 
-> TypeScript is often used for large-scale JavaScript applications.
+> for i, value in enumerate([1, 2, 3, 4, 5]):
 
-> TypeScript supports interfaces, classes, and enums.
+> print(f'Index: {i}, Value: {value}')
 
-> TypeScript can be used with popular frameworks such as React and Angular.
+> This will output:
 
-> TypeScript is maintained by Microsoft.
+> Index: 0, Value: 1
+
+> Index: 1, Value: 2
+
+> Index: 2, Value: 3
+
+> Index: 3, Value: 4
+
+> Index: 4, Value: 5
 
 <br>
 
