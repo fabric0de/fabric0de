@@ -1188,18 +1188,17 @@
     "createdAt": "2026-07-06T13:19:41.298Z"
   },
   {
-    "answer": "What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?\nA meta title is a short description of a webpage's content, usually displayed in search engine results pages (SERPs) as the title of the link.\nA meta description is a short summary of a webpage's content, usually displayed in SERPs as a brief description of the link.\nBoth meta titles and descriptions are crucial for SEO as they help search engines understand the content and relevance of a webpage.\nA well-crafted meta title and description can improve click-through rates and increase search engine rankings.\nIn contrast, a poorly written or misleading meta title and description can harm a webpage's credibility and rankings.",
+    "answer": "The main difference between the <header> and <footer> elements in HTML is their purpose.\n<header> is used for introductory content, such as the site's logo, navigation, and search bar.\n<footer> is used for the site's copyright information, disclaimer, and other supplementary content.\nUsing these elements correctly improves the semantic meaning of your HTML document and enhances accessibility.\nThis is an example of using the <header> element:\n\n<header>\n  <h1>Site Name</h1>\n  <nav>\n    <ul>\n      <li><a href='#'>Home</a></li>\n      <li><a href='#'>About</a></li>\n    </ul>\n  </nav>\n</header>\n\nAnd this is an example of using the <footer> element:\n\n<footer>\n  <p>&copy; 2023 Site Name</p>\n  <p>Disclaimer: This site is for informational purposes only.</p>\n</footer>",
     "difficulty": "intermediate",
-    "question": "What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?",
+    "question": "What is the main difference between the <header> and <footer> elements in HTML, and how are they used?",
     "tags": [
-      "SEO",
-      "meta title",
-      "meta description",
-      "search engine rankings"
+      "html",
+      "semantics",
+      "accessibility"
     ],
-    "theme": "SEO",
+    "theme": "HTML Semantics",
     "type": "open",
     "id": "20260707",
-    "createdAt": "2026-07-07T00:47:00.058Z"
+    "createdAt": "2026-07-07T12:53:47.559Z"
   }
 ]

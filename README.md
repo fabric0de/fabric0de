@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?
+### ❓ What is the main difference between the <header> and <footer> elements in HTML, and how are they used?
 
 </div>
 
 <div align="center">
 
-🗓️ **SEO** • 🟡 **intermediate** • 🏷️ `SEO` `meta title` `meta description` `search engine rankings` • 📅 20260707
+🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `accessibility` • 📅 20260707
 
 </div>
 
@@ -46,17 +46,43 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?
+> The main difference between the <header> and <footer> elements in HTML is their purpose.
 
-> A meta title is a short description of a webpage's content, usually displayed in search engine results pages (SERPs) as the title of the link.
+> <header> is used for introductory content, such as the site's logo, navigation, and search bar.
 
-> A meta description is a short summary of a webpage's content, usually displayed in SERPs as a brief description of the link.
+> <footer> is used for the site's copyright information, disclaimer, and other supplementary content.
 
-> Both meta titles and descriptions are crucial for SEO as they help search engines understand the content and relevance of a webpage.
+> Using these elements correctly improves the semantic meaning of your HTML document and enhances accessibility.
 
-> A well-crafted meta title and description can improve click-through rates and increase search engine rankings.
+> This is an example of using the <header> element:
 
-> In contrast, a poorly written or misleading meta title and description can harm a webpage's credibility and rankings.
+> <header>
+
+> <h1>Site Name</h1>
+
+> <nav>
+
+> <ul>
+
+> <li><a href='#'>Home</a></li>
+
+> <li><a href='#'>About</a></li>
+
+> </ul>
+
+> </nav>
+
+> </header>
+
+> And this is an example of using the <footer> element:
+
+> <footer>
+
+> <p>&copy; 2023 Site Name</p>
+
+> <p>Disclaimer: This site is for informational purposes only.</p>
+
+> </footer>
 
 <br>
 
