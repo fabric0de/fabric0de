@@ -1186,5 +1186,20 @@
     "type": "open",
     "id": "20260706",
     "createdAt": "2026-07-06T13:19:41.298Z"
+  },
+  {
+    "answer": "What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?\nA meta title is a short description of a webpage's content, usually displayed in search engine results pages (SERPs) as the title of the link.\nA meta description is a short summary of a webpage's content, usually displayed in SERPs as a brief description of the link.\nBoth meta titles and descriptions are crucial for SEO as they help search engines understand the content and relevance of a webpage.\nA well-crafted meta title and description can improve click-through rates and increase search engine rankings.\nIn contrast, a poorly written or misleading meta title and description can harm a webpage's credibility and rankings.",
+    "difficulty": "intermediate",
+    "question": "What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?",
+    "tags": [
+      "SEO",
+      "meta title",
+      "meta description",
+      "search engine rankings"
+    ],
+    "theme": "SEO",
+    "type": "open",
+    "id": "20260707",
+    "createdAt": "2026-07-07T00:47:00.058Z"
   }
 ]

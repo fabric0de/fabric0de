@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260707 - What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?
+
+theme: **SEO** • difficulty: **intermediate** • `SEO` `meta title` `meta description` `search engine rankings`
+
+> What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?
+
+> A meta title is a short description of a webpage's content, usually displayed in search engine results pages (SERPs) as the title of the link.
+
+> A meta description is a short summary of a webpage's content, usually displayed in SERPs as a brief description of the link.
+
+> Both meta titles and descriptions are crucial for SEO as they help search engines understand the content and relevance of a webpage.
+
+> A well-crafted meta title and description can improve click-through rates and increase search engine rankings.
+
+> In contrast, a poorly written or misleading meta title and description can harm a webpage's credibility and rankings.
+
+---
+
 ## 20260706 - How can you iterate over a list in Python and get both the index and value of each item?
 
 theme: **Python** • difficulty: **intermediate** • `python` `list` `iteration` `enumerate`

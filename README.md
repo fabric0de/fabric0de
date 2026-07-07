@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you iterate over a list in Python and get both the index and value of each item?
+### ❓ What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?
 
 </div>
 
 <div align="center">
 
-🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `list` `iteration` `enumerate` • 📅 20260706
+🗓️ **SEO** • 🟡 **intermediate** • 🏷️ `SEO` `meta title` `meta description` `search engine rankings` • 📅 20260707
 
 </div>
 
@@ -46,25 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Python, you can use the 'enumerate' function to iterate over a list and get both the index and value of each item.
+> What is the difference between a meta title and a meta description in SEO, and how do they impact search engine rankings?
 
-> For example:
+> A meta title is a short description of a webpage's content, usually displayed in search engine results pages (SERPs) as the title of the link.
 
-> for i, value in enumerate([1, 2, 3, 4, 5]):
+> A meta description is a short summary of a webpage's content, usually displayed in SERPs as a brief description of the link.
 
-> print(f'Index: {i}, Value: {value}')
+> Both meta titles and descriptions are crucial for SEO as they help search engines understand the content and relevance of a webpage.
 
-> This will output:
+> A well-crafted meta title and description can improve click-through rates and increase search engine rankings.
 
-> Index: 0, Value: 1
-
-> Index: 1, Value: 2
-
-> Index: 2, Value: 3
-
-> Index: 3, Value: 4
-
-> Index: 4, Value: 5
+> In contrast, a poorly written or misleading meta title and description can harm a webpage's credibility and rankings.
 
 <br>
 
