@@ -1202,17 +1202,19 @@
     "createdAt": "2026-07-07T12:53:47.559Z"
   },
   {
-    "answer": "HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary to fulfill the request, and the server does not retain any information about the client between requests.\n\nThis is in contrast to a stateful protocol, where the server retains information about the client's previous interactions.\n\nHTTP's statelessness allows for greater scalability and flexibility in web applications, as servers can handle multiple requests concurrently without worrying about maintaining session state.",
+    "answer": "Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location, such as memory or a cache layer. This allows the system to retrieve the data more quickly, reducing the load on the main storage and improving overall efficiency.\n\nTypes of caching include:\n- Memory caching: storing data in RAM for fast access\n- Disk caching: storing data on a disk for faster access than main storage\n- Cache invalidation: ensuring that cached data remains up-to-date and accurate\n\nCaching is commonly used in web applications, databases, and other systems where data is frequently accessed and retrieved.",
     "difficulty": "intermediate",
-    "question": "What is a key characteristic of the HTTP protocol?",
+    "question": "What is caching, and how does it improve system performance?",
     "tags": [
-      "http",
-      "networking",
-      "web-development"
+      "caching",
+      "performance",
+      "memory",
+      "disk",
+      "cache invalidation"
     ],
-    "theme": "HTTP",
+    "theme": "Caching",
     "type": "open",
     "id": "20260708",
-    "createdAt": "2026-07-08T00:39:12.607Z"
+    "createdAt": "2026-07-08T12:38:34.789Z"
   }
 ]

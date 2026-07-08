@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a key characteristic of the HTTP protocol?
+### ❓ What is caching, and how does it improve system performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `networking` `web-development` • 📅 20260708
+🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `performance` `memory` `disk` `cache invalidation` • 📅 20260708
 
 </div>
 
@@ -46,11 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary to fulfill the request, and the server does not retain any information about the client between requests.
+> Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location, such as memory or a cache layer. This allows the system to retrieve the data more quickly, reducing the load on the main storage and improving overall efficiency.
 
-> This is in contrast to a stateful protocol, where the server retains information about the client's previous interactions.
+> Types of caching include:
 
-> HTTP's statelessness allows for greater scalability and flexibility in web applications, as servers can handle multiple requests concurrently without worrying about maintaining session state.
+> - Memory caching: storing data in RAM for fast access
+
+> - Disk caching: storing data on a disk for faster access than main storage
+
+> - Cache invalidation: ensuring that cached data remains up-to-date and accurate
+
+> Caching is commonly used in web applications, databases, and other systems where data is frequently accessed and retrieved.
 
 <br>
 
