@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260708 - What is a key characteristic of the HTTP protocol?
+
+theme: **HTTP** • difficulty: **intermediate** • `http` `networking` `web-development`
+
+> HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary to fulfill the request, and the server does not retain any information about the client between requests.
+
+> This is in contrast to a stateful protocol, where the server retains information about the client's previous interactions.
+
+> HTTP's statelessness allows for greater scalability and flexibility in web applications, as servers can handle multiple requests concurrently without worrying about maintaining session state.
+
+---
+
 ## 20260707 - What is the main difference between the <header> and <footer> elements in HTML, and how are they used?
 
 theme: **HTML Semantics** • difficulty: **intermediate** • `html` `semantics` `accessibility`

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between the <header> and <footer> elements in HTML, and how are they used?
+### ❓ What is a key characteristic of the HTTP protocol?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `accessibility` • 📅 20260707
+🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `networking` `web-development` • 📅 20260708
 
 </div>
 
@@ -46,43 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The main difference between the <header> and <footer> elements in HTML is their purpose.
+> HTTP is a stateless protocol, meaning that each request from a client contains all the information necessary to fulfill the request, and the server does not retain any information about the client between requests.
 
-> <header> is used for introductory content, such as the site's logo, navigation, and search bar.
+> This is in contrast to a stateful protocol, where the server retains information about the client's previous interactions.
 
-> <footer> is used for the site's copyright information, disclaimer, and other supplementary content.
-
-> Using these elements correctly improves the semantic meaning of your HTML document and enhances accessibility.
-
-> This is an example of using the <header> element:
-
-> <header>
-
-> <h1>Site Name</h1>
-
-> <nav>
-
-> <ul>
-
-> <li><a href='#'>Home</a></li>
-
-> <li><a href='#'>About</a></li>
-
-> </ul>
-
-> </nav>
-
-> </header>
-
-> And this is an example of using the <footer> element:
-
-> <footer>
-
-> <p>&copy; 2023 Site Name</p>
-
-> <p>Disclaimer: This site is for informational purposes only.</p>
-
-> </footer>
+> HTTP's statelessness allows for greater scalability and flexibility in web applications, as servers can handle multiple requests concurrently without worrying about maintaining session state.
 
 <br>
 
