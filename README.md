@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is caching, and how does it improve system performance?
+### ❓ What is the primary difference between a 'responsive' and a 'adaptive' design in UI Engineering, and how do they impact user experience?
 
 </div>
 
 <div align="center">
 
-🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `performance` `memory` `disk` `cache invalidation` • 📅 20260708
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `Responsive Design` `Adaptive Design` `User Experience` • 📅 20260709
 
 </div>
 
@@ -46,17 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location, such as memory or a cache layer. This allows the system to retrieve the data more quickly, reducing the load on the main storage and improving overall efficiency.
+> In UI Engineering, what is the primary difference between a 'responsive' and a 'adaptive' design, and how do they impact user experience?
 
-> Types of caching include:
+> A responsive design adjusts its layout based on the screen size and orientation, whereas an adaptive design adjusts its layout based on the device type and screen size.
 
-> - Memory caching: storing data in RAM for fast access
-
-> - Disk caching: storing data on a disk for faster access than main storage
-
-> - Cache invalidation: ensuring that cached data remains up-to-date and accurate
-
-> Caching is commonly used in web applications, databases, and other systems where data is frequently accessed and retrieved.
+> Tags: UI Engineering, Responsive Design, Adaptive Design, User Experience
 
 <br>
 

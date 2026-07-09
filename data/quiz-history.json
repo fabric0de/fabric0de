@@ -1216,5 +1216,20 @@
     "type": "open",
     "id": "20260708",
     "createdAt": "2026-07-08T12:38:34.789Z"
+  },
+  {
+    "answer": "In UI Engineering, what is the primary difference between a 'responsive' and a 'adaptive' design, and how do they impact user experience?\n\nA responsive design adjusts its layout based on the screen size and orientation, whereas an adaptive design adjusts its layout based on the device type and screen size.\n\nTags: UI Engineering, Responsive Design, Adaptive Design, User Experience",
+    "difficulty": "intermediate",
+    "question": "What is the primary difference between a 'responsive' and a 'adaptive' design in UI Engineering, and how do they impact user experience?",
+    "tags": [
+      "UI Engineering",
+      "Responsive Design",
+      "Adaptive Design",
+      "User Experience"
+    ],
+    "theme": "UI Engineering",
+    "type": "open",
+    "id": "20260709",
+    "createdAt": "2026-07-09T00:43:36.282Z"
   }
 ]

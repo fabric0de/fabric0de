@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260709 - What is the primary difference between a 'responsive' and a 'adaptive' design in UI Engineering, and how do they impact user experience?
+
+theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `Responsive Design` `Adaptive Design` `User Experience`
+
+> In UI Engineering, what is the primary difference between a 'responsive' and a 'adaptive' design, and how do they impact user experience?
+
+> A responsive design adjusts its layout based on the screen size and orientation, whereas an adaptive design adjusts its layout based on the device type and screen size.
+
+> Tags: UI Engineering, Responsive Design, Adaptive Design, User Experience
+
+---
+
 ## 20260708 - What is caching, and how does it improve system performance?
 
 theme: **Caching** • difficulty: **intermediate** • `caching` `performance` `memory` `disk` `cache invalidation`
