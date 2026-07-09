@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary difference between a 'responsive' and a 'adaptive' design in UI Engineering, and how do they impact user experience?
+### ❓ What are Media Queries used for in Responsive Design?
 
 </div>
 
 <div align="center">
 
-🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `Responsive Design` `Adaptive Design` `User Experience` • 📅 20260709
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `CSS` `Media Queries` • 📅 20260709
 
 </div>
 
@@ -46,11 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In UI Engineering, what is the primary difference between a 'responsive' and a 'adaptive' design, and how do they impact user experience?
+> Media Queries are used to apply different styles based on the screen size or device type.
 
-> A responsive design adjusts its layout based on the screen size and orientation, whereas an adaptive design adjusts its layout based on the device type and screen size.
+> They are written in the CSS and are used to define different styles for different screen sizes.
 
-> Tags: UI Engineering, Responsive Design, Adaptive Design, User Experience
+> For example:
+
+> @media only screen and (max-width: 768px) {
+
+> /* styles for screens with max-width of 768px */
+
+> }
+
+> This allows the website to adapt to different screen sizes and provide a better user experience.
 
 <br>
 
