@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260710 - What is the purpose of the 'require' function in Node.js, and how is it used to import modules?
+
+theme: **Node.js** • difficulty: **intermediate** • `Node.js` `JavaScript` `Module System`
+
+> In Node.js, the 'require' function is used to import modules. It returns the exports object of the specified module.
+
+> For example:
+
+> const http = require('http');
+
+> const express = require('express');
+
+---
+
 ## 20260709 - What are Media Queries used for in Responsive Design?
 
 theme: **Responsive Design** • difficulty: **intermediate** • `Responsive Design` `CSS` `Media Queries`

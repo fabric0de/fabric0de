@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are Media Queries used for in Responsive Design?
+### ❓ What is the purpose of the 'require' function in Node.js, and how is it used to import modules?
 
 </div>
 
 <div align="center">
 
-🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `CSS` `Media Queries` • 📅 20260709
+🗓️ **Node.js** • 🟡 **intermediate** • 🏷️ `Node.js` `JavaScript` `Module System` • 📅 20260710
 
 </div>
 
@@ -46,19 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Media Queries are used to apply different styles based on the screen size or device type.
-
-> They are written in the CSS and are used to define different styles for different screen sizes.
+> In Node.js, the 'require' function is used to import modules. It returns the exports object of the specified module.
 
 > For example:
 
-> @media only screen and (max-width: 768px) {
+> const http = require('http');
 
-> /* styles for screens with max-width of 768px */
-
-> }
-
-> This allows the website to adapt to different screen sizes and provide a better user experience.
+> const express = require('express');
 
 <br>
 

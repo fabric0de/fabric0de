@@ -1230,5 +1230,19 @@
     "type": "open",
     "id": "20260709",
     "createdAt": "2026-07-09T13:10:13.057Z"
+  },
+  {
+    "answer": "In Node.js, the 'require' function is used to import modules. It returns the exports object of the specified module.\nFor example:\nconst http = require('http');\nconst express = require('express');",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the 'require' function in Node.js, and how is it used to import modules?",
+    "tags": [
+      "Node.js",
+      "JavaScript",
+      "Module System"
+    ],
+    "theme": "Node.js",
+    "type": "open",
+    "id": "20260710",
+    "createdAt": "2026-07-10T00:44:11.207Z"
   }
 ]
