@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the 'require' function in Node.js, and how is it used to import modules?
+### ❓ What is the primary advantage of using a Load Balancer in a Cloud Infrastructure setup?
 
 </div>
 
 <div align="center">
 
-🗓️ **Node.js** • 🟡 **intermediate** • 🏷️ `Node.js` `JavaScript` `Module System` • 📅 20260710
+🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `Cloud Infrastructure` `Load Balancer` `High Availability` • 📅 20260711
 
 </div>
 
@@ -46,13 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Node.js, the 'require' function is used to import modules. It returns the exports object of the specified module.
+> What is the primary advantage of using a Load Balancer in a Cloud Infrastructure setup?
 
-> For example:
+> A Load Balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
 
-> const http = require('http');
+> This is achieved by routing traffic to the server with the available resources, reducing the risk of a single point of failure.
 
-> const express = require('express');
+> Load Balancers are particularly useful in cloud environments where resources can be easily scaled up or down.
+
+> They help to ensure high availability and improve the overall user experience.
 
 <br>
 

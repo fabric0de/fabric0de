@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260711 - What is the primary advantage of using a Load Balancer in a Cloud Infrastructure setup?
+
+theme: **Cloud Infrastructure** • difficulty: **intermediate** • `Cloud Infrastructure` `Load Balancer` `High Availability`
+
+> What is the primary advantage of using a Load Balancer in a Cloud Infrastructure setup?
+
+> A Load Balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
+
+> This is achieved by routing traffic to the server with the available resources, reducing the risk of a single point of failure.
+
+> Load Balancers are particularly useful in cloud environments where resources can be easily scaled up or down.
+
+> They help to ensure high availability and improve the overall user experience.
+
+---
+
 ## 20260710 - What is the purpose of the 'require' function in Node.js, and how is it used to import modules?
 
 theme: **Node.js** • difficulty: **intermediate** • `Node.js` `JavaScript` `Module System`
