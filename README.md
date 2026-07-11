@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary advantage of using a Load Balancer in a Cloud Infrastructure setup?
+### ❓ What is the primary purpose of a Distributed Tracing system in Observability?
 
 </div>
 
 <div align="center">
 
-🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `Cloud Infrastructure` `Load Balancer` `High Availability` • 📅 20260711
+🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `observability` `distributed tracing` `microservices` `performance optimization` • 📅 20260711
 
 </div>
 
@@ -46,15 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary advantage of using a Load Balancer in a Cloud Infrastructure setup?
+> What is the primary purpose of a Distributed Tracing system in Observability?
 
-> A Load Balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
+> A Distributed Tracing system is used to track the flow of a request as it traverses through multiple services in a microservices architecture.
 
-> This is achieved by routing traffic to the server with the available resources, reducing the risk of a single point of failure.
+> This allows developers to identify performance bottlenecks, understand the flow of data, and debug issues across different services.
 
-> Load Balancers are particularly useful in cloud environments where resources can be easily scaled up or down.
-
-> They help to ensure high availability and improve the overall user experience.
+> It is typically implemented using a tracing library or agent that injects a unique identifier into each request, which is then propagated across services and collected by a tracing system for analysis.
 
 <br>
 
