@@ -1259,5 +1259,19 @@
     "type": "open",
     "id": "20260711",
     "createdAt": "2026-07-11T12:22:03.280Z"
+  },
+  {
+    "answer": "A data structure is an organized way of storing and accessing data in a computer system.\nIt can be thought of as a container that stores multiple values, and allows for efficient retrieval and manipulation of those values.\nExamples of data structures include arrays, linked lists, stacks, and trees.\nData structures are used in a wide range of applications, including databases, file systems, and web applications.\nThey are a fundamental concept in computer science and are used to improve the efficiency and scalability of software systems.\n",
+    "difficulty": "intermediate",
+    "question": "What is a data structure in computer science, and why is it important?",
+    "tags": [
+      "data structures",
+      "computer science basics",
+      "programming fundamentals"
+    ],
+    "theme": "CS Basics",
+    "type": "open",
+    "id": "20260712",
+    "createdAt": "2026-07-12T00:41:43.707Z"
   }
 ]

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of a Distributed Tracing system in Observability?
+### ❓ What is a data structure in computer science, and why is it important?
 
 </div>
 
 <div align="center">
 
-🗓️ **Observability** • 🟡 **intermediate** • 🏷️ `observability` `distributed tracing` `microservices` `performance optimization` • 📅 20260711
+🗓️ **CS Basics** • 🟡 **intermediate** • 🏷️ `data structures` `computer science basics` `programming fundamentals` • 📅 20260712
 
 </div>
 
@@ -46,13 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary purpose of a Distributed Tracing system in Observability?
+> A data structure is an organized way of storing and accessing data in a computer system.
 
-> A Distributed Tracing system is used to track the flow of a request as it traverses through multiple services in a microservices architecture.
+> It can be thought of as a container that stores multiple values, and allows for efficient retrieval and manipulation of those values.
 
-> This allows developers to identify performance bottlenecks, understand the flow of data, and debug issues across different services.
+> Examples of data structures include arrays, linked lists, stacks, and trees.
 
-> It is typically implemented using a tracing library or agent that injects a unique identifier into each request, which is then propagated across services and collected by a tracing system for analysis.
+> Data structures are used in a wide range of applications, including databases, file systems, and web applications.
+
+> They are a fundamental concept in computer science and are used to improve the efficiency and scalability of software systems.
 
 <br>
 

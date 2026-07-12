@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260712 - What is a data structure in computer science, and why is it important?
+
+theme: **CS Basics** • difficulty: **intermediate** • `data structures` `computer science basics` `programming fundamentals`
+
+> A data structure is an organized way of storing and accessing data in a computer system.
+
+> It can be thought of as a container that stores multiple values, and allows for efficient retrieval and manipulation of those values.
+
+> Examples of data structures include arrays, linked lists, stacks, and trees.
+
+> Data structures are used in a wide range of applications, including databases, file systems, and web applications.
+
+> They are a fundamental concept in computer science and are used to improve the efficiency and scalability of software systems.
+
+---
+
 ## 20260711 - What is the primary purpose of a Distributed Tracing system in Observability?
 
 theme: **Observability** • difficulty: **intermediate** • `observability` `distributed tracing` `microservices` `performance optimization`
