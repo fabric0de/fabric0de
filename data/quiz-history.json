@@ -1261,17 +1261,17 @@
     "createdAt": "2026-07-11T12:22:03.280Z"
   },
   {
-    "answer": "A data structure is an organized way of storing and accessing data in a computer system.\nIt can be thought of as a container that stores multiple values, and allows for efficient retrieval and manipulation of those values.\nExamples of data structures include arrays, linked lists, stacks, and trees.\nData structures are used in a wide range of applications, including databases, file systems, and web applications.\nThey are a fundamental concept in computer science and are used to improve the efficiency and scalability of software systems.\n",
-    "difficulty": "intermediate",
-    "question": "What is a data structure in computer science, and why is it important?",
+    "answer": "A bubble sort algorithm works by repeatedly swapping the adjacent elements if they are in wrong order.\nThis process continues until the array is sorted.\n\nExample: [5, 3, 8, 4, 2] -> [2, 3, 4, 5, 8]\n\nTime complexity: O(n^2)\n\nSpace complexity: O(1)\n\nType: Sorting algorithm\n\nDifficulty: Beginner\n\nTags: Algorithms, Sorting, Bubble Sort",
+    "difficulty": "beginner",
+    "question": "What is a bubble sort algorithm, and how does it work?",
     "tags": [
-      "data structures",
-      "computer science basics",
-      "programming fundamentals"
+      "Algorithms",
+      "Sorting",
+      "Bubble Sort"
     ],
-    "theme": "CS Basics",
+    "theme": "Algorithms",
     "type": "open",
     "id": "20260712",
-    "createdAt": "2026-07-12T00:41:43.707Z"
+    "createdAt": "2026-07-12T12:22:13.201Z"
   }
 ]
