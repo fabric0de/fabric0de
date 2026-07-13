@@ -1273,5 +1273,20 @@
     "type": "open",
     "id": "20260712",
     "createdAt": "2026-07-12T12:22:13.201Z"
+  },
+  {
+    "answer": "In Rust, what is the difference between a reference and a pointer, and when would you use each?\n\nA reference in Rust is a reference to a value that is valid for the duration of the scope in which it is used. It is a safe and efficient way to access a value without taking ownership of it.\n\nA pointer in Rust is a raw pointer that directly addresses a memory location. It is used when you need to manually manage memory or when working with low-level operations.\n\nYou would use a reference when you need to access a value without taking ownership of it, such as when passing a value to a function. You would use a pointer when you need to manually manage memory or when working with low-level operations, such as in systems programming.",
+    "difficulty": "intermediate",
+    "question": "In Rust, what is the difference between a reference and a pointer, and when would you use each?",
+    "tags": [
+      "Rust",
+      "References",
+      "Pointers",
+      "Memory Management"
+    ],
+    "theme": "Rust",
+    "type": "open",
+    "id": "20260713",
+    "createdAt": "2026-07-13T00:40:49.521Z"
   }
 ]

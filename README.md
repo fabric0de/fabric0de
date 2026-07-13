@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a bubble sort algorithm, and how does it work?
+### ❓ In Rust, what is the difference between a reference and a pointer, and when would you use each?
 
 </div>
 
 <div align="center">
 
-🗓️ **Algorithms** • 🟢 **beginner** • 🏷️ `Algorithms` `Sorting` `Bubble Sort` • 📅 20260712
+🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `Rust` `References` `Pointers` `Memory Management` • 📅 20260713
 
 </div>
 
@@ -46,21 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A bubble sort algorithm works by repeatedly swapping the adjacent elements if they are in wrong order.
+> In Rust, what is the difference between a reference and a pointer, and when would you use each?
 
-> This process continues until the array is sorted.
+> A reference in Rust is a reference to a value that is valid for the duration of the scope in which it is used. It is a safe and efficient way to access a value without taking ownership of it.
 
-> Example: [5, 3, 8, 4, 2] -> [2, 3, 4, 5, 8]
+> A pointer in Rust is a raw pointer that directly addresses a memory location. It is used when you need to manually manage memory or when working with low-level operations.
 
-> Time complexity: O(n^2)
-
-> Space complexity: O(1)
-
-> Type: Sorting algorithm
-
-> Difficulty: Beginner
-
-> Tags: Algorithms, Sorting, Bubble Sort
+> You would use a reference when you need to access a value without taking ownership of it, such as when passing a value to a function. You would use a pointer when you need to manually manage memory or when working with low-level operations, such as in systems programming.
 
 <br>
 

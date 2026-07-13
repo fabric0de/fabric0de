@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260713 - In Rust, what is the difference between a reference and a pointer, and when would you use each?
+
+theme: **Rust** • difficulty: **intermediate** • `Rust` `References` `Pointers` `Memory Management`
+
+> In Rust, what is the difference between a reference and a pointer, and when would you use each?
+
+> A reference in Rust is a reference to a value that is valid for the duration of the scope in which it is used. It is a safe and efficient way to access a value without taking ownership of it.
+
+> A pointer in Rust is a raw pointer that directly addresses a memory location. It is used when you need to manually manage memory or when working with low-level operations.
+
+> You would use a reference when you need to access a value without taking ownership of it, such as when passing a value to a function. You would use a pointer when you need to manually manage memory or when working with low-level operations, such as in systems programming.
+
+---
+
 ## 20260712 - What is a bubble sort algorithm, and how does it work?
 
 theme: **Algorithms** • difficulty: **beginner** • `Algorithms` `Sorting` `Bubble Sort`
