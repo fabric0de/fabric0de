@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In Rust, what is the difference between a reference and a pointer, and when would you use each?
+### ❓ What is the SQL query to retrieve all records from the customers table where the country is USA?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `Rust` `References` `Pointers` `Memory Management` • 📅 20260713
+🗓️ **SQL** • 🟢 **beginner** • 🏷️ `SQL` `database` `query` • 📅 20260713
 
 </div>
 
@@ -46,13 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Rust, what is the difference between a reference and a pointer, and when would you use each?
+> SELECT * FROM customers WHERE country='USA';
 
-> A reference in Rust is a reference to a value that is valid for the duration of the scope in which it is used. It is a safe and efficient way to access a value without taking ownership of it.
+> This query will return all records from the customers table where the country is USA.
 
-> A pointer in Rust is a raw pointer that directly addresses a memory location. It is used when you need to manually manage memory or when working with low-level operations.
+> It uses the WHERE clause to filter the records based on the condition specified.
 
-> You would use a reference when you need to access a value without taking ownership of it, such as when passing a value to a function. You would use a pointer when you need to manually manage memory or when working with low-level operations, such as in systems programming.
+> This is an example of a basic SQL query that retrieves data from a database table.
 
 <br>
 
