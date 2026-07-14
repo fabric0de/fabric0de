@@ -2,11 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260714 - In rendering, what is the main difference between using 'requestAnimationFrame' and 'setTimeout' to schedule tasks?
+## 20260714 - What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
 
-theme: **Rendering** • difficulty: **intermediate** • `javascript` `rendering` `animation`
+theme: **Accessibility** • difficulty: **beginner** • `Accessibility` `HTML` `Web Development` `Beginner`
 
-> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering?
+> What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
+
+> The 'alt' attribute is used to provide a text description of an image for screen readers and other assistive technologies.
+
+> This improves accessibility by allowing visually impaired users to understand the content of the image.
+
+> It also helps search engines understand the content of the image.
+
+> Tags: Accessibility, HTML, Web Development, Beginner
 
 ---
 

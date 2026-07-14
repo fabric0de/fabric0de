@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In rendering, what is the main difference between using 'requestAnimationFrame' and 'setTimeout' to schedule tasks?
+### ❓ What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `javascript` `rendering` `animation` • 📅 20260714
+🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Web Development` `Beginner` • 📅 20260714
 
 </div>
 
@@ -46,7 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering?
+> What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
+
+> The 'alt' attribute is used to provide a text description of an image for screen readers and other assistive technologies.
+
+> This improves accessibility by allowing visually impaired users to understand the content of the image.
+
+> It also helps search engines understand the content of the image.
+
+> Tags: Accessibility, HTML, Web Development, Beginner
 
 <br>
 
