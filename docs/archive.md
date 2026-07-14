@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260714 - In rendering, what is the main difference between using 'requestAnimationFrame' and 'setTimeout' to schedule tasks?
+
+theme: **Rendering** • difficulty: **intermediate** • `javascript` `rendering` `animation`
+
+> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering?
+
+---
+
 ## 20260713 - What is the SQL query to retrieve all records from the customers table where the country is USA?
 
 theme: **SQL** • difficulty: **beginner** • `SQL` `database` `query`

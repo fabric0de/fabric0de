@@ -1287,5 +1287,19 @@
     "type": "open",
     "id": "20260713",
     "createdAt": "2026-07-13T12:52:55.564Z"
+  },
+  {
+    "answer": "What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering?",
+    "difficulty": "intermediate",
+    "question": "In rendering, what is the main difference between using 'requestAnimationFrame' and 'setTimeout' to schedule tasks?",
+    "tags": [
+      "javascript",
+      "rendering",
+      "animation"
+    ],
+    "theme": "Rendering",
+    "type": "open",
+    "id": "20260714",
+    "createdAt": "2026-07-14T00:35:41.041Z"
   }
 ]

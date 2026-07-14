@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the SQL query to retrieve all records from the customers table where the country is USA?
+### ❓ In rendering, what is the main difference between using 'requestAnimationFrame' and 'setTimeout' to schedule tasks?
 
 </div>
 
 <div align="center">
 
-🗓️ **SQL** • 🟢 **beginner** • 🏷️ `SQL` `database` `query` • 📅 20260713
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `javascript` `rendering` `animation` • 📅 20260714
 
 </div>
 
@@ -46,13 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> SELECT * FROM customers WHERE country='USA';
-
-> This query will return all records from the customers table where the country is USA.
-
-> It uses the WHERE clause to filter the records based on the condition specified.
-
-> This is an example of a basic SQL query that retrieves data from a database table.
+> What is the difference between the 'requestAnimationFrame' and 'setTimeout' functions in rendering?
 
 <br>
 
