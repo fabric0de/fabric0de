@@ -1302,5 +1302,20 @@
     "type": "open",
     "id": "20260714",
     "createdAt": "2026-07-14T12:31:17.320Z"
+  },
+  {
+    "answer": "API Gateways are used to manage and secure APIs by acting as an intermediary between clients and servers. They provide features such as authentication, rate limiting, and API key management.\n\nTypes of API Gateways include:\n- Cloud-based gateways (e.g. AWS API Gateway, Google Cloud Endpoints)\n- On-premises gateways (e.g. NGINX, Apache)\n- Hybrid gateways (combining cloud and on-premises components)",
+    "difficulty": "intermediate",
+    "question": "What is the primary function of an API Gateway, and what types of gateways exist?",
+    "tags": [
+      "API Gateways",
+      "API Management",
+      "Cloud Computing",
+      "Security"
+    ],
+    "theme": "API Gateways",
+    "type": "open",
+    "id": "20260715",
+    "createdAt": "2026-07-15T00:33:04.449Z"
   }
 ]

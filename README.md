@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
+### ❓ What is the primary function of an API Gateway, and what types of gateways exist?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Web Development` `Beginner` • 📅 20260714
+🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `API Management` `Cloud Computing` `Security` • 📅 20260715
 
 </div>
 
@@ -46,15 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
+> API Gateways are used to manage and secure APIs by acting as an intermediary between clients and servers. They provide features such as authentication, rate limiting, and API key management.
 
-> The 'alt' attribute is used to provide a text description of an image for screen readers and other assistive technologies.
+> Types of API Gateways include:
 
-> This improves accessibility by allowing visually impaired users to understand the content of the image.
+> - Cloud-based gateways (e.g. AWS API Gateway, Google Cloud Endpoints)
 
-> It also helps search engines understand the content of the image.
+> - On-premises gateways (e.g. NGINX, Apache)
 
-> Tags: Accessibility, HTML, Web Development, Beginner
+> - Hybrid gateways (combining cloud and on-premises components)
 
 <br>
 

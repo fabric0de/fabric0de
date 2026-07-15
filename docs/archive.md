@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260715 - What is the primary function of an API Gateway, and what types of gateways exist?
+
+theme: **API Gateways** • difficulty: **intermediate** • `API Gateways` `API Management` `Cloud Computing` `Security`
+
+> API Gateways are used to manage and secure APIs by acting as an intermediary between clients and servers. They provide features such as authentication, rate limiting, and API key management.
+
+> Types of API Gateways include:
+
+> - Cloud-based gateways (e.g. AWS API Gateway, Google Cloud Endpoints)
+
+> - On-premises gateways (e.g. NGINX, Apache)
+
+> - Hybrid gateways (combining cloud and on-premises components)
+
+---
+
 ## 20260714 - What is the purpose of the 'alt' attribute in an HTML image tag, and how does it improve accessibility?
 
 theme: **Accessibility** • difficulty: **beginner** • `Accessibility` `HTML` `Web Development` `Beginner`
