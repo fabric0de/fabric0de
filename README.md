@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of an API Gateway, and what types of gateways exist?
+### ❓ What is the main difference between Basic and Digest Authentication in HTTP?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `API Management` `Cloud Computing` `Security` • 📅 20260715
+🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `HTTP` `Security` • 📅 20260715
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> API Gateways are used to manage and secure APIs by acting as an intermediary between clients and servers. They provide features such as authentication, rate limiting, and API key management.
+> What is the main difference between Basic and Digest Authentication in HTTP?
 
-> Types of API Gateways include:
+> Basic Authentication sends credentials in plain text, while Digest Authentication sends a hashed version of the credentials.
 
-> - Cloud-based gateways (e.g. AWS API Gateway, Google Cloud Endpoints)
+> Basic Authentication is less secure but easier to implement, whereas Digest Authentication is more secure but more complex to set up.
 
-> - On-premises gateways (e.g. NGINX, Apache)
+> Basic Authentication is often used for simple applications, whereas Digest Authentication is used for more secure applications.
 
-> - Hybrid gateways (combining cloud and on-premises components)
+> Digest Authentication is more suitable for applications that require higher security, such as banking or e-commerce websites.
+
+> In general, Basic Authentication is used for development or testing purposes, while Digest Authentication is used for production environments.
 
 <br>
 
