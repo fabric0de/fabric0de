@@ -1316,5 +1316,20 @@
     "type": "open",
     "id": "20260715",
     "createdAt": "2026-07-15T12:32:50.985Z"
+  },
+  {
+    "answer": "You can use the CSS `:hover` pseudo-class to apply styles when an element is hovered over.\nFor example:\n\na:hover {\n  color: red;\n}\n\nThis will change the color of the link to red when it is hovered over.\n\nYou can also use the `:hover` pseudo-class on other elements, such as buttons or images.\n\nFor example:\n\nbutton:hover {\n  background-color: blue;\n}\n\nThis will change the background color of the button to blue when it is hovered over.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the CSS :hover pseudo-class, and how is it used?",
+    "tags": [
+      "css",
+      "pseudo-class",
+      "hover",
+      "styling"
+    ],
+    "theme": "css",
+    "type": "open",
+    "id": "20260716",
+    "createdAt": "2026-07-16T00:36:51.552Z"
   }
 ]

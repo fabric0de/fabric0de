@@ -2,6 +2,36 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260716 - What is the purpose of the CSS :hover pseudo-class, and how is it used?
+
+theme: **css** • difficulty: **intermediate** • `css` `pseudo-class` `hover` `styling`
+
+> You can use the CSS `:hover` pseudo-class to apply styles when an element is hovered over.
+
+> For example:
+
+> a:hover {
+
+> color: red;
+
+> }
+
+> This will change the color of the link to red when it is hovered over.
+
+> You can also use the `:hover` pseudo-class on other elements, such as buttons or images.
+
+> For example:
+
+> button:hover {
+
+> background-color: blue;
+
+> }
+
+> This will change the background color of the button to blue when it is hovered over.
+
+---
+
 ## 20260715 - What is the main difference between Basic and Digest Authentication in HTTP?
 
 theme: **Authentication** • difficulty: **intermediate** • `Authentication` `HTTP` `Security`

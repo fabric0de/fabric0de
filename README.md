@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between Basic and Digest Authentication in HTTP?
+### ❓ What is the purpose of the CSS :hover pseudo-class, and how is it used?
 
 </div>
 
 <div align="center">
 
-🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `HTTP` `Security` • 📅 20260715
+🗓️ **css** • 🟡 **intermediate** • 🏷️ `css` `pseudo-class` `hover` `styling` • 📅 20260716
 
 </div>
 
@@ -46,17 +46,29 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between Basic and Digest Authentication in HTTP?
+> You can use the CSS `:hover` pseudo-class to apply styles when an element is hovered over.
 
-> Basic Authentication sends credentials in plain text, while Digest Authentication sends a hashed version of the credentials.
+> For example:
 
-> Basic Authentication is less secure but easier to implement, whereas Digest Authentication is more secure but more complex to set up.
+> a:hover {
 
-> Basic Authentication is often used for simple applications, whereas Digest Authentication is used for more secure applications.
+> color: red;
 
-> Digest Authentication is more suitable for applications that require higher security, such as banking or e-commerce websites.
+> }
 
-> In general, Basic Authentication is used for development or testing purposes, while Digest Authentication is used for production environments.
+> This will change the color of the link to red when it is hovered over.
+
+> You can also use the `:hover` pseudo-class on other elements, such as buttons or images.
+
+> For example:
+
+> button:hover {
+
+> background-color: blue;
+
+> }
+
+> This will change the background color of the button to blue when it is hovered over.
 
 <br>
 
