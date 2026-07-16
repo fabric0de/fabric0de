@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the CSS :hover pseudo-class, and how is it used?
+### ❓ What is UI Engineering, and what are some of its key aspects?
 
 </div>
 
 <div align="center">
 
-🗓️ **css** • 🟡 **intermediate** • 🏷️ `css` `pseudo-class` `hover` `styling` • 📅 20260716
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `User Experience` `User Interface` `Front-end development` `Accessibility` `Responsiveness` `Performance optimization` • 📅 20260716
 
 </div>
 
@@ -46,29 +46,21 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> You can use the CSS `:hover` pseudo-class to apply styles when an element is hovered over.
+> UI Engineering is the process of designing and implementing the user interface of a software application. It involves creating a visually appealing and user-friendly interface that meets the needs of the end-user.
 
-> For example:
+> Some key aspects of UI Engineering include:
 
-> a:hover {
+> - User Experience (UX) design
 
-> color: red;
+> - User Interface (UI) design
 
-> }
+> - Front-end development
 
-> This will change the color of the link to red when it is hovered over.
+> - Accessibility
 
-> You can also use the `:hover` pseudo-class on other elements, such as buttons or images.
+> - Responsiveness
 
-> For example:
-
-> button:hover {
-
-> background-color: blue;
-
-> }
-
-> This will change the background color of the button to blue when it is hovered over.
+> - Performance optimization
 
 <br>
 
