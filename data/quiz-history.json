@@ -1336,17 +1336,17 @@
     "createdAt": "2026-07-16T12:37:22.939Z"
   },
   {
-    "answer": "A system design pattern that involves breaking down a complex system into smaller, independent components, each responsible for a specific task, is called a Microservices Architecture.\nThis approach allows for greater flexibility, scalability, and fault tolerance.\nHowever, it also introduces additional complexity and challenges in terms of communication and data management.\nTo mitigate these challenges, a service discovery mechanism can be implemented to enable services to find and communicate with each other.\nThis can be achieved using a registry like etcd or ZooKeeper.\nService discovery allows services to register themselves and their endpoints, making it easier for other services to find and communicate with them.",
+    "answer": "A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. \nIn a distributed system, each computer, or node, can operate independently, but they can also communicate with each other to achieve a common goal.\n\n",
     "difficulty": "intermediate",
-    "question": "What is a key system design pattern that involves breaking down a complex system into smaller, independent components, and how can it be implemented?",
+    "question": "What is a distributed system, and how do its nodes interact with each other?",
     "tags": [
-      "system design",
-      "microservices",
-      "service discovery"
+      "distributed systems",
+      "computer science",
+      "networking"
     ],
-    "theme": "System Design",
+    "theme": "distributed systems",
     "type": "open",
     "id": "20260717",
-    "createdAt": "2026-07-17T00:38:54.692Z"
+    "createdAt": "2026-07-17T12:30:22.834Z"
   }
 ]

@@ -2,21 +2,13 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260717 - What is a key system design pattern that involves breaking down a complex system into smaller, independent components, and how can it be implemented?
+## 20260717 - What is a distributed system, and how do its nodes interact with each other?
 
-theme: **System Design** • difficulty: **intermediate** • `system design` `microservices` `service discovery`
+theme: **distributed systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking`
 
-> A system design pattern that involves breaking down a complex system into smaller, independent components, each responsible for a specific task, is called a Microservices Architecture.
+> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user.
 
-> This approach allows for greater flexibility, scalability, and fault tolerance.
-
-> However, it also introduces additional complexity and challenges in terms of communication and data management.
-
-> To mitigate these challenges, a service discovery mechanism can be implemented to enable services to find and communicate with each other.
-
-> This can be achieved using a registry like etcd or ZooKeeper.
-
-> Service discovery allows services to register themselves and their endpoints, making it easier for other services to find and communicate with them.
+> In a distributed system, each computer, or node, can operate independently, but they can also communicate with each other to achieve a common goal.
 
 ---
 
