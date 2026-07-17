@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is UI Engineering, and what are some of its key aspects?
+### ❓ What is a key system design pattern that involves breaking down a complex system into smaller, independent components, and how can it be implemented?
 
 </div>
 
 <div align="center">
 
-🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `User Experience` `User Interface` `Front-end development` `Accessibility` `Responsiveness` `Performance optimization` • 📅 20260716
+🗓️ **System Design** • 🟡 **intermediate** • 🏷️ `system design` `microservices` `service discovery` • 📅 20260717
 
 </div>
 
@@ -46,21 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> UI Engineering is the process of designing and implementing the user interface of a software application. It involves creating a visually appealing and user-friendly interface that meets the needs of the end-user.
+> A system design pattern that involves breaking down a complex system into smaller, independent components, each responsible for a specific task, is called a Microservices Architecture.
 
-> Some key aspects of UI Engineering include:
+> This approach allows for greater flexibility, scalability, and fault tolerance.
 
-> - User Experience (UX) design
+> However, it also introduces additional complexity and challenges in terms of communication and data management.
 
-> - User Interface (UI) design
+> To mitigate these challenges, a service discovery mechanism can be implemented to enable services to find and communicate with each other.
 
-> - Front-end development
+> This can be achieved using a registry like etcd or ZooKeeper.
 
-> - Accessibility
-
-> - Responsiveness
-
-> - Performance optimization
+> Service discovery allows services to register themselves and their endpoints, making it easier for other services to find and communicate with them.
 
 <br>
 

@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260717 - What is a key system design pattern that involves breaking down a complex system into smaller, independent components, and how can it be implemented?
+
+theme: **System Design** • difficulty: **intermediate** • `system design` `microservices` `service discovery`
+
+> A system design pattern that involves breaking down a complex system into smaller, independent components, each responsible for a specific task, is called a Microservices Architecture.
+
+> This approach allows for greater flexibility, scalability, and fault tolerance.
+
+> However, it also introduces additional complexity and challenges in terms of communication and data management.
+
+> To mitigate these challenges, a service discovery mechanism can be implemented to enable services to find and communicate with each other.
+
+> This can be achieved using a registry like etcd or ZooKeeper.
+
+> Service discovery allows services to register themselves and their endpoints, making it easier for other services to find and communicate with them.
+
+---
+
 ## 20260716 - What is UI Engineering, and what are some of its key aspects?
 
 theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `User Experience` `User Interface` `Front-end development` `Accessibility` `Responsiveness` `Performance optimization`
