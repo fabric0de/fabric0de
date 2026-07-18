@@ -1348,5 +1348,20 @@
     "type": "open",
     "id": "20260717",
     "createdAt": "2026-07-17T12:30:22.834Z"
+  },
+  {
+    "answer": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of tools for debugging, inspecting, and optimizing web pages.\n\nSome of the key features of Chrome DevTools include:\n- A DOM inspector for examining and modifying the structure of a web page\n- A console for logging errors and debugging messages\n- A debugger for stepping through JavaScript code\n- A performance profiler for analyzing the performance of a web page",
+    "difficulty": "intermediate",
+    "question": "What is Chrome DevTools, and what are some of its key features?",
+    "tags": [
+      "Developer Tools",
+      "Chrome DevTools",
+      "Web Development",
+      "Debugging"
+    ],
+    "theme": "Developer Tools",
+    "type": "open",
+    "id": "20260718",
+    "createdAt": "2026-07-18T00:35:32.247Z"
   }
 ]

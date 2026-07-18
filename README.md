@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a distributed system, and how do its nodes interact with each other?
+### ❓ What is Chrome DevTools, and what are some of its key features?
 
 </div>
 
 <div align="center">
 
-🗓️ **distributed systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `computer science` `networking` • 📅 20260717
+🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `Developer Tools` `Chrome DevTools` `Web Development` `Debugging` • 📅 20260718
 
 </div>
 
@@ -46,9 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user.
+> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of tools for debugging, inspecting, and optimizing web pages.
 
-> In a distributed system, each computer, or node, can operate independently, but they can also communicate with each other to achieve a common goal.
+> Some of the key features of Chrome DevTools include:
+
+> - A DOM inspector for examining and modifying the structure of a web page
+
+> - A console for logging errors and debugging messages
+
+> - A debugger for stepping through JavaScript code
+
+> - A performance profiler for analyzing the performance of a web page
 
 <br>
 

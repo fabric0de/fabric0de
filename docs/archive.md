@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260718 - What is Chrome DevTools, and what are some of its key features?
+
+theme: **Developer Tools** • difficulty: **intermediate** • `Developer Tools` `Chrome DevTools` `Web Development` `Debugging`
+
+> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of tools for debugging, inspecting, and optimizing web pages.
+
+> Some of the key features of Chrome DevTools include:
+
+> - A DOM inspector for examining and modifying the structure of a web page
+
+> - A console for logging errors and debugging messages
+
+> - A debugger for stepping through JavaScript code
+
+> - A performance profiler for analyzing the performance of a web page
+
+---
+
 ## 20260717 - What is a distributed system, and how do its nodes interact with each other?
 
 theme: **distributed systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking`
