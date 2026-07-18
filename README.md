@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Chrome DevTools, and what are some of its key features?
+### ❓ What is the primary purpose of the 'Facade' design pattern in Architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `Developer Tools` `Chrome DevTools` `Web Development` `Debugging` • 📅 20260718
+🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Design Patterns` `Software Design` `Object-Oriented Design` • 📅 20260718
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. It provides a wide range of tools for debugging, inspecting, and optimizing web pages.
+> In Architecture, what is the primary purpose of the 'Facade' design pattern?
 
-> Some of the key features of Chrome DevTools include:
+> The Facade design pattern provides a simplified interface to a complex system, making it easier to use.
 
-> - A DOM inspector for examining and modifying the structure of a web page
+> It hides the complexity of the system and provides a single interface to access the system's functionality.
 
-> - A console for logging errors and debugging messages
+> This pattern is commonly used in architecture to simplify the interaction between subsystems.
 
-> - A debugger for stepping through JavaScript code
+> It improves the usability and maintainability of the system by reducing the number of interfaces that need to be learned and used.
 
-> - A performance profiler for analyzing the performance of a web page
+> It also improves the scalability of the system by allowing new subsystems to be added without affecting the existing interfaces.
 
 <br>
 
