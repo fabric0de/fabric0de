@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of the 'Facade' design pattern in Architecture?
+### ❓ In the context of concurrency, what is the key difference between a thread and a process?
 
 </div>
 
 <div align="center">
 
-🗓️ **Architecture** • 🟡 **intermediate** • 🏷️ `Architecture` `Design Patterns` `Software Design` `Object-Oriented Design` • 📅 20260718
+🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `Concurrency` `Multithreading` `Processes` • 📅 20260719
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Architecture, what is the primary purpose of the 'Facade' design pattern?
+> What is the difference between a thread and a process in the context of concurrency?
 
-> The Facade design pattern provides a simplified interface to a complex system, making it easier to use.
+> A thread is a single flow of execution within a process.
 
-> It hides the complexity of the system and provides a single interface to access the system's functionality.
+> A process is a separate instance of a program that can run concurrently with other processes.
 
-> This pattern is commonly used in architecture to simplify the interaction between subsystems.
+> In concurrency, threads are used to achieve parallelism within a process, while processes are used to achieve true parallelism across multiple instances of a program.
 
-> It improves the usability and maintainability of the system by reducing the number of interfaces that need to be learned and used.
+> This distinction is important because threads share the same memory space, while processes have their own memory space.
 
-> It also improves the scalability of the system by allowing new subsystems to be added without affecting the existing interfaces.
+> This means that threads can communicate with each other more easily than processes.
 
 <br>
 

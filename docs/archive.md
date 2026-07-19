@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260719 - In the context of concurrency, what is the key difference between a thread and a process?
+
+theme: **Concurrency** • difficulty: **intermediate** • `Concurrency` `Multithreading` `Processes`
+
+> What is the difference between a thread and a process in the context of concurrency?
+
+> A thread is a single flow of execution within a process.
+
+> A process is a separate instance of a program that can run concurrently with other processes.
+
+> In concurrency, threads are used to achieve parallelism within a process, while processes are used to achieve true parallelism across multiple instances of a program.
+
+> This distinction is important because threads share the same memory space, while processes have their own memory space.
+
+> This means that threads can communicate with each other more easily than processes.
+
+---
+
 ## 20260718 - What is the primary purpose of the 'Facade' design pattern in Architecture?
 
 theme: **Architecture** • difficulty: **intermediate** • `Architecture` `Design Patterns` `Software Design` `Object-Oriented Design`
