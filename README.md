@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In the context of concurrency, what is the key difference between a thread and a process?
+### ❓ What does the 'O' in Big O notation represent in the context of time complexity?
 
 </div>
 
 <div align="center">
 
-🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `Concurrency` `Multithreading` `Processes` • 📅 20260719
+🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `complexity-analysis` `time-complexity` `big-o-notation` • 📅 20260719
 
 </div>
 
@@ -46,17 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a thread and a process in the context of concurrency?
+> Big O notation is used to describe the time complexity of an algorithm. It is a measure of how long an algorithm takes to complete as the size of the input increases.
 
-> A thread is a single flow of execution within a process.
+> For example, if we have an algorithm that takes 10n^2 time to complete, its time complexity would be O(n^2).
 
-> A process is a separate instance of a program that can run concurrently with other processes.
-
-> In concurrency, threads are used to achieve parallelism within a process, while processes are used to achieve true parallelism across multiple instances of a program.
-
-> This distinction is important because threads share the same memory space, while processes have their own memory space.
-
-> This means that threads can communicate with each other more easily than processes.
+> In this context, what does the 'O' in Big O notation represent?
 
 <br>
 
