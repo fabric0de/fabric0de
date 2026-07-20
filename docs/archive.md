@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260720 - What is the purpose of the 'this' keyword in JavaScript, and how is it used to access properties and methods of an object?
+
+theme: **JavaScript** • difficulty: **intermediate** • `javascript` `this keyword` `execution context`
+
+> In JavaScript, the 'this' keyword refers to the current execution context. It can be used to access properties and methods of the current object.
+
+> For example:
+
+> var person = { name: 'John', age: 30 };
+
+> person.sayHello = function() { console.log('Hello, my name is ' + this.name); };
+
+> person.sayHello();
+
+> This will output: Hello, my name is John.
+
+---
+
 ## 20260719 - What does the 'O' in Big O notation represent in the context of time complexity?
 
 theme: **Complexity Analysis** • difficulty: **intermediate** • `complexity-analysis` `time-complexity` `big-o-notation`

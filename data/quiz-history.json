@@ -1377,5 +1377,19 @@
     "type": "open",
     "id": "20260719",
     "createdAt": "2026-07-19T12:21:30.684Z"
+  },
+  {
+    "answer": "In JavaScript, the 'this' keyword refers to the current execution context. It can be used to access properties and methods of the current object.\nFor example:\nvar person = { name: 'John', age: 30 };\nperson.sayHello = function() { console.log('Hello, my name is ' + this.name); };\nperson.sayHello();\nThis will output: Hello, my name is John.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the 'this' keyword in JavaScript, and how is it used to access properties and methods of an object?",
+    "tags": [
+      "javascript",
+      "this keyword",
+      "execution context"
+    ],
+    "theme": "JavaScript",
+    "type": "open",
+    "id": "20260720",
+    "createdAt": "2026-07-20T00:40:52.832Z"
   }
 ]

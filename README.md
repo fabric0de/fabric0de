@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What does the 'O' in Big O notation represent in the context of time complexity?
+### ❓ What is the purpose of the 'this' keyword in JavaScript, and how is it used to access properties and methods of an object?
 
 </div>
 
 <div align="center">
 
-🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `complexity-analysis` `time-complexity` `big-o-notation` • 📅 20260719
+🗓️ **JavaScript** • 🟡 **intermediate** • 🏷️ `javascript` `this keyword` `execution context` • 📅 20260720
 
 </div>
 
@@ -46,11 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Big O notation is used to describe the time complexity of an algorithm. It is a measure of how long an algorithm takes to complete as the size of the input increases.
+> In JavaScript, the 'this' keyword refers to the current execution context. It can be used to access properties and methods of the current object.
 
-> For example, if we have an algorithm that takes 10n^2 time to complete, its time complexity would be O(n^2).
+> For example:
 
-> In this context, what does the 'O' in Big O notation represent?
+> var person = { name: 'John', age: 30 };
+
+> person.sayHello = function() { console.log('Hello, my name is ' + this.name); };
+
+> person.sayHello();
+
+> This will output: Hello, my name is John.
 
 <br>
 
