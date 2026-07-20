@@ -1379,17 +1379,19 @@
     "createdAt": "2026-07-19T12:21:30.684Z"
   },
   {
-    "answer": "In JavaScript, the 'this' keyword refers to the current execution context. It can be used to access properties and methods of the current object.\nFor example:\nvar person = { name: 'John', age: 30 };\nperson.sayHello = function() { console.log('Hello, my name is ' + this.name); };\nperson.sayHello();\nThis will output: Hello, my name is John.",
+    "answer": "TypeScript is a statically typed language that compiles to JavaScript. It is designed to help developers catch errors early and improve code maintainability.\nTypeScript is often used for large-scale applications due to its ability to handle complex codebases.\nSome of the key features of TypeScript include type annotations, interfaces, and classes.\nTypeScript can be used with popular frameworks such as React and Angular.\nTypeScript is maintained by Microsoft and has a large community of developers who contribute to its development and maintenance.",
     "difficulty": "intermediate",
-    "question": "What is the purpose of the 'this' keyword in JavaScript, and how is it used to access properties and methods of an object?",
+    "question": "What is TypeScript, and what are some of its key features?",
     "tags": [
+      "typescript",
       "javascript",
-      "this keyword",
-      "execution context"
+      "programming languages",
+      "static typing",
+      "compilation"
     ],
-    "theme": "JavaScript",
+    "theme": "TypeScript",
     "type": "open",
     "id": "20260720",
-    "createdAt": "2026-07-20T00:40:52.832Z"
+    "createdAt": "2026-07-20T12:46:51.843Z"
   }
 ]
