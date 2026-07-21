@@ -1393,5 +1393,19 @@
     "type": "open",
     "id": "20260720",
     "createdAt": "2026-07-20T12:46:51.843Z"
+  },
+  {
+    "answer": "The Geolocation API is used to determine the user's location. It provides a way to access the user's geographical location, including their latitude and longitude.\nIt can be accessed through the navigator.geolocation object.\nThis API is commonly used in mapping and location-based applications.\nIt requires the user's permission to access their location.\nIt returns a Position object, which contains the user's coordinates and accuracy.\nIt can be used in conjunction with other APIs, such as the Weather API, to provide location-based services.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of the Geolocation API in a web browser, and how can it be accessed?",
+    "tags": [
+      "Browser APIs",
+      "Geolocation API",
+      "Web Development"
+    ],
+    "theme": "Browser APIs",
+    "type": "open",
+    "id": "20260721",
+    "createdAt": "2026-07-21T00:38:41.501Z"
   }
 ]

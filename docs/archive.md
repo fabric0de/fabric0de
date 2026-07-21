@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260721 - What is the purpose of the Geolocation API in a web browser, and how can it be accessed?
+
+theme: **Browser APIs** • difficulty: **intermediate** • `Browser APIs` `Geolocation API` `Web Development`
+
+> The Geolocation API is used to determine the user's location. It provides a way to access the user's geographical location, including their latitude and longitude.
+
+> It can be accessed through the navigator.geolocation object.
+
+> This API is commonly used in mapping and location-based applications.
+
+> It requires the user's permission to access their location.
+
+> It returns a Position object, which contains the user's coordinates and accuracy.
+
+> It can be used in conjunction with other APIs, such as the Weather API, to provide location-based services.
+
+---
+
 ## 20260720 - What is TypeScript, and what are some of its key features?
 
 theme: **TypeScript** • difficulty: **intermediate** • `typescript` `javascript` `programming languages` `static typing` `compilation`

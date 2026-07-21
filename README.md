@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is TypeScript, and what are some of its key features?
+### ❓ What is the purpose of the Geolocation API in a web browser, and how can it be accessed?
 
 </div>
 
 <div align="center">
 
-🗓️ **TypeScript** • 🟡 **intermediate** • 🏷️ `typescript` `javascript` `programming languages` `static typing` `compilation` • 📅 20260720
+🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Geolocation API` `Web Development` • 📅 20260721
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> TypeScript is a statically typed language that compiles to JavaScript. It is designed to help developers catch errors early and improve code maintainability.
+> The Geolocation API is used to determine the user's location. It provides a way to access the user's geographical location, including their latitude and longitude.
 
-> TypeScript is often used for large-scale applications due to its ability to handle complex codebases.
+> It can be accessed through the navigator.geolocation object.
 
-> Some of the key features of TypeScript include type annotations, interfaces, and classes.
+> This API is commonly used in mapping and location-based applications.
 
-> TypeScript can be used with popular frameworks such as React and Angular.
+> It requires the user's permission to access their location.
 
-> TypeScript is maintained by Microsoft and has a large community of developers who contribute to its development and maintenance.
+> It returns a Position object, which contains the user's coordinates and accuracy.
+
+> It can be used in conjunction with other APIs, such as the Weather API, to provide location-based services.
 
 <br>
 
