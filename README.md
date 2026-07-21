@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the Geolocation API in a web browser, and how can it be accessed?
+### ❓ What is the difference between a 'render' and a 're-render' in a React application?
 
 </div>
 
 <div align="center">
 
-🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Geolocation API` `Web Development` • 📅 20260721
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `React` `Rendering` `Frontend Development` • 📅 20260721
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The Geolocation API is used to determine the user's location. It provides a way to access the user's geographical location, including their latitude and longitude.
+> In rendering, what is the difference between a 'render' and a 're-render' in a React application?
 
-> It can be accessed through the navigator.geolocation object.
+> A 'render' is the initial rendering of a component, while a 're-render' is the re-rendering of a component after a state change.
 
-> This API is commonly used in mapping and location-based applications.
+> This distinction is important because React optimizes rendering by only re-rendering components that have changed.
 
-> It requires the user's permission to access their location.
+> This approach can improve performance by reducing unnecessary re-renders.
 
-> It returns a Position object, which contains the user's coordinates and accuracy.
+> However, it can also lead to unexpected behavior if not handled properly.
 
-> It can be used in conjunction with other APIs, such as the Weather API, to provide location-based services.
+> To avoid this, developers should ensure that their components are designed to handle re-renders correctly.
 
 <br>
 
