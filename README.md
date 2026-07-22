@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary technique used to prevent Cross-Site Scripting (XSS) attacks in web applications?
+### ❓ What is the main difference between TCP and UDP connections in terms of reliability and speed?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `XSS` `Escaping` `Input Validation` • 📅 20260722
+🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `TCP` `UDP` `Reliability` `Speed` • 📅 20260722
 
 </div>
 
@@ -46,21 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To prevent Cross-Site Scripting (XSS) attacks, developers use a technique called
+> What is the difference between a TCP and UDP connection in terms of reliability and speed?
 
-> escaping. This involves encoding special characters in user input to prevent them from being interpreted as code.
+> TCP (Transmission Control Protocol) is a connection-oriented protocol that ensures reliable data transfer by establishing a connection before sending data.
 
-> For example, if a user enters a string containing a '<' character, the escaped version of that string would be '&lt;'.
+> UDP (User Datagram Protocol) is a connectionless protocol that prioritizes speed over reliability, sending data without establishing a connection.
 
-> This prevents an attacker from injecting malicious code into a web page.
-
-> Tags: Web Security, XSS, Escaping, Input Validation
-
-> Difficulty: Intermediate
-
-> Type: Open
-
-> Question: What is the primary technique used to prevent Cross-Site Scripting (XSS) attacks in web applications?
+> This means TCP is more reliable but slower, while UDP is faster but less reliable.
 
 <br>
 
