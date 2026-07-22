@@ -1407,5 +1407,20 @@
     "type": "open",
     "id": "20260721",
     "createdAt": "2026-07-21T12:35:32.540Z"
+  },
+  {
+    "answer": "To prevent Cross-Site Scripting (XSS) attacks, developers use a technique called \n escaping. This involves encoding special characters in user input to prevent them from being interpreted as code.\n For example, if a user enters a string containing a '<' character, the escaped version of that string would be '&lt;'.\n This prevents an attacker from injecting malicious code into a web page.\n Tags: Web Security, XSS, Escaping, Input Validation\n Difficulty: Intermediate\n Type: Open\n Question: What is the primary technique used to prevent Cross-Site Scripting (XSS) attacks in web applications?",
+    "difficulty": "intermediate",
+    "question": "What is the primary technique used to prevent Cross-Site Scripting (XSS) attacks in web applications?",
+    "tags": [
+      "Web Security",
+      "XSS",
+      "Escaping",
+      "Input Validation"
+    ],
+    "theme": "Web Security",
+    "type": "open",
+    "id": "20260722",
+    "createdAt": "2026-07-22T00:37:36.931Z"
   }
 ]

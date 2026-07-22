@@ -2,6 +2,28 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260722 - What is the primary technique used to prevent Cross-Site Scripting (XSS) attacks in web applications?
+
+theme: **Web Security** • difficulty: **intermediate** • `Web Security` `XSS` `Escaping` `Input Validation`
+
+> To prevent Cross-Site Scripting (XSS) attacks, developers use a technique called
+
+> escaping. This involves encoding special characters in user input to prevent them from being interpreted as code.
+
+> For example, if a user enters a string containing a '<' character, the escaped version of that string would be '&lt;'.
+
+> This prevents an attacker from injecting malicious code into a web page.
+
+> Tags: Web Security, XSS, Escaping, Input Validation
+
+> Difficulty: Intermediate
+
+> Type: Open
+
+> Question: What is the primary technique used to prevent Cross-Site Scripting (XSS) attacks in web applications?
+
+---
+
 ## 20260721 - What is the difference between a 'render' and a 're-render' in a React application?
 
 theme: **Rendering** • difficulty: **intermediate** • `React` `Rendering` `Frontend Development`
