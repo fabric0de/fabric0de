@@ -2,21 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260723 - What is the difference between a keyframe animation and a tweening animation in the context of animation?
+## 20260723 - What is a design system, and what are its main components?
 
-theme: **Animation** • difficulty: **intermediate** • `Animation` `Keyframe Animation` `Tweening Animation`
+theme: **Design Systems** • difficulty: **intermediate** • `design-systems` `user-experience` `product-design` `collaboration` `consistency`
 
-> What is the difference between a keyframe animation and a tweening animation in the context of animation?
+> A design system is a collection of reusable components, guidelines, and assets that aim to standardize the visual identity and user experience of a product or application.
 
-> Keyframe animation involves defining specific key points in time where an object's style will change.
+> It typically includes a style guide, component library, and typography system.
 
-> Tweening animation, on the other hand, involves creating intermediate frames between two keyframes.
+> Design systems are used to ensure consistency across different parts of a product and to facilitate collaboration among designers and developers.
 
-> This process is often used to create smooth transitions between different states of an object.
+> They can be implemented using various tools and frameworks, such as Sketch, Figma, or Storybook.
 
-> Keyframe animation is typically used for more complex animations, while tweening is used for simpler animations.
-
-> Tweening can also be used to create more complex animations by combining multiple tweening animations.
+> A well-designed design system can improve the user experience, reduce development time, and increase the overall quality of a product.
 
 ---
 
