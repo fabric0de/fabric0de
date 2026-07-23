@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260723 - What is the difference between a keyframe animation and a tweening animation in the context of animation?
+
+theme: **Animation** • difficulty: **intermediate** • `Animation` `Keyframe Animation` `Tweening Animation`
+
+> What is the difference between a keyframe animation and a tweening animation in the context of animation?
+
+> Keyframe animation involves defining specific key points in time where an object's style will change.
+
+> Tweening animation, on the other hand, involves creating intermediate frames between two keyframes.
+
+> This process is often used to create smooth transitions between different states of an object.
+
+> Keyframe animation is typically used for more complex animations, while tweening is used for simpler animations.
+
+> Tweening can also be used to create more complex animations by combining multiple tweening animations.
+
+---
+
 ## 20260722 - What is the main difference between TCP and UDP connections in terms of reliability and speed?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `TCP` `UDP` `Reliability` `Speed`

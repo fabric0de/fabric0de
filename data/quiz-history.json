@@ -1423,5 +1423,19 @@
     "type": "open",
     "id": "20260722",
     "createdAt": "2026-07-22T12:36:35.171Z"
+  },
+  {
+    "answer": "What is the difference between a keyframe animation and a tweening animation in the context of animation?\nKeyframe animation involves defining specific key points in time where an object's style will change.\nTweening animation, on the other hand, involves creating intermediate frames between two keyframes.\nThis process is often used to create smooth transitions between different states of an object.\nKeyframe animation is typically used for more complex animations, while tweening is used for simpler animations.\nTweening can also be used to create more complex animations by combining multiple tweening animations.",
+    "difficulty": "intermediate",
+    "question": "What is the difference between a keyframe animation and a tweening animation in the context of animation?",
+    "tags": [
+      "Animation",
+      "Keyframe Animation",
+      "Tweening Animation"
+    ],
+    "theme": "Animation",
+    "type": "open",
+    "id": "20260723",
+    "createdAt": "2026-07-23T00:39:38.312Z"
   }
 ]

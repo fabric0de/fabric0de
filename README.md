@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between TCP and UDP connections in terms of reliability and speed?
+### ❓ What is the difference between a keyframe animation and a tweening animation in the context of animation?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `TCP` `UDP` `Reliability` `Speed` • 📅 20260722
+🗓️ **Animation** • 🟡 **intermediate** • 🏷️ `Animation` `Keyframe Animation` `Tweening Animation` • 📅 20260723
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a TCP and UDP connection in terms of reliability and speed?
+> What is the difference between a keyframe animation and a tweening animation in the context of animation?
 
-> TCP (Transmission Control Protocol) is a connection-oriented protocol that ensures reliable data transfer by establishing a connection before sending data.
+> Keyframe animation involves defining specific key points in time where an object's style will change.
 
-> UDP (User Datagram Protocol) is a connectionless protocol that prioritizes speed over reliability, sending data without establishing a connection.
+> Tweening animation, on the other hand, involves creating intermediate frames between two keyframes.
 
-> This means TCP is more reliable but slower, while UDP is faster but less reliable.
+> This process is often used to create smooth transitions between different states of an object.
+
+> Keyframe animation is typically used for more complex animations, while tweening is used for simpler animations.
+
+> Tweening can also be used to create more complex animations by combining multiple tweening animations.
 
 <br>
 
