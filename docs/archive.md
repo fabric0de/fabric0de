@@ -2,21 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260724 - When designing a system to handle a large volume of user requests, what key considerations should be taken into account?
+## 20260724 - What are some key principles of API design that help ensure scalability and maintainability?
 
-theme: **System Design** • difficulty: **intermediate** • `system design` `scalability` `load balancing` `caching` `database sharding` `queueing`
+theme: **API Design** • difficulty: **intermediate** • `API Design` `Software Engineering` `Web Development`
 
-> A system designed to handle a large volume of user requests should consider the following:
-
-> 1. Horizontal scaling: Add more servers to handle increased traffic.
-
-> 2. Load balancing: Distribute incoming traffic across multiple servers.
-
-> 3. Caching: Store frequently accessed data in memory to reduce database queries.
-
-> 4. Database sharding: Split large databases into smaller, more manageable pieces.
-
-> 5. Queueing: Use message queues to handle asynchronous tasks and prevent server overload.
+> API Design
 
 ---
 
