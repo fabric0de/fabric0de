@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a design system, and what are its main components?
+### ❓ When designing a system to handle a large volume of user requests, what key considerations should be taken into account?
 
 </div>
 
 <div align="center">
 
-🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design-systems` `user-experience` `product-design` `collaboration` `consistency` • 📅 20260723
+🗓️ **System Design** • 🟡 **intermediate** • 🏷️ `system design` `scalability` `load balancing` `caching` `database sharding` `queueing` • 📅 20260724
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A design system is a collection of reusable components, guidelines, and assets that aim to standardize the visual identity and user experience of a product or application.
+> A system designed to handle a large volume of user requests should consider the following:
 
-> It typically includes a style guide, component library, and typography system.
+> 1. Horizontal scaling: Add more servers to handle increased traffic.
 
-> Design systems are used to ensure consistency across different parts of a product and to facilitate collaboration among designers and developers.
+> 2. Load balancing: Distribute incoming traffic across multiple servers.
 
-> They can be implemented using various tools and frameworks, such as Sketch, Figma, or Storybook.
+> 3. Caching: Store frequently accessed data in memory to reduce database queries.
 
-> A well-designed design system can improve the user experience, reduce development time, and increase the overall quality of a product.
+> 4. Database sharding: Split large databases into smaller, more manageable pieces.
+
+> 5. Queueing: Use message queues to handle asynchronous tasks and prevent server overload.
 
 <br>
 

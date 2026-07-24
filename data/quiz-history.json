@@ -1439,5 +1439,22 @@
     "type": "open",
     "id": "20260723",
     "createdAt": "2026-07-23T12:36:32.471Z"
+  },
+  {
+    "answer": "A system designed to handle a large volume of user requests should consider the following:\n1. Horizontal scaling: Add more servers to handle increased traffic.\n2. Load balancing: Distribute incoming traffic across multiple servers.\n3. Caching: Store frequently accessed data in memory to reduce database queries.\n4. Database sharding: Split large databases into smaller, more manageable pieces.\n5. Queueing: Use message queues to handle asynchronous tasks and prevent server overload.",
+    "difficulty": "intermediate",
+    "question": "When designing a system to handle a large volume of user requests, what key considerations should be taken into account?",
+    "tags": [
+      "system design",
+      "scalability",
+      "load balancing",
+      "caching",
+      "database sharding",
+      "queueing"
+    ],
+    "theme": "System Design",
+    "type": "open",
+    "id": "20260724",
+    "createdAt": "2026-07-24T00:36:48.033Z"
   }
 ]
