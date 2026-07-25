@@ -1453,5 +1453,20 @@
     "type": "open",
     "id": "20260724",
     "createdAt": "2026-07-24T12:34:17.091Z"
+  },
+  {
+    "answer": "AWS Lambda is a serverless compute service provided by AWS that allows users to run code without provisioning or managing servers. It integrates with other AWS services such as API Gateway, S3, and DynamoDB.\nAWS Lambda functions can be triggered by various events, including API calls, changes to files in S3, and modifications to DynamoDB tables.\nThis allows developers to build scalable and event-driven applications without worrying about the underlying infrastructure.",
+    "difficulty": "intermediate",
+    "question": "What is AWS Lambda and how does it integrate with other AWS services?",
+    "tags": [
+      "Cloud Infrastructure",
+      "AWS",
+      "Serverless Computing",
+      "Event-Driven Architecture"
+    ],
+    "theme": "Cloud Infrastructure",
+    "type": "open",
+    "id": "20260725",
+    "createdAt": "2026-07-25T00:40:03.630Z"
   }
 ]

@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260725 - What is AWS Lambda and how does it integrate with other AWS services?
+
+theme: **Cloud Infrastructure** • difficulty: **intermediate** • `Cloud Infrastructure` `AWS` `Serverless Computing` `Event-Driven Architecture`
+
+> AWS Lambda is a serverless compute service provided by AWS that allows users to run code without provisioning or managing servers. It integrates with other AWS services such as API Gateway, S3, and DynamoDB.
+
+> AWS Lambda functions can be triggered by various events, including API calls, changes to files in S3, and modifications to DynamoDB tables.
+
+> This allows developers to build scalable and event-driven applications without worrying about the underlying infrastructure.
+
+---
+
 ## 20260724 - What are some key principles of API design that help ensure scalability and maintainability?
 
 theme: **API Design** • difficulty: **intermediate** • `API Design` `Software Engineering` `Web Development`

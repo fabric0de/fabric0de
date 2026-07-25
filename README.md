@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key principles of API design that help ensure scalability and maintainability?
+### ❓ What is AWS Lambda and how does it integrate with other AWS services?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Design** • 🟡 **intermediate** • 🏷️ `API Design` `Software Engineering` `Web Development` • 📅 20260724
+🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `Cloud Infrastructure` `AWS` `Serverless Computing` `Event-Driven Architecture` • 📅 20260725
 
 </div>
 
@@ -46,7 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> API Design
+> AWS Lambda is a serverless compute service provided by AWS that allows users to run code without provisioning or managing servers. It integrates with other AWS services such as API Gateway, S3, and DynamoDB.
+
+> AWS Lambda functions can be triggered by various events, including API calls, changes to files in S3, and modifications to DynamoDB tables.
+
+> This allows developers to build scalable and event-driven applications without worrying about the underlying infrastructure.
 
 <br>
 
