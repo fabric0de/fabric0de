@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is AWS Lambda and how does it integrate with other AWS services?
+### ❓ What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving?
 
 </div>
 
 <div align="center">
 
-🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `Cloud Infrastructure` `AWS` `Serverless Computing` `Event-Driven Architecture` • 📅 20260725
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem_solving` `algorithm_design` `software_engineering` • 📅 20260726
 
 </div>
 
@@ -46,11 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> AWS Lambda is a serverless compute service provided by AWS that allows users to run code without provisioning or managing servers. It integrates with other AWS services such as API Gateway, S3, and DynamoDB.
-
-> AWS Lambda functions can be triggered by various events, including API calls, changes to files in S3, and modifications to DynamoDB tables.
-
-> This allows developers to build scalable and event-driven applications without worrying about the underlying infrastructure.
+> Problem Solving
 
 <br>
 

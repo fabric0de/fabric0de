@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260726 - What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving?
+
+theme: **Problem Solving** • difficulty: **intermediate** • `problem_solving` `algorithm_design` `software_engineering`
+
+> Problem Solving
+
+---
+
 ## 20260725 - What is AWS Lambda and how does it integrate with other AWS services?
 
 theme: **Cloud Infrastructure** • difficulty: **intermediate** • `Cloud Infrastructure` `AWS` `Serverless Computing` `Event-Driven Architecture`
