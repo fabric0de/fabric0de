@@ -2,11 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260726 - What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving?
+## 20260726 - What is a queue data structure, and what are some of its key operations?
 
-theme: **Problem Solving** • difficulty: **intermediate** • `problem_solving` `algorithm_design` `software_engineering`
+theme: **Data Structures** • difficulty: **intermediate** • `Data Structures` `Queue` `FIFO` `Linked List` `Array`
 
-> Problem Solving
+> A queue is a data structure that follows the First-In-First-Out (FIFO) principle, meaning the first item added will be the first one to be removed. It is commonly implemented using a linked list or an array.
+
+> In a queue, you can perform the following operations:
+
+> - Enqueue: add an item to the end of the queue
+
+> - Dequeue: remove an item from the front of the queue
+
+> - Peek: look at the item at the front of the queue without removing it
+
+> - IsEmpty: check if the queue is empty
 
 ---
 

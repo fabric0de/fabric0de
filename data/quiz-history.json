@@ -1470,17 +1470,19 @@
     "createdAt": "2026-07-25T00:40:03.630Z"
   },
   {
-    "answer": "Problem Solving",
+    "answer": "A queue is a data structure that follows the First-In-First-Out (FIFO) principle, meaning the first item added will be the first one to be removed. It is commonly implemented using a linked list or an array.\n\nIn a queue, you can perform the following operations:\n- Enqueue: add an item to the end of the queue\n- Dequeue: remove an item from the front of the queue\n- Peek: look at the item at the front of the queue without removing it\n- IsEmpty: check if the queue is empty",
     "difficulty": "intermediate",
-    "question": "What is the key difference between a 'brute force' approach and a 'divide and conquer' approach to problem solving?",
+    "question": "What is a queue data structure, and what are some of its key operations?",
     "tags": [
-      "problem_solving",
-      "algorithm_design",
-      "software_engineering"
+      "Data Structures",
+      "Queue",
+      "FIFO",
+      "Linked List",
+      "Array"
     ],
-    "theme": "Problem Solving",
+    "theme": "Data Structures",
     "type": "open",
     "id": "20260726",
-    "createdAt": "2026-07-26T00:42:46.545Z"
+    "createdAt": "2026-07-26T12:27:20.375Z"
   }
 ]
