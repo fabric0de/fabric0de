@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a queue data structure, and what are some of its key operations?
+### ❓ How can you iterate over a slice or array in Go?
 
 </div>
 
 <div align="center">
 
-🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `Data Structures` `Queue` `FIFO` `Linked List` `Array` • 📅 20260726
+🗓️ **Go** • 🟡 **intermediate** • 🏷️ `Go` `iteration` `range` • 📅 20260727
 
 </div>
 
@@ -46,17 +46,29 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A queue is a data structure that follows the First-In-First-Out (FIFO) principle, meaning the first item added will be the first one to be removed. It is commonly implemented using a linked list or an array.
+> In Go, you can use the 'range' keyword to iterate over a slice or array. The 'range' keyword returns two values, the index and the value at that index.
 
-> In a queue, you can perform the following operations:
+> For example:
 
-> - Enqueue: add an item to the end of the queue
+> numbers := []int{1, 2, 3, 4, 5}
 
-> - Dequeue: remove an item from the front of the queue
+> for i, num := range numbers {
 
-> - Peek: look at the item at the front of the queue without removing it
+> fmt.Println(i, num)
 
-> - IsEmpty: check if the queue is empty
+> }
+
+> This will print:
+
+> 0 1
+
+> 1 2
+
+> 2 3
+
+> 3 4
+
+> 4 5
 
 <br>
 

@@ -1484,5 +1484,19 @@
     "type": "open",
     "id": "20260726",
     "createdAt": "2026-07-26T12:27:20.375Z"
+  },
+  {
+    "answer": "In Go, you can use the 'range' keyword to iterate over a slice or array. The 'range' keyword returns two values, the index and the value at that index.\nFor example:\n\nnumbers := []int{1, 2, 3, 4, 5}\nfor i, num := range numbers {\n    fmt.Println(i, num)\n}\nThis will print:\n\n0 1\n1 2\n2 3\n3 4\n4 5",
+    "difficulty": "intermediate",
+    "question": "How can you iterate over a slice or array in Go?",
+    "tags": [
+      "Go",
+      "iteration",
+      "range"
+    ],
+    "theme": "Go",
+    "type": "open",
+    "id": "20260727",
+    "createdAt": "2026-07-27T00:43:22.837Z"
   }
 ]

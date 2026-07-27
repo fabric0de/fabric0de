@@ -2,6 +2,36 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260727 - How can you iterate over a slice or array in Go?
+
+theme: **Go** • difficulty: **intermediate** • `Go` `iteration` `range`
+
+> In Go, you can use the 'range' keyword to iterate over a slice or array. The 'range' keyword returns two values, the index and the value at that index.
+
+> For example:
+
+> numbers := []int{1, 2, 3, 4, 5}
+
+> for i, num := range numbers {
+
+> fmt.Println(i, num)
+
+> }
+
+> This will print:
+
+> 0 1
+
+> 1 2
+
+> 2 3
+
+> 3 4
+
+> 4 5
+
+---
+
 ## 20260726 - What is a queue data structure, and what are some of its key operations?
 
 theme: **Data Structures** • difficulty: **intermediate** • `Data Structures` `Queue` `FIFO` `Linked List` `Array`
