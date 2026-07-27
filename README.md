@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you iterate over a slice or array in Go?
+### ❓ How can you get the size of a type in bytes in Rust?
 
 </div>
 
 <div align="center">
 
-🗓️ **Go** • 🟡 **intermediate** • 🏷️ `Go` `iteration` `range` • 📅 20260727
+🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `rust` `memory` `size_of` • 📅 20260727
 
 </div>
 
@@ -46,29 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Go, you can use the 'range' keyword to iterate over a slice or array. The 'range' keyword returns two values, the index and the value at that index.
+> In Rust, you can use the 'std::mem::size_of' function to get the size of a type in bytes.
 
-> For example:
+> For example, you can use it like this: `println!("Size of i32: {}", std::mem::size_of::<i32>());`.
 
-> numbers := []int{1, 2, 3, 4, 5}
+> This function is useful for understanding memory usage and layout in your Rust code.
 
-> for i, num := range numbers {
-
-> fmt.Println(i, num)
-
-> }
-
-> This will print:
-
-> 0 1
-
-> 1 2
-
-> 2 3
-
-> 3 4
-
-> 4 5
+> It returns the size of the type in bytes, which can be useful for debugging and optimization purposes.
 
 <br>
 
