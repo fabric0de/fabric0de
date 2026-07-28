@@ -1500,18 +1500,17 @@
     "createdAt": "2026-07-27T13:07:39.021Z"
   },
   {
-    "answer": "What is the difference between HTTP GET and POST requests in terms of data transfer and usage?\nHTTP GET is used to retrieve data from a server, while HTTP POST is used to send data to a server.\nGET is typically used for read-only operations, while POST is used for creating, updating, or deleting resources.\nGET requests are cached by browsers, while POST requests are not.\nThis distinction is crucial for understanding how to design RESTful APIs and handle user interactions.",
+    "answer": "The Geolocation API is used to determine the user's location, and it can be accessed using the navigator.geolocation object.\nIt returns a Position object, which contains the user's latitude, longitude, and accuracy.\nThis API is useful for applications that require location-based services, such as mapping or geocoding.\nHowever, it's worth noting that the Geolocation API requires the user's permission to access their location.\nIt's also worth noting that the accuracy of the location can vary depending on the device and the network available.",
     "difficulty": "intermediate",
-    "question": "What is the main difference between HTTP GET and POST requests in terms of data transfer and usage?",
+    "question": "What is the purpose of the Geolocation API in a web browser, and how can it be accessed?",
     "tags": [
-      "Web",
-      "HTTP",
-      "RESTful API",
-      "Networking"
+      "Browser APIs",
+      "Geolocation API",
+      "Web Development"
     ],
-    "theme": "Web",
+    "theme": "Browser APIs",
     "type": "open",
     "id": "20260728",
-    "createdAt": "2026-07-28T00:37:48.227Z"
+    "createdAt": "2026-07-28T12:40:53.484Z"
   }
 ]
