@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260728 - What is the main difference between HTTP GET and POST requests in terms of data transfer and usage?
+
+theme: **Web** • difficulty: **intermediate** • `Web` `HTTP` `RESTful API` `Networking`
+
+> What is the difference between HTTP GET and POST requests in terms of data transfer and usage?
+
+> HTTP GET is used to retrieve data from a server, while HTTP POST is used to send data to a server.
+
+> GET is typically used for read-only operations, while POST is used for creating, updating, or deleting resources.
+
+> GET requests are cached by browsers, while POST requests are not.
+
+> This distinction is crucial for understanding how to design RESTful APIs and handle user interactions.
+
+---
+
 ## 20260727 - How can you get the size of a type in bytes in Rust?
 
 theme: **Rust** • difficulty: **intermediate** • `rust` `memory` `size_of`

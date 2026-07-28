@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you get the size of a type in bytes in Rust?
+### ❓ What is the main difference between HTTP GET and POST requests in terms of data transfer and usage?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rust** • 🟡 **intermediate** • 🏷️ `rust` `memory` `size_of` • 📅 20260727
+🗓️ **Web** • 🟡 **intermediate** • 🏷️ `Web` `HTTP` `RESTful API` `Networking` • 📅 20260728
 
 </div>
 
@@ -46,13 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Rust, you can use the 'std::mem::size_of' function to get the size of a type in bytes.
+> What is the difference between HTTP GET and POST requests in terms of data transfer and usage?
 
-> For example, you can use it like this: `println!("Size of i32: {}", std::mem::size_of::<i32>());`.
+> HTTP GET is used to retrieve data from a server, while HTTP POST is used to send data to a server.
 
-> This function is useful for understanding memory usage and layout in your Rust code.
+> GET is typically used for read-only operations, while POST is used for creating, updating, or deleting resources.
 
-> It returns the size of the type in bytes, which can be useful for debugging and optimization purposes.
+> GET requests are cached by browsers, while POST requests are not.
+
+> This distinction is crucial for understanding how to design RESTful APIs and handle user interactions.
 
 <br>
 
