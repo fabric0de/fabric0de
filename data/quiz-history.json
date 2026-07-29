@@ -1512,5 +1512,20 @@
     "type": "open",
     "id": "20260728",
     "createdAt": "2026-07-28T12:40:53.484Z"
+  },
+  {
+    "answer": "What is the primary purpose of caching in a web application?\n\nCaching is used to store frequently accessed data in a temporary storage location, such as a user's browser or a server's memory, to improve the performance and speed of the application by reducing the number of requests made to the server.\n\nTags: caching, web development, performance optimization, data storage",
+    "difficulty": "beginner",
+    "question": "What is the primary purpose of caching in a web application?",
+    "tags": [
+      "caching",
+      "web development",
+      "performance optimization",
+      "data storage"
+    ],
+    "theme": "Caching",
+    "type": "open",
+    "id": "20260729",
+    "createdAt": "2026-07-29T00:36:28.240Z"
   }
 ]

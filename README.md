@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the Geolocation API in a web browser, and how can it be accessed?
+### ❓ What is the primary purpose of caching in a web application?
 
 </div>
 
 <div align="center">
 
-🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Browser APIs` `Geolocation API` `Web Development` • 📅 20260728
+🗓️ **Caching** • 🟢 **beginner** • 🏷️ `caching` `web development` `performance optimization` `data storage` • 📅 20260729
 
 </div>
 
@@ -46,15 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The Geolocation API is used to determine the user's location, and it can be accessed using the navigator.geolocation object.
+> What is the primary purpose of caching in a web application?
 
-> It returns a Position object, which contains the user's latitude, longitude, and accuracy.
+> Caching is used to store frequently accessed data in a temporary storage location, such as a user's browser or a server's memory, to improve the performance and speed of the application by reducing the number of requests made to the server.
 
-> This API is useful for applications that require location-based services, such as mapping or geocoding.
-
-> However, it's worth noting that the Geolocation API requires the user's permission to access their location.
-
-> It's also worth noting that the accuracy of the location can vary depending on the device and the network available.
+> Tags: caching, web development, performance optimization, data storage
 
 <br>
 
