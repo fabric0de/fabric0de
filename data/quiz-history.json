@@ -1514,18 +1514,18 @@
     "createdAt": "2026-07-28T12:40:53.484Z"
   },
   {
-    "answer": "What is the primary purpose of caching in a web application?\n\nCaching is used to store frequently accessed data in a temporary storage location, such as a user's browser or a server's memory, to improve the performance and speed of the application by reducing the number of requests made to the server.\n\nTags: caching, web development, performance optimization, data storage",
-    "difficulty": "beginner",
-    "question": "What is the primary purpose of caching in a web application?",
+    "answer": "A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed within a web page.\nIt does this by defining a set of allowed sources for various types of content, such as scripts, stylesheets, and images.\nFor example, a CSP might allow scripts to be loaded from a specific domain, but not from any other domain.\nThis helps prevent an attacker from injecting malicious scripts into a web page.\nCSP can be implemented using a variety of methods, including HTTP headers and HTML meta tags.\nIt is an important tool for web developers who want to protect their users from XSS attacks.",
+    "difficulty": "intermediate",
+    "question": "What is a Content Security Policy (CSP), and how does it help prevent cross-site scripting (XSS) attacks?",
     "tags": [
-      "caching",
-      "web development",
-      "performance optimization",
-      "data storage"
+      "Web Security",
+      "CSP",
+      "XSS",
+      "Security"
     ],
-    "theme": "Caching",
+    "theme": "Web Security",
     "type": "open",
     "id": "20260729",
-    "createdAt": "2026-07-29T00:36:28.240Z"
+    "createdAt": "2026-07-29T12:44:55.145Z"
   }
 ]
