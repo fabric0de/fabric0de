@@ -2,23 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260730 - What are some key techniques used to achieve responsive design in web development?
+## 20260730 - What are some techniques used to improve frontend performance when dealing with large images and resources?
 
-theme: **Responsive Design** • difficulty: **intermediate** • `responsive-design` `web-development` `css` `html` `user-experience`
+theme: **Frontend Performance** • difficulty: **intermediate** • `frontend-performance` `lazy-loading` `code-splitting` `tree-shaking`
 
-> To achieve responsive design, you can use a combination of techniques such as:
-
-> 1. Using relative units like percentages and ems for font sizes and margins.
-
-> 2. Implementing media queries to apply different styles based on screen size and orientation.
-
-> 3. Utilizing flexible box layouts to create layouts that adapt to different screen sizes.
-
-> 4. Using CSS grid to create complex layouts that can adapt to different screen sizes.
-
-> 5. Making use of responsive images by using the srcset attribute or the picture element.
-
-> These techniques can help ensure that your website or application looks great and functions well on a variety of devices and screen sizes.
+> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute on an image element to 'lazy' or by using a library like LazyLoad. Lazy loading can help reduce the initial page load time and improve the user experience. Additionally, you can also use techniques like code splitting and tree shaking to optimize the size of your JavaScript bundle.
 
 ---
 
