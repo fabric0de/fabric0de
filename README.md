@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a Content Security Policy (CSP), and how does it help prevent cross-site scripting (XSS) attacks?
+### ❓ What are some key techniques used to achieve responsive design in web development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `CSP` `XSS` `Security` • 📅 20260729
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `responsive-design` `web-development` `css` `html` `user-experience` • 📅 20260730
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed within a web page.
+> To achieve responsive design, you can use a combination of techniques such as:
 
-> It does this by defining a set of allowed sources for various types of content, such as scripts, stylesheets, and images.
+> 1. Using relative units like percentages and ems for font sizes and margins.
 
-> For example, a CSP might allow scripts to be loaded from a specific domain, but not from any other domain.
+> 2. Implementing media queries to apply different styles based on screen size and orientation.
 
-> This helps prevent an attacker from injecting malicious scripts into a web page.
+> 3. Utilizing flexible box layouts to create layouts that adapt to different screen sizes.
 
-> CSP can be implemented using a variety of methods, including HTTP headers and HTML meta tags.
+> 4. Using CSS grid to create complex layouts that can adapt to different screen sizes.
 
-> It is an important tool for web developers who want to protect their users from XSS attacks.
+> 5. Making use of responsive images by using the srcset attribute or the picture element.
+
+> These techniques can help ensure that your website or application looks great and functions well on a variety of devices and screen sizes.
 
 <br>
 

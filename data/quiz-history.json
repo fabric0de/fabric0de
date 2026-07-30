@@ -1527,5 +1527,21 @@
     "type": "open",
     "id": "20260729",
     "createdAt": "2026-07-29T12:44:55.145Z"
+  },
+  {
+    "answer": "To achieve responsive design, you can use a combination of techniques such as:\n\n1. Using relative units like percentages and ems for font sizes and margins.\n2. Implementing media queries to apply different styles based on screen size and orientation.\n3. Utilizing flexible box layouts to create layouts that adapt to different screen sizes.\n4. Using CSS grid to create complex layouts that can adapt to different screen sizes.\n5. Making use of responsive images by using the srcset attribute or the picture element.\n\nThese techniques can help ensure that your website or application looks great and functions well on a variety of devices and screen sizes.",
+    "difficulty": "intermediate",
+    "question": "What are some key techniques used to achieve responsive design in web development?",
+    "tags": [
+      "responsive-design",
+      "web-development",
+      "css",
+      "html",
+      "user-experience"
+    ],
+    "theme": "Responsive Design",
+    "type": "open",
+    "id": "20260730",
+    "createdAt": "2026-07-30T00:36:06.749Z"
   }
 ]
