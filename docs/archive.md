@@ -2,19 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260731 - What is a distributed system, and how do its components interact?
+## 20260731 - What is the difference between a primary key and a unique constraint in a database?
 
-theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking`
+theme: **Databases** • difficulty: **intermediate** • `database` `sql` `data integrity`
 
-> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. This is achieved through communication and coordination between the individual components.
+> What is the difference between a primary key and a unique constraint in a database?
 
-> In a distributed system, each component typically has its own resources, such as memory and processing power, and can operate independently.
+> A primary key is a column or set of columns that uniquely identifies each row in a table and cannot be null.
 
-> Distributed systems can be classified into two main categories: homogeneous and heterogeneous systems.
+> A unique constraint is a column or set of columns that uniquely identifies each row in a table, but can be null.
 
-> Homogeneous systems consist of identical components, while heterogeneous systems consist of different types of components.
+> Primary keys are used to identify each row in a table, while unique constraints are used to prevent duplicate values in a column or set of columns.
 
-> Distributed systems offer several benefits, including increased scalability, reliability, and fault tolerance.
+> Primary keys are often used as the primary identifier for a table, while unique constraints are used to enforce data integrity.
+
+> In most databases, a primary key is automatically created when a table is created, while a unique constraint must be explicitly defined.
 
 ---
 

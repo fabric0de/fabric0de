@@ -1544,17 +1544,17 @@
     "createdAt": "2026-07-30T12:38:20.297Z"
   },
   {
-    "answer": "A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. This is achieved through communication and coordination between the individual components.\n\nIn a distributed system, each component typically has its own resources, such as memory and processing power, and can operate independently.\n\nDistributed systems can be classified into two main categories: homogeneous and heterogeneous systems.\n\nHomogeneous systems consist of identical components, while heterogeneous systems consist of different types of components.\n\nDistributed systems offer several benefits, including increased scalability, reliability, and fault tolerance.",
+    "answer": "What is the difference between a primary key and a unique constraint in a database?\nA primary key is a column or set of columns that uniquely identifies each row in a table and cannot be null.\nA unique constraint is a column or set of columns that uniquely identifies each row in a table, but can be null.\nPrimary keys are used to identify each row in a table, while unique constraints are used to prevent duplicate values in a column or set of columns.\nPrimary keys are often used as the primary identifier for a table, while unique constraints are used to enforce data integrity.\nIn most databases, a primary key is automatically created when a table is created, while a unique constraint must be explicitly defined.",
     "difficulty": "intermediate",
-    "question": "What is a distributed system, and how do its components interact?",
+    "question": "What is the difference between a primary key and a unique constraint in a database?",
     "tags": [
-      "distributed systems",
-      "computer science",
-      "networking"
+      "database",
+      "sql",
+      "data integrity"
     ],
-    "theme": "Distributed Systems",
+    "theme": "Databases",
     "type": "open",
     "id": "20260731",
-    "createdAt": "2026-07-31T00:40:39.338Z"
+    "createdAt": "2026-07-31T12:42:04.215Z"
   }
 ]
