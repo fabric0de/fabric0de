@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some techniques used to improve frontend performance when dealing with large images and resources?
+### ❓ What is a distributed system, and how do its components interact?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend-performance` `lazy-loading` `code-splitting` `tree-shaking` • 📅 20260730
+🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `computer science` `networking` • 📅 20260731
 
 </div>
 
@@ -46,7 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute on an image element to 'lazy' or by using a library like LazyLoad. Lazy loading can help reduce the initial page load time and improve the user experience. Additionally, you can also use techniques like code splitting and tree shaking to optimize the size of your JavaScript bundle.
+> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. This is achieved through communication and coordination between the individual components.
+
+> In a distributed system, each component typically has its own resources, such as memory and processing power, and can operate independently.
+
+> Distributed systems can be classified into two main categories: homogeneous and heterogeneous systems.
+
+> Homogeneous systems consist of identical components, while heterogeneous systems consist of different types of components.
+
+> Distributed systems offer several benefits, including increased scalability, reliability, and fault tolerance.
 
 <br>
 

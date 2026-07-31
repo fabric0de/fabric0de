@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260731 - What is a distributed system, and how do its components interact?
+
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking`
+
+> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. This is achieved through communication and coordination between the individual components.
+
+> In a distributed system, each component typically has its own resources, such as memory and processing power, and can operate independently.
+
+> Distributed systems can be classified into two main categories: homogeneous and heterogeneous systems.
+
+> Homogeneous systems consist of identical components, while heterogeneous systems consist of different types of components.
+
+> Distributed systems offer several benefits, including increased scalability, reliability, and fault tolerance.
+
+---
+
 ## 20260730 - What are some techniques used to improve frontend performance when dealing with large images and resources?
 
 theme: **Frontend Performance** • difficulty: **intermediate** • `frontend-performance` `lazy-loading` `code-splitting` `tree-shaking`

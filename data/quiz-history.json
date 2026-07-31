@@ -1542,5 +1542,19 @@
     "type": "open",
     "id": "20260730",
     "createdAt": "2026-07-30T12:38:20.297Z"
+  },
+  {
+    "answer": "A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. This is achieved through communication and coordination between the individual components.\n\nIn a distributed system, each component typically has its own resources, such as memory and processing power, and can operate independently.\n\nDistributed systems can be classified into two main categories: homogeneous and heterogeneous systems.\n\nHomogeneous systems consist of identical components, while heterogeneous systems consist of different types of components.\n\nDistributed systems offer several benefits, including increased scalability, reliability, and fault tolerance.",
+    "difficulty": "intermediate",
+    "question": "What is a distributed system, and how do its components interact?",
+    "tags": [
+      "distributed systems",
+      "computer science",
+      "networking"
+    ],
+    "theme": "Distributed Systems",
+    "type": "open",
+    "id": "20260731",
+    "createdAt": "2026-07-31T00:40:39.338Z"
   }
 ]
