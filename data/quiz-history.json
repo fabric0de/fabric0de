@@ -1556,5 +1556,21 @@
     "type": "open",
     "id": "20260731",
     "createdAt": "2026-07-31T12:42:04.215Z"
+  },
+  {
+    "answer": "When debugging a program, what is the primary purpose of a debugger's 'step into' feature?\nIt allows the developer to execute a single line of code at a time.\nThis feature is useful for understanding the flow of a program and identifying where errors occur.\nIt can also be used to inspect the values of variables and expressions.\nBy stepping through the code, developers can gain a deeper understanding of how their program works.\nThis can be especially helpful when trying to debug complex issues.",
+    "difficulty": "intermediate",
+    "question": "What is the primary purpose of a debugger's 'step into' feature?",
+    "tags": [
+      "debugging",
+      "programming",
+      "software development",
+      "debuggers",
+      "development tools"
+    ],
+    "theme": "Debugging",
+    "type": "open",
+    "id": "20260801",
+    "createdAt": "2026-08-01T00:40:29.745Z"
   }
 ]

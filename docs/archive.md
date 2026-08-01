@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260801 - What is the primary purpose of a debugger's 'step into' feature?
+
+theme: **Debugging** • difficulty: **intermediate** • `debugging` `programming` `software development` `debuggers` `development tools`
+
+> When debugging a program, what is the primary purpose of a debugger's 'step into' feature?
+
+> It allows the developer to execute a single line of code at a time.
+
+> This feature is useful for understanding the flow of a program and identifying where errors occur.
+
+> It can also be used to inspect the values of variables and expressions.
+
+> By stepping through the code, developers can gain a deeper understanding of how their program works.
+
+> This can be especially helpful when trying to debug complex issues.
+
+---
+
 ## 20260731 - What is the difference between a primary key and a unique constraint in a database?
 
 theme: **Databases** • difficulty: **intermediate** • `database` `sql` `data integrity`

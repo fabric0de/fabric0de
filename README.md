@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a primary key and a unique constraint in a database?
+### ❓ What is the primary purpose of a debugger's 'step into' feature?
 
 </div>
 
 <div align="center">
 
-🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `database` `sql` `data integrity` • 📅 20260731
+🗓️ **Debugging** • 🟡 **intermediate** • 🏷️ `debugging` `programming` `software development` `debuggers` `development tools` • 📅 20260801
 
 </div>
 
@@ -46,17 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a primary key and a unique constraint in a database?
+> When debugging a program, what is the primary purpose of a debugger's 'step into' feature?
 
-> A primary key is a column or set of columns that uniquely identifies each row in a table and cannot be null.
+> It allows the developer to execute a single line of code at a time.
 
-> A unique constraint is a column or set of columns that uniquely identifies each row in a table, but can be null.
+> This feature is useful for understanding the flow of a program and identifying where errors occur.
 
-> Primary keys are used to identify each row in a table, while unique constraints are used to prevent duplicate values in a column or set of columns.
+> It can also be used to inspect the values of variables and expressions.
 
-> Primary keys are often used as the primary identifier for a table, while unique constraints are used to enforce data integrity.
+> By stepping through the code, developers can gain a deeper understanding of how their program works.
 
-> In most databases, a primary key is automatically created when a table is created, while a unique constraint must be explicitly defined.
+> This can be especially helpful when trying to debug complex issues.
 
 <br>
 
