@@ -2,21 +2,17 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260801 - What is the primary purpose of a debugger's 'step into' feature?
+## 20260801 - What type of tool can assist developers with writing, testing, and collaborating on code?
 
-theme: **Debugging** • difficulty: **intermediate** • `debugging` `programming` `software development` `debuggers` `development tools`
+theme: **Developer Tools** • difficulty: **intermediate** • `Developer Tools` `Code Editors` `Debugging` `Version Control`
 
-> When debugging a program, what is the primary purpose of a debugger's 'step into' feature?
+> A code editor with a built-in debugger and version control system is an example of a
 
-> It allows the developer to execute a single line of code at a time.
+> developer tool that can help with
 
-> This feature is useful for understanding the flow of a program and identifying where errors occur.
+> writing, testing, and collaborating on code.
 
-> It can also be used to inspect the values of variables and expressions.
-
-> By stepping through the code, developers can gain a deeper understanding of how their program works.
-
-> This can be especially helpful when trying to debug complex issues.
+> Some popular examples of such tools include Visual Studio Code, IntelliJ IDEA, and Sublime Text.
 
 ---
 
