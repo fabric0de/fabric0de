@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What type of tool can assist developers with writing, testing, and collaborating on code?
+### ❓ What problem-solving technique involves breaking down a complex problem into smaller, more manageable sub-problems?
 
 </div>
 
 <div align="center">
 
-🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `Developer Tools` `Code Editors` `Debugging` `Version Control` • 📅 20260801
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem-solving` `software development` `debugging` `troubleshooting` • 📅 20260802
 
 </div>
 
@@ -46,13 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A code editor with a built-in debugger and version control system is an example of a
+> In problem-solving, what is the term for the process of breaking down a complex problem into smaller, more manageable sub-problems?
 
-> developer tool that can help with
+> This approach is often used in conjunction with other problem-solving techniques, such as divide and conquer.
 
-> writing, testing, and collaborating on code.
+> It helps to reduce the complexity of the problem and make it easier to understand and solve.
 
-> Some popular examples of such tools include Visual Studio Code, IntelliJ IDEA, and Sublime Text.
+> This technique is commonly used in software development, particularly in debugging and troubleshooting.
 
 <br>
 

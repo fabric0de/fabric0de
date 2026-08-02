@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260802 - What problem-solving technique involves breaking down a complex problem into smaller, more manageable sub-problems?
+
+theme: **Problem Solving** • difficulty: **intermediate** • `problem-solving` `software development` `debugging` `troubleshooting`
+
+> In problem-solving, what is the term for the process of breaking down a complex problem into smaller, more manageable sub-problems?
+
+> This approach is often used in conjunction with other problem-solving techniques, such as divide and conquer.
+
+> It helps to reduce the complexity of the problem and make it easier to understand and solve.
+
+> This technique is commonly used in software development, particularly in debugging and troubleshooting.
+
+---
+
 ## 20260801 - What type of tool can assist developers with writing, testing, and collaborating on code?
 
 theme: **Developer Tools** • difficulty: **intermediate** • `Developer Tools` `Code Editors` `Debugging` `Version Control`
