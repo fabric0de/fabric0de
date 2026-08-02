@@ -1573,18 +1573,17 @@
     "createdAt": "2026-08-01T12:24:55.547Z"
   },
   {
-    "answer": "In problem-solving, what is the term for the process of breaking down a complex problem into smaller, more manageable sub-problems?\nThis approach is often used in conjunction with other problem-solving techniques, such as divide and conquer.\nIt helps to reduce the complexity of the problem and make it easier to understand and solve.\nThis technique is commonly used in software development, particularly in debugging and troubleshooting.",
+    "answer": "Big O notation is used to describe the complexity of an algorithm in terms of its input size. It represents the upper bound of an algorithm's time or space requirements as the input size increases.\n\nFor example, an algorithm with a time complexity of O(n^2) will take longer to complete as the input size increases, whereas an algorithm with a time complexity of O(1) will take the same amount of time regardless of the input size.\n\nIn complexity analysis, we often use Big O notation to compare the efficiency of different algorithms and choose the one with the best time or space complexity.",
     "difficulty": "intermediate",
-    "question": "What problem-solving technique involves breaking down a complex problem into smaller, more manageable sub-problems?",
+    "question": "What is Big O notation and how is it used in complexity analysis?",
     "tags": [
-      "problem-solving",
-      "software development",
-      "debugging",
-      "troubleshooting"
+      "complexity-analysis",
+      "algorithm-analysis",
+      "big-o-notation"
     ],
-    "theme": "Problem Solving",
+    "theme": "Complexity Analysis",
     "type": "open",
     "id": "20260802",
-    "createdAt": "2026-08-02T00:41:20.739Z"
+    "createdAt": "2026-08-02T12:25:55.857Z"
   }
 ]
