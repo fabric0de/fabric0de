@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Big O notation and how is it used in complexity analysis?
+### ❓ Write a SQL query to retrieve all customers from the USA, sorted by last name and then first name.
 
 </div>
 
 <div align="center">
 
-🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `complexity-analysis` `algorithm-analysis` `big-o-notation` • 📅 20260802
+🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `SQL` `database` `query` • 📅 20260803
 
 </div>
 
@@ -46,11 +46,9 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Big O notation is used to describe the complexity of an algorithm in terms of its input size. It represents the upper bound of an algorithm's time or space requirements as the input size increases.
+> SELECT * FROM customers WHERE country='USA'
 
-> For example, an algorithm with a time complexity of O(n^2) will take longer to complete as the input size increases, whereas an algorithm with a time complexity of O(1) will take the same amount of time regardless of the input size.
-
-> In complexity analysis, we often use Big O notation to compare the efficiency of different algorithms and choose the one with the best time or space complexity.
+> ORDER BY last_name, first_name
 
 <br>
 

@@ -2,6 +2,16 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260803 - Write a SQL query to retrieve all customers from the USA, sorted by last name and then first name.
+
+theme: **SQL** • difficulty: **intermediate** • `SQL` `database` `query`
+
+> SELECT * FROM customers WHERE country='USA'
+
+> ORDER BY last_name, first_name
+
+---
+
 ## 20260802 - What is Big O notation and how is it used in complexity analysis?
 
 theme: **Complexity Analysis** • difficulty: **intermediate** • `complexity-analysis` `algorithm-analysis` `big-o-notation`

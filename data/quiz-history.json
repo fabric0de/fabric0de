@@ -1585,5 +1585,19 @@
     "type": "open",
     "id": "20260802",
     "createdAt": "2026-08-02T12:25:55.857Z"
+  },
+  {
+    "answer": "SELECT * FROM customers WHERE country='USA'\nORDER BY last_name, first_name",
+    "difficulty": "intermediate",
+    "question": "Write a SQL query to retrieve all customers from the USA, sorted by last name and then first name.",
+    "tags": [
+      "SQL",
+      "database",
+      "query"
+    ],
+    "theme": "SQL",
+    "type": "open",
+    "id": "20260803",
+    "createdAt": "2026-08-03T00:41:02.182Z"
   }
 ]
