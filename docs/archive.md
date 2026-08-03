@@ -2,13 +2,33 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260803 - Write a SQL query to retrieve all customers from the USA, sorted by last name and then first name.
+## 20260803 - How can you iterate over a slice in Go, and what information do you get from the iteration?
 
-theme: **SQL** • difficulty: **intermediate** • `SQL` `database` `query`
+theme: **Go** • difficulty: **intermediate** • `Go` `slice` `iteration`
 
-> SELECT * FROM customers WHERE country='USA'
+> In Go, you can use the 'range' keyword to iterate over a slice. The 'range' keyword returns both the index and the value of each element in the slice.
 
-> ORDER BY last_name, first_name
+> For example:
+
+> slice := []int{1, 2, 3, 4, 5}
+
+> for i, v := range slice {
+
+> fmt.Println(i, v)
+
+> }
+
+> This will output:
+
+> 0 1
+
+> 1 2
+
+> 2 3
+
+> 3 4
+
+> 4 5
 
 ---
 

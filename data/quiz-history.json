@@ -1587,17 +1587,17 @@
     "createdAt": "2026-08-02T12:25:55.857Z"
   },
   {
-    "answer": "SELECT * FROM customers WHERE country='USA'\nORDER BY last_name, first_name",
+    "answer": "In Go, you can use the 'range' keyword to iterate over a slice. The 'range' keyword returns both the index and the value of each element in the slice.\nFor example:\n\nslice := []int{1, 2, 3, 4, 5}\nfor i, v := range slice {\n    fmt.Println(i, v)\n}\nThis will output:\n\n0 1\n1 2\n2 3\n3 4\n4 5",
     "difficulty": "intermediate",
-    "question": "Write a SQL query to retrieve all customers from the USA, sorted by last name and then first name.",
+    "question": "How can you iterate over a slice in Go, and what information do you get from the iteration?",
     "tags": [
-      "SQL",
-      "database",
-      "query"
+      "Go",
+      "slice",
+      "iteration"
     ],
-    "theme": "SQL",
+    "theme": "Go",
     "type": "open",
     "id": "20260803",
-    "createdAt": "2026-08-03T00:41:02.182Z"
+    "createdAt": "2026-08-03T13:06:32.014Z"
   }
 ]
