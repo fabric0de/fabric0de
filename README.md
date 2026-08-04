@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a Content Delivery Network (CDN) and how does it improve the performance of a website?
+### ❓ What is a screen reader and how can it be used to improve accessibility on a web page?
 
 </div>
 
 <div align="center">
 
-🗓️ **Web** • 🟡 **intermediate** • 🏷️ `Web` `CDN` `Performance` `Networking` • 📅 20260804
+🗓️ **Accessibility** • 🟡 **intermediate** • 🏷️ `Accessibility` `Screen Readers` `Web Development` `Accessibility Guidelines` • 📅 20260804
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A Content Delivery Network (CDN) is a network of servers distributed across different geographic locations to deliver web content.
+> A screen reader is a software that reads out the text on a screen to users who are blind or have low vision. It can be used in conjunction with a keyboard to navigate through web pages.
 
-> It can improve page load times by reducing the distance between users and the servers serving the content.
+> In terms of accessibility, screen readers are an essential tool for users with visual impairments. They can be used to read out the text on a web page, including headings, paragraphs, and links.
 
-> CDNs can also help distribute the load of serving content, reducing the burden on a single server.
+> To make a web page accessible to screen readers, developers should ensure that the page is structured in a logical and consistent way, with clear headings and labels for form fields.
 
-> This can improve the overall performance and reliability of a website.
+> Additionally, developers should use ARIA attributes to provide additional information about the page's structure and content, such as the role of an element and its relationship to other elements.
 
-> CDNs often cache frequently accessed resources, such as images and videos, to reduce the number of requests made to the origin server.
-
-> This can also help reduce the load on the origin server and improve overall performance.
+> By following these guidelines, developers can create web pages that are accessible to users with visual impairments and provide a better user experience for all users.
 
 <br>
 

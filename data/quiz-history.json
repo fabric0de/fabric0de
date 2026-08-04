@@ -1601,18 +1601,18 @@
     "createdAt": "2026-08-03T13:06:32.014Z"
   },
   {
-    "answer": "A Content Delivery Network (CDN) is a network of servers distributed across different geographic locations to deliver web content.\nIt can improve page load times by reducing the distance between users and the servers serving the content.\nCDNs can also help distribute the load of serving content, reducing the burden on a single server.\nThis can improve the overall performance and reliability of a website.\nCDNs often cache frequently accessed resources, such as images and videos, to reduce the number of requests made to the origin server.\nThis can also help reduce the load on the origin server and improve overall performance.",
+    "answer": "A screen reader is a software that reads out the text on a screen to users who are blind or have low vision. It can be used in conjunction with a keyboard to navigate through web pages.\n\nIn terms of accessibility, screen readers are an essential tool for users with visual impairments. They can be used to read out the text on a web page, including headings, paragraphs, and links.\n\nTo make a web page accessible to screen readers, developers should ensure that the page is structured in a logical and consistent way, with clear headings and labels for form fields.\n\nAdditionally, developers should use ARIA attributes to provide additional information about the page's structure and content, such as the role of an element and its relationship to other elements.\n\nBy following these guidelines, developers can create web pages that are accessible to users with visual impairments and provide a better user experience for all users.",
     "difficulty": "intermediate",
-    "question": "What is a Content Delivery Network (CDN) and how does it improve the performance of a website?",
+    "question": "What is a screen reader and how can it be used to improve accessibility on a web page?",
     "tags": [
-      "Web",
-      "CDN",
-      "Performance",
-      "Networking"
+      "Accessibility",
+      "Screen Readers",
+      "Web Development",
+      "Accessibility Guidelines"
     ],
-    "theme": "Web",
+    "theme": "Accessibility",
     "type": "open",
     "id": "20260804",
-    "createdAt": "2026-08-04T00:39:31.194Z"
+    "createdAt": "2026-08-04T12:42:25.760Z"
   }
 ]
