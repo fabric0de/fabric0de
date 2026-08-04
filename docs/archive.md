@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260804 - What is a Content Delivery Network (CDN) and how does it improve the performance of a website?
+
+theme: **Web** • difficulty: **intermediate** • `Web` `CDN` `Performance` `Networking`
+
+> A Content Delivery Network (CDN) is a network of servers distributed across different geographic locations to deliver web content.
+
+> It can improve page load times by reducing the distance between users and the servers serving the content.
+
+> CDNs can also help distribute the load of serving content, reducing the burden on a single server.
+
+> This can improve the overall performance and reliability of a website.
+
+> CDNs often cache frequently accessed resources, such as images and videos, to reduce the number of requests made to the origin server.
+
+> This can also help reduce the load on the origin server and improve overall performance.
+
+---
+
 ## 20260803 - How can you iterate over a slice in Go, and what information do you get from the iteration?
 
 theme: **Go** • difficulty: **intermediate** • `Go` `slice` `iteration`

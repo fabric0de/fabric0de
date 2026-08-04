@@ -1599,5 +1599,20 @@
     "type": "open",
     "id": "20260803",
     "createdAt": "2026-08-03T13:06:32.014Z"
+  },
+  {
+    "answer": "A Content Delivery Network (CDN) is a network of servers distributed across different geographic locations to deliver web content.\nIt can improve page load times by reducing the distance between users and the servers serving the content.\nCDNs can also help distribute the load of serving content, reducing the burden on a single server.\nThis can improve the overall performance and reliability of a website.\nCDNs often cache frequently accessed resources, such as images and videos, to reduce the number of requests made to the origin server.\nThis can also help reduce the load on the origin server and improve overall performance.",
+    "difficulty": "intermediate",
+    "question": "What is a Content Delivery Network (CDN) and how does it improve the performance of a website?",
+    "tags": [
+      "Web",
+      "CDN",
+      "Performance",
+      "Networking"
+    ],
+    "theme": "Web",
+    "type": "open",
+    "id": "20260804",
+    "createdAt": "2026-08-04T00:39:31.194Z"
   }
 ]

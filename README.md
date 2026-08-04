@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you iterate over a slice in Go, and what information do you get from the iteration?
+### ❓ What is a Content Delivery Network (CDN) and how does it improve the performance of a website?
 
 </div>
 
 <div align="center">
 
-🗓️ **Go** • 🟡 **intermediate** • 🏷️ `Go` `slice` `iteration` • 📅 20260803
+🗓️ **Web** • 🟡 **intermediate** • 🏷️ `Web` `CDN` `Performance` `Networking` • 📅 20260804
 
 </div>
 
@@ -46,29 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Go, you can use the 'range' keyword to iterate over a slice. The 'range' keyword returns both the index and the value of each element in the slice.
+> A Content Delivery Network (CDN) is a network of servers distributed across different geographic locations to deliver web content.
 
-> For example:
+> It can improve page load times by reducing the distance between users and the servers serving the content.
 
-> slice := []int{1, 2, 3, 4, 5}
+> CDNs can also help distribute the load of serving content, reducing the burden on a single server.
 
-> for i, v := range slice {
+> This can improve the overall performance and reliability of a website.
 
-> fmt.Println(i, v)
+> CDNs often cache frequently accessed resources, such as images and videos, to reduce the number of requests made to the origin server.
 
-> }
-
-> This will output:
-
-> 0 1
-
-> 1 2
-
-> 2 3
-
-> 3 4
-
-> 4 5
+> This can also help reduce the load on the origin server and improve overall performance.
 
 <br>
 
