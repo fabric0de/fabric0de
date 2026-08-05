@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260805 - What is the main difference between a cache and a buffer in computer systems?
+
+theme: **Caching** • difficulty: **intermediate** • `Caching` `Computer Systems` `Memory Management`
+
+> What is the main difference between a cache and a buffer in computer systems?
+
+> A cache stores frequently accessed data temporarily for faster access, while a buffer stores data temporarily for transmission or processing.
+
+> In a cache, data is stored in a smaller, faster memory location, whereas in a buffer, data is stored in a larger, slower memory location.
+
+> Caches are typically used to improve performance by reducing the time it takes to access frequently used data, while buffers are used to manage data transfer between systems or components.
+
+> In summary, a cache is for storage and retrieval of data, while a buffer is for temporary storage of data during transmission or processing.
+
+> This distinction is crucial in understanding how to optimize system performance and manage data flow effectively.
+
+---
+
 ## 20260804 - What is a screen reader and how can it be used to improve accessibility on a web page?
 
 theme: **Accessibility** • difficulty: **intermediate** • `Accessibility` `Screen Readers` `Web Development` `Accessibility Guidelines`

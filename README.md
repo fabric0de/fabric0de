@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a screen reader and how can it be used to improve accessibility on a web page?
+### ❓ What is the main difference between a cache and a buffer in computer systems?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟡 **intermediate** • 🏷️ `Accessibility` `Screen Readers` `Web Development` `Accessibility Guidelines` • 📅 20260804
+🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `Caching` `Computer Systems` `Memory Management` • 📅 20260805
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A screen reader is a software that reads out the text on a screen to users who are blind or have low vision. It can be used in conjunction with a keyboard to navigate through web pages.
+> What is the main difference between a cache and a buffer in computer systems?
 
-> In terms of accessibility, screen readers are an essential tool for users with visual impairments. They can be used to read out the text on a web page, including headings, paragraphs, and links.
+> A cache stores frequently accessed data temporarily for faster access, while a buffer stores data temporarily for transmission or processing.
 
-> To make a web page accessible to screen readers, developers should ensure that the page is structured in a logical and consistent way, with clear headings and labels for form fields.
+> In a cache, data is stored in a smaller, faster memory location, whereas in a buffer, data is stored in a larger, slower memory location.
 
-> Additionally, developers should use ARIA attributes to provide additional information about the page's structure and content, such as the role of an element and its relationship to other elements.
+> Caches are typically used to improve performance by reducing the time it takes to access frequently used data, while buffers are used to manage data transfer between systems or components.
 
-> By following these guidelines, developers can create web pages that are accessible to users with visual impairments and provide a better user experience for all users.
+> In summary, a cache is for storage and retrieval of data, while a buffer is for temporary storage of data during transmission or processing.
+
+> This distinction is crucial in understanding how to optimize system performance and manage data flow effectively.
 
 <br>
 
