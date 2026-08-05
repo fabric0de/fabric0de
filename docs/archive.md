@@ -2,21 +2,15 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260805 - What is the main difference between a cache and a buffer in computer systems?
+## 20260805 - What is the primary function of a network switch, and how does it differ from a hub?
 
-theme: **Caching** • difficulty: **intermediate** • `Caching` `Computer Systems` `Memory Management`
+theme: **Networking** • difficulty: **intermediate** • `Networking` `OSI model` `Data Link Layer`
 
-> What is the main difference between a cache and a buffer in computer systems?
+> A network switch is used to connect multiple devices within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model.
 
-> A cache stores frequently accessed data temporarily for faster access, while a buffer stores data temporarily for transmission or processing.
+> A network switch is different from a hub in that it can forward data packets to specific devices, whereas a hub broadcasts data to all connected devices.
 
-> In a cache, data is stored in a smaller, faster memory location, whereas in a buffer, data is stored in a larger, slower memory location.
-
-> Caches are typically used to improve performance by reducing the time it takes to access frequently used data, while buffers are used to manage data transfer between systems or components.
-
-> In summary, a cache is for storage and retrieval of data, while a buffer is for temporary storage of data during transmission or processing.
-
-> This distinction is crucial in understanding how to optimize system performance and manage data flow effectively.
+> This makes network switches more efficient and secure than hubs.
 
 ---
 
