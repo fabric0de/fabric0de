@@ -1628,5 +1628,19 @@
     "type": "open",
     "id": "20260805",
     "createdAt": "2026-08-05T14:09:30.881Z"
+  },
+  {
+    "answer": "Media Queries are used to apply different styles based on the screen size or device type.\nThey are defined using the @media rule in CSS.\nFor example:\n@media only screen and (max-width: 600px) {\n  /* styles for screens with a maximum width of 600px */\n}\n",
+    "difficulty": "intermediate",
+    "question": "What are Media Queries used for in Responsive Design, and how are they defined in CSS?",
+    "tags": [
+      "responsive-design",
+      "css",
+      "media-queries"
+    ],
+    "theme": "Responsive Design",
+    "type": "open",
+    "id": "20260806",
+    "createdAt": "2026-08-06T02:35:56.568Z"
   }
 ]

@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260806 - What are Media Queries used for in Responsive Design, and how are they defined in CSS?
+
+theme: **Responsive Design** • difficulty: **intermediate** • `responsive-design` `css` `media-queries`
+
+> Media Queries are used to apply different styles based on the screen size or device type.
+
+> They are defined using the @media rule in CSS.
+
+> For example:
+
+> @media only screen and (max-width: 600px) {
+
+> /* styles for screens with a maximum width of 600px */
+
+> }
+
+---
+
 ## 20260805 - What is the primary function of a network switch, and how does it differ from a hub?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `OSI model` `Data Link Layer`

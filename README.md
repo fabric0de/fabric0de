@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a network switch, and how does it differ from a hub?
+### ❓ What are Media Queries used for in Responsive Design, and how are they defined in CSS?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `OSI model` `Data Link Layer` • 📅 20260805
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `responsive-design` `css` `media-queries` • 📅 20260806
 
 </div>
 
@@ -46,11 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A network switch is used to connect multiple devices within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model.
+> Media Queries are used to apply different styles based on the screen size or device type.
 
-> A network switch is different from a hub in that it can forward data packets to specific devices, whereas a hub broadcasts data to all connected devices.
+> They are defined using the @media rule in CSS.
 
-> This makes network switches more efficient and secure than hubs.
+> For example:
+
+> @media only screen and (max-width: 600px) {
+
+> /* styles for screens with a maximum width of 600px */
+
+> }
 
 <br>
 
