@@ -1630,17 +1630,19 @@
     "createdAt": "2026-08-05T14:09:30.881Z"
   },
   {
-    "answer": "Media Queries are used to apply different styles based on the screen size or device type.\nThey are defined using the @media rule in CSS.\nFor example:\n@media only screen and (max-width: 600px) {\n  /* styles for screens with a maximum width of 600px */\n}\n",
+    "answer": "A design system is a collection of reusable components, guidelines, and assets that aim to standardize the visual language and user experience of a product or organization.\nIt typically includes a set of principles, patterns, and standards for design and development.\nDesign systems can be used to improve consistency, reduce development time, and enhance the overall user experience.\nThey often consist of a style guide, component library, and design tokens.\nDesign systems can be implemented using various tools and frameworks, such as Figma, Sketch, or Storybook.\nThey are commonly used in software development, product design, and UX/UI design.",
     "difficulty": "intermediate",
-    "question": "What are Media Queries used for in Responsive Design, and how are they defined in CSS?",
+    "question": "What is a design system, and what are its primary goals and components?",
     "tags": [
-      "responsive-design",
-      "css",
-      "media-queries"
+      "design systems",
+      "user experience",
+      "product design",
+      "software development",
+      "ux/ui design"
     ],
-    "theme": "Responsive Design",
+    "theme": "Design Systems",
     "type": "open",
     "id": "20260806",
-    "createdAt": "2026-08-06T02:35:56.568Z"
+    "createdAt": "2026-08-06T14:09:57.044Z"
   }
 ]
