@@ -2,17 +2,17 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260807 - What is a distributed system, and what are its key characteristics?
+## 20260807 - What are some key considerations when designing a system to store and retrieve user profiles?
 
-theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking` `scalability` `reliability` `fault tolerance`
+theme: **System Design** • difficulty: **intermediate** • `System Design` `Interview` `Scalability` `Database`
 
-> A distributed system is a collection of independent computers that appear as a single system to the end-user. Each computer in the system can be a separate machine, or it can be a process or a thread running on a single machine.
+> A system design interview typically involves designing a large-scale system to meet specific requirements.
 
-> In a distributed system, each computer or process has its own memory and resources, and they communicate with each other through messages or shared memory.
+> For example, designing a system to store and retrieve user profiles, including features such as user authentication, data storage, and scalability.
 
-> Distributed systems are often used to improve scalability, reliability, and fault tolerance, as well as to take advantage of parallel processing and distributed data storage.
+> The system should be able to handle a large number of users and scale horizontally to meet increasing demand.
 
-> Examples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.
+> What are some key considerations when designing this system?
 
 ---
 

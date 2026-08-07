@@ -1646,20 +1646,18 @@
     "createdAt": "2026-08-06T14:09:57.044Z"
   },
   {
-    "answer": "A distributed system is a collection of independent computers that appear as a single system to the end-user. Each computer in the system can be a separate machine, or it can be a process or a thread running on a single machine.\n\nIn a distributed system, each computer or process has its own memory and resources, and they communicate with each other through messages or shared memory.\n\nDistributed systems are often used to improve scalability, reliability, and fault tolerance, as well as to take advantage of parallel processing and distributed data storage.\n\nExamples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.",
+    "answer": "A system design interview typically involves designing a large-scale system to meet specific requirements.\n\nFor example, designing a system to store and retrieve user profiles, including features such as user authentication, data storage, and scalability.\n\nThe system should be able to handle a large number of users and scale horizontally to meet increasing demand.\n\nWhat are some key considerations when designing this system?",
     "difficulty": "intermediate",
-    "question": "What is a distributed system, and what are its key characteristics?",
+    "question": "What are some key considerations when designing a system to store and retrieve user profiles?",
     "tags": [
-      "distributed systems",
-      "computer science",
-      "networking",
-      "scalability",
-      "reliability",
-      "fault tolerance"
+      "System Design",
+      "Interview",
+      "Scalability",
+      "Database"
     ],
-    "theme": "Distributed Systems",
+    "theme": "System Design",
     "type": "open",
     "id": "20260807",
-    "createdAt": "2026-08-07T02:41:03.561Z"
+    "createdAt": "2026-08-07T13:03:52.007Z"
   }
 ]
