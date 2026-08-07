@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260807 - What is a distributed system, and what are its key characteristics?
+
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed systems` `computer science` `networking` `scalability` `reliability` `fault tolerance`
+
+> A distributed system is a collection of independent computers that appear as a single system to the end-user. Each computer in the system can be a separate machine, or it can be a process or a thread running on a single machine.
+
+> In a distributed system, each computer or process has its own memory and resources, and they communicate with each other through messages or shared memory.
+
+> Distributed systems are often used to improve scalability, reliability, and fault tolerance, as well as to take advantage of parallel processing and distributed data storage.
+
+> Examples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.
+
+---
+
 ## 20260806 - What is a design system, and what are its primary goals and components?
 
 theme: **Design Systems** • difficulty: **intermediate** • `design systems` `user experience` `product design` `software development` `ux/ui design`

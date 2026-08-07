@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a design system, and what are its primary goals and components?
+### ❓ What is a distributed system, and what are its key characteristics?
 
 </div>
 
 <div align="center">
 
-🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design systems` `user experience` `product design` `software development` `ux/ui design` • 📅 20260806
+🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed systems` `computer science` `networking` `scalability` `reliability` `fault tolerance` • 📅 20260807
 
 </div>
 
@@ -46,17 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A design system is a collection of reusable components, guidelines, and assets that aim to standardize the visual language and user experience of a product or organization.
+> A distributed system is a collection of independent computers that appear as a single system to the end-user. Each computer in the system can be a separate machine, or it can be a process or a thread running on a single machine.
 
-> It typically includes a set of principles, patterns, and standards for design and development.
+> In a distributed system, each computer or process has its own memory and resources, and they communicate with each other through messages or shared memory.
 
-> Design systems can be used to improve consistency, reduce development time, and enhance the overall user experience.
+> Distributed systems are often used to improve scalability, reliability, and fault tolerance, as well as to take advantage of parallel processing and distributed data storage.
 
-> They often consist of a style guide, component library, and design tokens.
-
-> Design systems can be implemented using various tools and frameworks, such as Figma, Sketch, or Storybook.
-
-> They are commonly used in software development, product design, and UX/UI design.
+> Examples of distributed systems include cloud computing platforms, peer-to-peer networks, and distributed databases.
 
 <br>
 
