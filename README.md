@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a key concept in DevOps that involves automating the build, test, and deployment of software applications?
+### ❓ What is the primary function of a load balancer in cloud infrastructure?
 
 </div>
 
 <div align="center">
 
-🗓️ **DevOps** • 🟡 **intermediate** • 🏷️ `DevOps` `CI/CD` `Automation` `Software Development` • 📅 20260808
+🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `cloud infrastructure` `load balancing` `high availability` `fault tolerance` • 📅 20260808
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A Continuous Integration/Continuous Deployment (CI/CD) pipeline is a series of automated processes that build, test, and deploy software applications.
+> A load balancer is used to distribute incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability of applications.
 
-> It involves integrating code changes into a central repository frequently, and then deploying the application to production.
+> It acts as a single entry point for clients, hiding the complexity of the underlying infrastructure.
 
-> CI/CD pipelines can be implemented using tools like Jenkins, GitLab CI/CD, or CircleCI.
+> Load balancers can be implemented using software or hardware solutions, such as HAProxy or F5.
 
-> They help improve software quality, reduce deployment risks, and increase developer productivity.
+> They can also be deployed in the cloud, using services like AWS Elastic Load Balancer or Google Cloud Load Balancing.
 
-> CI/CD pipelines typically consist of several stages, including build, test, and deployment.
-
-> They can be customized to fit the specific needs of a project or organization.
+> Load balancers are commonly used in cloud infrastructure to ensure high availability and fault tolerance.
 
 <br>
 
