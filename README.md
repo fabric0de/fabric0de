@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key considerations when designing a system to store and retrieve user profiles?
+### ❓ What is a key concept in DevOps that involves automating the build, test, and deployment of software applications?
 
 </div>
 
 <div align="center">
 
-🗓️ **System Design** • 🟡 **intermediate** • 🏷️ `System Design` `Interview` `Scalability` `Database` • 📅 20260807
+🗓️ **DevOps** • 🟡 **intermediate** • 🏷️ `DevOps` `CI/CD` `Automation` `Software Development` • 📅 20260808
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A system design interview typically involves designing a large-scale system to meet specific requirements.
+> A Continuous Integration/Continuous Deployment (CI/CD) pipeline is a series of automated processes that build, test, and deploy software applications.
 
-> For example, designing a system to store and retrieve user profiles, including features such as user authentication, data storage, and scalability.
+> It involves integrating code changes into a central repository frequently, and then deploying the application to production.
 
-> The system should be able to handle a large number of users and scale horizontally to meet increasing demand.
+> CI/CD pipelines can be implemented using tools like Jenkins, GitLab CI/CD, or CircleCI.
 
-> What are some key considerations when designing this system?
+> They help improve software quality, reduce deployment risks, and increase developer productivity.
+
+> CI/CD pipelines typically consist of several stages, including build, test, and deployment.
+
+> They can be customized to fit the specific needs of a project or organization.
 
 <br>
 

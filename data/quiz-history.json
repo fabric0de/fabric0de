@@ -1659,5 +1659,20 @@
     "type": "open",
     "id": "20260807",
     "createdAt": "2026-08-07T13:03:52.007Z"
+  },
+  {
+    "answer": "A Continuous Integration/Continuous Deployment (CI/CD) pipeline is a series of automated processes that build, test, and deploy software applications.\nIt involves integrating code changes into a central repository frequently, and then deploying the application to production.\nCI/CD pipelines can be implemented using tools like Jenkins, GitLab CI/CD, or CircleCI.\nThey help improve software quality, reduce deployment risks, and increase developer productivity.\nCI/CD pipelines typically consist of several stages, including build, test, and deployment.\nThey can be customized to fit the specific needs of a project or organization.",
+    "difficulty": "intermediate",
+    "question": "What is a key concept in DevOps that involves automating the build, test, and deployment of software applications?",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Automation",
+      "Software Development"
+    ],
+    "theme": "DevOps",
+    "type": "open",
+    "id": "20260808",
+    "createdAt": "2026-08-08T01:40:40.985Z"
   }
 ]

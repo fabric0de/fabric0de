@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260808 - What is a key concept in DevOps that involves automating the build, test, and deployment of software applications?
+
+theme: **DevOps** • difficulty: **intermediate** • `DevOps` `CI/CD` `Automation` `Software Development`
+
+> A Continuous Integration/Continuous Deployment (CI/CD) pipeline is a series of automated processes that build, test, and deploy software applications.
+
+> It involves integrating code changes into a central repository frequently, and then deploying the application to production.
+
+> CI/CD pipelines can be implemented using tools like Jenkins, GitLab CI/CD, or CircleCI.
+
+> They help improve software quality, reduce deployment risks, and increase developer productivity.
+
+> CI/CD pipelines typically consist of several stages, including build, test, and deployment.
+
+> They can be customized to fit the specific needs of a project or organization.
+
+---
+
 ## 20260807 - What are some key considerations when designing a system to store and retrieve user profiles?
 
 theme: **System Design** • difficulty: **intermediate** • `System Design` `Interview` `Scalability` `Database`
