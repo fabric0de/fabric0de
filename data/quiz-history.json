@@ -1674,5 +1674,19 @@
     "type": "open",
     "id": "20260808",
     "createdAt": "2026-08-08T12:48:50.576Z"
+  },
+  {
+    "answer": "A bubble sort algorithm is a simple sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.",
+    "difficulty": "beginner",
+    "question": "What is the basic concept behind the bubble sort algorithm?",
+    "tags": [
+      "Algorithms",
+      "Sorting",
+      "Data Structures"
+    ],
+    "theme": "Algorithms",
+    "type": "open",
+    "id": "20260809",
+    "createdAt": "2026-08-09T01:46:34.828Z"
   }
 ]

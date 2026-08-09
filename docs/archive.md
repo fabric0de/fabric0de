@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260809 - What is the basic concept behind the bubble sort algorithm?
+
+theme: **Algorithms** • difficulty: **beginner** • `Algorithms` `Sorting` `Data Structures`
+
+> A bubble sort algorithm is a simple sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+---
+
 ## 20260808 - What is the primary function of a load balancer in cloud infrastructure?
 
 theme: **Cloud Infrastructure** • difficulty: **intermediate** • `cloud infrastructure` `load balancing` `high availability` `fault tolerance`

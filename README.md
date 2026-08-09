@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a load balancer in cloud infrastructure?
+### ❓ What is the basic concept behind the bubble sort algorithm?
 
 </div>
 
 <div align="center">
 
-🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `cloud infrastructure` `load balancing` `high availability` `fault tolerance` • 📅 20260808
+🗓️ **Algorithms** • 🟢 **beginner** • 🏷️ `Algorithms` `Sorting` `Data Structures` • 📅 20260809
 
 </div>
 
@@ -46,15 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A load balancer is used to distribute incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability of applications.
-
-> It acts as a single entry point for clients, hiding the complexity of the underlying infrastructure.
-
-> Load balancers can be implemented using software or hardware solutions, such as HAProxy or F5.
-
-> They can also be deployed in the cloud, using services like AWS Elastic Load Balancer or Google Cloud Load Balancing.
-
-> Load balancers are commonly used in cloud infrastructure to ensure high availability and fault tolerance.
+> A bubble sort algorithm is a simple sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 
 <br>
 
