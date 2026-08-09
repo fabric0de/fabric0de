@@ -1676,17 +1676,18 @@
     "createdAt": "2026-08-08T12:48:50.576Z"
   },
   {
-    "answer": "A bubble sort algorithm is a simple sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.",
-    "difficulty": "beginner",
-    "question": "What is the basic concept behind the bubble sort algorithm?",
+    "answer": "A stack is a Last-In-First-Out (LIFO) data structure where elements are added and removed from the top.\nElements are added using the push operation and removed using the pop operation.\nStacks are commonly used in recursive algorithms and function calls.\nThey are also used in parsing expressions and evaluating postfix notation.",
+    "difficulty": "intermediate",
+    "question": "What is a stack data structure, and how are elements added and removed from it?",
     "tags": [
-      "Algorithms",
-      "Sorting",
-      "Data Structures"
+      "data-structures",
+      "stack",
+      "lifo",
+      "push-pop"
     ],
-    "theme": "Algorithms",
+    "theme": "Data Structures",
     "type": "open",
     "id": "20260809",
-    "createdAt": "2026-08-09T01:46:34.828Z"
+    "createdAt": "2026-08-09T12:51:12.398Z"
   }
 ]
