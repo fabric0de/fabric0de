@@ -2,15 +2,17 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260810 - What is the purpose of the console.log() function in JavaScript, and how would you use it to print a message to the console?
+## 20260810 - Write a SQL query to retrieve all records from the customers table where the country is USA.
 
-theme: **javascript** • difficulty: **beginner** • `javascript` `console` `output`
+theme: **SQL** • difficulty: **intermediate** • `SQL` `database` `query`
 
-> console.log('Hello, World!');
+> SELECT * FROM customers WHERE country='USA';
 
-> // Output: Hello, World!
+> This query will return all records from the customers table where the country is USA.
 
-> // This is an example of using the console.log() function in JavaScript to print output to the console.
+> It uses the WHERE clause to filter the records based on the country column.
+
+> The result will be a list of all customers from the USA.
 
 ---
 

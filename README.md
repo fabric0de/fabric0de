@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the console.log() function in JavaScript, and how would you use it to print a message to the console?
+### ❓ Write a SQL query to retrieve all records from the customers table where the country is USA.
 
 </div>
 
 <div align="center">
 
-🗓️ **javascript** • 🟢 **beginner** • 🏷️ `javascript` `console` `output` • 📅 20260810
+🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `SQL` `database` `query` • 📅 20260810
 
 </div>
 
@@ -46,11 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> console.log('Hello, World!');
+> SELECT * FROM customers WHERE country='USA';
 
-> // Output: Hello, World!
+> This query will return all records from the customers table where the country is USA.
 
-> // This is an example of using the console.log() function in JavaScript to print output to the console.
+> It uses the WHERE clause to filter the records based on the country column.
+
+> The result will be a list of all customers from the USA.
 
 <br>
 

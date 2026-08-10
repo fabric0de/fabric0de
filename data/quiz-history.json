@@ -1691,17 +1691,17 @@
     "createdAt": "2026-08-09T12:51:12.398Z"
   },
   {
-    "answer": "console.log('Hello, World!');\n// Output: Hello, World!\n// This is an example of using the console.log() function in JavaScript to print output to the console.",
-    "difficulty": "beginner",
-    "question": "What is the purpose of the console.log() function in JavaScript, and how would you use it to print a message to the console?",
+    "answer": "SELECT * FROM customers WHERE country='USA';\nThis query will return all records from the customers table where the country is USA.\nIt uses the WHERE clause to filter the records based on the country column.\nThe result will be a list of all customers from the USA.",
+    "difficulty": "intermediate",
+    "question": "Write a SQL query to retrieve all records from the customers table where the country is USA.",
     "tags": [
-      "javascript",
-      "console",
-      "output"
+      "SQL",
+      "database",
+      "query"
     ],
-    "theme": "javascript",
+    "theme": "SQL",
     "type": "open",
     "id": "20260810",
-    "createdAt": "2026-08-10T01:50:10.659Z"
+    "createdAt": "2026-08-10T13:08:11.106Z"
   }
 ]
