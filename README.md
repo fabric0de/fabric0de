@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a stack data structure, and how are elements added and removed from it?
+### ❓ What is the purpose of the console.log() function in JavaScript, and how would you use it to print a message to the console?
 
 </div>
 
 <div align="center">
 
-🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `data-structures` `stack` `lifo` `push-pop` • 📅 20260809
+🗓️ **javascript** • 🟢 **beginner** • 🏷️ `javascript` `console` `output` • 📅 20260810
 
 </div>
 
@@ -46,13 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A stack is a Last-In-First-Out (LIFO) data structure where elements are added and removed from the top.
+> console.log('Hello, World!');
 
-> Elements are added using the push operation and removed using the pop operation.
+> // Output: Hello, World!
 
-> Stacks are commonly used in recursive algorithms and function calls.
-
-> They are also used in parsing expressions and evaluating postfix notation.
+> // This is an example of using the console.log() function in JavaScript to print output to the console.
 
 <br>
 

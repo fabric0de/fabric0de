@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260810 - What is the purpose of the console.log() function in JavaScript, and how would you use it to print a message to the console?
+
+theme: **javascript** • difficulty: **beginner** • `javascript` `console` `output`
+
+> console.log('Hello, World!');
+
+> // Output: Hello, World!
+
+> // This is an example of using the console.log() function in JavaScript to print output to the console.
+
+---
+
 ## 20260809 - What is a stack data structure, and how are elements added and removed from it?
 
 theme: **Data Structures** • difficulty: **intermediate** • `data-structures` `stack` `lifo` `push-pop`

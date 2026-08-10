@@ -1689,5 +1689,19 @@
     "type": "open",
     "id": "20260809",
     "createdAt": "2026-08-09T12:51:12.398Z"
+  },
+  {
+    "answer": "console.log('Hello, World!');\n// Output: Hello, World!\n// This is an example of using the console.log() function in JavaScript to print output to the console.",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the console.log() function in JavaScript, and how would you use it to print a message to the console?",
+    "tags": [
+      "javascript",
+      "console",
+      "output"
+    ],
+    "theme": "javascript",
+    "type": "open",
+    "id": "20260810",
+    "createdAt": "2026-08-10T01:50:10.659Z"
   }
 ]
