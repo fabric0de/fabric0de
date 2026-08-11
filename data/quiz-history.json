@@ -1705,18 +1705,19 @@
     "createdAt": "2026-08-10T13:08:11.106Z"
   },
   {
-    "answer": "A meta description is a short summary of a web page's content, typically 155-160 characters in length. It is used by search engines to display a brief description of the page in search engine results. This helps users understand what the page is about and improves click-through rates. A well-written meta description should include the target keywords and entice users to click on the page.",
+    "answer": "The main difference between the article and section elements in HTML is that the article element represents an independent piece of content, whereas the section element represents a self-contained section within a larger document.\n\nThe article element is typically used for standalone articles, blog posts, or news stories, whereas the section element is used for sections within a larger document, such as a chapter in a book or a section in a magazine.\n\nFor example, if you're writing a blog post, you would use the article element for the entire post, but if you're writing a longer document with multiple sections, you would use the section element for each section within the document.",
     "difficulty": "intermediate",
-    "question": "What is the purpose of a meta description in SEO, and what are its key characteristics?",
+    "question": "What is the main difference between the article and section elements in HTML, and when would you use each?",
     "tags": [
-      "SEO",
-      "meta description",
-      "search engine optimization",
-      "search engine results"
+      "html",
+      "semantics",
+      "elements",
+      "article",
+      "section"
     ],
-    "theme": "SEO",
+    "theme": "HTML Semantics",
     "type": "open",
     "id": "20260811",
-    "createdAt": "2026-08-11T01:46:47.814Z"
+    "createdAt": "2026-08-11T13:06:00.813Z"
   }
 ]
