@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ Write a SQL query to retrieve all records from the customers table where the country is USA.
+### ❓ What is the purpose of a meta description in SEO, and what are its key characteristics?
 
 </div>
 
 <div align="center">
 
-🗓️ **SQL** • 🟡 **intermediate** • 🏷️ `SQL` `database` `query` • 📅 20260810
+🗓️ **SEO** • 🟡 **intermediate** • 🏷️ `SEO` `meta description` `search engine optimization` `search engine results` • 📅 20260811
 
 </div>
 
@@ -46,13 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> SELECT * FROM customers WHERE country='USA';
-
-> This query will return all records from the customers table where the country is USA.
-
-> It uses the WHERE clause to filter the records based on the country column.
-
-> The result will be a list of all customers from the USA.
+> A meta description is a short summary of a web page's content, typically 155-160 characters in length. It is used by search engines to display a brief description of the page in search engine results. This helps users understand what the page is about and improves click-through rates. A well-written meta description should include the target keywords and entice users to click on the page.
 
 <br>
 

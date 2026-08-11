@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260811 - What is the purpose of a meta description in SEO, and what are its key characteristics?
+
+theme: **SEO** • difficulty: **intermediate** • `SEO` `meta description` `search engine optimization` `search engine results`
+
+> A meta description is a short summary of a web page's content, typically 155-160 characters in length. It is used by search engines to display a brief description of the page in search engine results. This helps users understand what the page is about and improves click-through rates. A well-written meta description should include the target keywords and entice users to click on the page.
+
+---
+
 ## 20260810 - Write a SQL query to retrieve all records from the customers table where the country is USA.
 
 theme: **SQL** • difficulty: **intermediate** • `SQL` `database` `query`

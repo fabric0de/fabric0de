@@ -1703,5 +1703,20 @@
     "type": "open",
     "id": "20260810",
     "createdAt": "2026-08-10T13:08:11.106Z"
+  },
+  {
+    "answer": "A meta description is a short summary of a web page's content, typically 155-160 characters in length. It is used by search engines to display a brief description of the page in search engine results. This helps users understand what the page is about and improves click-through rates. A well-written meta description should include the target keywords and entice users to click on the page.",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of a meta description in SEO, and what are its key characteristics?",
+    "tags": [
+      "SEO",
+      "meta description",
+      "search engine optimization",
+      "search engine results"
+    ],
+    "theme": "SEO",
+    "type": "open",
+    "id": "20260811",
+    "createdAt": "2026-08-11T01:46:47.814Z"
   }
 ]
