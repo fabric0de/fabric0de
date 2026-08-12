@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between the article and section elements in HTML, and when would you use each?
+### ❓ What is HTTP and how does it work?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTML Semantics** • 🟡 **intermediate** • 🏷️ `html` `semantics` `elements` `article` `section` • 📅 20260811
+🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `protocol` `networking` `web development` • 📅 20260812
 
 </div>
 
@@ -46,11 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The main difference between the article and section elements in HTML is that the article element represents an independent piece of content, whereas the section element represents a self-contained section within a larger document.
+> HTTP is a protocol used for transferring data over the internet. It is an application-layer protocol that uses TCP/IP as its underlying transport protocol.
 
-> The article element is typically used for standalone articles, blog posts, or news stories, whereas the section element is used for sections within a larger document, such as a chapter in a book or a section in a magazine.
+> HTTP is a request-response protocol, meaning that a client (such as a web browser) sends a request to a server, and the server responds with the requested data.
 
-> For example, if you're writing a blog post, you would use the article element for the entire post, but if you're writing a longer document with multiple sections, you would use the section element for each section within the document.
+> HTTP uses a variety of methods, including GET, POST, PUT, and DELETE, to indicate the type of request being made.
+
+> HTTP also uses status codes to indicate the result of a request, such as 200 for a successful request and 404 for a resource not found.
 
 <br>
 

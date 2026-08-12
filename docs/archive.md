@@ -2,6 +2,20 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260812 - What is HTTP and how does it work?
+
+theme: **HTTP** • difficulty: **intermediate** • `http` `protocol` `networking` `web development`
+
+> HTTP is a protocol used for transferring data over the internet. It is an application-layer protocol that uses TCP/IP as its underlying transport protocol.
+
+> HTTP is a request-response protocol, meaning that a client (such as a web browser) sends a request to a server, and the server responds with the requested data.
+
+> HTTP uses a variety of methods, including GET, POST, PUT, and DELETE, to indicate the type of request being made.
+
+> HTTP also uses status codes to indicate the result of a request, such as 200 for a successful request and 404 for a resource not found.
+
+---
+
 ## 20260811 - What is the main difference between the article and section elements in HTML, and when would you use each?
 
 theme: **HTML Semantics** • difficulty: **intermediate** • `html` `semantics` `elements` `article` `section`
