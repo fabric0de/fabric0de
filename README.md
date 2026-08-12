@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is HTTP and how does it work?
+### ❓ What is the main difference between a cache and a buffer in computer systems?
 
 </div>
 
 <div align="center">
 
-🗓️ **HTTP** • 🟡 **intermediate** • 🏷️ `http` `protocol` `networking` `web development` • 📅 20260812
+🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `Caching` `Computer Systems` `Memory Management` • 📅 20260812
 
 </div>
 
@@ -46,13 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> HTTP is a protocol used for transferring data over the internet. It is an application-layer protocol that uses TCP/IP as its underlying transport protocol.
+> What is the main difference between a cache and a buffer in computer systems?
 
-> HTTP is a request-response protocol, meaning that a client (such as a web browser) sends a request to a server, and the server responds with the requested data.
+> A cache is a small, fast memory that stores frequently accessed data or instructions, reducing the time it takes to access main memory.
 
-> HTTP uses a variety of methods, including GET, POST, PUT, and DELETE, to indicate the type of request being made.
+> A buffer, on the other hand, is a region of memory that temporarily stores data being transferred between devices or systems.
 
-> HTTP also uses status codes to indicate the result of a request, such as 200 for a successful request and 404 for a resource not found.
+> While both caches and buffers improve system performance, they serve different purposes and have distinct characteristics.
+
+> Caches are typically used to speed up access to frequently used data, whereas buffers are used to manage data transfer between devices or systems.
+
+> In summary, a cache is a small, fast memory that stores frequently accessed data, whereas a buffer is a temporary storage area for data being transferred between devices or systems.
 
 <br>
 
