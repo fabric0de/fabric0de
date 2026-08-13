@@ -2,19 +2,11 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260813 - What is a design system in UI Engineering, and what are its primary goals and components?
+## 20260813 - What are some strategies to improve frontend performance when dealing with large images and resources?
 
-theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `Design System` `Frontend Development` `User Experience`
+theme: **Frontend Performance** • difficulty: **intermediate** • `frontend performance` `lazy loading` `intersection observer`
 
-> In UI Engineering, a design system is a collection of reusable components, guidelines, and assets that aim to improve the consistency and quality of a product's user interface.
-
-> It typically includes a set of principles, patterns, and standards for designing and building UI components.
-
-> A design system can be implemented using various tools and technologies, such as Sketch, Figma, or Storybook.
-
-> Its primary goals are to reduce design and development time, improve collaboration, and enhance the overall user experience.
-
-> Design systems can be applied to various types of products, including web applications, mobile apps, and desktop software.
+> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute to 'lazy' on the img tag. Additionally, you can use the 'IntersectionObserver' API to load resources only when they are visible in the viewport. This approach can help reduce the initial page load time and improve the overall user experience.
 
 ---
 
