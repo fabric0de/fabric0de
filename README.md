@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between a cache and a buffer in computer systems?
+### ❓ What is a design system in UI Engineering, and what are its primary goals and components?
 
 </div>
 
 <div align="center">
 
-🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `Caching` `Computer Systems` `Memory Management` • 📅 20260812
+🗓️ **UI Engineering** • 🟡 **intermediate** • 🏷️ `UI Engineering` `Design System` `Frontend Development` `User Experience` • 📅 20260813
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between a cache and a buffer in computer systems?
+> In UI Engineering, a design system is a collection of reusable components, guidelines, and assets that aim to improve the consistency and quality of a product's user interface.
 
-> A cache is a small, fast memory that stores frequently accessed data or instructions, reducing the time it takes to access main memory.
+> It typically includes a set of principles, patterns, and standards for designing and building UI components.
 
-> A buffer, on the other hand, is a region of memory that temporarily stores data being transferred between devices or systems.
+> A design system can be implemented using various tools and technologies, such as Sketch, Figma, or Storybook.
 
-> While both caches and buffers improve system performance, they serve different purposes and have distinct characteristics.
+> Its primary goals are to reduce design and development time, improve collaboration, and enhance the overall user experience.
 
-> Caches are typically used to speed up access to frequently used data, whereas buffers are used to manage data transfer between devices or systems.
-
-> In summary, a cache is a small, fast memory that stores frequently accessed data, whereas a buffer is a temporary storage area for data being transferred between devices or systems.
+> Design systems can be applied to various types of products, including web applications, mobile apps, and desktop software.
 
 <br>
 

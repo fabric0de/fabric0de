@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260813 - What is a design system in UI Engineering, and what are its primary goals and components?
+
+theme: **UI Engineering** • difficulty: **intermediate** • `UI Engineering` `Design System` `Frontend Development` `User Experience`
+
+> In UI Engineering, a design system is a collection of reusable components, guidelines, and assets that aim to improve the consistency and quality of a product's user interface.
+
+> It typically includes a set of principles, patterns, and standards for designing and building UI components.
+
+> A design system can be implemented using various tools and technologies, such as Sketch, Figma, or Storybook.
+
+> Its primary goals are to reduce design and development time, improve collaboration, and enhance the overall user experience.
+
+> Design systems can be applied to various types of products, including web applications, mobile apps, and desktop software.
+
+---
+
 ## 20260812 - What is the main difference between a cache and a buffer in computer systems?
 
 theme: **Caching** • difficulty: **intermediate** • `Caching` `Computer Systems` `Memory Management`
