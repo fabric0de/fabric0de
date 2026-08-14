@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some strategies to improve frontend performance when dealing with large images and resources?
+### ❓ What is Data Modeling, and why is it an essential step in database design and development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend performance` `lazy loading` `intersection observer` • 📅 20260813
+🗓️ **Data Modeling** • 🟡 **intermediate** • 🏷️ `Data Modeling` `Database Design` `Database Development` • 📅 20260814
 
 </div>
 
@@ -46,7 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute to 'lazy' on the img tag. Additionally, you can use the 'IntersectionObserver' API to load resources only when they are visible in the viewport. This approach can help reduce the initial page load time and improve the overall user experience.
+> Data Modeling is the process of creating a conceptual representation of data to define the relationships between data entities.
+
+> It involves identifying the data entities, attributes, and relationships to create a logical structure of the data.
+
+> This structure is used to design the database schema and ensure data consistency and integrity.
+
+> Data Modeling is a crucial step in database design and development.
+
+> It helps to identify data redundancy, inconsistencies, and other issues that can affect data quality.
+
+> A well-designed data model can improve data management, reduce data errors, and enhance data analysis.
 
 <br>
 

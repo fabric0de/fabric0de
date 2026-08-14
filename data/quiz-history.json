@@ -1747,5 +1747,19 @@
     "type": "open",
     "id": "20260813",
     "createdAt": "2026-08-13T13:11:07.979Z"
+  },
+  {
+    "answer": "Data Modeling is the process of creating a conceptual representation of data to define the relationships between data entities.\nIt involves identifying the data entities, attributes, and relationships to create a logical structure of the data.\nThis structure is used to design the database schema and ensure data consistency and integrity.\nData Modeling is a crucial step in database design and development.\nIt helps to identify data redundancy, inconsistencies, and other issues that can affect data quality.\nA well-designed data model can improve data management, reduce data errors, and enhance data analysis.",
+    "difficulty": "intermediate",
+    "question": "What is Data Modeling, and why is it an essential step in database design and development?",
+    "tags": [
+      "Data Modeling",
+      "Database Design",
+      "Database Development"
+    ],
+    "theme": "Data Modeling",
+    "type": "open",
+    "id": "20260814",
+    "createdAt": "2026-08-14T01:58:55.638Z"
   }
 ]

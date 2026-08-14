@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260814 - What is Data Modeling, and why is it an essential step in database design and development?
+
+theme: **Data Modeling** • difficulty: **intermediate** • `Data Modeling` `Database Design` `Database Development`
+
+> Data Modeling is the process of creating a conceptual representation of data to define the relationships between data entities.
+
+> It involves identifying the data entities, attributes, and relationships to create a logical structure of the data.
+
+> This structure is used to design the database schema and ensure data consistency and integrity.
+
+> Data Modeling is a crucial step in database design and development.
+
+> It helps to identify data redundancy, inconsistencies, and other issues that can affect data quality.
+
+> A well-designed data model can improve data management, reduce data errors, and enhance data analysis.
+
+---
+
 ## 20260813 - What are some strategies to improve frontend performance when dealing with large images and resources?
 
 theme: **Frontend Performance** • difficulty: **intermediate** • `frontend performance` `lazy loading` `intersection observer`
