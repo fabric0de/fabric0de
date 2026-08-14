@@ -1749,17 +1749,19 @@
     "createdAt": "2026-08-13T13:11:07.979Z"
   },
   {
-    "answer": "Data Modeling is the process of creating a conceptual representation of data to define the relationships between data entities.\nIt involves identifying the data entities, attributes, and relationships to create a logical structure of the data.\nThis structure is used to design the database schema and ensure data consistency and integrity.\nData Modeling is a crucial step in database design and development.\nIt helps to identify data redundancy, inconsistencies, and other issues that can affect data quality.\nA well-designed data model can improve data management, reduce data errors, and enhance data analysis.",
+    "answer": "What is the primary advantage of using a message queue in a microservices architecture?\nIt allows for loose coupling between services, enabling them to operate independently and asynchronously.\nThis decouples the producer from the consumer, making it easier to scale and manage the system.\nMessage queues also provide a way to handle failures and retries, improving the overall reliability of the system.\nThey can also help to reduce the load on the system by buffering messages and allowing them to be processed at a later time.\nThis can be particularly useful in scenarios where the producer is producing messages at a faster rate than the consumer can process them.",
     "difficulty": "intermediate",
-    "question": "What is Data Modeling, and why is it an essential step in database design and development?",
+    "question": "What is the primary advantage of using a message queue in a microservices architecture?",
     "tags": [
-      "Data Modeling",
-      "Database Design",
-      "Database Development"
+      "message queues",
+      "microservices",
+      "architecture",
+      "loose coupling",
+      "asynchronous processing"
     ],
-    "theme": "Data Modeling",
+    "theme": "Message Queues",
     "type": "open",
     "id": "20260814",
-    "createdAt": "2026-08-14T01:58:55.638Z"
+    "createdAt": "2026-08-14T13:06:27.240Z"
   }
 ]

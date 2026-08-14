@@ -2,21 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260814 - What is Data Modeling, and why is it an essential step in database design and development?
+## 20260814 - What is the primary advantage of using a message queue in a microservices architecture?
 
-theme: **Data Modeling** • difficulty: **intermediate** • `Data Modeling` `Database Design` `Database Development`
+theme: **Message Queues** • difficulty: **intermediate** • `message queues` `microservices` `architecture` `loose coupling` `asynchronous processing`
 
-> Data Modeling is the process of creating a conceptual representation of data to define the relationships between data entities.
+> What is the primary advantage of using a message queue in a microservices architecture?
 
-> It involves identifying the data entities, attributes, and relationships to create a logical structure of the data.
+> It allows for loose coupling between services, enabling them to operate independently and asynchronously.
 
-> This structure is used to design the database schema and ensure data consistency and integrity.
+> This decouples the producer from the consumer, making it easier to scale and manage the system.
 
-> Data Modeling is a crucial step in database design and development.
+> Message queues also provide a way to handle failures and retries, improving the overall reliability of the system.
 
-> It helps to identify data redundancy, inconsistencies, and other issues that can affect data quality.
+> They can also help to reduce the load on the system by buffering messages and allowing them to be processed at a later time.
 
-> A well-designed data model can improve data management, reduce data errors, and enhance data analysis.
+> This can be particularly useful in scenarios where the producer is producing messages at a faster rate than the consumer can process them.
 
 ---
 
