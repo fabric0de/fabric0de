@@ -1763,5 +1763,20 @@
     "type": "open",
     "id": "20260814",
     "createdAt": "2026-08-14T13:06:27.240Z"
+  },
+  {
+    "answer": "When debugging a program, what is the primary difference between a breakpoint and a watchpoint?\nA breakpoint is a point in the code where the program execution will pause, allowing you to inspect the variables and call stack.\nA watchpoint is a specific variable or expression that will be evaluated and paused when its value changes.\nBreakpoints are typically set at specific lines of code, while watchpoints are set on specific variables or expressions.\nThis distinction is crucial in understanding how to effectively use debugging tools to identify and fix issues in your code.",
+    "difficulty": "intermediate",
+    "question": "What is the primary difference between a breakpoint and a watchpoint when debugging a program?",
+    "tags": [
+      "debugging",
+      "breakpoints",
+      "watchpoints",
+      "programming"
+    ],
+    "theme": "Debugging",
+    "type": "open",
+    "id": "20260815",
+    "createdAt": "2026-08-15T01:14:50.823Z"
   }
 ]

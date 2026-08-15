@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260815 - What is the primary difference between a breakpoint and a watchpoint when debugging a program?
+
+theme: **Debugging** • difficulty: **intermediate** • `debugging` `breakpoints` `watchpoints` `programming`
+
+> When debugging a program, what is the primary difference between a breakpoint and a watchpoint?
+
+> A breakpoint is a point in the code where the program execution will pause, allowing you to inspect the variables and call stack.
+
+> A watchpoint is a specific variable or expression that will be evaluated and paused when its value changes.
+
+> Breakpoints are typically set at specific lines of code, while watchpoints are set on specific variables or expressions.
+
+> This distinction is crucial in understanding how to effectively use debugging tools to identify and fix issues in your code.
+
+---
+
 ## 20260814 - What is the primary advantage of using a message queue in a microservices architecture?
 
 theme: **Message Queues** • difficulty: **intermediate** • `message queues` `microservices` `architecture` `loose coupling` `asynchronous processing`
