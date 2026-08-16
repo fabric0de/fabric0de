@@ -1778,5 +1778,19 @@
     "type": "open",
     "id": "20260815",
     "createdAt": "2026-08-15T12:37:15.615Z"
+  },
+  {
+    "answer": "A data structure is a way to organize and store data in a computer so that it can be efficiently accessed and modified.\n\nThere are many different types of data structures, including:\n\n- Arrays: a collection of elements of the same type stored in contiguous memory locations.\n\n- Linked Lists: a dynamic collection of elements where each element points to the next element in the list.\n\n- Stacks: a last-in, first-out (LIFO) data structure where elements are added and removed from the top of the stack.\n\n- Queues: a first-in, first-out (FIFO) data structure where elements are added to the end of the queue and removed from the front.\n\n- Trees: a hierarchical data structure where each node has a value and zero or more child nodes.\n\n- Graphs: a non-linear data structure consisting of nodes or vertices connected by edges.\n\nEach data structure has its own advantages and disadvantages, and the choice of which one to use depends on the specific requirements of the problem being solved.",
+    "difficulty": "intermediate",
+    "question": "What are some common types of data structures used in computer science, and how do they differ from one another?",
+    "tags": [
+      "data structures",
+      "computer science basics",
+      "programming"
+    ],
+    "theme": "CS Basics",
+    "type": "open",
+    "id": "20260816",
+    "createdAt": "2026-08-16T01:19:34.633Z"
   }
 ]

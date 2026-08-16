@@ -2,6 +2,30 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260816 - What are some common types of data structures used in computer science, and how do they differ from one another?
+
+theme: **CS Basics** • difficulty: **intermediate** • `data structures` `computer science basics` `programming`
+
+> A data structure is a way to organize and store data in a computer so that it can be efficiently accessed and modified.
+
+> There are many different types of data structures, including:
+
+> - Arrays: a collection of elements of the same type stored in contiguous memory locations.
+
+> - Linked Lists: a dynamic collection of elements where each element points to the next element in the list.
+
+> - Stacks: a last-in, first-out (LIFO) data structure where elements are added and removed from the top of the stack.
+
+> - Queues: a first-in, first-out (FIFO) data structure where elements are added to the end of the queue and removed from the front.
+
+> - Trees: a hierarchical data structure where each node has a value and zero or more child nodes.
+
+> - Graphs: a non-linear data structure consisting of nodes or vertices connected by edges.
+
+> Each data structure has its own advantages and disadvantages, and the choice of which one to use depends on the specific requirements of the problem being solved.
+
+---
+
 ## 20260815 - What is the primary function of a debugger in software development?
 
 theme: **Developer Tools** • difficulty: **intermediate** • `debugger` `software development` `development tools` `programming`
