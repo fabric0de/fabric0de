@@ -2,27 +2,37 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260816 - What are some common types of data structures used in computer science, and how do they differ from one another?
+## 20260816 - What is a sorting algorithm, and how does it work?
 
-theme: **CS Basics** • difficulty: **intermediate** • `data structures` `computer science basics` `programming`
+theme: **Algorithms** • difficulty: **intermediate** • `algorithms` `sorting` `data structures` `python`
 
-> A data structure is a way to organize and store data in a computer so that it can be efficiently accessed and modified.
+> A sorting algorithm is a type of algorithm that takes an array of elements as input and rearranges them in a specific order, such as ascending or descending order.
 
-> There are many different types of data structures, including:
+> For example, the bubble sort algorithm works by repeatedly swapping the adjacent elements if they are in the wrong order.
 
-> - Arrays: a collection of elements of the same type stored in contiguous memory locations.
+> Here is a simple implementation of the bubble sort algorithm in Python:
 
-> - Linked Lists: a dynamic collection of elements where each element points to the next element in the list.
+> ``
 
-> - Stacks: a last-in, first-out (LIFO) data structure where elements are added and removed from the top of the stack.
+> def bubble_sort(arr):
 
-> - Queues: a first-in, first-out (FIFO) data structure where elements are added to the end of the queue and removed from the front.
+> n = len(arr)
 
-> - Trees: a hierarchical data structure where each node has a value and zero or more child nodes.
+> for i in range(n):
 
-> - Graphs: a non-linear data structure consisting of nodes or vertices connected by edges.
+> for j in range(0, n - i - 1):
 
-> Each data structure has its own advantages and disadvantages, and the choice of which one to use depends on the specific requirements of the problem being solved.
+> if arr[j] > arr[j + 1]:
+
+> arr[j], arr[j + 1] = arr[j + 1], arr[j]
+
+> return arr
+
+> arr = [64, 34, 25, 12, 22, 11, 90]
+
+> print(bubble_sort(arr))
+
+> ``
 
 ---
 

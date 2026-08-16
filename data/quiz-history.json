@@ -1780,17 +1780,18 @@
     "createdAt": "2026-08-15T12:37:15.615Z"
   },
   {
-    "answer": "A data structure is a way to organize and store data in a computer so that it can be efficiently accessed and modified.\n\nThere are many different types of data structures, including:\n\n- Arrays: a collection of elements of the same type stored in contiguous memory locations.\n\n- Linked Lists: a dynamic collection of elements where each element points to the next element in the list.\n\n- Stacks: a last-in, first-out (LIFO) data structure where elements are added and removed from the top of the stack.\n\n- Queues: a first-in, first-out (FIFO) data structure where elements are added to the end of the queue and removed from the front.\n\n- Trees: a hierarchical data structure where each node has a value and zero or more child nodes.\n\n- Graphs: a non-linear data structure consisting of nodes or vertices connected by edges.\n\nEach data structure has its own advantages and disadvantages, and the choice of which one to use depends on the specific requirements of the problem being solved.",
+    "answer": "A sorting algorithm is a type of algorithm that takes an array of elements as input and rearranges them in a specific order, such as ascending or descending order.\n\nFor example, the bubble sort algorithm works by repeatedly swapping the adjacent elements if they are in the wrong order.\n\nHere is a simple implementation of the bubble sort algorithm in Python:\n\n``\ndef bubble_sort(arr):\n    n = len(arr)\n    for i in range(n):\n        for j in range(0, n - i - 1):\n            if arr[j] > arr[j + 1]:\n                arr[j], arr[j + 1] = arr[j + 1], arr[j]\n    return arr\n\narr = [64, 34, 25, 12, 22, 11, 90]\nprint(bubble_sort(arr))\n``",
     "difficulty": "intermediate",
-    "question": "What are some common types of data structures used in computer science, and how do they differ from one another?",
+    "question": "What is a sorting algorithm, and how does it work?",
     "tags": [
+      "algorithms",
+      "sorting",
       "data structures",
-      "computer science basics",
-      "programming"
+      "python"
     ],
-    "theme": "CS Basics",
+    "theme": "Algorithms",
     "type": "open",
     "id": "20260816",
-    "createdAt": "2026-08-16T01:19:34.633Z"
+    "createdAt": "2026-08-16T12:39:00.065Z"
   }
 ]
