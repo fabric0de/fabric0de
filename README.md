@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a sorting algorithm, and how does it work?
+### ❓ What is the most efficient way to concatenate all elements in a list into a single string in Python?
 
 </div>
 
 <div align="center">
 
-🗓️ **Algorithms** • 🟡 **intermediate** • 🏷️ `algorithms` `sorting` `data structures` `python` • 📅 20260816
+🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `string manipulation` `list` • 📅 20260817
 
 </div>
 
@@ -46,33 +46,25 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A sorting algorithm is a type of algorithm that takes an array of elements as input and rearranges them in a specific order, such as ascending or descending order.
+> In Python, you can use the 'join()' method to concatenate all elements in a list into a single string.
 
-> For example, the bubble sort algorithm works by repeatedly swapping the adjacent elements if they are in the wrong order.
+> For example:
 
-> Here is a simple implementation of the bubble sort algorithm in Python:
+> list = ['Hello', ' ', 'World']
 
-> ``
+> result = ''.join(list)
 
-> def bubble_sort(arr):
+> print(result) # Output: 'Hello World'
 
-> n = len(arr)
+> Alternatively, you can use the '+' operator to concatenate strings, but this is less efficient for large lists.
 
-> for i in range(n):
+> For example:
 
-> for j in range(0, n - i - 1):
+> list = ['Hello', ' ', 'World']
 
-> if arr[j] > arr[j + 1]:
+> result = ''.join(list)
 
-> arr[j], arr[j + 1] = arr[j + 1], arr[j]
-
-> return arr
-
-> arr = [64, 34, 25, 12, 22, 11, 90]
-
-> print(bubble_sort(arr))
-
-> ``
+> print(result) # Output: 'Hello World'
 
 <br>
 

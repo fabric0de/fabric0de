@@ -2,6 +2,32 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260817 - What is the most efficient way to concatenate all elements in a list into a single string in Python?
+
+theme: **Python** • difficulty: **intermediate** • `python` `string manipulation` `list`
+
+> In Python, you can use the 'join()' method to concatenate all elements in a list into a single string.
+
+> For example:
+
+> list = ['Hello', ' ', 'World']
+
+> result = ''.join(list)
+
+> print(result) # Output: 'Hello World'
+
+> Alternatively, you can use the '+' operator to concatenate strings, but this is less efficient for large lists.
+
+> For example:
+
+> list = ['Hello', ' ', 'World']
+
+> result = ''.join(list)
+
+> print(result) # Output: 'Hello World'
+
+---
+
 ## 20260816 - What is a sorting algorithm, and how does it work?
 
 theme: **Algorithms** • difficulty: **intermediate** • `algorithms` `sorting` `data structures` `python`
