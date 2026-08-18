@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the most efficient way to concatenate all elements in a list into a single string in Python?
+### ❓ What is a scene graph in rendering, and how is it used to render 3D scenes?
 
 </div>
 
 <div align="center">
 
-🗓️ **Python** • 🟡 **intermediate** • 🏷️ `python` `string manipulation` `list` • 📅 20260817
+🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `rendering` `3d graphics` `scene graph` `graphics rendering` • 📅 20260818
 
 </div>
 
@@ -46,25 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Python, you can use the 'join()' method to concatenate all elements in a list into a single string.
+> In rendering, a scene graph is a data structure that represents the hierarchy of objects in a 3D scene. It is used to efficiently render complex scenes by allowing the rendering engine to traverse the scene graph and only render the objects that are visible to the camera.
 
-> For example:
+> A scene graph typically consists of nodes that represent objects in the scene, such as meshes, lights, and cameras. Each node has a set of attributes that define its properties, such as position, rotation, and scale. The scene graph is traversed by the rendering engine, which uses the node's attributes to determine how to render the object.
 
-> list = ['Hello', ' ', 'World']
-
-> result = ''.join(list)
-
-> print(result) # Output: 'Hello World'
-
-> Alternatively, you can use the '+' operator to concatenate strings, but this is less efficient for large lists.
-
-> For example:
-
-> list = ['Hello', ' ', 'World']
-
-> result = ''.join(list)
-
-> print(result) # Output: 'Hello World'
+> Scene graphs are commonly used in 3D graphics rendering engines, such as those used in video games and computer-aided design (CAD) software.
 
 <br>
 
