@@ -1809,18 +1809,17 @@
     "createdAt": "2026-08-17T12:43:24.192Z"
   },
   {
-    "answer": "In rendering, a scene graph is a data structure that represents the hierarchy of objects in a 3D scene. It is used to efficiently render complex scenes by allowing the rendering engine to traverse the scene graph and only render the objects that are visible to the camera.\n\nA scene graph typically consists of nodes that represent objects in the scene, such as meshes, lights, and cameras. Each node has a set of attributes that define its properties, such as position, rotation, and scale. The scene graph is traversed by the rendering engine, which uses the node's attributes to determine how to render the object.\n\nScene graphs are commonly used in 3D graphics rendering engines, such as those used in video games and computer-aided design (CAD) software.",
-    "difficulty": "intermediate",
-    "question": "What is a scene graph in rendering, and how is it used to render 3D scenes?",
+    "answer": "In HTML, the 'alt' attribute is used to provide a text description of an image for users who cannot see it. This is an example of making a website more accessible.\n\nFor example:\n<img src='image.jpg' alt='A picture of a cat'>\n\nThis is especially important for users with visual impairments who rely on screen readers to navigate websites.\n\nThis is an example of implementing accessibility in HTML.",
+    "difficulty": "beginner",
+    "question": "What is the purpose of the 'alt' attribute in HTML, and why is it important for accessibility?",
     "tags": [
-      "rendering",
-      "3d graphics",
-      "scene graph",
-      "graphics rendering"
+      "Accessibility",
+      "HTML",
+      "Web Development"
     ],
-    "theme": "Rendering",
+    "theme": "Accessibility",
     "type": "open",
     "id": "20260818",
-    "createdAt": "2026-08-18T01:14:11.032Z"
+    "createdAt": "2026-08-18T12:46:27.536Z"
   }
 ]
