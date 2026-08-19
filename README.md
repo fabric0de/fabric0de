@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of an API Gateway in a software architecture?
+### ❓ In authentication, what is the primary difference between a username and a password?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `Software Architecture` `Security` `Scalability` `Management` • 📅 20260819
+🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `Security` `Identity` • 📅 20260819
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.
+> In authentication, what is the primary difference between a username and a password?
 
-> It sits between clients and backend services, providing a single entry point for all API requests.
+> A username is a unique identifier for a user, while a password is a secret word or phrase that verifies the user's identity.
 
-> This allows for better security, scalability, and management of APIs.
+> In most authentication systems, a username is used to identify the user, and a password is used to authenticate the user's identity.
 
-> API Gateways can also provide features such as caching, content compression, and API analytics.
+> This is because a username can be shared among multiple users, but a password is unique to each user.
 
-> They can be implemented using software or hardware solutions, such as NGINX or Amazon API Gateway.
+> This distinction is important in designing secure authentication systems.
+
+> Tags: Authentication, Security, Identity
 
 <br>
 
