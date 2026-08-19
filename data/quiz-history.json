@@ -1821,5 +1821,21 @@
     "type": "open",
     "id": "20260818",
     "createdAt": "2026-08-18T12:46:27.536Z"
+  },
+  {
+    "answer": "An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.\nIt sits between clients and backend services, providing a single entry point for all API requests.\nThis allows for better security, scalability, and management of APIs.\nAPI Gateways can also provide features such as caching, content compression, and API analytics.\nThey can be implemented using software or hardware solutions, such as NGINX or Amazon API Gateway.\n",
+    "difficulty": "intermediate",
+    "question": "What is the primary function of an API Gateway in a software architecture?",
+    "tags": [
+      "API Gateways",
+      "Software Architecture",
+      "Security",
+      "Scalability",
+      "Management"
+    ],
+    "theme": "API Gateways",
+    "type": "open",
+    "id": "20260819",
+    "createdAt": "2026-08-19T01:15:49.411Z"
   }
 ]

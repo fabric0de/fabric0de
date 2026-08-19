@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260819 - What is the primary function of an API Gateway in a software architecture?
+
+theme: **API Gateways** • difficulty: **intermediate** • `API Gateways` `Software Architecture` `Security` `Scalability` `Management`
+
+> An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.
+
+> It sits between clients and backend services, providing a single entry point for all API requests.
+
+> This allows for better security, scalability, and management of APIs.
+
+> API Gateways can also provide features such as caching, content compression, and API analytics.
+
+> They can be implemented using software or hardware solutions, such as NGINX or Amazon API Gateway.
+
+---
+
 ## 20260818 - What is the purpose of the 'alt' attribute in HTML, and why is it important for accessibility?
 
 theme: **Accessibility** • difficulty: **beginner** • `Accessibility` `HTML` `Web Development`

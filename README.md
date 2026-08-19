@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the purpose of the 'alt' attribute in HTML, and why is it important for accessibility?
+### ❓ What is the primary function of an API Gateway in a software architecture?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟢 **beginner** • 🏷️ `Accessibility` `HTML` `Web Development` • 📅 20260818
+🗓️ **API Gateways** • 🟡 **intermediate** • 🏷️ `API Gateways` `Software Architecture` `Security` `Scalability` `Management` • 📅 20260819
 
 </div>
 
@@ -46,15 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In HTML, the 'alt' attribute is used to provide a text description of an image for users who cannot see it. This is an example of making a website more accessible.
+> An API Gateway is a server that acts as an entry point for API requests, handling tasks such as authentication, rate limiting, and routing.
 
-> For example:
+> It sits between clients and backend services, providing a single entry point for all API requests.
 
-> <img src='image.jpg' alt='A picture of a cat'>
+> This allows for better security, scalability, and management of APIs.
 
-> This is especially important for users with visual impairments who rely on screen readers to navigate websites.
+> API Gateways can also provide features such as caching, content compression, and API analytics.
 
-> This is an example of implementing accessibility in HTML.
+> They can be implemented using software or hardware solutions, such as NGINX or Amazon API Gateway.
 
 <br>
 
