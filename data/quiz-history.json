@@ -1837,18 +1837,18 @@
     "createdAt": "2026-08-19T12:47:10.757Z"
   },
   {
-    "answer": "To create a horizontal line in CSS, you can use the following code:\n\nhr {\n  border: none;\n  border-bottom: 1px solid #ccc;\n  height: 1px;\n}\n\nThis will create a horizontal line with a gray color. You can adjust the color and style as needed.",
-    "difficulty": "beginner",
-    "question": "How can you create a horizontal line in CSS?",
+    "answer": "You can use the CSS 'box-shadow' property to create a drop shadow effect on an element.\nThis property allows you to specify the horizontal and vertical offset, blur radius, and color of the shadow.\nFor example:\nbox-shadow: 10px 10px 5px #888;\nThis will create a drop shadow with a horizontal offset of 10px, vertical offset of 10px, blur radius of 5px, and a color of #888.",
+    "difficulty": "intermediate",
+    "question": "How can you create a drop shadow effect on an element using CSS?",
     "tags": [
       "css",
-      "html",
-      "frontend",
-      "design"
+      "box-shadow",
+      "drop-shadow",
+      "css-properties"
     ],
     "theme": "css",
     "type": "open",
     "id": "20260820",
-    "createdAt": "2026-08-20T01:14:57.750Z"
+    "createdAt": "2026-08-20T12:49:52.622Z"
   }
 ]

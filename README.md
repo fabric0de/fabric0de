@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you create a horizontal line in CSS?
+### ❓ How can you create a drop shadow effect on an element using CSS?
 
 </div>
 
 <div align="center">
 
-🗓️ **css** • 🟢 **beginner** • 🏷️ `css` `html` `frontend` `design` • 📅 20260820
+🗓️ **css** • 🟡 **intermediate** • 🏷️ `css` `box-shadow` `drop-shadow` `css-properties` • 📅 20260820
 
 </div>
 
@@ -46,19 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To create a horizontal line in CSS, you can use the following code:
+> You can use the CSS 'box-shadow' property to create a drop shadow effect on an element.
 
-> hr {
+> This property allows you to specify the horizontal and vertical offset, blur radius, and color of the shadow.
 
-> border: none;
+> For example:
 
-> border-bottom: 1px solid #ccc;
+> box-shadow: 10px 10px 5px #888;
 
-> height: 1px;
-
-> }
-
-> This will create a horizontal line with a gray color. You can adjust the color and style as needed.
+> This will create a drop shadow with a horizontal offset of 10px, vertical offset of 10px, blur radius of 5px, and a color of #888.
 
 <br>
 
