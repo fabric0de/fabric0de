@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260820 - How can you create a horizontal line in CSS?
+
+theme: **css** • difficulty: **beginner** • `css` `html` `frontend` `design`
+
+> To create a horizontal line in CSS, you can use the following code:
+
+> hr {
+
+> border: none;
+
+> border-bottom: 1px solid #ccc;
+
+> height: 1px;
+
+> }
+
+> This will create a horizontal line with a gray color. You can adjust the color and style as needed.
+
+---
+
 ## 20260819 - In authentication, what is the primary difference between a username and a password?
 
 theme: **Authentication** • difficulty: **intermediate** • `Authentication` `Security` `Identity`

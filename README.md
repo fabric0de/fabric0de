@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In authentication, what is the primary difference between a username and a password?
+### ❓ How can you create a horizontal line in CSS?
 
 </div>
 
 <div align="center">
 
-🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `Security` `Identity` • 📅 20260819
+🗓️ **css** • 🟢 **beginner** • 🏷️ `css` `html` `frontend` `design` • 📅 20260820
 
 </div>
 
@@ -46,17 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In authentication, what is the primary difference between a username and a password?
+> To create a horizontal line in CSS, you can use the following code:
 
-> A username is a unique identifier for a user, while a password is a secret word or phrase that verifies the user's identity.
+> hr {
 
-> In most authentication systems, a username is used to identify the user, and a password is used to authenticate the user's identity.
+> border: none;
 
-> This is because a username can be shared among multiple users, but a password is unique to each user.
+> border-bottom: 1px solid #ccc;
 
-> This distinction is important in designing secure authentication systems.
+> height: 1px;
 
-> Tags: Authentication, Security, Identity
+> }
+
+> This will create a horizontal line with a gray color. You can adjust the color and style as needed.
 
 <br>
 

@@ -1835,5 +1835,20 @@
     "type": "open",
     "id": "20260819",
     "createdAt": "2026-08-19T12:47:10.757Z"
+  },
+  {
+    "answer": "To create a horizontal line in CSS, you can use the following code:\n\nhr {\n  border: none;\n  border-bottom: 1px solid #ccc;\n  height: 1px;\n}\n\nThis will create a horizontal line with a gray color. You can adjust the color and style as needed.",
+    "difficulty": "beginner",
+    "question": "How can you create a horizontal line in CSS?",
+    "tags": [
+      "css",
+      "html",
+      "frontend",
+      "design"
+    ],
+    "theme": "css",
+    "type": "open",
+    "id": "20260820",
+    "createdAt": "2026-08-20T01:14:57.750Z"
   }
 ]
