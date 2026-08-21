@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260821 - What is the difference between a database index and a database view?
+
+theme: **Databases** • difficulty: **intermediate** • `database` `index` `view` `data retrieval` `data presentation`
+
+> What is the difference between a database index and a database view?
+
+> A database index is a data structure that improves the speed of data retrieval by allowing the database to quickly locate specific data.
+
+> A database view, on the other hand, is a virtual table based on the result of a query.
+
+> In summary, an index is used for faster data retrieval, while a view is used to present data in a different format.
+
+> Tags: database, index, view, data retrieval, data presentation
+
+---
+
 ## 20260820 - How can you create a drop shadow effect on an element using CSS?
 
 theme: **css** • difficulty: **intermediate** • `css` `box-shadow` `drop-shadow` `css-properties`

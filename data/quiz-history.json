@@ -1850,5 +1850,21 @@
     "type": "open",
     "id": "20260820",
     "createdAt": "2026-08-20T12:49:52.622Z"
+  },
+  {
+    "answer": "What is the difference between a database index and a database view?\n\nA database index is a data structure that improves the speed of data retrieval by allowing the database to quickly locate specific data.\n\nA database view, on the other hand, is a virtual table based on the result of a query.\n\nIn summary, an index is used for faster data retrieval, while a view is used to present data in a different format.\n\nTags: database, index, view, data retrieval, data presentation",
+    "difficulty": "intermediate",
+    "question": "What is the difference between a database index and a database view?",
+    "tags": [
+      "database",
+      "index",
+      "view",
+      "data retrieval",
+      "data presentation"
+    ],
+    "theme": "Databases",
+    "type": "open",
+    "id": "20260821",
+    "createdAt": "2026-08-21T12:47:41.789Z"
   }
 ]

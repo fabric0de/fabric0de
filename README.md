@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you create a drop shadow effect on an element using CSS?
+### ❓ What is the difference between a database index and a database view?
 
 </div>
 
 <div align="center">
 
-🗓️ **css** • 🟡 **intermediate** • 🏷️ `css` `box-shadow` `drop-shadow` `css-properties` • 📅 20260820
+🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `database` `index` `view` `data retrieval` `data presentation` • 📅 20260821
 
 </div>
 
@@ -46,15 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> You can use the CSS 'box-shadow' property to create a drop shadow effect on an element.
+> What is the difference between a database index and a database view?
 
-> This property allows you to specify the horizontal and vertical offset, blur radius, and color of the shadow.
+> A database index is a data structure that improves the speed of data retrieval by allowing the database to quickly locate specific data.
 
-> For example:
+> A database view, on the other hand, is a virtual table based on the result of a query.
 
-> box-shadow: 10px 10px 5px #888;
+> In summary, an index is used for faster data retrieval, while a view is used to present data in a different format.
 
-> This will create a drop shadow with a horizontal offset of 10px, vertical offset of 10px, blur radius of 5px, and a color of #888.
+> Tags: database, index, view, data retrieval, data presentation
 
 <br>
 
