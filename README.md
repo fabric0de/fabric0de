@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between a database index and a database view?
+### ❓ What are the main differences between Continuous Integration (CI) and Continuous Deployment (CD) in DevOps?
 
 </div>
 
 <div align="center">
 
-🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `database` `index` `view` `data retrieval` `data presentation` • 📅 20260821
+🗓️ **DevOps** • 🟡 **intermediate** • 🏷️ `DevOps` `CI/CD` `Agile` `Software Development` • 📅 20260822
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between a database index and a database view?
+> In DevOps, Continuous Integration (CI) and Continuous Deployment (CD) are two related but distinct practices.
 
-> A database index is a data structure that improves the speed of data retrieval by allowing the database to quickly locate specific data.
+> CI focuses on automating the build, test, and validation of code changes.
 
-> A database view, on the other hand, is a virtual table based on the result of a query.
+> CD involves automating the deployment of code changes to production.
 
-> In summary, an index is used for faster data retrieval, while a view is used to present data in a different format.
+> Both practices aim to improve the speed and reliability of software releases.
 
-> Tags: database, index, view, data retrieval, data presentation
+> CI is a prerequisite for CD, as it ensures that code changes are stable and reliable before deployment.
+
+> By combining CI and CD, teams can achieve faster time-to-market and higher quality software releases.
 
 <br>
 

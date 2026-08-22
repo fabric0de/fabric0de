@@ -1866,5 +1866,20 @@
     "type": "open",
     "id": "20260821",
     "createdAt": "2026-08-21T12:47:41.789Z"
+  },
+  {
+    "answer": "In DevOps, Continuous Integration (CI) and Continuous Deployment (CD) are two related but distinct practices.\nCI focuses on automating the build, test, and validation of code changes.\nCD involves automating the deployment of code changes to production.\nBoth practices aim to improve the speed and reliability of software releases.\nCI is a prerequisite for CD, as it ensures that code changes are stable and reliable before deployment.\nBy combining CI and CD, teams can achieve faster time-to-market and higher quality software releases.",
+    "difficulty": "intermediate",
+    "question": "What are the main differences between Continuous Integration (CI) and Continuous Deployment (CD) in DevOps?",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Agile",
+      "Software Development"
+    ],
+    "theme": "DevOps",
+    "type": "open",
+    "id": "20260822",
+    "createdAt": "2026-08-22T01:14:21.544Z"
   }
 ]

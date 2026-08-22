@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260822 - What are the main differences between Continuous Integration (CI) and Continuous Deployment (CD) in DevOps?
+
+theme: **DevOps** • difficulty: **intermediate** • `DevOps` `CI/CD` `Agile` `Software Development`
+
+> In DevOps, Continuous Integration (CI) and Continuous Deployment (CD) are two related but distinct practices.
+
+> CI focuses on automating the build, test, and validation of code changes.
+
+> CD involves automating the deployment of code changes to production.
+
+> Both practices aim to improve the speed and reliability of software releases.
+
+> CI is a prerequisite for CD, as it ensures that code changes are stable and reliable before deployment.
+
+> By combining CI and CD, teams can achieve faster time-to-market and higher quality software releases.
+
+---
+
 ## 20260821 - What is the difference between a database index and a database view?
 
 theme: **Databases** • difficulty: **intermediate** • `database` `index` `view` `data retrieval` `data presentation`
