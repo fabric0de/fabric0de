@@ -2,21 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260822 - What are the main differences between Continuous Integration (CI) and Continuous Deployment (CD) in DevOps?
+## 20260822 - What is Amazon Web Services (AWS) and what benefits does it offer to businesses?
 
-theme: **DevOps** • difficulty: **intermediate** • `DevOps` `CI/CD` `Agile` `Software Development`
+theme: **Cloud Infrastructure** • difficulty: **intermediate** • `cloud infrastructure` `aws` `scalability` `security` `reliability`
 
-> In DevOps, Continuous Integration (CI) and Continuous Deployment (CD) are two related but distinct practices.
+> Amazon Web Services (AWS) is a comprehensive cloud infrastructure platform that offers a wide range of services, including computing power, storage options, databases, analytics, machine learning, and more.
 
-> CI focuses on automating the build, test, and validation of code changes.
+> It allows businesses to move their infrastructure, applications, and services to the cloud, reducing costs and increasing scalability.
 
-> CD involves automating the deployment of code changes to production.
+> AWS provides a highly secure and reliable environment for businesses to operate in, with features such as automatic backups, disaster recovery, and access controls.
 
-> Both practices aim to improve the speed and reliability of software releases.
+> This enables businesses to focus on innovation and growth, rather than managing infrastructure.
 
-> CI is a prerequisite for CD, as it ensures that code changes are stable and reliable before deployment.
+> AWS is widely used by businesses of all sizes, from startups to large enterprises, and is considered one of the leading cloud infrastructure providers in the world.
 
-> By combining CI and CD, teams can achieve faster time-to-market and higher quality software releases.
+> It offers a free tier for many of its services, making it an attractive option for businesses looking to get started with cloud infrastructure.
 
 ---
 
