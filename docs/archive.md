@@ -2,19 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260823 - What is a thread in the context of concurrency, and how can it be created and managed?
+## 20260823 - What is Big O notation and how is it used to describe the complexity of an algorithm?
 
-theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `java`
+theme: **Complexity Analysis** • difficulty: **intermediate** • `complexity-analysis` `algorithm-analysis` `big-o-notation`
 
-> In a concurrent system, a thread is a separate flow of execution that can run simultaneously with other threads.
+> Big O notation is used to describe the complexity of an algorithm in terms of its input size. It is typically expressed as a function of the input size, usually represented as 'n'.
 
-> A thread can be created using the Thread class in Java, and it can be started using the start() method.
+> For example, an algorithm with a time complexity of O(n^2) will take longer to complete as the input size increases.
 
-> Multiple threads can be created and started in a single program, allowing for concurrent execution of tasks.
+> This is because the number of operations grows quadratically with the input size.
 
-> However, threads share the same memory space, which can lead to synchronization issues if not handled properly.
+> In contrast, an algorithm with a time complexity of O(n) will take linear time, regardless of the input size.
 
-> To avoid these issues, synchronization mechanisms such as locks and semaphores can be used to control access to shared resources.
+> This is because the number of operations grows directly with the input size.
 
 ---
 
