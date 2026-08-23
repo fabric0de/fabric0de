@@ -1882,5 +1882,19 @@
     "type": "open",
     "id": "20260822",
     "createdAt": "2026-08-22T12:38:46.577Z"
+  },
+  {
+    "answer": "In a concurrent system, a thread is a separate flow of execution that can run simultaneously with other threads. \nA thread can be created using the Thread class in Java, and it can be started using the start() method. \nMultiple threads can be created and started in a single program, allowing for concurrent execution of tasks. \nHowever, threads share the same memory space, which can lead to synchronization issues if not handled properly. \nTo avoid these issues, synchronization mechanisms such as locks and semaphores can be used to control access to shared resources.",
+    "difficulty": "intermediate",
+    "question": "What is a thread in the context of concurrency, and how can it be created and managed?",
+    "tags": [
+      "concurrency",
+      "multithreading",
+      "java"
+    ],
+    "theme": "Concurrency",
+    "type": "open",
+    "id": "20260823",
+    "createdAt": "2026-08-23T01:20:49.526Z"
   }
 ]

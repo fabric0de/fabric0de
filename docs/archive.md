@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260823 - What is a thread in the context of concurrency, and how can it be created and managed?
+
+theme: **Concurrency** • difficulty: **intermediate** • `concurrency` `multithreading` `java`
+
+> In a concurrent system, a thread is a separate flow of execution that can run simultaneously with other threads.
+
+> A thread can be created using the Thread class in Java, and it can be started using the start() method.
+
+> Multiple threads can be created and started in a single program, allowing for concurrent execution of tasks.
+
+> However, threads share the same memory space, which can lead to synchronization issues if not handled properly.
+
+> To avoid these issues, synchronization mechanisms such as locks and semaphores can be used to control access to shared resources.
+
+---
+
 ## 20260822 - What is Amazon Web Services (AWS) and what benefits does it offer to businesses?
 
 theme: **Cloud Infrastructure** • difficulty: **intermediate** • `cloud infrastructure` `aws` `scalability` `security` `reliability`

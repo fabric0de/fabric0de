@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Amazon Web Services (AWS) and what benefits does it offer to businesses?
+### ❓ What is a thread in the context of concurrency, and how can it be created and managed?
 
 </div>
 
 <div align="center">
 
-🗓️ **Cloud Infrastructure** • 🟡 **intermediate** • 🏷️ `cloud infrastructure` `aws` `scalability` `security` `reliability` • 📅 20260822
+🗓️ **Concurrency** • 🟡 **intermediate** • 🏷️ `concurrency` `multithreading` `java` • 📅 20260823
 
 </div>
 
@@ -46,17 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Amazon Web Services (AWS) is a comprehensive cloud infrastructure platform that offers a wide range of services, including computing power, storage options, databases, analytics, machine learning, and more.
+> In a concurrent system, a thread is a separate flow of execution that can run simultaneously with other threads.
 
-> It allows businesses to move their infrastructure, applications, and services to the cloud, reducing costs and increasing scalability.
+> A thread can be created using the Thread class in Java, and it can be started using the start() method.
 
-> AWS provides a highly secure and reliable environment for businesses to operate in, with features such as automatic backups, disaster recovery, and access controls.
+> Multiple threads can be created and started in a single program, allowing for concurrent execution of tasks.
 
-> This enables businesses to focus on innovation and growth, rather than managing infrastructure.
+> However, threads share the same memory space, which can lead to synchronization issues if not handled properly.
 
-> AWS is widely used by businesses of all sizes, from startups to large enterprises, and is considered one of the leading cloud infrastructure providers in the world.
-
-> It offers a free tier for many of its services, making it an attractive option for businesses looking to get started with cloud infrastructure.
+> To avoid these issues, synchronization mechanisms such as locks and semaphores can be used to control access to shared resources.
 
 <br>
 
