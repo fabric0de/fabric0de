@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260824 - In Bash, how can you redirect the output of a command to a file, move the file to a different location, and then delete the original file?
+
+theme: **Bash** • difficulty: **beginner** • `bash` `shell` `file management`
+
+> echo 'Hello World!' > output.txt
+
+> mv output.txt /path/to/destination
+
+> rm output.txt
+
+---
+
 ## 20260823 - What is Big O notation and how is it used to describe the complexity of an algorithm?
 
 theme: **Complexity Analysis** • difficulty: **intermediate** • `complexity-analysis` `algorithm-analysis` `big-o-notation`

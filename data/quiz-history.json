@@ -1896,5 +1896,19 @@
     "type": "open",
     "id": "20260823",
     "createdAt": "2026-08-23T12:40:06.460Z"
+  },
+  {
+    "answer": "echo 'Hello World!' > output.txt\nmv output.txt /path/to/destination\nrm output.txt",
+    "difficulty": "beginner",
+    "question": "In Bash, how can you redirect the output of a command to a file, move the file to a different location, and then delete the original file?",
+    "tags": [
+      "bash",
+      "shell",
+      "file management"
+    ],
+    "theme": "Bash",
+    "type": "open",
+    "id": "20260824",
+    "createdAt": "2026-08-24T01:18:35.017Z"
   }
 ]

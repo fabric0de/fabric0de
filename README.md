@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Big O notation and how is it used to describe the complexity of an algorithm?
+### ❓ In Bash, how can you redirect the output of a command to a file, move the file to a different location, and then delete the original file?
 
 </div>
 
 <div align="center">
 
-🗓️ **Complexity Analysis** • 🟡 **intermediate** • 🏷️ `complexity-analysis` `algorithm-analysis` `big-o-notation` • 📅 20260823
+🗓️ **Bash** • 🟢 **beginner** • 🏷️ `bash` `shell` `file management` • 📅 20260824
 
 </div>
 
@@ -46,15 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Big O notation is used to describe the complexity of an algorithm in terms of its input size. It is typically expressed as a function of the input size, usually represented as 'n'.
+> echo 'Hello World!' > output.txt
 
-> For example, an algorithm with a time complexity of O(n^2) will take longer to complete as the input size increases.
+> mv output.txt /path/to/destination
 
-> This is because the number of operations grows quadratically with the input size.
-
-> In contrast, an algorithm with a time complexity of O(n) will take linear time, regardless of the input size.
-
-> This is because the number of operations grows directly with the input size.
+> rm output.txt
 
 <br>
 
