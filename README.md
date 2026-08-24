@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In Bash, how can you redirect the output of a command to a file, move the file to a different location, and then delete the original file?
+### ❓ What is the difference between an INNER JOIN and a LEFT JOIN in SQL?
 
 </div>
 
 <div align="center">
 
-🗓️ **Bash** • 🟢 **beginner** • 🏷️ `bash` `shell` `file management` • 📅 20260824
+🗓️ **sql** • 🟡 **intermediate** • 🏷️ `sql` `database` `join` • 📅 20260824
 
 </div>
 
@@ -46,11 +46,21 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> echo 'Hello World!' > output.txt
+> What is the difference between an INNER JOIN and a LEFT JOIN in SQL?
 
-> mv output.txt /path/to/destination
+> An INNER JOIN returns records that have matching values in both tables,
 
-> rm output.txt
+> while a LEFT JOIN returns all records from the left table and the matching records from the right table.
+
+> If there is no match, the result is NULL on the right side.
+
+> This is useful for retrieving data from two tables where there is a many-to-one relationship.
+
+> For example, consider two tables: customers and orders.
+
+> INNER JOIN would return only the customers who have placed orders,
+
+> while LEFT JOIN would return all customers, including those who have not placed orders.
 
 <br>
 
