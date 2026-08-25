@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the difference between an INNER JOIN and a LEFT JOIN in SQL?
+### ❓ What is the Geolocation API and how can you use it to access a user's location in a web application?
 
 </div>
 
 <div align="center">
 
-🗓️ **sql** • 🟡 **intermediate** • 🏷️ `sql` `database` `join` • 📅 20260824
+🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Geolocation API` `Browser APIs` `JavaScript` `Location Services` • 📅 20260825
 
 </div>
 
@@ -46,21 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the difference between an INNER JOIN and a LEFT JOIN in SQL?
+> The Geolocation API is a Browser API that allows web applications to access the user's location. It uses a combination of GPS, Wi-Fi, and cell tower data to determine the user's location.
 
-> An INNER JOIN returns records that have matching values in both tables,
+> To use the Geolocation API, you can use the following JavaScript code:
 
-> while a LEFT JOIN returns all records from the left table and the matching records from the right table.
+> navigator.geolocation.getCurrentPosition(position => {
 
-> If there is no match, the result is NULL on the right side.
+> console.log(position.coords.latitude, position.coords.longitude);
 
-> This is useful for retrieving data from two tables where there is a many-to-one relationship.
+> });
 
-> For example, consider two tables: customers and orders.
+> This code will prompt the user to share their location and then log their latitude and longitude to the console.
 
-> INNER JOIN would return only the customers who have placed orders,
-
-> while LEFT JOIN would return all customers, including those who have not placed orders.
+> Tags: Geolocation API, Browser APIs, JavaScript, Location Services
 
 <br>
 

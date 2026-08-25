@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260825 - What is the Geolocation API and how can you use it to access a user's location in a web application?
+
+theme: **Browser APIs** • difficulty: **intermediate** • `Geolocation API` `Browser APIs` `JavaScript` `Location Services`
+
+> The Geolocation API is a Browser API that allows web applications to access the user's location. It uses a combination of GPS, Wi-Fi, and cell tower data to determine the user's location.
+
+> To use the Geolocation API, you can use the following JavaScript code:
+
+> navigator.geolocation.getCurrentPosition(position => {
+
+> console.log(position.coords.latitude, position.coords.longitude);
+
+> });
+
+> This code will prompt the user to share their location and then log their latitude and longitude to the console.
+
+> Tags: Geolocation API, Browser APIs, JavaScript, Location Services
+
+---
+
 ## 20260824 - What is the difference between an INNER JOIN and a LEFT JOIN in SQL?
 
 theme: **sql** • difficulty: **intermediate** • `sql` `database` `join`

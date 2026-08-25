@@ -1910,5 +1910,20 @@
     "type": "open",
     "id": "20260824",
     "createdAt": "2026-08-24T12:50:32.504Z"
+  },
+  {
+    "answer": "The Geolocation API is a Browser API that allows web applications to access the user's location. It uses a combination of GPS, Wi-Fi, and cell tower data to determine the user's location.\n\nTo use the Geolocation API, you can use the following JavaScript code:\n\nnavigator.geolocation.getCurrentPosition(position => {\n  console.log(position.coords.latitude, position.coords.longitude);\n});\n\nThis code will prompt the user to share their location and then log their latitude and longitude to the console.\n\nTags: Geolocation API, Browser APIs, JavaScript, Location Services",
+    "difficulty": "intermediate",
+    "question": "What is the Geolocation API and how can you use it to access a user's location in a web application?",
+    "tags": [
+      "Geolocation API",
+      "Browser APIs",
+      "JavaScript",
+      "Location Services"
+    ],
+    "theme": "Browser APIs",
+    "type": "open",
+    "id": "20260825",
+    "createdAt": "2026-08-25T01:16:32.909Z"
   }
 ]
