@@ -1912,18 +1912,18 @@
     "createdAt": "2026-08-24T12:50:32.504Z"
   },
   {
-    "answer": "The Geolocation API is a Browser API that allows web applications to access the user's location. It uses a combination of GPS, Wi-Fi, and cell tower data to determine the user's location.\n\nTo use the Geolocation API, you can use the following JavaScript code:\n\nnavigator.geolocation.getCurrentPosition(position => {\n  console.log(position.coords.latitude, position.coords.longitude);\n});\n\nThis code will prompt the user to share their location and then log their latitude and longitude to the console.\n\nTags: Geolocation API, Browser APIs, JavaScript, Location Services",
+    "answer": "In rendering, what is the difference between a rasterizer and a ray tracer?\nA rasterizer is a rendering engine that divides the 3D scene into small pixels and calculates the color of each pixel based on the objects in the scene.\nA ray tracer, on the other hand, simulates the way light behaves in the scene by tracing the path of light rays from the camera to the objects in the scene.\nRasterizers are generally faster and more efficient, but may not produce the same level of photorealism as ray tracers.\nRay tracers, while slower, can produce highly realistic images with accurate lighting and reflections.\nThis difference in approach affects the trade-off between speed and image quality in rendering.",
     "difficulty": "intermediate",
-    "question": "What is the Geolocation API and how can you use it to access a user's location in a web application?",
+    "question": "What is the main difference between a rasterizer and a ray tracer in rendering?",
     "tags": [
-      "Geolocation API",
-      "Browser APIs",
-      "JavaScript",
-      "Location Services"
+      "rendering",
+      "rasterizer",
+      "ray tracer",
+      "3d graphics"
     ],
-    "theme": "Browser APIs",
+    "theme": "Rendering",
     "type": "open",
     "id": "20260825",
-    "createdAt": "2026-08-25T01:16:32.909Z"
+    "createdAt": "2026-08-25T12:47:23.740Z"
   }
 ]

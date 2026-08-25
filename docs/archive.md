@@ -2,23 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260825 - What is the Geolocation API and how can you use it to access a user's location in a web application?
+## 20260825 - What is the main difference between a rasterizer and a ray tracer in rendering?
 
-theme: **Browser APIs** • difficulty: **intermediate** • `Geolocation API` `Browser APIs` `JavaScript` `Location Services`
+theme: **Rendering** • difficulty: **intermediate** • `rendering` `rasterizer` `ray tracer` `3d graphics`
 
-> The Geolocation API is a Browser API that allows web applications to access the user's location. It uses a combination of GPS, Wi-Fi, and cell tower data to determine the user's location.
+> In rendering, what is the difference between a rasterizer and a ray tracer?
 
-> To use the Geolocation API, you can use the following JavaScript code:
+> A rasterizer is a rendering engine that divides the 3D scene into small pixels and calculates the color of each pixel based on the objects in the scene.
 
-> navigator.geolocation.getCurrentPosition(position => {
+> A ray tracer, on the other hand, simulates the way light behaves in the scene by tracing the path of light rays from the camera to the objects in the scene.
 
-> console.log(position.coords.latitude, position.coords.longitude);
+> Rasterizers are generally faster and more efficient, but may not produce the same level of photorealism as ray tracers.
 
-> });
+> Ray tracers, while slower, can produce highly realistic images with accurate lighting and reflections.
 
-> This code will prompt the user to share their location and then log their latitude and longitude to the console.
-
-> Tags: Geolocation API, Browser APIs, JavaScript, Location Services
+> This difference in approach affects the trade-off between speed and image quality in rendering.
 
 ---
 
