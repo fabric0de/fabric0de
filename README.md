@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between a rasterizer and a ray tracer in rendering?
+### ❓ What is a Content Security Policy (CSP), and how can it be used to prevent cross-site scripting (XSS) attacks?
 
 </div>
 
 <div align="center">
 
-🗓️ **Rendering** • 🟡 **intermediate** • 🏷️ `rendering` `rasterizer` `ray tracer` `3d graphics` • 📅 20260825
+🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `CSP` `XSS` `Security` • 📅 20260826
 
 </div>
 
@@ -46,17 +46,21 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In rendering, what is the difference between a rasterizer and a ray tracer?
+> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed by a web page.
 
-> A rasterizer is a rendering engine that divides the 3D scene into small pixels and calculates the color of each pixel based on the objects in the scene.
+> For example, a CSP might be implemented as follows:
 
-> A ray tracer, on the other hand, simulates the way light behaves in the scene by tracing the path of light rays from the camera to the objects in the scene.
+> Content-Security-Policy: default-src 'self';
 
-> Rasterizers are generally faster and more efficient, but may not produce the same level of photorealism as ray tracers.
+> This policy specifies that all content should be loaded from the same origin as the web page itself.
 
-> Ray tracers, while slower, can produce highly realistic images with accurate lighting and reflections.
+> However, this policy can be too restrictive for some web applications, and a more permissive policy might be needed.
 
-> This difference in approach affects the trade-off between speed and image quality in rendering.
+> For example:
+
+> Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.example.com;
+
+> This policy allows scripts to be loaded from the same origin as the web page itself, as well as from the specified CDN.
 
 <br>
 

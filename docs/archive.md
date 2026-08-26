@@ -2,6 +2,28 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260826 - What is a Content Security Policy (CSP), and how can it be used to prevent cross-site scripting (XSS) attacks?
+
+theme: **Web Security** • difficulty: **intermediate** • `Web Security` `CSP` `XSS` `Security`
+
+> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed by a web page.
+
+> For example, a CSP might be implemented as follows:
+
+> Content-Security-Policy: default-src 'self';
+
+> This policy specifies that all content should be loaded from the same origin as the web page itself.
+
+> However, this policy can be too restrictive for some web applications, and a more permissive policy might be needed.
+
+> For example:
+
+> Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.example.com;
+
+> This policy allows scripts to be loaded from the same origin as the web page itself, as well as from the specified CDN.
+
+---
+
 ## 20260825 - What is the main difference between a rasterizer and a ray tracer in rendering?
 
 theme: **Rendering** • difficulty: **intermediate** • `rendering` `rasterizer` `ray tracer` `3d graphics`
