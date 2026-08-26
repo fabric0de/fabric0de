@@ -2,25 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260826 - What is a Content Security Policy (CSP), and how can it be used to prevent cross-site scripting (XSS) attacks?
+## 20260826 - What is the primary function of a DNS server in a network?
 
-theme: **Web Security** • difficulty: **intermediate** • `Web Security` `CSP` `XSS` `Security`
+theme: **Networking** • difficulty: **intermediate** • `Networking` `DNS` `Domain Name System`
 
-> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed by a web page.
+> What is the primary function of a DNS server in a network?
 
-> For example, a CSP might be implemented as follows:
+> A DNS server is responsible for translating human-readable domain names into IP addresses that computers can understand.
 
-> Content-Security-Policy: default-src 'self';
+> This process is called DNS resolution.
 
-> This policy specifies that all content should be loaded from the same origin as the web page itself.
+> For example, when you type 'www.google.com' into your web browser, the DNS server looks up the IP address associated with that domain name and returns it to your browser.
 
-> However, this policy can be too restrictive for some web applications, and a more permissive policy might be needed.
+> This allows your browser to connect to the correct server and load the website.
 
-> For example:
-
-> Content-Security-Policy: default-src 'self'; script-src 'self' https://cdn.example.com;
-
-> This policy allows scripts to be loaded from the same origin as the web page itself, as well as from the specified CDN.
+> Without DNS servers, you would have to remember the IP addresses of all the websites you visit, which would be impractical and difficult to manage.
 
 ---
 

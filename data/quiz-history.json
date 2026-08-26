@@ -1927,18 +1927,17 @@
     "createdAt": "2026-08-25T12:47:23.740Z"
   },
   {
-    "answer": "A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed by a web page.\n\nFor example, a CSP might be implemented as follows:\n\nContent-Security-Policy: default-src 'self';\n\nThis policy specifies that all content should be loaded from the same origin as the web page itself.\n\nHowever, this policy can be too restrictive for some web applications, and a more permissive policy might be needed.\n\nFor example:\n\nContent-Security-Policy: default-src 'self'; script-src 'self' https://cdn.example.com;\n\nThis policy allows scripts to be loaded from the same origin as the web page itself, as well as from the specified CDN.",
+    "answer": "What is the primary function of a DNS server in a network?\nA DNS server is responsible for translating human-readable domain names into IP addresses that computers can understand.\nThis process is called DNS resolution.\nFor example, when you type 'www.google.com' into your web browser, the DNS server looks up the IP address associated with that domain name and returns it to your browser.\nThis allows your browser to connect to the correct server and load the website.\nWithout DNS servers, you would have to remember the IP addresses of all the websites you visit, which would be impractical and difficult to manage.",
     "difficulty": "intermediate",
-    "question": "What is a Content Security Policy (CSP), and how can it be used to prevent cross-site scripting (XSS) attacks?",
+    "question": "What is the primary function of a DNS server in a network?",
     "tags": [
-      "Web Security",
-      "CSP",
-      "XSS",
-      "Security"
+      "Networking",
+      "DNS",
+      "Domain Name System"
     ],
-    "theme": "Web Security",
+    "theme": "Networking",
     "type": "open",
     "id": "20260826",
-    "createdAt": "2026-08-26T01:19:23.269Z"
+    "createdAt": "2026-08-26T12:52:18.882Z"
   }
 ]
