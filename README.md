@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a DNS server in a network?
+### ❓ What are some key techniques used to achieve responsive design in web development?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `DNS` `Domain Name System` • 📅 20260826
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `responsive-design` `css-media-queries` `flexible-grid-systems` `web-development` `front-end-development` • 📅 20260827
 
 </div>
 
@@ -46,17 +46,25 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary function of a DNS server in a network?
+> To achieve responsive design, you can use a combination of CSS media queries and flexible grid systems.
 
-> A DNS server is responsible for translating human-readable domain names into IP addresses that computers can understand.
+> For example, you can use the following CSS code to create a responsive layout:
 
-> This process is called DNS resolution.
+> @media only screen and (max-width: 768px) {
 
-> For example, when you type 'www.google.com' into your web browser, the DNS server looks up the IP address associated with that domain name and returns it to your browser.
+> /* styles for screens with max-width of 768px */
 
-> This allows your browser to connect to the correct server and load the website.
+> }
 
-> Without DNS servers, you would have to remember the IP addresses of all the websites you visit, which would be impractical and difficult to manage.
+> /* use a flexible grid system like Bootstrap or Foundation */
+
+> Tags: responsive-design, css-media-queries, flexible-grid-systems, web-development, front-end-development
+
+> Type: open
+
+> Difficulty: intermediate
+
+> Question: What are some key techniques used to achieve responsive design in web development?
 
 <br>
 

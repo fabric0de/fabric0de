@@ -2,6 +2,32 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260827 - What are some key techniques used to achieve responsive design in web development?
+
+theme: **Responsive Design** • difficulty: **intermediate** • `responsive-design` `css-media-queries` `flexible-grid-systems` `web-development` `front-end-development`
+
+> To achieve responsive design, you can use a combination of CSS media queries and flexible grid systems.
+
+> For example, you can use the following CSS code to create a responsive layout:
+
+> @media only screen and (max-width: 768px) {
+
+> /* styles for screens with max-width of 768px */
+
+> }
+
+> /* use a flexible grid system like Bootstrap or Foundation */
+
+> Tags: responsive-design, css-media-queries, flexible-grid-systems, web-development, front-end-development
+
+> Type: open
+
+> Difficulty: intermediate
+
+> Question: What are some key techniques used to achieve responsive design in web development?
+
+---
+
 ## 20260826 - What is the primary function of a DNS server in a network?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `DNS` `Domain Name System`

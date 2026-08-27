@@ -1939,5 +1939,21 @@
     "type": "open",
     "id": "20260826",
     "createdAt": "2026-08-26T12:52:18.882Z"
+  },
+  {
+    "answer": "To achieve responsive design, you can use a combination of CSS media queries and flexible grid systems.\nFor example, you can use the following CSS code to create a responsive layout:\n\n@media only screen and (max-width: 768px) {\n  /* styles for screens with max-width of 768px */\n}\n\n/* use a flexible grid system like Bootstrap or Foundation */\n\nTags: responsive-design, css-media-queries, flexible-grid-systems, web-development, front-end-development\nType: open\nDifficulty: intermediate\nQuestion: What are some key techniques used to achieve responsive design in web development?",
+    "difficulty": "intermediate",
+    "question": "What are some key techniques used to achieve responsive design in web development?",
+    "tags": [
+      "responsive-design",
+      "css-media-queries",
+      "flexible-grid-systems",
+      "web-development",
+      "front-end-development"
+    ],
+    "theme": "Responsive Design",
+    "type": "open",
+    "id": "20260827",
+    "createdAt": "2026-08-27T07:55:55.253Z"
   }
 ]
