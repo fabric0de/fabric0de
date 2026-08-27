@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some key techniques used to achieve responsive design in web development?
+### ❓ In a distributed system, what is the primary purpose of a load balancer?
 
 </div>
 
 <div align="center">
 
-🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `responsive-design` `css-media-queries` `flexible-grid-systems` `web-development` `front-end-development` • 📅 20260827
+🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed-systems` `load-balancing` `scalability` `cloud-computing` • 📅 20260828
 
 </div>
 
@@ -46,25 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To achieve responsive design, you can use a combination of CSS media queries and flexible grid systems.
+> In a distributed system, what is the primary purpose of a load balancer?
 
-> For example, you can use the following CSS code to create a responsive layout:
+> A load balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
 
-> @media only screen and (max-width: 768px) {
+> This is achieved by routing incoming requests to a server with available resources, reducing the load on any single server.
 
-> /* styles for screens with max-width of 768px */
+> Load balancers can be implemented using hardware or software solutions.
 
-> }
-
-> /* use a flexible grid system like Bootstrap or Foundation */
-
-> Tags: responsive-design, css-media-queries, flexible-grid-systems, web-development, front-end-development
-
-> Type: open
-
-> Difficulty: intermediate
-
-> Question: What are some key techniques used to achieve responsive design in web development?
+> They are commonly used in cloud computing, web applications, and other distributed systems.
 
 <br>
 

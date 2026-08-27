@@ -1955,5 +1955,20 @@
     "type": "open",
     "id": "20260827",
     "createdAt": "2026-08-27T07:55:55.253Z"
+  },
+  {
+    "answer": "In a distributed system, what is the primary purpose of a load balancer?\nA load balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.\nThis is achieved by routing incoming requests to a server with available resources, reducing the load on any single server.\nLoad balancers can be implemented using hardware or software solutions.\nThey are commonly used in cloud computing, web applications, and other distributed systems.",
+    "difficulty": "intermediate",
+    "question": "In a distributed system, what is the primary purpose of a load balancer?",
+    "tags": [
+      "distributed-systems",
+      "load-balancing",
+      "scalability",
+      "cloud-computing"
+    ],
+    "theme": "Distributed Systems",
+    "type": "open",
+    "id": "20260828",
+    "createdAt": "2026-08-27T21:53:03.869Z"
   }
 ]

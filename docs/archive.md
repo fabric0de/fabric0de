@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260828 - In a distributed system, what is the primary purpose of a load balancer?
+
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed-systems` `load-balancing` `scalability` `cloud-computing`
+
+> In a distributed system, what is the primary purpose of a load balancer?
+
+> A load balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
+
+> This is achieved by routing incoming requests to a server with available resources, reducing the load on any single server.
+
+> Load balancers can be implemented using hardware or software solutions.
+
+> They are commonly used in cloud computing, web applications, and other distributed systems.
+
+---
+
 ## 20260827 - What are some key techniques used to achieve responsive design in web development?
 
 theme: **Responsive Design** • difficulty: **intermediate** • `responsive-design` `css-media-queries` `flexible-grid-systems` `web-development` `front-end-development`
