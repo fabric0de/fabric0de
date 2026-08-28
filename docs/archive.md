@@ -2,6 +2,22 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260829 - What is NOT a valid step in the debugging process?
+
+theme: **Debugging** • difficulty: **intermediate** • `Debugging` `Programming` `Problem Solving`
+
+> When debugging a program, which of the following is NOT a valid step in the debugging process?
+
+> A) Print out the values of variables to see if they are correct.
+
+> B) Use a debugger to step through the code line by line.
+
+> C) Guess the solution and try it.
+
+> D) Write a unit test to verify the functionality of the code.
+
+---
+
 ## 20260828 - What is the primary purpose of a Message Queue in a distributed system?
 
 theme: **Message Queues** • difficulty: **intermediate** • `Message Queues` `Distributed Systems` `Asynchronous Communication` `Microservices` `Event-Driven Architecture`

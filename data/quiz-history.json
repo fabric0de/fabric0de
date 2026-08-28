@@ -1971,5 +1971,19 @@
     "type": "open",
     "id": "20260828",
     "createdAt": "2026-08-28T09:59:47.749Z"
+  },
+  {
+    "answer": "When debugging a program, which of the following is NOT a valid step in the debugging process?\nA) Print out the values of variables to see if they are correct.\nB) Use a debugger to step through the code line by line.\nC) Guess the solution and try it.\nD) Write a unit test to verify the functionality of the code.\n",
+    "difficulty": "intermediate",
+    "question": "What is NOT a valid step in the debugging process?",
+    "tags": [
+      "Debugging",
+      "Programming",
+      "Problem Solving"
+    ],
+    "theme": "Debugging",
+    "type": "mcq",
+    "id": "20260829",
+    "createdAt": "2026-08-28T21:46:00.601Z"
   }
 ]

@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary purpose of a Message Queue in a distributed system?
+### ❓ What is NOT a valid step in the debugging process?
 
 </div>
 
 <div align="center">
 
-🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `Message Queues` `Distributed Systems` `Asynchronous Communication` `Microservices` `Event-Driven Architecture` • 📅 20260828
+🗓️ **Debugging** • 🟡 **intermediate** • 🏷️ `Debugging` `Programming` `Problem Solving` • 📅 20260829
 
 </div>
 
@@ -46,11 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Message Queues are used to handle asynchronous communication between applications or services. They provide a buffer for messages, allowing producers to send messages without blocking and consumers to receive messages at their own pace.
+> When debugging a program, which of the following is NOT a valid step in the debugging process?
 
-> Some popular Message Queue systems include RabbitMQ, Apache Kafka, and Amazon SQS.
+> A) Print out the values of variables to see if they are correct.
 
-> Message Queues are commonly used in event-driven architectures, such as microservices and real-time data processing systems.
+> B) Use a debugger to step through the code line by line.
+
+> C) Guess the solution and try it.
+
+> D) Write a unit test to verify the functionality of the code.
 
 <br>
 
