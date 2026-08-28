@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ In a distributed system, what is the primary purpose of a load balancer?
+### ❓ What is the primary purpose of a Message Queue in a distributed system?
 
 </div>
 
 <div align="center">
 
-🗓️ **Distributed Systems** • 🟡 **intermediate** • 🏷️ `distributed-systems` `load-balancing` `scalability` `cloud-computing` • 📅 20260828
+🗓️ **Message Queues** • 🟡 **intermediate** • 🏷️ `Message Queues` `Distributed Systems` `Asynchronous Communication` `Microservices` `Event-Driven Architecture` • 📅 20260828
 
 </div>
 
@@ -46,15 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In a distributed system, what is the primary purpose of a load balancer?
+> Message Queues are used to handle asynchronous communication between applications or services. They provide a buffer for messages, allowing producers to send messages without blocking and consumers to receive messages at their own pace.
 
-> A load balancer distributes incoming network traffic across multiple servers to improve responsiveness, reliability, and scalability.
+> Some popular Message Queue systems include RabbitMQ, Apache Kafka, and Amazon SQS.
 
-> This is achieved by routing incoming requests to a server with available resources, reducing the load on any single server.
-
-> Load balancers can be implemented using hardware or software solutions.
-
-> They are commonly used in cloud computing, web applications, and other distributed systems.
+> Message Queues are commonly used in event-driven architectures, such as microservices and real-time data processing systems.
 
 <br>
 
