@@ -2,19 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260829 - What is NOT a valid step in the debugging process?
+## 20260829 - What is Chrome DevTools and what are some of its key features?
 
-theme: **Debugging** • difficulty: **intermediate** • `Debugging` `Programming` `Problem Solving`
+theme: **Developer Tools** • difficulty: **intermediate** • `developer-tools` `chrome-devtools` `web-development` `debugging` `optimization`
 
-> When debugging a program, which of the following is NOT a valid step in the debugging process?
+> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.
 
-> A) Print out the values of variables to see if they are correct.
+> It provides a wide range of features and tools for debugging, inspecting, and optimizing web pages.
 
-> B) Use a debugger to step through the code line by line.
+> Some of its key features include the Elements panel, the Console panel, and the Network panel.
 
-> C) Guess the solution and try it.
+> These tools allow developers to identify and fix errors, optimize page performance, and improve the overall user experience.
 
-> D) Write a unit test to verify the functionality of the code.
+> Additionally, Chrome DevTools also supports features like debugging JavaScript, inspecting CSS, and analyzing network requests.
+
+> It is an essential tool for any web developer, and is widely used in the industry.
 
 ---
 

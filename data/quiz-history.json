@@ -1973,17 +1973,19 @@
     "createdAt": "2026-08-28T09:59:47.749Z"
   },
   {
-    "answer": "When debugging a program, which of the following is NOT a valid step in the debugging process?\nA) Print out the values of variables to see if they are correct.\nB) Use a debugger to step through the code line by line.\nC) Guess the solution and try it.\nD) Write a unit test to verify the functionality of the code.\n",
+    "answer": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.\nIt provides a wide range of features and tools for debugging, inspecting, and optimizing web pages.\nSome of its key features include the Elements panel, the Console panel, and the Network panel.\nThese tools allow developers to identify and fix errors, optimize page performance, and improve the overall user experience.\nAdditionally, Chrome DevTools also supports features like debugging JavaScript, inspecting CSS, and analyzing network requests.\nIt is an essential tool for any web developer, and is widely used in the industry.",
     "difficulty": "intermediate",
-    "question": "What is NOT a valid step in the debugging process?",
+    "question": "What is Chrome DevTools and what are some of its key features?",
     "tags": [
-      "Debugging",
-      "Programming",
-      "Problem Solving"
+      "developer-tools",
+      "chrome-devtools",
+      "web-development",
+      "debugging",
+      "optimization"
     ],
-    "theme": "Debugging",
-    "type": "mcq",
+    "theme": "Developer Tools",
+    "type": "open",
     "id": "20260829",
-    "createdAt": "2026-08-28T21:46:00.601Z"
+    "createdAt": "2026-08-29T05:58:31.159Z"
   }
 ]
