@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260830 - What is the difference between a brute force approach and a divide and conquer approach in problem solving?
+
+theme: **Problem Solving** • difficulty: **intermediate** • `problem_solving` `algorithm_design` `computational_complexity`
+
+> Problem Solving
+
+---
+
 ## 20260829 - What is Chrome DevTools and what are some of its key features?
 
 theme: **Developer Tools** • difficulty: **intermediate** • `developer-tools` `chrome-devtools` `web-development` `debugging` `optimization`

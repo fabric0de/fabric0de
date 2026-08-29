@@ -1987,5 +1987,19 @@
     "type": "open",
     "id": "20260829",
     "createdAt": "2026-08-29T05:58:31.159Z"
+  },
+  {
+    "answer": "Problem Solving",
+    "difficulty": "intermediate",
+    "question": "What is the difference between a brute force approach and a divide and conquer approach in problem solving?",
+    "tags": [
+      "problem_solving",
+      "algorithm_design",
+      "computational_complexity"
+    ],
+    "theme": "Problem Solving",
+    "type": "open",
+    "id": "20260830",
+    "createdAt": "2026-08-29T16:18:50.826Z"
   }
 ]

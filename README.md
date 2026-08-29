@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Chrome DevTools and what are some of its key features?
+### ❓ What is the difference between a brute force approach and a divide and conquer approach in problem solving?
 
 </div>
 
 <div align="center">
 
-🗓️ **Developer Tools** • 🟡 **intermediate** • 🏷️ `developer-tools` `chrome-devtools` `web-development` `debugging` `optimization` • 📅 20260829
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `problem_solving` `algorithm_design` `computational_complexity` • 📅 20260830
 
 </div>
 
@@ -46,17 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser.
-
-> It provides a wide range of features and tools for debugging, inspecting, and optimizing web pages.
-
-> Some of its key features include the Elements panel, the Console panel, and the Network panel.
-
-> These tools allow developers to identify and fix errors, optimize page performance, and improve the overall user experience.
-
-> Additionally, Chrome DevTools also supports features like debugging JavaScript, inspecting CSS, and analyzing network requests.
-
-> It is an essential tool for any web developer, and is widely used in the industry.
+> Problem Solving
 
 <br>
 
