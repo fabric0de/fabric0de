@@ -2,11 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260830 - What is the difference between a brute force approach and a divide and conquer approach in problem solving?
+## 20260830 - What are the basic operations supported by a stack data structure?
 
-theme: **Problem Solving** • difficulty: **intermediate** • `problem_solving` `algorithm_design` `computational_complexity`
+theme: **Data Structures** • difficulty: **intermediate** • `Data Structures` `Stack` `LIFO`
 
-> Problem Solving
+> A stack is a Last-In-First-Out (LIFO) data structure that supports the following operations:
+
+> - Push: adds an element to the top of the stack
+
+> - Pop: removes the top element from the stack
+
+> - Peek: returns the top element from the stack without removing it
+
+> - IsEmpty: checks if the stack is empty
+
+> - Size: returns the number of elements in the stack
 
 ---
 

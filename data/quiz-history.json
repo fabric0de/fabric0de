@@ -1989,17 +1989,17 @@
     "createdAt": "2026-08-29T05:58:31.159Z"
   },
   {
-    "answer": "Problem Solving",
+    "answer": "A stack is a Last-In-First-Out (LIFO) data structure that supports the following operations: \n- Push: adds an element to the top of the stack \n- Pop: removes the top element from the stack \n- Peek: returns the top element from the stack without removing it \n- IsEmpty: checks if the stack is empty \n- Size: returns the number of elements in the stack",
     "difficulty": "intermediate",
-    "question": "What is the difference between a brute force approach and a divide and conquer approach in problem solving?",
+    "question": "What are the basic operations supported by a stack data structure?",
     "tags": [
-      "problem_solving",
-      "algorithm_design",
-      "computational_complexity"
+      "Data Structures",
+      "Stack",
+      "LIFO"
     ],
-    "theme": "Problem Solving",
+    "theme": "Data Structures",
     "type": "open",
     "id": "20260830",
-    "createdAt": "2026-08-29T16:18:50.826Z"
+    "createdAt": "2026-08-30T04:03:47.236Z"
   }
 ]
