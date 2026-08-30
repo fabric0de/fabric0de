@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260831 - What is TypeScript and how does it relate to JavaScript?
+
+theme: **TypeScript** • difficulty: **intermediate** • `typescript` `javascript` `static typing` `compilation`
+
+> TypeScript is a statically typed language that can be compiled to JavaScript. It adds optional static typing and other features to improve the development experience. TypeScript is designed to work seamlessly with existing JavaScript code, allowing developers to gradually adopt static typing and other features. This makes it easier to catch errors early and improve code maintainability.
+
+> TypeScript is often used for large-scale JavaScript applications, such as those built with Angular or React, but it can also be used for smaller projects or personal projects.
+
+> TypeScript is maintained by Microsoft and has a large community of developers who contribute to its development and provide support.
+
+---
+
 ## 20260830 - What are the basic operations supported by a stack data structure?
 
 theme: **Data Structures** • difficulty: **intermediate** • `Data Structures` `Stack` `LIFO`

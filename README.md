@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the basic operations supported by a stack data structure?
+### ❓ What is TypeScript and how does it relate to JavaScript?
 
 </div>
 
 <div align="center">
 
-🗓️ **Data Structures** • 🟡 **intermediate** • 🏷️ `Data Structures` `Stack` `LIFO` • 📅 20260830
+🗓️ **TypeScript** • 🟡 **intermediate** • 🏷️ `typescript` `javascript` `static typing` `compilation` • 📅 20260831
 
 </div>
 
@@ -46,17 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A stack is a Last-In-First-Out (LIFO) data structure that supports the following operations:
+> TypeScript is a statically typed language that can be compiled to JavaScript. It adds optional static typing and other features to improve the development experience. TypeScript is designed to work seamlessly with existing JavaScript code, allowing developers to gradually adopt static typing and other features. This makes it easier to catch errors early and improve code maintainability.
 
-> - Push: adds an element to the top of the stack
+> TypeScript is often used for large-scale JavaScript applications, such as those built with Angular or React, but it can also be used for smaller projects or personal projects.
 
-> - Pop: removes the top element from the stack
-
-> - Peek: returns the top element from the stack without removing it
-
-> - IsEmpty: checks if the stack is empty
-
-> - Size: returns the number of elements in the stack
+> TypeScript is maintained by Microsoft and has a large community of developers who contribute to its development and provide support.
 
 <br>
 

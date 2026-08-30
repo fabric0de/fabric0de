@@ -2001,5 +2001,20 @@
     "type": "open",
     "id": "20260830",
     "createdAt": "2026-08-30T04:03:47.236Z"
+  },
+  {
+    "answer": "TypeScript is a statically typed language that can be compiled to JavaScript. It adds optional static typing and other features to improve the development experience. TypeScript is designed to work seamlessly with existing JavaScript code, allowing developers to gradually adopt static typing and other features. This makes it easier to catch errors early and improve code maintainability.\nTypeScript is often used for large-scale JavaScript applications, such as those built with Angular or React, but it can also be used for smaller projects or personal projects.\nTypeScript is maintained by Microsoft and has a large community of developers who contribute to its development and provide support.",
+    "difficulty": "intermediate",
+    "question": "What is TypeScript and how does it relate to JavaScript?",
+    "tags": [
+      "typescript",
+      "javascript",
+      "static typing",
+      "compilation"
+    ],
+    "theme": "TypeScript",
+    "type": "open",
+    "id": "20260831",
+    "createdAt": "2026-08-30T16:11:36.538Z"
   }
 ]
