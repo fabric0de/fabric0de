@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260902 - What is the purpose of a Content Security Policy (CSP) in web security?
+
+theme: **Web Security** • difficulty: **intermediate** • `Web Security` `CSP` `XSS` `Security`
+
+> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed within a web page.
+
+> It does this by defining a set of allowed sources for scripts, stylesheets, and other types of content.
+
+> For example, a CSP might specify that only scripts from the same origin as the web page are allowed to be executed.
+
+> This can help prevent an attacker from injecting malicious scripts into a web page.
+
+> CSP is typically implemented using a header in the HTTP response that specifies the allowed sources of content.
+
+> For example:
+
+> Content-Security-Policy: script-src 'self';
+
+---
+
 ## 20260901 - What is a screen reader and how can it be used to improve the accessibility of a website?
 
 theme: **Accessibility** • difficulty: **intermediate** • `Accessibility` `Screen Readers` `Web Development`

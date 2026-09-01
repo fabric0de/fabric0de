@@ -2030,5 +2030,20 @@
     "type": "open",
     "id": "20260901",
     "createdAt": "2026-09-01T03:57:02.159Z"
+  },
+  {
+    "answer": "A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed within a web page.\nIt does this by defining a set of allowed sources for scripts, stylesheets, and other types of content.\nFor example, a CSP might specify that only scripts from the same origin as the web page are allowed to be executed.\nThis can help prevent an attacker from injecting malicious scripts into a web page.\nCSP is typically implemented using a header in the HTTP response that specifies the allowed sources of content.\nFor example:\nContent-Security-Policy: script-src 'self';\n",
+    "difficulty": "intermediate",
+    "question": "What is the purpose of a Content Security Policy (CSP) in web security?",
+    "tags": [
+      "Web Security",
+      "CSP",
+      "XSS",
+      "Security"
+    ],
+    "theme": "Web Security",
+    "type": "open",
+    "id": "20260902",
+    "createdAt": "2026-09-01T16:10:32.750Z"
   }
 ]

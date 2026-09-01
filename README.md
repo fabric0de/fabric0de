@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is a screen reader and how can it be used to improve the accessibility of a website?
+### ❓ What is the purpose of a Content Security Policy (CSP) in web security?
 
 </div>
 
 <div align="center">
 
-🗓️ **Accessibility** • 🟡 **intermediate** • 🏷️ `Accessibility` `Screen Readers` `Web Development` • 📅 20260901
+🗓️ **Web Security** • 🟡 **intermediate** • 🏷️ `Web Security` `CSP` `XSS` `Security` • 📅 20260902
 
 </div>
 
@@ -46,11 +46,19 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A screen reader is a software that reads out the content of a webpage to a visually impaired user. It can be used in conjunction with a keyboard to navigate through a website.
+> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed within a web page.
 
-> Some popular screen readers include JAWS, NVDA, and VoiceOver.
+> It does this by defining a set of allowed sources for scripts, stylesheets, and other types of content.
 
-> Screen readers can be used to improve the accessibility of a website by providing a text-to-speech functionality for users who are unable to see the content of the webpage.
+> For example, a CSP might specify that only scripts from the same origin as the web page are allowed to be executed.
+
+> This can help prevent an attacker from injecting malicious scripts into a web page.
+
+> CSP is typically implemented using a header in the HTTP response that specifies the allowed sources of content.
+
+> For example:
+
+> Content-Security-Policy: script-src 'self';
 
 <br>
 
