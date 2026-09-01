@@ -2018,17 +2018,17 @@
     "createdAt": "2026-08-30T16:11:36.538Z"
   },
   {
-    "answer": "The Geolocation API is used to determine the user's location. It can be accessed using the navigator.geolocation object.\nThis API returns a Position object, which contains the user's latitude, longitude, and accuracy.\nIt can be used to display the user's location on a map or to provide location-based services.\nSome common methods of the Geolocation API include getCurrentPosition() and watchPosition().",
+    "answer": "A screen reader is a software that reads out the content of a webpage to a visually impaired user. It can be used in conjunction with a keyboard to navigate through a website.\n\nSome popular screen readers include JAWS, NVDA, and VoiceOver.\n\nScreen readers can be used to improve the accessibility of a website by providing a text-to-speech functionality for users who are unable to see the content of the webpage.",
     "difficulty": "intermediate",
-    "question": "What is the purpose of the Geolocation API in a web browser?",
+    "question": "What is a screen reader and how can it be used to improve the accessibility of a website?",
     "tags": [
-      "browser-apis",
-      "geolocation-api",
-      "web-development"
+      "Accessibility",
+      "Screen Readers",
+      "Web Development"
     ],
-    "theme": "Browser APIs",
+    "theme": "Accessibility",
     "type": "open",
     "id": "20260901",
-    "createdAt": "2026-08-31T18:52:37.812Z"
+    "createdAt": "2026-09-01T03:57:02.159Z"
   }
 ]
