@@ -2,23 +2,19 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260902 - What is the purpose of a Content Security Policy (CSP) in web security?
+## 20260902 - What is the main difference between Basic Auth and Bearer Token Auth in terms of security and implementation?
 
-theme: **Web Security** • difficulty: **intermediate** • `Web Security` `CSP` `XSS` `Security`
+theme: **Authentication** • difficulty: **intermediate** • `Authentication` `Security` `HTTP`
 
-> A Content Security Policy (CSP) is a security feature that helps prevent cross-site scripting (XSS) attacks by specifying which sources of content are allowed to be executed within a web page.
+> What is the main difference between Basic Auth and Bearer Token Auth in terms of security and implementation?
 
-> It does this by defining a set of allowed sources for scripts, stylesheets, and other types of content.
+> Basic Auth sends credentials in plain text, whereas Bearer Token Auth uses a token that is typically obtained through an OAuth flow.
 
-> For example, a CSP might specify that only scripts from the same origin as the web page are allowed to be executed.
+> Basic Auth is less secure because it sends credentials in plain text, making it vulnerable to eavesdropping and interception.
 
-> This can help prevent an attacker from injecting malicious scripts into a web page.
+> Bearer Token Auth is more secure because the token is typically signed and can be revoked if compromised.
 
-> CSP is typically implemented using a header in the HTTP response that specifies the allowed sources of content.
-
-> For example:
-
-> Content-Security-Policy: script-src 'self';
+> In terms of implementation, Basic Auth typically involves sending a username and password with each request, whereas Bearer Token Auth involves sending a token with each request.
 
 ---
 
