@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the main difference between Basic Auth and Bearer Token Auth in terms of security and implementation?
+### ❓ What is a design system and what are its main components?
 
 </div>
 
 <div align="center">
 
-🗓️ **Authentication** • 🟡 **intermediate** • 🏷️ `Authentication` `Security` `HTTP` • 📅 20260902
+🗓️ **Design Systems** • 🟡 **intermediate** • 🏷️ `design systems` `product development` `collaboration` `consistency` `reusability` • 📅 20260903
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the main difference between Basic Auth and Bearer Token Auth in terms of security and implementation?
+> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
 
-> Basic Auth sends credentials in plain text, whereas Bearer Token Auth uses a token that is typically obtained through an OAuth flow.
+> It typically includes a set of principles, patterns, and standards for visual design, interaction design, and content strategy.
 
-> Basic Auth is less secure because it sends credentials in plain text, making it vulnerable to eavesdropping and interception.
+> Design systems can be implemented using various tools and frameworks, such as Sketch, Figma, or Storybook.
 
-> Bearer Token Auth is more secure because the token is typically signed and can be revoked if compromised.
+> They are often used to improve collaboration, reduce design debt, and increase the speed of product development.
 
-> In terms of implementation, Basic Auth typically involves sending a username and password with each request, whereas Bearer Token Auth involves sending a token with each request.
+> Design systems can be applied to various domains, including web, mobile, and desktop applications.
+
+> They are an essential part of modern product development and are widely adopted by companies and organizations.
 
 <br>
 

@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260903 - What is a design system and what are its main components?
+
+theme: **Design Systems** • difficulty: **intermediate** • `design systems` `product development` `collaboration` `consistency` `reusability`
+
+> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
+
+> It typically includes a set of principles, patterns, and standards for visual design, interaction design, and content strategy.
+
+> Design systems can be implemented using various tools and frameworks, such as Sketch, Figma, or Storybook.
+
+> They are often used to improve collaboration, reduce design debt, and increase the speed of product development.
+
+> Design systems can be applied to various domains, including web, mobile, and desktop applications.
+
+> They are an essential part of modern product development and are widely adopted by companies and organizations.
+
+---
+
 ## 20260902 - What is the main difference between Basic Auth and Bearer Token Auth in terms of security and implementation?
 
 theme: **Authentication** • difficulty: **intermediate** • `Authentication` `Security` `HTTP`

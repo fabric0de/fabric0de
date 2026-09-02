@@ -2044,5 +2044,21 @@
     "type": "open",
     "id": "20260902",
     "createdAt": "2026-09-02T03:17:06.504Z"
+  },
+  {
+    "answer": "A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.\nIt typically includes a set of principles, patterns, and standards for visual design, interaction design, and content strategy.\nDesign systems can be implemented using various tools and frameworks, such as Sketch, Figma, or Storybook.\nThey are often used to improve collaboration, reduce design debt, and increase the speed of product development.\nDesign systems can be applied to various domains, including web, mobile, and desktop applications.\nThey are an essential part of modern product development and are widely adopted by companies and organizations.",
+    "difficulty": "intermediate",
+    "question": "What is a design system and what are its main components?",
+    "tags": [
+      "design systems",
+      "product development",
+      "collaboration",
+      "consistency",
+      "reusability"
+    ],
+    "theme": "Design Systems",
+    "type": "open",
+    "id": "20260903",
+    "createdAt": "2026-09-02T16:05:45.316Z"
   }
 ]
