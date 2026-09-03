@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is tweening in animation, and how does it create smooth transitions between keyframes?
+### ❓ What is Data Modeling, and how is it used to structure data in a database?
 
 </div>
 
 <div align="center">
 
-🗓️ **Animation** • 🟡 **intermediate** • 🏷️ `Animation` `Tweening` `Keyframes` `Interpolation` • 📅 20260903
+🗓️ **Data Modeling** • 🟡 **intermediate** • 🏷️ `Data Modeling` `Database Design` `Entity-Relationship Modeling` • 📅 20260904
 
 </div>
 
@@ -46,11 +46,11 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, color, and size to create a smooth animation.
+> Data Modeling is the process of creating a conceptual representation of data to organize and structure it in a database. This representation is typically done using entities, attributes, and relationships.
 
-> For example, if you have two keyframes with different positions, tweening would create intermediate frames with positions in between, creating a smooth animation.
+> In Data Modeling, entities are the objects or concepts that are being represented, such as customers or orders. Attributes are the characteristics or properties of these entities, such as name or address. Relationships are the connections between entities, such as a customer placing an order.
 
-> Tweening can be achieved using various algorithms, including linear, quadratic, and cubic interpolation.
+> For example, consider a simple e-commerce database. The entities might include customers, orders, and products. The attributes might include customer name, order date, and product price. The relationships might include a customer placing multiple orders, and an order containing multiple products.
 
 <br>
 

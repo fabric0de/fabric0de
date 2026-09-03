@@ -2,6 +2,18 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260904 - What is Data Modeling, and how is it used to structure data in a database?
+
+theme: **Data Modeling** • difficulty: **intermediate** • `Data Modeling` `Database Design` `Entity-Relationship Modeling`
+
+> Data Modeling is the process of creating a conceptual representation of data to organize and structure it in a database. This representation is typically done using entities, attributes, and relationships.
+
+> In Data Modeling, entities are the objects or concepts that are being represented, such as customers or orders. Attributes are the characteristics or properties of these entities, such as name or address. Relationships are the connections between entities, such as a customer placing an order.
+
+> For example, consider a simple e-commerce database. The entities might include customers, orders, and products. The attributes might include customer name, order date, and product price. The relationships might include a customer placing multiple orders, and an order containing multiple products.
+
+---
+
 ## 20260903 - What is tweening in animation, and how does it create smooth transitions between keyframes?
 
 theme: **Animation** • difficulty: **intermediate** • `Animation` `Tweening` `Keyframes` `Interpolation`

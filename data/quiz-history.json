@@ -2059,5 +2059,19 @@
     "type": "open",
     "id": "20260903",
     "createdAt": "2026-09-03T03:19:08.813Z"
+  },
+  {
+    "answer": "Data Modeling is the process of creating a conceptual representation of data to organize and structure it in a database. This representation is typically done using entities, attributes, and relationships.\n\nIn Data Modeling, entities are the objects or concepts that are being represented, such as customers or orders. Attributes are the characteristics or properties of these entities, such as name or address. Relationships are the connections between entities, such as a customer placing an order.\n\nFor example, consider a simple e-commerce database. The entities might include customers, orders, and products. The attributes might include customer name, order date, and product price. The relationships might include a customer placing multiple orders, and an order containing multiple products.",
+    "difficulty": "intermediate",
+    "question": "What is Data Modeling, and how is it used to structure data in a database?",
+    "tags": [
+      "Data Modeling",
+      "Database Design",
+      "Entity-Relationship Modeling"
+    ],
+    "theme": "Data Modeling",
+    "type": "open",
+    "id": "20260904",
+    "createdAt": "2026-09-03T15:55:11.150Z"
   }
 ]
