@@ -2,21 +2,15 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260903 - What is a design system and what are its main components?
+## 20260903 - What is tweening in animation, and how does it create smooth transitions between keyframes?
 
-theme: **Design Systems** • difficulty: **intermediate** • `design systems` `product development` `collaboration` `consistency` `reusability`
+theme: **Animation** • difficulty: **intermediate** • `Animation` `Tweening` `Keyframes` `Interpolation`
 
-> A design system is a collection of reusable components, guidelines, and assets that aim to ensure consistency across a product or organization.
+> In animation, tweening is a technique used to create smooth transitions between keyframes. It involves interpolating the values of properties such as position, color, and size to create a smooth animation.
 
-> It typically includes a set of principles, patterns, and standards for visual design, interaction design, and content strategy.
+> For example, if you have two keyframes with different positions, tweening would create intermediate frames with positions in between, creating a smooth animation.
 
-> Design systems can be implemented using various tools and frameworks, such as Sketch, Figma, or Storybook.
-
-> They are often used to improve collaboration, reduce design debt, and increase the speed of product development.
-
-> Design systems can be applied to various domains, including web, mobile, and desktop applications.
-
-> They are an essential part of modern product development and are widely adopted by companies and organizations.
+> Tweening can be achieved using various algorithms, including linear, quadratic, and cubic interpolation.
 
 ---
 
