@@ -2,15 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260904 - What is Data Modeling, and how is it used to structure data in a database?
+## 20260904 - What is a distributed system, and how is it achieved?
 
-theme: **Data Modeling** • difficulty: **intermediate** • `Data Modeling` `Database Design` `Entity-Relationship Modeling`
+theme: **Distributed Systems** • difficulty: **intermediate** • `distributed-systems` `middleware` `rpc` `mom` `orb`
 
-> Data Modeling is the process of creating a conceptual representation of data to organize and structure it in a database. This representation is typically done using entities, attributes, and relationships.
+> A distributed system is a collection of independent computers that appear to be a single, cohesive system to the end-user. This is achieved through the use of middleware, which provides a layer of abstraction between the client and the server.
 
-> In Data Modeling, entities are the objects or concepts that are being represented, such as customers or orders. Attributes are the characteristics or properties of these entities, such as name or address. Relationships are the connections between entities, such as a customer placing an order.
+> Some common types of middleware include:
 
-> For example, consider a simple e-commerce database. The entities might include customers, orders, and products. The attributes might include customer name, order date, and product price. The relationships might include a customer placing multiple orders, and an order containing multiple products.
+> - Remote Procedure Call (RPC) systems
+
+> - Message-Oriented Middleware (MOM)
+
+> - Object Request Brokers (ORBs)
+
+> These middleware systems enable communication between different nodes in the distributed system, allowing them to work together seamlessly.
 
 ---
 
