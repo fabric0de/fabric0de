@@ -2,6 +2,26 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260905 - What is MLOps and why is it important for organizations that want to deploy machine learning models in production?
+
+theme: **MLOps** • difficulty: **intermediate** • `MLOps` `Machine Learning` `Model Deployment` `Model Monitoring` `Model Maintenance`
+
+> MLOps is a set of practices and tools that aims to operationalize machine learning models in production.
+
+> It involves model deployment, monitoring, and maintenance to ensure the model's performance and reliability.
+
+> Some key components of MLOps include model serving, model monitoring, and model versioning.
+
+> These components work together to provide a robust and scalable infrastructure for machine learning models.
+
+> MLOps is essential for organizations that want to deploy machine learning models in production and achieve business value from them.
+
+> It helps to ensure that the models are reliable, performant, and secure.
+
+> MLOps also enables organizations to automate the deployment and monitoring of models, which reduces the time and effort required to deploy new models.
+
+---
+
 ## 20260904 - What is a distributed system, and how is it achieved?
 
 theme: **Distributed Systems** • difficulty: **intermediate** • `distributed-systems` `middleware` `rpc` `mom` `orb`
