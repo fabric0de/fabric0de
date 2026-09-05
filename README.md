@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is MLOps and why is it important for organizations that want to deploy machine learning models in production?
+### ❓ What is Infrastructure as Code (IaC) and how does it improve the management of infrastructure in a DevOps environment?
 
 </div>
 
 <div align="center">
 
-🗓️ **MLOps** • 🟡 **intermediate** • 🏷️ `MLOps` `Machine Learning` `Model Deployment` `Model Monitoring` `Model Maintenance` • 📅 20260905
+🗓️ **DevOps** • 🟡 **intermediate** • 🏷️ `DevOps` `Infrastructure as Code` `IaC` `Cloud Computing` `Automation` • 📅 20260905
 
 </div>
 
@@ -46,19 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> MLOps is a set of practices and tools that aims to operationalize machine learning models in production.
+> What is Infrastructure as Code (IaC) and how does it improve the management of infrastructure in a DevOps environment?
 
-> It involves model deployment, monitoring, and maintenance to ensure the model's performance and reliability.
+> IaC is a practice where infrastructure is defined and provisioned using code, rather than manually configuring it.
 
-> Some key components of MLOps include model serving, model monitoring, and model versioning.
+> This approach improves consistency, reduces errors, and makes it easier to version and track changes to the infrastructure.
 
-> These components work together to provide a robust and scalable infrastructure for machine learning models.
+> Tools like Terraform, AWS CloudFormation, and Ansible are popular IaC solutions.
 
-> MLOps is essential for organizations that want to deploy machine learning models in production and achieve business value from them.
-
-> It helps to ensure that the models are reliable, performant, and secure.
-
-> MLOps also enables organizations to automate the deployment and monitoring of models, which reduces the time and effort required to deploy new models.
+> IaC helps to bridge the gap between development and operations teams by providing a shared understanding of the infrastructure and its configuration.
 
 <br>
 
