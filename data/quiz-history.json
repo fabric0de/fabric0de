@@ -2077,19 +2077,18 @@
     "createdAt": "2026-09-04T03:18:13.385Z"
   },
   {
-    "answer": "What is Infrastructure as Code (IaC) and how does it improve the management of infrastructure in a DevOps environment?\nIaC is a practice where infrastructure is defined and provisioned using code, rather than manually configuring it.\nThis approach improves consistency, reduces errors, and makes it easier to version and track changes to the infrastructure.\nTools like Terraform, AWS CloudFormation, and Ansible are popular IaC solutions.\nIaC helps to bridge the gap between development and operations teams by providing a shared understanding of the infrastructure and its configuration.",
+    "answer": "What is the primary goal of Model Monitoring in MLOps?\nModel Monitoring is used to ensure that machine learning models are performing as expected over time.\nIt involves tracking key metrics such as accuracy, precision, and recall, and alerting when these metrics fall outside of a predetermined threshold.\nThis helps to detect and address model drift, concept drift, and other issues that can impact model performance.\nModel Monitoring is an essential component of MLOps, as it enables data scientists and engineers to maintain high-quality models and make data-driven decisions.\nBy monitoring model performance, organizations can reduce the risk of deploying models that are no longer accurate or reliable.",
     "difficulty": "intermediate",
-    "question": "What is Infrastructure as Code (IaC) and how does it improve the management of infrastructure in a DevOps environment?",
+    "question": "What is the primary goal of Model Monitoring in MLOps?",
     "tags": [
-      "DevOps",
-      "Infrastructure as Code",
-      "IaC",
-      "Cloud Computing",
-      "Automation"
+      "MLOps",
+      "Model Monitoring",
+      "Machine Learning",
+      "Data Science"
     ],
-    "theme": "DevOps",
+    "theme": "MLOps",
     "type": "open",
     "id": "20260905",
-    "createdAt": "2026-09-05T03:20:24.280Z"
+    "createdAt": "2026-09-05T14:43:39.784Z"
   }
 ]

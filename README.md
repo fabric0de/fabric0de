@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is Infrastructure as Code (IaC) and how does it improve the management of infrastructure in a DevOps environment?
+### ❓ What is the primary goal of Model Monitoring in MLOps?
 
 </div>
 
 <div align="center">
 
-🗓️ **DevOps** • 🟡 **intermediate** • 🏷️ `DevOps` `Infrastructure as Code` `IaC` `Cloud Computing` `Automation` • 📅 20260905
+🗓️ **MLOps** • 🟡 **intermediate** • 🏷️ `MLOps` `Model Monitoring` `Machine Learning` `Data Science` • 📅 20260905
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is Infrastructure as Code (IaC) and how does it improve the management of infrastructure in a DevOps environment?
+> What is the primary goal of Model Monitoring in MLOps?
 
-> IaC is a practice where infrastructure is defined and provisioned using code, rather than manually configuring it.
+> Model Monitoring is used to ensure that machine learning models are performing as expected over time.
 
-> This approach improves consistency, reduces errors, and makes it easier to version and track changes to the infrastructure.
+> It involves tracking key metrics such as accuracy, precision, and recall, and alerting when these metrics fall outside of a predetermined threshold.
 
-> Tools like Terraform, AWS CloudFormation, and Ansible are popular IaC solutions.
+> This helps to detect and address model drift, concept drift, and other issues that can impact model performance.
 
-> IaC helps to bridge the gap between development and operations teams by providing a shared understanding of the infrastructure and its configuration.
+> Model Monitoring is an essential component of MLOps, as it enables data scientists and engineers to maintain high-quality models and make data-driven decisions.
+
+> By monitoring model performance, organizations can reduce the risk of deploying models that are no longer accurate or reliable.
 
 <br>
 
