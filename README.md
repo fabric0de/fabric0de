@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary goal of Model Monitoring in MLOps?
+### ❓ What is the key difference between a brute-force approach and a divide-and-conquer approach in problem solving?
 
 </div>
 
 <div align="center">
 
-🗓️ **MLOps** • 🟡 **intermediate** • 🏷️ `MLOps` `Model Monitoring` `Machine Learning` `Data Science` • 📅 20260905
+🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `Problem Solving` `Algorithm Design` `Computational Complexity` • 📅 20260906
 
 </div>
 
@@ -46,17 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> What is the primary goal of Model Monitoring in MLOps?
-
-> Model Monitoring is used to ensure that machine learning models are performing as expected over time.
-
-> It involves tracking key metrics such as accuracy, precision, and recall, and alerting when these metrics fall outside of a predetermined threshold.
-
-> This helps to detect and address model drift, concept drift, and other issues that can impact model performance.
-
-> Model Monitoring is an essential component of MLOps, as it enables data scientists and engineers to maintain high-quality models and make data-driven decisions.
-
-> By monitoring model performance, organizations can reduce the risk of deploying models that are no longer accurate or reliable.
+> Problem Solving
 
 <br>
 

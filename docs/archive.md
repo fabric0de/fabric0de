@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260906 - What is the key difference between a brute-force approach and a divide-and-conquer approach in problem solving?
+
+theme: **Problem Solving** • difficulty: **intermediate** • `Problem Solving` `Algorithm Design` `Computational Complexity`
+
+> Problem Solving
+
+---
+
 ## 20260905 - What is the primary goal of Model Monitoring in MLOps?
 
 theme: **MLOps** • difficulty: **intermediate** • `MLOps` `Model Monitoring` `Machine Learning` `Data Science`
