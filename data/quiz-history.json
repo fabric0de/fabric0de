@@ -2104,5 +2104,19 @@
     "type": "open",
     "id": "20260906",
     "createdAt": "2026-09-06T03:20:01.248Z"
+  },
+  {
+    "answer": "In Bash, you can use the 'readarray' command to read input into an array. \nFor example, you can use it to read a list of numbers from the user like this: readarray -t numbers\nThen you can access the numbers in the array like this: echo \"${numbers[0]}\".\nThis is useful for processing lists of data in the command line.",
+    "difficulty": "intermediate",
+    "question": "How can you read input into an array in Bash?",
+    "tags": [
+      "bash",
+      "command-line",
+      "array"
+    ],
+    "theme": "Bash",
+    "type": "open",
+    "id": "20260907",
+    "createdAt": "2026-09-06T15:02:49.163Z"
   }
 ]

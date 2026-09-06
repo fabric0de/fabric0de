@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the key difference between a brute-force approach and a divide-and-conquer approach in problem solving?
+### ❓ How can you read input into an array in Bash?
 
 </div>
 
 <div align="center">
 
-🗓️ **Problem Solving** • 🟡 **intermediate** • 🏷️ `Problem Solving` `Algorithm Design` `Computational Complexity` • 📅 20260906
+🗓️ **Bash** • 🟡 **intermediate** • 🏷️ `bash` `command-line` `array` • 📅 20260907
 
 </div>
 
@@ -46,7 +46,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Problem Solving
+> In Bash, you can use the 'readarray' command to read input into an array.
+
+> For example, you can use it to read a list of numbers from the user like this: readarray -t numbers
+
+> Then you can access the numbers in the array like this: echo "${numbers[0]}".
+
+> This is useful for processing lists of data in the command line.
 
 <br>
 
