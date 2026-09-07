@@ -2106,17 +2106,18 @@
     "createdAt": "2026-09-06T03:20:01.248Z"
   },
   {
-    "answer": "In Bash, you can use the 'readarray' command to read input into an array. \nFor example, you can use it to read a list of numbers from the user like this: readarray -t numbers\nThen you can access the numbers in the array like this: echo \"${numbers[0]}\".\nThis is useful for processing lists of data in the command line.",
+    "answer": "In Go, you can use the 'range' keyword to iterate over a map. The 'range' keyword returns a key-value pair for each iteration.\nFor example:\n\nmap := make(map[string]int)\nmap['one'] = 1\nmap['two'] = 2\n\nfor key, value := range map {\n  fmt.Println(key, value)\n}\n\nThis will output:\n\none 1\ntwo 2\n",
     "difficulty": "intermediate",
-    "question": "How can you read input into an array in Bash?",
+    "question": "How can you iterate over a map in Go?",
     "tags": [
-      "bash",
-      "command-line",
-      "array"
+      "go",
+      "programming",
+      "map",
+      "iteration"
     ],
-    "theme": "Bash",
+    "theme": "Go",
     "type": "open",
     "id": "20260907",
-    "createdAt": "2026-09-06T15:02:49.163Z"
+    "createdAt": "2026-09-07T03:18:46.021Z"
   }
 ]

@@ -2,17 +2,31 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260907 - How can you read input into an array in Bash?
+## 20260907 - How can you iterate over a map in Go?
 
-theme: **Bash** • difficulty: **intermediate** • `bash` `command-line` `array`
+theme: **Go** • difficulty: **intermediate** • `go` `programming` `map` `iteration`
 
-> In Bash, you can use the 'readarray' command to read input into an array.
+> In Go, you can use the 'range' keyword to iterate over a map. The 'range' keyword returns a key-value pair for each iteration.
 
-> For example, you can use it to read a list of numbers from the user like this: readarray -t numbers
+> For example:
 
-> Then you can access the numbers in the array like this: echo "${numbers[0]}".
+> map := make(map[string]int)
 
-> This is useful for processing lists of data in the command line.
+> map['one'] = 1
+
+> map['two'] = 2
+
+> for key, value := range map {
+
+> fmt.Println(key, value)
+
+> }
+
+> This will output:
+
+> one 1
+
+> two 2
 
 ---
 
