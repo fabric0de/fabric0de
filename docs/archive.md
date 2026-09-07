@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260908 - What is the main difference between HTTP GET and HTTP POST requests?
+
+theme: **Web** • difficulty: **intermediate** • `Web` `HTTP` `Networking`
+
+> What is the difference between HTTP GET and HTTP POST requests?
+
+> HTTP GET is used to retrieve data from a server, while HTTP POST is used to send data to a server.
+
+> HTTP GET is typically used for read-only operations, such as fetching a user's profile information, while HTTP POST is used for write operations, such as creating a new user account.
+
+> In general, HTTP GET requests are idempotent, meaning that making the same request multiple times will have the same effect as making it once.
+
+> HTTP POST requests, on the other hand, are not idempotent, meaning that making the same request multiple times will have different effects.
+
+> This is because HTTP POST requests often create new resources on the server, which can lead to unintended consequences if the same request is made multiple times.
+
+---
+
 ## 20260907 - How can you iterate over a map in Go?
 
 theme: **Go** • difficulty: **intermediate** • `go` `programming` `map` `iteration`

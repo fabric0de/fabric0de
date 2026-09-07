@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ How can you iterate over a map in Go?
+### ❓ What is the main difference between HTTP GET and HTTP POST requests?
 
 </div>
 
 <div align="center">
 
-🗓️ **Go** • 🟡 **intermediate** • 🏷️ `go` `programming` `map` `iteration` • 📅 20260907
+🗓️ **Web** • 🟡 **intermediate** • 🏷️ `Web` `HTTP` `Networking` • 📅 20260908
 
 </div>
 
@@ -46,27 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> In Go, you can use the 'range' keyword to iterate over a map. The 'range' keyword returns a key-value pair for each iteration.
+> What is the difference between HTTP GET and HTTP POST requests?
 
-> For example:
+> HTTP GET is used to retrieve data from a server, while HTTP POST is used to send data to a server.
 
-> map := make(map[string]int)
+> HTTP GET is typically used for read-only operations, such as fetching a user's profile information, while HTTP POST is used for write operations, such as creating a new user account.
 
-> map['one'] = 1
+> In general, HTTP GET requests are idempotent, meaning that making the same request multiple times will have the same effect as making it once.
 
-> map['two'] = 2
+> HTTP POST requests, on the other hand, are not idempotent, meaning that making the same request multiple times will have different effects.
 
-> for key, value := range map {
-
-> fmt.Println(key, value)
-
-> }
-
-> This will output:
-
-> one 1
-
-> two 2
+> This is because HTTP POST requests often create new resources on the server, which can lead to unintended consequences if the same request is made multiple times.
 
 <br>
 
