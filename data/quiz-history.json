@@ -2134,5 +2134,21 @@
     "type": "open",
     "id": "20260908",
     "createdAt": "2026-09-08T03:25:55.143Z"
+  },
+  {
+    "answer": "Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location. This can be achieved through various caching strategies, such as cache invalidation and cache expiration.\n\nSome common types of caching include:\n\n1. Memory caching: storing data in the system's RAM for fast access.\n2. Disk caching: storing data on a hard drive for slower but more persistent access.\n3. Distributed caching: storing data across multiple machines for high availability and scalability.\n\nCaching can be implemented using various techniques, including:\n\n1. Cache-aside pattern: loading data into the cache when it's first requested.\n2. Read-through caching: loading data into the cache when it's first requested, and then updating the cache when the data changes.\n3. Write-through caching: updating the cache when the data changes, and then updating the underlying storage.\n\nThe benefits of caching include improved performance, reduced latency, and increased scalability.",
+    "difficulty": "intermediate",
+    "question": "What is caching and how can it be implemented to improve system performance?",
+    "tags": [
+      "caching",
+      "performance",
+      "system-design",
+      "memory-management",
+      "data-storage"
+    ],
+    "theme": "Caching",
+    "type": "open",
+    "id": "20260909",
+    "createdAt": "2026-09-08T16:08:31.806Z"
   }
 ]

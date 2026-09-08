@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the Geolocation API and how can it be used to get the user's location?
+### ❓ What is caching and how can it be implemented to improve system performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **Browser APIs** • 🟡 **intermediate** • 🏷️ `Geolocation API` `Browser APIs` `JavaScript` `Web Development` • 📅 20260908
+🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `performance` `system-design` `memory-management` `data-storage` • 📅 20260909
 
 </div>
 
@@ -46,25 +46,25 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object. The `getCurrentPosition()` method is used to get the user's current location, and the `watchPosition()` method is used to get updates to the user's location.
+> Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location. This can be achieved through various caching strategies, such as cache invalidation and cache expiration.
 
-> Example usage:
+> Some common types of caching include:
 
-> const geolocation = navigator.geolocation;
+> 1. Memory caching: storing data in the system's RAM for fast access.
 
-> geolocation.getCurrentPosition(position => {
+> 2. Disk caching: storing data on a hard drive for slower but more persistent access.
 
-> console.log(position.coords.latitude, position.coords.longitude);
+> 3. Distributed caching: storing data across multiple machines for high availability and scalability.
 
-> });
+> Caching can be implemented using various techniques, including:
 
-> geolocation.watchPosition(position => {
+> 1. Cache-aside pattern: loading data into the cache when it's first requested.
 
-> console.log(position.coords.latitude, position.coords.longitude);
+> 2. Read-through caching: loading data into the cache when it's first requested, and then updating the cache when the data changes.
 
-> });
+> 3. Write-through caching: updating the cache when the data changes, and then updating the underlying storage.
 
-> Tags: [Geolocation API, Browser APIs, JavaScript, Web Development]
+> The benefits of caching include improved performance, reduced latency, and increased scalability.
 
 <br>
 
