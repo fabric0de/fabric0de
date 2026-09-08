@@ -2,21 +2,29 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260908 - What is the main difference between HTTP GET and HTTP POST requests?
+## 20260908 - What is the Geolocation API and how can it be used to get the user's location?
 
-theme: **Web** • difficulty: **intermediate** • `Web` `HTTP` `Networking`
+theme: **Browser APIs** • difficulty: **intermediate** • `Geolocation API` `Browser APIs` `JavaScript` `Web Development`
 
-> What is the difference between HTTP GET and HTTP POST requests?
+> The Geolocation API is used to determine the user's location, and it can be accessed using the `navigator.geolocation` object. The `getCurrentPosition()` method is used to get the user's current location, and the `watchPosition()` method is used to get updates to the user's location.
 
-> HTTP GET is used to retrieve data from a server, while HTTP POST is used to send data to a server.
+> Example usage:
 
-> HTTP GET is typically used for read-only operations, such as fetching a user's profile information, while HTTP POST is used for write operations, such as creating a new user account.
+> const geolocation = navigator.geolocation;
 
-> In general, HTTP GET requests are idempotent, meaning that making the same request multiple times will have the same effect as making it once.
+> geolocation.getCurrentPosition(position => {
 
-> HTTP POST requests, on the other hand, are not idempotent, meaning that making the same request multiple times will have different effects.
+> console.log(position.coords.latitude, position.coords.longitude);
 
-> This is because HTTP POST requests often create new resources on the server, which can lead to unintended consequences if the same request is made multiple times.
+> });
+
+> geolocation.watchPosition(position => {
+
+> console.log(position.coords.latitude, position.coords.longitude);
+
+> });
+
+> Tags: [Geolocation API, Browser APIs, JavaScript, Web Development]
 
 ---
 
