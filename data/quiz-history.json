@@ -2136,19 +2136,18 @@
     "createdAt": "2026-09-08T03:25:55.143Z"
   },
   {
-    "answer": "Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location. This can be achieved through various caching strategies, such as cache invalidation and cache expiration.\n\nSome common types of caching include:\n\n1. Memory caching: storing data in the system's RAM for fast access.\n2. Disk caching: storing data on a hard drive for slower but more persistent access.\n3. Distributed caching: storing data across multiple machines for high availability and scalability.\n\nCaching can be implemented using various techniques, including:\n\n1. Cache-aside pattern: loading data into the cache when it's first requested.\n2. Read-through caching: loading data into the cache when it's first requested, and then updating the cache when the data changes.\n3. Write-through caching: updating the cache when the data changes, and then updating the underlying storage.\n\nThe benefits of caching include improved performance, reduced latency, and increased scalability.",
+    "answer": "A network switch is used to connect multiple devices within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model.\n\nIn contrast, a network router is used to connect multiple networks together, routing traffic between them. It operates at the network layer of the OSI model.\n\nKey differences include:\n- Functionality: Switches connect devices within a network, while routers connect networks.\n- OSI Layer: Switches operate at the data link layer, while routers operate at the network layer.",
     "difficulty": "intermediate",
-    "question": "What is caching and how can it be implemented to improve system performance?",
+    "question": "What is the primary function of a network switch versus a network router, and how do they differ in terms of their operation within the OSI model?",
     "tags": [
-      "caching",
-      "performance",
-      "system-design",
-      "memory-management",
-      "data-storage"
+      "Networking",
+      "OSI Model",
+      "Network Switch",
+      "Network Router"
     ],
-    "theme": "Caching",
+    "theme": "Networking",
     "type": "open",
     "id": "20260909",
-    "createdAt": "2026-09-08T16:08:31.806Z"
+    "createdAt": "2026-09-09T03:29:40.632Z"
   }
 ]

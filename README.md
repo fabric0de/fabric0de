@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is caching and how can it be implemented to improve system performance?
+### ❓ What is the primary function of a network switch versus a network router, and how do they differ in terms of their operation within the OSI model?
 
 </div>
 
 <div align="center">
 
-🗓️ **Caching** • 🟡 **intermediate** • 🏷️ `caching` `performance` `system-design` `memory-management` `data-storage` • 📅 20260909
+🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `OSI Model` `Network Switch` `Network Router` • 📅 20260909
 
 </div>
 
@@ -46,25 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Caching is a technique used to improve the performance of a system by storing frequently accessed data in a faster and more accessible location. This can be achieved through various caching strategies, such as cache invalidation and cache expiration.
+> A network switch is used to connect multiple devices within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model.
 
-> Some common types of caching include:
+> In contrast, a network router is used to connect multiple networks together, routing traffic between them. It operates at the network layer of the OSI model.
 
-> 1. Memory caching: storing data in the system's RAM for fast access.
+> Key differences include:
 
-> 2. Disk caching: storing data on a hard drive for slower but more persistent access.
+> - Functionality: Switches connect devices within a network, while routers connect networks.
 
-> 3. Distributed caching: storing data across multiple machines for high availability and scalability.
-
-> Caching can be implemented using various techniques, including:
-
-> 1. Cache-aside pattern: loading data into the cache when it's first requested.
-
-> 2. Read-through caching: loading data into the cache when it's first requested, and then updating the cache when the data changes.
-
-> 3. Write-through caching: updating the cache when the data changes, and then updating the underlying storage.
-
-> The benefits of caching include improved performance, reduced latency, and increased scalability.
+> - OSI Layer: Switches operate at the data link layer, while routers operate at the network layer.
 
 <br>
 
