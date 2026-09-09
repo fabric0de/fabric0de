@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What is the primary function of a network switch versus a network router, and how do they differ in terms of their operation within the OSI model?
+### ❓ What are some strategies to improve frontend performance?
 
 </div>
 
 <div align="center">
 
-🗓️ **Networking** • 🟡 **intermediate** • 🏷️ `Networking` `OSI Model` `Network Switch` `Network Router` • 📅 20260909
+🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend performance` `lazy loading` `caching` `optimization` • 📅 20260910
 
 </div>
 
@@ -46,15 +46,7 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> A network switch is used to connect multiple devices within a network, allowing them to communicate with each other. It operates at the data link layer of the OSI model.
-
-> In contrast, a network router is used to connect multiple networks together, routing traffic between them. It operates at the network layer of the OSI model.
-
-> Key differences include:
-
-> - Functionality: Switches connect devices within a network, while routers connect networks.
-
-> - OSI Layer: Switches operate at the data link layer, while routers operate at the network layer.
+> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute on the img tag to 'lazy' or by using a library like IntersectionObserver. Lazy loading can help reduce the initial load time and improve the user experience. Additionally, you can also use caching to store frequently accessed resources and reduce the number of requests made to the server. This can be done using the Cache API or a library like Workbox.
 
 <br>
 

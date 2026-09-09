@@ -2,6 +2,14 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260910 - What are some strategies to improve frontend performance?
+
+theme: **Frontend Performance** • difficulty: **intermediate** • `frontend performance` `lazy loading` `caching` `optimization`
+
+> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute on the img tag to 'lazy' or by using a library like IntersectionObserver. Lazy loading can help reduce the initial load time and improve the user experience. Additionally, you can also use caching to store frequently accessed resources and reduce the number of requests made to the server. This can be done using the Cache API or a library like Workbox.
+
+---
+
 ## 20260909 - What is the primary function of a network switch versus a network router, and how do they differ in terms of their operation within the OSI model?
 
 theme: **Networking** • difficulty: **intermediate** • `Networking` `OSI Model` `Network Switch` `Network Router`
