@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are some strategies to improve frontend performance?
+### ❓ What are Media Queries and how do they contribute to Responsive Design?
 
 </div>
 
 <div align="center">
 
-🗓️ **Frontend Performance** • 🟡 **intermediate** • 🏷️ `frontend performance` `lazy loading` `caching` `optimization` • 📅 20260910
+🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `CSS` `Media Queries` • 📅 20260910
 
 </div>
 
@@ -46,7 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> To improve frontend performance, you can use lazy loading to load images and other resources only when they are needed. This can be achieved by setting the 'loading' attribute on the img tag to 'lazy' or by using a library like IntersectionObserver. Lazy loading can help reduce the initial load time and improve the user experience. Additionally, you can also use caching to store frequently accessed resources and reduce the number of requests made to the server. This can be done using the Cache API or a library like Workbox.
+> Media Queries are used to apply different styles based on the screen size and orientation of a device.
+
+> They are a key component of Responsive Design.
+
+> Media Queries can be used to target different screen sizes, devices, and orientations.
+
+> For example, you can use @media (max-width: 768px) to apply styles when the screen width is less than or equal to 768 pixels.
+
+> This allows you to create a responsive design that adapts to different screen sizes and devices.
 
 <br>
 
