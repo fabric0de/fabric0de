@@ -2,6 +2,24 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
+## 20260911 - What is normalization in database design, and why is it important?
+
+theme: **Databases** • difficulty: **intermediate** • `database` `normalization` `database design`
+
+> In a database, normalization is the process of organizing data in a database to minimize data redundancy and dependency.
+
+> It involves dividing large tables into smaller ones to improve data integrity and reduce data duplication.
+
+> Normalization helps to prevent data anomalies and makes it easier to modify and maintain the database.
+
+> There are several normalization rules, including First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF).
+
+> Each rule builds upon the previous one to ensure data consistency and accuracy.
+
+> Normalization is an essential step in database design to ensure data quality and scalability.
+
+---
+
 ## 20260910 - What are Media Queries and how do they contribute to Responsive Design?
 
 theme: **Responsive Design** • difficulty: **intermediate** • `Responsive Design` `CSS` `Media Queries`

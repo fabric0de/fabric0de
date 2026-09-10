@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are Media Queries and how do they contribute to Responsive Design?
+### ❓ What is normalization in database design, and why is it important?
 
 </div>
 
 <div align="center">
 
-🗓️ **Responsive Design** • 🟡 **intermediate** • 🏷️ `Responsive Design` `CSS` `Media Queries` • 📅 20260910
+🗓️ **Databases** • 🟡 **intermediate** • 🏷️ `database` `normalization` `database design` • 📅 20260911
 
 </div>
 
@@ -46,15 +46,17 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> Media Queries are used to apply different styles based on the screen size and orientation of a device.
+> In a database, normalization is the process of organizing data in a database to minimize data redundancy and dependency.
 
-> They are a key component of Responsive Design.
+> It involves dividing large tables into smaller ones to improve data integrity and reduce data duplication.
 
-> Media Queries can be used to target different screen sizes, devices, and orientations.
+> Normalization helps to prevent data anomalies and makes it easier to modify and maintain the database.
 
-> For example, you can use @media (max-width: 768px) to apply styles when the screen width is less than or equal to 768 pixels.
+> There are several normalization rules, including First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF).
 
-> This allows you to create a responsive design that adapts to different screen sizes and devices.
+> Each rule builds upon the previous one to ensure data consistency and accuracy.
+
+> Normalization is an essential step in database design to ensure data quality and scalability.
 
 <br>
 
