@@ -23,13 +23,13 @@ One question a day, generated automatically and added to a growing archive.
 
 <div align="center">
 
-### ❓ What are the main principles of API Design for maintainability and scalability?
+### ❓ What is unit testing in software development, and how does it contribute to the overall testing process?
 
 </div>
 
 <div align="center">
 
-🗓️ **API Design** • 🟡 **intermediate** • 🏷️ `API Design` `Software Engineering` `Web Development` • 📅 20260911
+🗓️ **Testing** • 🟡 **intermediate** • 🏷️ `Testing` `Software Development` `Unit Testing` `Test-Driven Development` • 📅 20260912
 
 </div>
 
@@ -46,7 +46,15 @@ One question a day, generated automatically and added to a growing archive.
 
 <br>
 
-> API Design
+> Unit testing is a software testing method where individual units of source code, such as functions or methods, are tested in isolation.
+
+> This approach helps to ensure that each unit of code works correctly and as expected.
+
+> Unit tests are typically written and executed before the code is integrated into a larger system.
+
+> They are an essential part of the Test-Driven Development (TDD) process.
+
+> Unit testing can be performed using various testing frameworks and tools, such as JUnit or PyUnit.
 
 <br>
 
