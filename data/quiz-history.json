@@ -2165,17 +2165,17 @@
     "createdAt": "2026-09-10T03:27:38.253Z"
   },
   {
-    "answer": "In a database, normalization is the process of organizing data in a database to minimize data redundancy and dependency.\nIt involves dividing large tables into smaller ones to improve data integrity and reduce data duplication.\nNormalization helps to prevent data anomalies and makes it easier to modify and maintain the database.\nThere are several normalization rules, including First Normal Form (1NF), Second Normal Form (2NF), and Third Normal Form (3NF).\nEach rule builds upon the previous one to ensure data consistency and accuracy.\nNormalization is an essential step in database design to ensure data quality and scalability.",
+    "answer": "API Design",
     "difficulty": "intermediate",
-    "question": "What is normalization in database design, and why is it important?",
+    "question": "What are the main principles of API Design for maintainability and scalability?",
     "tags": [
-      "database",
-      "normalization",
-      "database design"
+      "API Design",
+      "Software Engineering",
+      "Web Development"
     ],
-    "theme": "Databases",
+    "theme": "API Design",
     "type": "open",
     "id": "20260911",
-    "createdAt": "2026-09-10T15:56:47.614Z"
+    "createdAt": "2026-09-11T03:24:46.316Z"
   }
 ]
