@@ -2,19 +2,21 @@
 
 Past quizzes are stored here automatically by the daily update script.
 
-## 20260912 - What is unit testing in software development, and how does it contribute to the overall testing process?
+## 20260912 - When debugging a program, what is the primary difference between a stack trace and an error message?
 
-theme: **Testing** • difficulty: **intermediate** • `Testing` `Software Development` `Unit Testing` `Test-Driven Development`
+theme: **Debugging** • difficulty: **intermediate** • `Debugging` `Error Handling` `Stack Traces` `Error Messages`
 
-> Unit testing is a software testing method where individual units of source code, such as functions or methods, are tested in isolation.
+> When debugging a program, what is the primary difference between a stack trace and an error message?
 
-> This approach helps to ensure that each unit of code works correctly and as expected.
+> A stack trace provides a detailed sequence of function calls that led to the error, while an error message is a general description of the problem.
 
-> Unit tests are typically written and executed before the code is integrated into a larger system.
+> Stack traces are useful for identifying the source of the error, while error messages are useful for understanding the nature of the error.
 
-> They are an essential part of the Test-Driven Development (TDD) process.
+> In general, a stack trace is more informative than an error message.
 
-> Unit testing can be performed using various testing frameworks and tools, such as JUnit or PyUnit.
+> However, error messages can be more concise and easier to understand.
+
+> Ultimately, the choice between a stack trace and an error message depends on the specific debugging scenario.
 
 ---
 

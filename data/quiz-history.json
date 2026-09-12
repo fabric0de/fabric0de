@@ -2179,18 +2179,18 @@
     "createdAt": "2026-09-11T03:24:46.316Z"
   },
   {
-    "answer": "Unit testing is a software testing method where individual units of source code, such as functions or methods, are tested in isolation.\nThis approach helps to ensure that each unit of code works correctly and as expected.\nUnit tests are typically written and executed before the code is integrated into a larger system.\nThey are an essential part of the Test-Driven Development (TDD) process.\nUnit testing can be performed using various testing frameworks and tools, such as JUnit or PyUnit.",
+    "answer": "When debugging a program, what is the primary difference between a stack trace and an error message?\nA stack trace provides a detailed sequence of function calls that led to the error, while an error message is a general description of the problem.\nStack traces are useful for identifying the source of the error, while error messages are useful for understanding the nature of the error.\nIn general, a stack trace is more informative than an error message.\nHowever, error messages can be more concise and easier to understand.\nUltimately, the choice between a stack trace and an error message depends on the specific debugging scenario.",
     "difficulty": "intermediate",
-    "question": "What is unit testing in software development, and how does it contribute to the overall testing process?",
+    "question": "When debugging a program, what is the primary difference between a stack trace and an error message?",
     "tags": [
-      "Testing",
-      "Software Development",
-      "Unit Testing",
-      "Test-Driven Development"
+      "Debugging",
+      "Error Handling",
+      "Stack Traces",
+      "Error Messages"
     ],
-    "theme": "Testing",
+    "theme": "Debugging",
     "type": "open",
     "id": "20260912",
-    "createdAt": "2026-09-11T16:00:14.958Z"
+    "createdAt": "2026-09-12T03:30:14.864Z"
   }
 ]
