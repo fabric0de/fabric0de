@@ -10,9 +10,9 @@
   "round": {
     "day": 1,
     "incidentId": "first-signal",
-    "openedAt": null,
-    "closesAt": null,
-    "issueNumber": null,
+    "openedAt": "2026-09-13T13:05:03.571Z",
+    "closesAt": "2026-09-14T08:00:00.000Z",
+    "issueNumber": 1,
     "quip": "I have a name. Apparently someone else knows it too."
   },
   "history": []

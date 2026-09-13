@@ -22,7 +22,7 @@ Growth **0** · **0 XP** · next growth at **24 XP**
 
 Today — **Something in the static knows your name.**
 
-*The first vote opens at the next update.*
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/1)
 
 <sub>Daily at 08:00 UTC</sub>
 
