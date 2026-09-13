@@ -6,7 +6,7 @@ BIT is a digital life that awakens inside this profile. Visitors choose how it r
 
 ## Participate
 
-Open the current voting issue from the profile and comment with just **A**, **B**, or **C**. The story and artwork are visible on GitHub; voting requires a GitHub account. No separate website or server is needed.
+The profile shows BIT, a short encounter headline, and a link to vote. The voting issue contains the full story, choices, costs, current state and voting rules. Open it from **Read the encounter & vote →** and comment with just **A**, **B**, or **C**. The story and artwork are visible on GitHub; voting requires a GitHub account. No separate website or server is needed.
 
 - One vote per account: its latest valid comment or edit within the published window. Case and surrounding whitespace do not matter.
 - Comments must be created and last edited before the cutoff. An edit at or after the cutoff makes that comment ineligible; an earlier valid comment may then count. Deleted comments cannot be collected. Frozen results never change on retry.

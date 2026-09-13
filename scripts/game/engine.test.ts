@@ -266,7 +266,7 @@ test('rendering preserves the profile and never invents a voting link', () => {
   const output = replaceSection(input, game, 'fabric0de/fabric0de');
   assert.ok(output.startsWith(before));
   assert.ok(output.endsWith(after));
-  assert.match(output, /first vote opens when the story begins/);
+  assert.match(output, /first vote opens/);
   assert.match(output, /08:00 UTC/);
   assert.equal(utc('2026-09-13T17:00:00+09:00'), '2026-09-13 08:00 UTC');
   assert.ok(!output.includes('/issues/'));

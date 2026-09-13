@@ -73,8 +73,6 @@ export function renderSection(
   const pet = deriveCreature(game);
   const portrait = creature ? latestPortrait(creature, pet) : undefined;
   const name = creature?.identity.name ?? 'BIT';
-  const choices = choicesFor(game);
-  const last = game.history.at(-1);
   const link = game.round.issueNumber
     ? `https://github.com/${repo}/issues/${game.round.issueNumber}`
     : null;
@@ -82,45 +80,20 @@ export function renderSection(
 
 ## still becoming.
 
-A small cluster of data stirred here. It has no settled form yet. It follows unfamiliar signals, remembers your choices, and grows into something we have yet to discover.
+A digital life shaped by your choices.
 
 ${portrait ? `<img src="./${portrait.asset}" width="144" height="144" alt="${name}, ${portrait.growth === 0 ? 'a tiny unformed cluster of data' : 'an evolving digital life'}">\n` : ''}
 **${name}** · ${pet.stage} · **${pet.condition}** · \`DAY ${String(game.round.day).padStart(3, '0')}\`
 
 Growth **${pet.growth}** · **${pet.experience} XP** · next growth at **${pet.nextGrowthAt} XP**${pet.temperament !== 'undiscovered' ? ` · drawn to **${pet.temperament}**` : ''}
 
-${creature && needsPortrait(game, creature) ? '<sub>A new appearance is pending; the last accepted portrait stays until it is ready.</sub>\n\n' : ''}> ${escapeMarkdown(game.round.quip)}
+${creature && needsPortrait(game, creature) ? '<sub>A new appearance is pending.</sub>\n\n' : ''}> ${escapeMarkdown(game.round.quip)}
 
-### Today's encounter
+Today — **${incident.title}**
 
-**${incident.title}**
+${link ? `[Read the encounter & vote →](${link})` : '*The first vote opens at the next update.*'}
 
-${incident.description}
-
-${choices.map((choice) => `- **${choice.id}.** ${choice.title}${affordable(game, choice) ? '' : ' _(unavailable right now)_'}`).join('\n')}
-
-${link ? `[Choose ${name}'s next step →](${link})` : '*The first vote opens when the story begins.*'}
-
-Leave **A**, **B**, or **C** in the voting issue. On quiet days, autopilot keeps the journey going.
-
-${game.round.closesAt ? `Voting closes **${utc(game.round.closesAt)}**. The next update follows the scheduled run.` : 'One encounter per day · scheduled for **08:00 UTC**.'}
-
-<details>
-<summary>Condition, abilities & choice details</summary>
-
-${worldSummary(game.world)}
-
-${choices.map((choice) => `- **${choice.id}. ${choice.title}:** ${choiceDetails(choice)}`).join('\n')}
-
-Every completed encounter earns **3 XP**, plus **2 XP** for learning a new ability. Six energy returns after each encounter. Learned tendencies influence future appearances; none locks in a species.
-
-One latest valid vote per account; ties use A → B → C. Without votes, autopilot chooses **${autopilot(game)}** for the published state.
-
-A fictional digital world. [Story and growth rules](./docs/game.md).
-
-</details>
-
-${last ? `<details>\n<summary>Last memory — ${last.choiceTitle}</summary>\n\n${resultMarkdown(last)}\n\n</details>` : '<sub>One small signal. No fixed evolution tree. A life still taking shape.</sub>'}
+<sub>Daily at 08:00 UTC</sub>
 
 [Growth album](./docs/creature-album.md) · [Journey log](./docs/journey-log.md) · [How it works](./docs/game.md)
 
