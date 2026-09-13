@@ -1,0 +1,70 @@
+name: Raise a digital life
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # 08:00 UTC / 17:00 Asia/Seoul; one decision per round
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: digital-life
+  cancel-in-progress: false
+
+jobs:
+  daily-turn:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run type-check && npm run test:game
+      - name: Resolve votes and publish the next incident
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GAME_NARRATION: ${{ vars.GAME_NARRATION }}
+          GAME_AI_MODEL: ${{ vars.GAME_AI_MODEL }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: npm run game:update -- --publish
+      - name: Save the world and profile
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md data/life-state.json data/creature.json docs/journey-log.md docs/creature-album.md
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: continue BIT journey [skip ci]'
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:$DEFAULT_BRANCH"
+      - name: Generate a new appearance when growth is due
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CREATURE_IMAGES: ${{ vars.CREATURE_IMAGES }}
+          CREATURE_IMAGE_MODEL: ${{ vars.CREATURE_IMAGE_MODEL }}
+          CREATURE_REVIEW_MODEL: ${{ vars.CREATURE_REVIEW_MODEL }}
+        run: npm run creature:grow
+      - name: Save the accepted appearance and growth album
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git add README.md data/creature.json docs/creature-album.md assets/creature
+          if git diff --staged --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: grow the profile creature [skip ci]'
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:$DEFAULT_BRANCH"

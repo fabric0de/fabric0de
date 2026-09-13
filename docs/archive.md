@@ -1,6 +1,8 @@
 # Quiz Archive
 
-Past quizzes are stored here automatically by the daily update script.
+Historical quizzes from the retired daily quiz. This archive is preserved as a static record.
+
+[Back to the profile](../README.md) · [Original quiz data](./quiz-history.json)
 
 ## 20260913 - What is a linked list, and what are its key characteristics?
 

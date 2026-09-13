@@ -1,5 +1,4 @@
 .env
 node_modules/
-SETUP.md
-test-cloudflare-ai.js
+dist/
 .DS_Store

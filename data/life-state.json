@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "world": {
+    "energy": 70,
+    "stability": 70,
+    "bond": 10,
+    "fragments": 8,
+    "abilities": []
+  },
+  "round": {
+    "day": 1,
+    "incidentId": "first-signal",
+    "openedAt": null,
+    "closesAt": null,
+    "issueNumber": null,
+    "quip": "I have a name. Apparently someone else knows it too."
+  },
+  "history": []
+}

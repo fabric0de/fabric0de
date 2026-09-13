@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "identity": {
+    "name": "BIT",
+    "description": "BIT is an evolving digital life whose identity lives in its accumulated memories. It begins as a tiny unformed cluster of data. Its color, silhouette, markings, organs and eventual species are undetermined and can change through experience.",
+    "invariants": [
+      "Carry forward at least one visible feature from the immediately preceding appearance; which feature is retained can change on later turns",
+      "Make one coherent, experience-driven adaptation per accepted appearance, preserving a readable transition instead of redrawing an unrelated character",
+      "No permanent color, eye design, anatomy, emblem or species; retain a digital quality without requiring literal circuits or mechanical parts",
+      "Crisp, restrained pixel-art style and a transparent background"
+    ]
+  },
+  "portraits": [
+    {
+      "key": "birth",
+      "growth": 0,
+      "experience": 0,
+      "completedDays": 0,
+      "asset": "assets/creature/birth-unformed.png",
+      "promptFile": "assets/creature/birth-unformed.prompt.txt",
+      "source": "builtin",
+      "model": "built-in image_gen",
+      "reason": "A tiny, unformed cluster of data. No established face, anatomy, emblem or species. Its current neutral colors are not a permanent identity. Selected before the journey began.",
+      "referenceAssets": []
+    }
+  ],
+  "lastAttempt": null
+}
