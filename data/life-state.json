@@ -1,19 +1,60 @@
 {
   "version": 2,
   "world": {
-    "energy": 70,
-    "stability": 70,
+    "energy": 76,
+    "stability": 82,
     "bond": 10,
-    "fragments": 8,
+    "fragments": 2,
     "abilities": []
   },
+  "history": [
+    {
+      "day": 1,
+      "incidentId": "first-signal",
+      "title": "Something in the static knows your name.",
+      "resolvedAt": "2026-09-14T08:00:00.000Z",
+      "issueNumber": 1,
+      "decision": {
+        "choice": "B",
+        "reason": "tie",
+        "counts": {
+          "A": 0,
+          "B": 1,
+          "C": 1
+        },
+        "voters": 2
+      },
+      "choiceTitle": "Gather fragments and reinforce the core",
+      "explanation": "BIT arranged nearby fragments around its core and learned to hold its form steady.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 70,
+        "stability": 70,
+        "bond": 10,
+        "fragments": 8,
+        "abilities": []
+      },
+      "after": {
+        "energy": 76,
+        "stability": 82,
+        "bond": 10,
+        "fragments": 2,
+        "abilities": []
+      },
+      "metrics": {
+        "status": "curious"
+      }
+    }
+  ],
   "round": {
-    "day": 1,
-    "incidentId": "first-signal",
-    "openedAt": "2026-09-13T13:05:03.571Z",
-    "closesAt": "2026-09-14T08:00:00.000Z",
-    "issueNumber": 1,
-    "quip": "I have a name. Apparently someone else knows it too."
-  },
-  "history": []
+    "day": 2,
+    "incidentId": "lost-memory",
+    "openedAt": "2026-09-14T14:41:59.392Z",
+    "closesAt": "2026-09-15T08:00:00.000Z",
+    "issueNumber": 2,
+    "quip": "I do not know whose memory this is. It sounds lonely."
+  }
 }

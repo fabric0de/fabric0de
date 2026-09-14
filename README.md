@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 001`
+**BIT** · unformed · **curious** · `DAY 002`
 
-Growth **0** · **0 XP** · next growth at **24 XP**
+Growth **0** · **3 XP** · next growth at **24 XP**
 
-> I have a name. Apparently someone else knows it too.
+> I do not know whose memory this is. It sounds lonely.
 
-Today — **Something in the static knows your name.**
+Today — **A damaged memory is asking to be remembered.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/1)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/2)
 
 <sub>Daily at 08:00 UTC</sub>
 
