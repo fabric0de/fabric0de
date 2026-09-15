@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 002`
+**BIT** · unformed · **curious** · `DAY 003`
 
-Growth **0** · **3 XP** · next growth at **24 XP**
+Growth **0** · **6 XP** · next growth at **24 XP**
 
-> I do not know whose memory this is. It sounds lonely.
+> I tried catching the light. This time it stayed.
 
-Today — **A damaged memory is asking to be remembered.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/2)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/3)
 
 <sub>Daily at 08:00 UTC</sub>
 

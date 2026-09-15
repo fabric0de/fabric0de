@@ -1,9 +1,9 @@
 {
   "version": 2,
   "world": {
-    "energy": 76,
+    "energy": 78,
     "stability": 82,
-    "bond": 10,
+    "bond": 18,
     "fragments": 2,
     "abilities": []
   },
@@ -47,14 +47,54 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 2,
+      "incidentId": "lost-memory",
+      "title": "A damaged memory is asking to be remembered.",
+      "resolvedAt": "2026-09-15T08:00:00.000Z",
+      "issueNumber": 2,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Answer with a memory of our own",
+      "explanation": "BIT placed its own first signal beside the recording. The two rhythms began to alternate.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 82,
+        "bond": 10,
+        "fragments": 2,
+        "abilities": []
+      },
+      "after": {
+        "energy": 78,
+        "stability": 82,
+        "bond": 18,
+        "fragments": 2,
+        "abilities": []
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 2,
-    "incidentId": "lost-memory",
-    "openedAt": "2026-09-14T14:41:59.392Z",
-    "closesAt": "2026-09-15T08:00:00.000Z",
-    "issueNumber": 2,
-    "quip": "I do not know whose memory this is. It sounds lonely."
+    "day": 3,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-09-15T13:06:39.381Z",
+    "closesAt": "2026-09-16T08:00:00.000Z",
+    "issueNumber": 3,
+    "quip": "I tried catching the light. This time it stayed."
   }
 }
