@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 003`
+**BIT** · unformed · **curious** · `DAY 004`
 
-Growth **0** · **6 XP** · next growth at **24 XP**
+Growth **0** · **9 XP** · next growth at **24 XP**
 
-> I tried catching the light. This time it stayed.
+> I brought a collection of shiny things. The forge calls it potential.
 
-Today — **Fragments are falling like luminous snow.**
+Today — **The fragments can become something more.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/3)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/4)
 
 <sub>Daily at 08:00 UTC</sub>
 
