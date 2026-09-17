@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 4 — The fragments can become something more.
+
+2026-09-17 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/4)
+
+**Decision:** C. Study the forge and save the fragments — autopilot (no valid votes)
+
+BIT studied the forge without choosing an ability yet and collected a few unused fragments.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 76 | 86 |
+| Core stability | 86 | 86 |
+| Bond | 18 | 18 |
+| Data fragments | 7 | 11 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 3 — Fragments are falling like luminous snow.
 
 2026-09-16 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/3)

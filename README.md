@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 004`
+**BIT** · unformed · **curious** · `DAY 005`
 
-Growth **0** · **9 XP** · next growth at **24 XP**
+Growth **0** · **12 XP** · next growth at **24 XP** · drawn to **insight**
 
-> I brought a collection of shiny things. The forge calls it potential.
+> The sky is buffering. I would like it to stop.
 
-Today — **The fragments can become something more.**
+Today — **A glitch storm is crossing the quiet sector.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/4)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/5)
 
 <sub>Daily at 08:00 UTC</sub>
 

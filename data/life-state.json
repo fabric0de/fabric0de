@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 76,
+    "energy": 86,
     "stability": 86,
     "bond": 18,
-    "fragments": 7,
+    "fragments": 11,
     "abilities": []
   },
   "history": [
@@ -127,14 +127,54 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 4,
+      "incidentId": "fragment-forge",
+      "title": "The fragments can become something more.",
+      "resolvedAt": "2026-09-17T08:00:00.000Z",
+      "issueNumber": 4,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the forge and save the fragments",
+      "explanation": "BIT studied the forge without choosing an ability yet and collected a few unused fragments.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 86,
+        "bond": 18,
+        "fragments": 7,
+        "abilities": []
+      },
+      "after": {
+        "energy": 86,
+        "stability": 86,
+        "bond": 18,
+        "fragments": 11,
+        "abilities": []
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 4,
-    "incidentId": "fragment-forge",
-    "openedAt": "2026-09-16T13:04:33.459Z",
-    "closesAt": "2026-09-17T08:00:00.000Z",
-    "issueNumber": 4,
-    "quip": "I brought a collection of shiny things. The forge calls it potential."
+    "day": 5,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-09-17T13:01:11.137Z",
+    "closesAt": "2026-09-18T08:00:00.000Z",
+    "issueNumber": 5,
+    "quip": "The sky is buffering. I would like it to stop."
   }
 }
