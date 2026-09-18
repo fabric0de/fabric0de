@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 86,
-    "stability": 86,
+    "energy": 72,
+    "stability": 74,
     "bond": 18,
-    "fragments": 11,
+    "fragments": 25,
     "abilities": []
   },
   "history": [
@@ -167,14 +167,55 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 5,
+      "incidentId": "glitch-storm",
+      "title": "A glitch storm is crossing the quiet sector.",
+      "resolvedAt": "2026-09-18T08:00:00.000Z",
+      "issueNumber": 5,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Cross the storm for the data beyond it",
+      "explanation": "BIT crossed the unstable sector and recovered data from the far side, but its core needs time to settle.",
+      "learning": {
+        "exploration": 1,
+        "resolve": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 86,
+        "stability": 86,
+        "bond": 18,
+        "fragments": 11,
+        "abilities": []
+      },
+      "after": {
+        "energy": 72,
+        "stability": 74,
+        "bond": 18,
+        "fragments": 25,
+        "abilities": []
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 5,
-    "incidentId": "glitch-storm",
-    "openedAt": "2026-09-17T13:01:11.137Z",
-    "closesAt": "2026-09-18T08:00:00.000Z",
-    "issueNumber": 5,
-    "quip": "The sky is buffering. I would like it to stop."
+    "day": 6,
+    "incidentId": "echo-chamber",
+    "openedAt": "2026-09-18T12:40:24.140Z",
+    "closesAt": "2026-09-19T08:00:00.000Z",
+    "issueNumber": 6,
+    "quip": "I said hello. The room had several opinions."
   }
 }
