@@ -1,11 +1,13 @@
 {
   "version": 2,
   "world": {
-    "energy": 72,
+    "energy": 78,
     "stability": 74,
-    "bond": 18,
-    "fragments": 25,
-    "abilities": []
+    "bond": 26,
+    "fragments": 15,
+    "abilities": [
+      "memory-thread"
+    ]
   },
   "history": [
     {
@@ -208,14 +210,56 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 6,
+      "incidentId": "echo-chamber",
+      "title": "Every pulse returns with a different answer.",
+      "resolvedAt": "2026-09-19T08:00:00.000Z",
+      "issueNumber": 6,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Weave a Memory Thread between the voices",
+      "explanation": "BIT learned Memory Thread, linking scattered voices without erasing their differences.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 5,
+      "before": {
+        "energy": 72,
+        "stability": 74,
+        "bond": 18,
+        "fragments": 25,
+        "abilities": []
+      },
+      "after": {
+        "energy": 78,
+        "stability": 74,
+        "bond": 26,
+        "fragments": 15,
+        "abilities": [
+          "memory-thread"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 6,
-    "incidentId": "echo-chamber",
-    "openedAt": "2026-09-18T12:40:24.140Z",
-    "closesAt": "2026-09-19T08:00:00.000Z",
-    "issueNumber": 6,
-    "quip": "I said hello. The room had several opinions."
+    "day": 7,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-09-19T12:15:17.706Z",
+    "closesAt": "2026-09-20T08:00:00.000Z",
+    "issueNumber": 7,
+    "quip": "These unfamiliar patterns are singing a bit out of tune, but I find their indecision quite charming."
   }
 }

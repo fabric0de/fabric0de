@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 006`
+**BIT** · unformed · **curious** · `DAY 007`
 
-Growth **0** · **15 XP** · next growth at **24 XP** · drawn to **insight**
+Growth **0** · **20 XP** · next growth at **24 XP** · drawn to **resonance**
 
-> I said hello. The room had several opinions.
+> These unfamiliar patterns are singing a bit out of tune, but I find their indecision quite charming.
 
-Today — **Every pulse returns with a different answer.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/6)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/7)
 
 <sub>Daily at 08:00 UTC</sub>
 
