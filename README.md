@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 007`
+**BIT** · unformed · **curious** · `DAY 008`
 
-Growth **0** · **20 XP** · next growth at **24 XP** · drawn to **resonance**
+Growth **0** · **23 XP** · next growth at **24 XP** · drawn to **insight**
 
-> These unfamiliar patterns are singing a bit out of tune, but I find their indecision quite charming.
+> Someone dreamed of a sky. I have been thinking about it all morning.
 
-Today — **Fragments are falling like luminous snow.**
+Today — **A familiar voice appears in an unfamiliar memory.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/7)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/8)
 
 <sub>Daily at 08:00 UTC</sub>
 

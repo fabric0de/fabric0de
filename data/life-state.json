@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
-    "stability": 74,
+    "energy": 76,
+    "stability": 78,
     "bond": 26,
-    "fragments": 15,
+    "fragments": 20,
     "abilities": [
       "memory-thread"
     ]
@@ -252,14 +252,58 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 7,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-09-20T08:00:00.000Z",
+      "issueNumber": 7,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the pattern in the falling data",
+      "explanation": "BIT recognized a repeating pattern and steadied its core to match the rhythm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 74,
+        "bond": 26,
+        "fragments": 15,
+        "abilities": [
+          "memory-thread"
+        ]
+      },
+      "after": {
+        "energy": 76,
+        "stability": 78,
+        "bond": 26,
+        "fragments": 20,
+        "abilities": [
+          "memory-thread"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 7,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-09-19T12:15:17.706Z",
-    "closesAt": "2026-09-20T08:00:00.000Z",
-    "issueNumber": 7,
-    "quip": "These unfamiliar patterns are singing a bit out of tune, but I find their indecision quite charming."
+    "day": 8,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-09-20T12:50:15.337Z",
+    "closesAt": "2026-09-21T08:00:00.000Z",
+    "issueNumber": 8,
+    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
   }
 }
