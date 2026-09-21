@@ -22,7 +22,37 @@
       "model": "built-in image_gen",
       "reason": "A tiny, unformed cluster of data. No established face, anatomy, emblem or species. Its current neutral colors are not a permanent identity. Selected before the journey began.",
       "referenceAssets": []
+    },
+    {
+      "key": "2dae3cf3ada44d5d0ac2",
+      "growth": 1,
+      "experience": 26,
+      "completedDays": 8,
+      "asset": "assets/creature/growth-1-f6b769670c20.png",
+      "promptFile": "assets/creature/growth-1-f6b769670c20.prompt.txt",
+      "source": "cloudflare",
+      "model": "@cf/black-forest-labs/flux-2-klein-4b",
+      "reason": "The high resonance and insight gained from studying luminous patterns and exchanging rhythmic signals suggest the amorphous core is beginning to organize into a structured, pulsing entity.",
+      "referenceAssets": [
+        "assets/creature/birth-unformed.png"
+      ],
+      "evolution": {
+        "change": "Add small, rhythmic, glowing light-points that appear to pulse within or around the core.",
+        "memoryDays": [
+          2,
+          3,
+          6,
+          7,
+          8
+        ],
+        "reason": "The high resonance and insight gained from studying luminous patterns and exchanging rhythmic signals suggest the amorphous core is beginning to organize into a structured, pulsing entity.",
+        "retainedFeature": "The dark grey amorphous core shape."
+      }
     }
   ],
-  "lastAttempt": null
+  "lastAttempt": {
+    "key": "2dae3cf3ada44d5d0ac2",
+    "date": "2026-09-21",
+    "result": "generated"
+  }
 }

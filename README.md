@@ -12,13 +12,11 @@ Reading code, questioning decisions, and learning by changing things.
 
 A digital life shaped by your choices.
 
-<img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
+<img src="./assets/creature/growth-1-f6b769670c20.png" width="144" height="144" alt="BIT, an evolving digital life">
 
 **BIT** · taking shape · **curious** · `DAY 009`
 
 Growth **1** · **26 XP** · next growth at **48 XP** · drawn to **resonance**
-
-<sub>A new appearance is pending.</sub>
 
 > The sky is buffering. I would like it to stop.
 
