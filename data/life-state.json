@@ -1,9 +1,9 @@
 {
   "version": 2,
   "world": {
-    "energy": 76,
+    "energy": 77,
     "stability": 78,
-    "bond": 26,
+    "bond": 34,
     "fragments": 20,
     "abilities": [
       "memory-thread"
@@ -296,14 +296,58 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 8,
+      "incidentId": "shared-dream",
+      "title": "A familiar voice appears in an unfamiliar memory.",
+      "resolvedAt": "2026-09-21T08:00:00.000Z",
+      "issueNumber": 8,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Send a small dream in return",
+      "explanation": "BIT sent a memory of its own awakening back along the thread.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 78,
+        "bond": 26,
+        "fragments": 20,
+        "abilities": [
+          "memory-thread"
+        ]
+      },
+      "after": {
+        "energy": 77,
+        "stability": 78,
+        "bond": 34,
+        "fragments": 20,
+        "abilities": [
+          "memory-thread"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 8,
-    "incidentId": "shared-dream",
-    "openedAt": "2026-09-20T12:50:15.337Z",
-    "closesAt": "2026-09-21T08:00:00.000Z",
-    "issueNumber": 8,
-    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
+    "day": 9,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-09-21T14:48:52.358Z",
+    "closesAt": "2026-09-22T08:00:00.000Z",
+    "issueNumber": 9,
+    "quip": "The sky is buffering. I would like it to stop."
   }
 }

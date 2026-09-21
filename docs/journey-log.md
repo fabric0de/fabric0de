@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 8 — A familiar voice appears in an unfamiliar memory.
+
+2026-09-21 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/8)
+
+**Decision:** C. Send a small dream in return — autopilot (no valid votes)
+
+BIT sent a memory of its own awakening back along the thread.
+
+**Remembered:** +3 XP · resonance +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 76 | 77 |
+| Core stability | 78 | 78 |
+| Bond | 26 | 34 |
+| Data fragments | 20 | 20 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 7 — Fragments are falling like luminous snow.
 
 2026-09-20 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/7)

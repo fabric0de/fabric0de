@@ -14,15 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/birth-unformed.png" width="144" height="144" alt="BIT, a tiny unformed cluster of data">
 
-**BIT** · unformed · **curious** · `DAY 008`
+**BIT** · taking shape · **curious** · `DAY 009`
 
-Growth **0** · **23 XP** · next growth at **24 XP** · drawn to **insight**
+Growth **1** · **26 XP** · next growth at **48 XP** · drawn to **resonance**
 
-> Someone dreamed of a sky. I have been thinking about it all morning.
+<sub>A new appearance is pending.</sub>
 
-Today — **A familiar voice appears in an unfamiliar memory.**
+> The sky is buffering. I would like it to stop.
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/8)
+Today — **A glitch storm is crossing the quiet sector.**
+
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/9)
 
 <sub>Daily at 08:00 UTC</sub>
 
