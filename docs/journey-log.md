@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 9 — A glitch storm is crossing the quiet sector.
+
+2026-09-22 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/9)
+
+**Decision:** C. Wait and map the gaps in the storm — autopilot (no valid votes)
+
+BIT waited, observed the gaps, and found a safe way around the storm.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 77 | 91 |
+| Core stability | 78 | 83 |
+| Bond | 34 | 34 |
+| Data fragments | 20 | 20 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 8 — A familiar voice appears in an unfamiliar memory.
 
 2026-09-21 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/8)
