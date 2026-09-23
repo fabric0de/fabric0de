@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-1-f6b769670c20.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · taking shape · **curious** · `DAY 010`
+**BIT** · taking shape · **curious** · `DAY 011`
 
-Growth **1** · **29 XP** · next growth at **48 XP** · drawn to **insight**
+Growth **1** · **34 XP** · next growth at **48 XP** · drawn to **insight**
 
-> I brought a collection of shiny things. The forge calls it potential.
+> I tried catching the light. This time it stayed.
 
-Today — **The fragments can become something more.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/10)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/11)
 
 <sub>Daily at 08:00 UTC</sub>
 

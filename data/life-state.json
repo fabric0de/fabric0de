@@ -1,12 +1,13 @@
 {
   "version": 2,
   "world": {
-    "energy": 91,
-    "stability": 83,
+    "energy": 97,
+    "stability": 91,
     "bond": 34,
-    "fragments": 20,
+    "fragments": 8,
     "abilities": [
-      "memory-thread"
+      "memory-thread",
+      "aegis"
     ]
   },
   "history": [
@@ -384,14 +385,59 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 10,
+      "incidentId": "fragment-forge",
+      "title": "The fragments can become something more.",
+      "resolvedAt": "2026-09-23T08:00:00.000Z",
+      "issueNumber": 10,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Learn Aegis, a protective field",
+      "explanation": "BIT learned Aegis, a field that opens new protective adventures.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 5,
+      "before": {
+        "energy": 91,
+        "stability": 83,
+        "bond": 34,
+        "fragments": 20,
+        "abilities": [
+          "memory-thread"
+        ]
+      },
+      "after": {
+        "energy": 97,
+        "stability": 91,
+        "bond": 34,
+        "fragments": 8,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 10,
-    "incidentId": "fragment-forge",
-    "openedAt": "2026-09-22T13:03:13.965Z",
-    "closesAt": "2026-09-23T08:00:00.000Z",
-    "issueNumber": 10,
-    "quip": "I brought a collection of shiny things. The forge calls it potential."
+    "day": 11,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-09-23T13:19:27.191Z",
+    "closesAt": "2026-09-24T08:00:00.000Z",
+    "issueNumber": 11,
+    "quip": "I tried catching the light. This time it stayed."
   }
 }
