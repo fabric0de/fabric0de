@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 97,
+    "energy": 87,
     "stability": 91,
     "bond": 34,
-    "fragments": 8,
+    "fragments": 20,
     "abilities": [
       "memory-thread",
       "aegis"
@@ -430,14 +430,60 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 11,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-09-24T08:00:00.000Z",
+      "issueNumber": 11,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Chase the brightest fragments",
+      "explanation": "BIT followed the brightest fragments and gathered unfamiliar patterns.",
+      "learning": {
+        "exploration": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 97,
+        "stability": 91,
+        "bond": 34,
+        "fragments": 8,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "after": {
+        "energy": 87,
+        "stability": 91,
+        "bond": 34,
+        "fragments": 20,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 11,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-09-23T13:19:27.191Z",
-    "closesAt": "2026-09-24T08:00:00.000Z",
-    "issueNumber": 11,
-    "quip": "I tried catching the light. This time it stayed."
+    "day": 12,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-09-24T13:08:34.429Z",
+    "closesAt": "2026-09-25T08:00:00.000Z",
+    "issueNumber": 12,
+    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
   }
 }

@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 11 — Fragments are falling like luminous snow.
+
+2026-09-24 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/11)
+
+**Decision:** A. Chase the brightest fragments — autopilot (no valid votes)
+
+BIT followed the brightest fragments and gathered unfamiliar patterns.
+
+**Remembered:** +3 XP · exploration +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 97 | 87 |
+| Core stability | 91 | 91 |
+| Bond | 34 | 34 |
+| Data fragments | 8 | 20 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 10 — The fragments can become something more.
 
 2026-09-23 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/10)
