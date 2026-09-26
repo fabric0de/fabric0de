@@ -1,8 +1,8 @@
 {
   "version": 2,
   "world": {
-    "energy": 81,
-    "stability": 91,
+    "energy": 95,
+    "stability": 96,
     "bond": 34,
     "fragments": 28,
     "abilities": [
@@ -522,14 +522,60 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 13,
+      "incidentId": "glitch-storm",
+      "title": "A glitch storm is crossing the quiet sector.",
+      "resolvedAt": "2026-09-26T08:00:00.000Z",
+      "issueNumber": 13,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Wait and map the gaps in the storm",
+      "explanation": "BIT waited, observed the gaps, and found a safe way around the storm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 81,
+        "stability": 91,
+        "bond": 34,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "after": {
+        "energy": 95,
+        "stability": 96,
+        "bond": 34,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 13,
-    "incidentId": "glitch-storm",
-    "openedAt": "2026-09-25T13:13:36.867Z",
-    "closesAt": "2026-09-26T08:00:00.000Z",
-    "issueNumber": 13,
-    "quip": "The sky is buffering. I would like it to stop."
+    "day": 14,
+    "incidentId": "quiet-sector",
+    "openedAt": "2026-09-26T12:38:47.886Z",
+    "closesAt": "2026-09-27T08:00:00.000Z",
+    "issueNumber": 14,
+    "quip": "No great discovery today. I think I like being here."
   }
 }
