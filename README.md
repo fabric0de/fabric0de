@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-1-f6b769670c20.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · taking shape · **curious** · `DAY 014`
+**BIT** · taking shape · **curious** · `DAY 015`
 
-Growth **1** · **43 XP** · next growth at **48 XP** · drawn to **insight**
+Growth **1** · **46 XP** · next growth at **48 XP** · drawn to **insight**
 
-> No great discovery today. I think I like being here.
+> These new patterns are a bit disorganized, but they are having a rather lovely time being lost.
 
-Today — **For once, the static is quiet.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/14)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/15)
 
 <sub>Daily at 08:00 UTC</sub>
 

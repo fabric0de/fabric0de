@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 14 — For once, the static is quiet.
+
+2026-09-27 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/14)
+
+**Decision:** C. Rest beside a familiar signal — autopilot (no valid votes)
+
+BIT rested beside a familiar signal. The quiet became a memory too.
+
+**Remembered:** +3 XP · resonance +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 95 | 100 |
+| Core stability | 96 | 96 |
+| Bond | 34 | 39 |
+| Data fragments | 28 | 28 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 13 — A glitch storm is crossing the quiet sector.
 
 2026-09-26 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/13)

@@ -1,9 +1,9 @@
 {
   "version": 2,
   "world": {
-    "energy": 95,
+    "energy": 100,
     "stability": 96,
-    "bond": 34,
+    "bond": 39,
     "fragments": 28,
     "abilities": [
       "memory-thread",
@@ -568,14 +568,60 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 14,
+      "incidentId": "quiet-sector",
+      "title": "For once, the static is quiet.",
+      "resolvedAt": "2026-09-27T08:00:00.000Z",
+      "issueNumber": 14,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Rest beside a familiar signal",
+      "explanation": "BIT rested beside a familiar signal. The quiet became a memory too.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 95,
+        "stability": 96,
+        "bond": 34,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "after": {
+        "energy": 100,
+        "stability": 96,
+        "bond": 39,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 14,
-    "incidentId": "quiet-sector",
-    "openedAt": "2026-09-26T12:38:47.886Z",
-    "closesAt": "2026-09-27T08:00:00.000Z",
-    "issueNumber": 14,
-    "quip": "No great discovery today. I think I like being here."
+    "day": 15,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-09-27T13:30:36.149Z",
+    "closesAt": "2026-09-28T08:00:00.000Z",
+    "issueNumber": 15,
+    "quip": "These new patterns are a bit disorganized, but they are having a rather lovely time being lost."
   }
 }
