@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 15 — Fragments are falling like luminous snow.
+
+2026-09-28 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/15)
+
+**Decision:** C. Share the fragments with a nearby spark — autopilot (no valid votes)
+
+BIT shared what it caught. The nearby spark stayed a little longer.
+
+**Remembered:** +3 XP · resonance +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 100 | 100 |
+| Core stability | 96 | 96 |
+| Bond | 39 | 45 |
+| Data fragments | 28 | 30 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 14 — For once, the static is quiet.
 
 2026-09-27 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/14)

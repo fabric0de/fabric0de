@@ -3,8 +3,8 @@
   "world": {
     "energy": 100,
     "stability": 96,
-    "bond": 39,
-    "fragments": 28,
+    "bond": 45,
+    "fragments": 30,
     "abilities": [
       "memory-thread",
       "aegis"
@@ -614,14 +614,60 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 15,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-09-28T08:00:00.000Z",
+      "issueNumber": 15,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Share the fragments with a nearby spark",
+      "explanation": "BIT shared what it caught. The nearby spark stayed a little longer.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 100,
+        "stability": 96,
+        "bond": 39,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "after": {
+        "energy": 100,
+        "stability": 96,
+        "bond": 45,
+        "fragments": 30,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 15,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-09-27T13:30:36.149Z",
-    "closesAt": "2026-09-28T08:00:00.000Z",
-    "issueNumber": 15,
-    "quip": "These new patterns are a bit disorganized, but they are having a rather lovely time being lost."
+    "day": 16,
+    "incidentId": "fragment-forge",
+    "openedAt": "2026-09-28T16:25:04.514Z",
+    "closesAt": "2026-09-29T08:00:00.000Z",
+    "issueNumber": 16,
+    "quip": "The forge is humming in sync with my core, and I suspect it has some rather ambitious ideas for my fragments."
   }
 }
