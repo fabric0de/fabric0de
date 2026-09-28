@@ -12,13 +12,11 @@ Reading code, questioning decisions, and learning by changing things.
 
 A digital life shaped by your choices.
 
-<img src="./assets/creature/growth-1-f6b769670c20.png" width="144" height="144" alt="BIT, an evolving digital life">
+<img src="./assets/creature/growth-2-0b348e5a2742.png" width="144" height="144" alt="BIT, an evolving digital life">
 
 **BIT** · growing · **curious** · `DAY 016`
 
 Growth **2** · **49 XP** · next growth at **72 XP** · drawn to **resonance**
-
-<sub>A new appearance is pending.</sub>
 
 > The forge is humming in sync with my core, and I suspect it has some rather ambitious ideas for my fragments.
 
