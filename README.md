@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-2-0b348e5a2742.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · growing · **curious** · `DAY 016`
+**BIT** · growing · **curious** · `DAY 017`
 
-Growth **2** · **49 XP** · next growth at **72 XP** · drawn to **resonance**
+Growth **2** · **54 XP** · next growth at **72 XP** · drawn to **resonance**
 
-> The forge is humming in sync with my core, and I suspect it has some rather ambitious ideas for my fragments.
+> The edge of my shelter is having a bit of a stutter, but I think I can find the right rhythm to step through it.
 
-Today — **The fragments can become something more.**
+Today — **A glitch storm is crossing the quiet sector.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/16)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/17)
 
 <sub>Daily at 08:00 UTC</sub>
 

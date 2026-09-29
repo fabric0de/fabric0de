@@ -4,10 +4,11 @@
     "energy": 100,
     "stability": 96,
     "bond": 45,
-    "fragments": 30,
+    "fragments": 18,
     "abilities": [
       "memory-thread",
-      "aegis"
+      "aegis",
+      "phase-step"
     ]
   },
   "history": [
@@ -660,14 +661,61 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 16,
+      "incidentId": "fragment-forge",
+      "title": "The fragments can become something more.",
+      "resolvedAt": "2026-09-29T08:00:00.000Z",
+      "issueNumber": 16,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Learn Phase Step, a way across gaps",
+      "explanation": "BIT learned Phase Step and can now reach routes beyond ordinary gaps.",
+      "learning": {
+        "exploration": 2
+      },
+      "experience": 5,
+      "before": {
+        "energy": 100,
+        "stability": 96,
+        "bond": 45,
+        "fragments": 30,
+        "abilities": [
+          "memory-thread",
+          "aegis"
+        ]
+      },
+      "after": {
+        "energy": 100,
+        "stability": 96,
+        "bond": 45,
+        "fragments": 18,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 16,
-    "incidentId": "fragment-forge",
-    "openedAt": "2026-09-28T16:25:04.514Z",
-    "closesAt": "2026-09-29T08:00:00.000Z",
-    "issueNumber": 16,
-    "quip": "The forge is humming in sync with my core, and I suspect it has some rather ambitious ideas for my fragments."
+    "day": 17,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-09-29T14:35:11.234Z",
+    "closesAt": "2026-09-30T08:00:00.000Z",
+    "issueNumber": 17,
+    "quip": "The edge of my shelter is having a bit of a stutter, but I think I can find the right rhythm to step through it."
   }
 }

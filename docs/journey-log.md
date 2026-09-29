@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 16 — The fragments can become something more.
+
+2026-09-29 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/16)
+
+**Decision:** B. Learn Phase Step, a way across gaps — autopilot (no valid votes)
+
+BIT learned Phase Step and can now reach routes beyond ordinary gaps.
+
+**Remembered:** +5 XP · exploration +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 100 | 100 |
+| Core stability | 96 | 96 |
+| Bond | 45 | 45 |
+| Data fragments | 30 | 18 |
+
+New ability: **phase-step**.
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 15 — Fragments are falling like luminous snow.
 
 2026-09-28 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/15)
