@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 17 — A glitch storm is crossing the quiet sector.
+
+2026-09-30 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/17)
+
+**Decision:** A. Cross the storm for the data beyond it — autopilot (no valid votes)
+
+BIT crossed the unstable sector and recovered data from the far side, but its core needs time to settle.
+
+**Remembered:** +3 XP · exploration +1 · resolve +1
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 100 | 86 |
+| Core stability | 96 | 84 |
+| Bond | 45 | 45 |
+| Data fragments | 18 | 32 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 16 — The fragments can become something more.
 
 2026-09-29 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/16)

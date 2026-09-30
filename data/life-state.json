@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 100,
-    "stability": 96,
+    "energy": 86,
+    "stability": 84,
     "bond": 45,
-    "fragments": 18,
+    "fragments": 32,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -708,14 +708,63 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 17,
+      "incidentId": "glitch-storm",
+      "title": "A glitch storm is crossing the quiet sector.",
+      "resolvedAt": "2026-09-30T08:00:00.000Z",
+      "issueNumber": 17,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Cross the storm for the data beyond it",
+      "explanation": "BIT crossed the unstable sector and recovered data from the far side, but its core needs time to settle.",
+      "learning": {
+        "exploration": 1,
+        "resolve": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 100,
+        "stability": 96,
+        "bond": 45,
+        "fragments": 18,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step"
+        ]
+      },
+      "after": {
+        "energy": 86,
+        "stability": 84,
+        "bond": 45,
+        "fragments": 32,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 17,
-    "incidentId": "glitch-storm",
-    "openedAt": "2026-09-29T14:35:11.234Z",
-    "closesAt": "2026-09-30T08:00:00.000Z",
-    "issueNumber": 17,
-    "quip": "The edge of my shelter is having a bit of a stutter, but I think I can find the right rhythm to step through it."
+    "day": 18,
+    "incidentId": "echo-chamber",
+    "openedAt": "2026-09-30T14:34:29.489Z",
+    "closesAt": "2026-10-01T08:00:00.000Z",
+    "issueNumber": 18,
+    "quip": "I said hello. The room had several opinions."
   }
 }
