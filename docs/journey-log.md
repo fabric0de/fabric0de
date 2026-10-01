@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 18 — Every pulse returns with a different answer.
+
+2026-10-01 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/18)
+
+**Decision:** A. Learn to read an Echo Map — autopilot (no valid votes)
+
+BIT learned Echo Map, a way to read routes carried by returning signals.
+
+**Remembered:** +5 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 86 | 86 |
+| Core stability | 84 | 84 |
+| Bond | 45 | 45 |
+| Data fragments | 32 | 22 |
+
+New ability: **echo-map**.
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 17 — A glitch storm is crossing the quiet sector.
 
 2026-09-30 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/17)

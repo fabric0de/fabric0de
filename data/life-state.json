@@ -4,11 +4,12 @@
     "energy": 86,
     "stability": 84,
     "bond": 45,
-    "fragments": 32,
+    "fragments": 22,
     "abilities": [
       "memory-thread",
       "aegis",
-      "phase-step"
+      "phase-step",
+      "echo-map"
     ]
   },
   "history": [
@@ -757,14 +758,63 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 18,
+      "incidentId": "echo-chamber",
+      "title": "Every pulse returns with a different answer.",
+      "resolvedAt": "2026-10-01T08:00:00.000Z",
+      "issueNumber": 18,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Learn to read an Echo Map",
+      "explanation": "BIT learned Echo Map, a way to read routes carried by returning signals.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 5,
+      "before": {
+        "energy": 86,
+        "stability": 84,
+        "bond": 45,
+        "fragments": 32,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step"
+        ]
+      },
+      "after": {
+        "energy": 86,
+        "stability": 84,
+        "bond": 45,
+        "fragments": 22,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 18,
-    "incidentId": "echo-chamber",
-    "openedAt": "2026-09-30T14:34:29.489Z",
-    "closesAt": "2026-10-01T08:00:00.000Z",
-    "issueNumber": 18,
-    "quip": "I said hello. The room had several opinions."
+    "day": 19,
+    "incidentId": "guardian-pulse",
+    "openedAt": "2026-10-01T15:03:33.906Z",
+    "closesAt": "2026-10-02T08:00:00.000Z",
+    "issueNumber": 19,
+    "quip": "I was practicing a shield. It seems I built a meeting place."
   }
 }
