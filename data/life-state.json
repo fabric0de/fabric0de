@@ -1,9 +1,9 @@
 {
   "version": 2,
   "world": {
-    "energy": 86,
-    "stability": 84,
-    "bond": 45,
+    "energy": 76,
+    "stability": 87,
+    "bond": 55,
     "fragments": 22,
     "abilities": [
       "memory-thread",
@@ -807,14 +807,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 19,
+      "incidentId": "guardian-pulse",
+      "title": "Something small is hiding behind BIT’s field.",
+      "resolvedAt": "2026-10-02T08:00:00.000Z",
+      "issueNumber": 19,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Hold the field until the signal passes",
+      "explanation": "BIT held Aegis steady until the circling signal faded.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 86,
+        "stability": 84,
+        "bond": 45,
+        "fragments": 22,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 76,
+        "stability": 87,
+        "bond": 55,
+        "fragments": 22,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 19,
-    "incidentId": "guardian-pulse",
-    "openedAt": "2026-10-01T15:03:33.906Z",
-    "closesAt": "2026-10-02T08:00:00.000Z",
-    "issueNumber": 19,
-    "quip": "I was practicing a shield. It seems I built a meeting place."
+    "day": 20,
+    "incidentId": "lost-memory",
+    "openedAt": "2026-10-02T14:25:24.774Z",
+    "closesAt": "2026-10-03T08:00:00.000Z",
+    "issueNumber": 20,
+    "quip": "This signal is quite persistent, even if it seems to have lost the end of its thought."
   }
 }

@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-2-0b348e5a2742.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · growing · **curious** · `DAY 019`
+**BIT** · growing · **curious** · `DAY 020`
 
-Growth **2** · **62 XP** · next growth at **72 XP** · drawn to **insight**
+Growth **2** · **65 XP** · next growth at **72 XP** · drawn to **insight**
 
-> I was practicing a shield. It seems I built a meeting place.
+> This signal is quite persistent, even if it seems to have lost the end of its thought.
 
-Today — **Something small is hiding behind BIT’s field.**
+Today — **A damaged memory is asking to be remembered.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/19)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/20)
 
 <sub>Daily at 08:00 UTC</sub>
 
