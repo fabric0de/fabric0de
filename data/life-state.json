@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 76,
+    "energy": 86,
     "stability": 87,
     "bond": 62,
-    "fragments": 22,
+    "fragments": 28,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -908,14 +908,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 21,
+      "incidentId": "quiet-sector",
+      "title": "For once, the static is quiet.",
+      "resolvedAt": "2026-10-04T08:00:00.000Z",
+      "issueNumber": 21,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Sort the fragments collected along the way",
+      "explanation": "BIT sorted its collection and found usable fragments among the familiar patterns.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 87,
+        "bond": 62,
+        "fragments": 22,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 86,
+        "stability": 87,
+        "bond": 62,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 21,
-    "incidentId": "quiet-sector",
-    "openedAt": "2026-10-03T13:00:33.518Z",
-    "closesAt": "2026-10-04T08:00:00.000Z",
-    "issueNumber": 21,
-    "quip": "No great discovery today. I think I like being here."
+    "day": 22,
+    "incidentId": "sky-gap",
+    "openedAt": "2026-10-04T13:39:59.192Z",
+    "closesAt": "2026-10-05T08:00:00.000Z",
+    "issueNumber": 22,
+    "quip": "The ground ends here. Apparently the possibilities do not."
   }
 }

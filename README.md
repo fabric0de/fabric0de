@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-2-0b348e5a2742.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · growing · **curious** · `DAY 021`
+**BIT** · growing · **curious** · `DAY 022`
 
-Growth **2** · **68 XP** · next growth at **72 XP** · drawn to **insight**
+Growth **2** · **71 XP** · next growth at **72 XP** · drawn to **insight**
 
-> No great discovery today. I think I like being here.
+> The ground ends here. Apparently the possibilities do not.
 
-Today — **For once, the static is quiet.**
+Today — **A stream of light runs above the broken ground.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/21)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/22)
 
 <sub>Daily at 08:00 UTC</sub>
 
