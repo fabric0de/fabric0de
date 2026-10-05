@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 22 — A stream of light runs above the broken ground.
+
+2026-10-05 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/22)
+
+**Decision:** B. Practice shorter crossings first — autopilot (no valid votes)
+
+BIT practiced shorter crossings until its movements became steadier.
+
+**Remembered:** +3 XP · resolve +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 86 | 84 |
+| Core stability | 87 | 95 |
+| Bond | 62 | 62 |
+| Data fragments | 28 | 28 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 21 — For once, the static is quiet.
 
 2026-10-04 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/21)
