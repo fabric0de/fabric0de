@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 84,
-    "stability": 95,
+    "energy": 82,
+    "stability": 99,
     "bond": 62,
-    "fragments": 28,
+    "fragments": 33,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -1008,14 +1008,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 23,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-10-06T08:00:00.000Z",
+      "issueNumber": 23,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the pattern in the falling data",
+      "explanation": "BIT recognized a repeating pattern and steadied its core to match the rhythm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 84,
+        "stability": 95,
+        "bond": 62,
+        "fragments": 28,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 82,
+        "stability": 99,
+        "bond": 62,
+        "fragments": 33,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 23,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-10-05T16:45:39.110Z",
-    "closesAt": "2026-10-06T08:00:00.000Z",
-    "issueNumber": 23,
-    "quip": "I tried catching the light. This time it stayed."
+    "day": 24,
+    "incidentId": "hidden-route",
+    "openedAt": "2026-10-06T14:42:35.911Z",
+    "closesAt": "2026-10-07T08:00:00.000Z",
+    "issueNumber": 24,
+    "quip": "It was not empty space. I just did not know how to listen."
   }
 }

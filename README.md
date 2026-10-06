@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-2-0b348e5a2742.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 023`
+**BIT** · ever-evolving · **curious** · `DAY 024`
 
-Growth **3** · **74 XP** · next growth at **96 XP** · drawn to **insight**
+Growth **3** · **77 XP** · next growth at **96 XP** · drawn to **insight**
 
 <sub>A new appearance is pending.</sub>
 
-> I tried catching the light. This time it stayed.
+> It was not empty space. I just did not know how to listen.
 
-Today — **Fragments are falling like luminous snow.**
+Today — **The Echo Map reveals a forgotten route.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/23)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/24)
 
 <sub>Daily at 08:00 UTC</sub>
 
