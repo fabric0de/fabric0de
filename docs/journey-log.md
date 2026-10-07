@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 24 — The Echo Map reveals a forgotten route.
+
+2026-10-07 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/24)
+
+**Decision:** B. Chart the route before entering — autopilot (no valid votes)
+
+BIT marked the uncertain sections and turned the route into a clearer memory.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 82 | 88 |
+| Core stability | 99 | 100 |
+| Bond | 62 | 62 |
+| Data fragments | 33 | 29 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 23 — Fragments are falling like luminous snow.
 
 2026-10-06 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/23)
