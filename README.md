@@ -12,13 +12,11 @@ Reading code, questioning decisions, and learning by changing things.
 
 A digital life shaped by your choices.
 
-<img src="./assets/creature/growth-2-0b348e5a2742.png" width="144" height="144" alt="BIT, an evolving digital life">
+<img src="./assets/creature/growth-3-bfe61e58418f.png" width="144" height="144" alt="BIT, an evolving digital life">
 
 **BIT** · ever-evolving · **curious** · `DAY 025`
 
 Growth **3** · **80 XP** · next growth at **96 XP** · drawn to **insight**
-
-<sub>A new appearance is pending.</sub>
 
 > I do not know whose memory this is. It sounds lonely.
 
