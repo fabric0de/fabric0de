@@ -3,7 +3,7 @@
   "world": {
     "energy": 88,
     "stability": 100,
-    "bond": 62,
+    "bond": 69,
     "fragments": 29,
     "abilities": [
       "memory-thread",
@@ -1108,14 +1108,65 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 25,
+      "incidentId": "lost-memory",
+      "title": "A damaged memory is asking to be remembered.",
+      "resolvedAt": "2026-10-08T08:00:00.000Z",
+      "issueNumber": 25,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Carry it until its owner is found",
+      "explanation": "BIT kept the unfinished recording safe rather than rewriting what it could not understand.",
+      "learning": {
+        "resolve": 1,
+        "resonance": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 62,
+        "fragments": 29,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 29,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 25,
-    "incidentId": "lost-memory",
-    "openedAt": "2026-10-07T15:02:32.598Z",
-    "closesAt": "2026-10-08T08:00:00.000Z",
-    "issueNumber": 25,
-    "quip": "I do not know whose memory this is. It sounds lonely."
+    "day": 26,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-10-08T15:10:58.226Z",
+    "closesAt": "2026-10-09T08:00:00.000Z",
+    "issueNumber": 26,
+    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
   }
 }

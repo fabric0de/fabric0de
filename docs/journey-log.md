@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 25 — A damaged memory is asking to be remembered.
+
+2026-10-08 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/25)
+
+**Decision:** B. Carry it until its owner is found — autopilot (no valid votes)
+
+BIT kept the unfinished recording safe rather than rewriting what it could not understand.
+
+**Remembered:** +3 XP · resolve +1 · resonance +1
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 88 | 88 |
+| Core stability | 100 | 100 |
+| Bond | 62 | 69 |
+| Data fragments | 29 | 29 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 24 — The Echo Map reveals a forgotten route.
 
 2026-10-07 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/24)

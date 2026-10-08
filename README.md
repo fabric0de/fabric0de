@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-3-bfe61e58418f.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 025`
+**BIT** · ever-evolving · **curious** · `DAY 026`
 
-Growth **3** · **80 XP** · next growth at **96 XP** · drawn to **insight**
+Growth **3** · **83 XP** · next growth at **96 XP** · drawn to **insight**
 
-> I do not know whose memory this is. It sounds lonely.
+> Someone dreamed of a sky. I have been thinking about it all morning.
 
-Today — **A damaged memory is asking to be remembered.**
+Today — **A familiar voice appears in an unfamiliar memory.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/25)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/26)
 
 <sub>Daily at 08:00 UTC</sub>
 
