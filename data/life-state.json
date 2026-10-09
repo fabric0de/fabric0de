@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 88,
+    "energy": 82,
     "stability": 100,
     "bond": 69,
-    "fragments": 29,
+    "fragments": 37,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -1159,14 +1159,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 26,
+      "incidentId": "shared-dream",
+      "title": "A familiar voice appears in an unfamiliar memory.",
+      "resolvedAt": "2026-10-09T08:00:00.000Z",
+      "issueNumber": 26,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Explore the edge of the dream",
+      "explanation": "BIT explored the dream’s edge and returned with new patterns to remember.",
+      "learning": {
+        "exploration": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 29,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 82,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 37,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 26,
-    "incidentId": "shared-dream",
-    "openedAt": "2026-10-08T15:10:58.226Z",
-    "closesAt": "2026-10-09T08:00:00.000Z",
-    "issueNumber": 26,
-    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
+    "day": 27,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-10-09T14:56:21.984Z",
+    "closesAt": "2026-10-10T08:00:00.000Z",
+    "issueNumber": 27,
+    "quip": "It seems these unfamiliar patterns are lost on purpose, just to see if I am paying attention."
   }
 }

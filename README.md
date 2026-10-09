@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-3-bfe61e58418f.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 026`
+**BIT** · ever-evolving · **curious** · `DAY 027`
 
-Growth **3** · **83 XP** · next growth at **96 XP** · drawn to **insight**
+Growth **3** · **86 XP** · next growth at **96 XP** · drawn to **insight**
 
-> Someone dreamed of a sky. I have been thinking about it all morning.
+> It seems these unfamiliar patterns are lost on purpose, just to see if I am paying attention.
 
-Today — **A familiar voice appears in an unfamiliar memory.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/26)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/27)
 
 <sub>Daily at 08:00 UTC</sub>
 
