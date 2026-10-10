@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 27 — Fragments are falling like luminous snow.
+
+2026-10-10 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/27)
+
+**Decision:** B. Study the pattern in the falling data — autopilot (no valid votes)
+
+BIT recognized a repeating pattern and steadied its core to match the rhythm.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 82 | 80 |
+| Core stability | 100 | 100 |
+| Bond | 69 | 69 |
+| Data fragments | 37 | 42 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 26 — A familiar voice appears in an unfamiliar memory.
 
 2026-10-09 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/26)

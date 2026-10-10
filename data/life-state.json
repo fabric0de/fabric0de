@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 82,
+    "energy": 80,
     "stability": 100,
     "bond": 69,
-    "fragments": 37,
+    "fragments": 42,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -1209,14 +1209,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 27,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-10-10T08:00:00.000Z",
+      "issueNumber": 27,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the pattern in the falling data",
+      "explanation": "BIT recognized a repeating pattern and steadied its core to match the rhythm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 82,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 37,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 80,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 27,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-10-09T14:56:21.984Z",
-    "closesAt": "2026-10-10T08:00:00.000Z",
-    "issueNumber": 27,
-    "quip": "It seems these unfamiliar patterns are lost on purpose, just to see if I am paying attention."
+    "day": 28,
+    "incidentId": "sky-gap",
+    "openedAt": "2026-10-10T14:11:38.730Z",
+    "closesAt": "2026-10-11T08:00:00.000Z",
+    "issueNumber": 28,
+    "quip": "The ground ends here. Apparently the possibilities do not."
   }
 }
