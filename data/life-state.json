@@ -1,7 +1,7 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
+    "energy": 92,
     "stability": 100,
     "bond": 69,
     "fragments": 42,
@@ -1309,14 +1309,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 29,
+      "incidentId": "quiet-sector",
+      "title": "For once, the static is quiet.",
+      "resolvedAt": "2026-10-12T08:00:00.000Z",
+      "issueNumber": 29,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Practice holding a steady pulse",
+      "explanation": "BIT practiced a steady pulse and found it easier to hold its core together.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 92,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 29,
-    "incidentId": "quiet-sector",
-    "openedAt": "2026-10-11T14:36:23.573Z",
-    "closesAt": "2026-10-12T08:00:00.000Z",
-    "issueNumber": 29,
-    "quip": "No great discovery today. I think I like being here."
+    "day": 30,
+    "incidentId": "guardian-pulse",
+    "openedAt": "2026-10-12T17:18:54.044Z",
+    "closesAt": "2026-10-13T08:00:00.000Z",
+    "issueNumber": 30,
+    "quip": "The sparks are pulsing quite warmly in the Aegis, though that circling signal outside really seems to have lost its rhythm."
   }
 }
