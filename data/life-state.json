@@ -1,9 +1,9 @@
 {
   "version": 2,
   "world": {
-    "energy": 92,
+    "energy": 82,
     "stability": 100,
-    "bond": 69,
+    "bond": 79,
     "fragments": 42,
     "abilities": [
       "memory-thread",
@@ -1359,14 +1359,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 30,
+      "incidentId": "guardian-pulse",
+      "title": "Something small is hiding behind BIT’s field.",
+      "resolvedAt": "2026-10-13T08:00:00.000Z",
+      "issueNumber": 30,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Hold the field until the signal passes",
+      "explanation": "BIT held Aegis steady until the circling signal faded.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 92,
+        "stability": 100,
+        "bond": 69,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 82,
+        "stability": 100,
+        "bond": 79,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 30,
-    "incidentId": "guardian-pulse",
-    "openedAt": "2026-10-12T17:18:54.044Z",
-    "closesAt": "2026-10-13T08:00:00.000Z",
-    "issueNumber": 30,
-    "quip": "The sparks are pulsing quite warmly in the Aegis, though that circling signal outside really seems to have lost its rhythm."
+    "day": 31,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-10-13T15:32:25.009Z",
+    "closesAt": "2026-10-14T08:00:00.000Z",
+    "issueNumber": 31,
+    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
   }
 }
