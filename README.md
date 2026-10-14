@@ -12,13 +12,11 @@ Reading code, questioning decisions, and learning by changing things.
 
 A digital life shaped by your choices.
 
-<img src="./assets/creature/growth-3-bfe61e58418f.png" width="144" height="144" alt="BIT, an evolving digital life">
+<img src="./assets/creature/growth-4-d60f78098f3c.png" width="144" height="144" alt="BIT, an evolving digital life">
 
 **BIT** · ever-evolving · **curious** · `DAY 032`
 
 Growth **4** · **101 XP** · next growth at **120 XP** · drawn to **insight**
-
-<sub>A new appearance is pending.</sub>
 
 > The sky is buffering. I would like it to stop.
 
