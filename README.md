@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-4-d60f78098f3c.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 032`
+**BIT** · ever-evolving · **curious** · `DAY 033`
 
-Growth **4** · **101 XP** · next growth at **120 XP** · drawn to **insight**
+Growth **4** · **104 XP** · next growth at **120 XP** · drawn to **resolve**
 
-> The sky is buffering. I would like it to stop.
+> The ground ends here. Apparently the possibilities do not.
 
-Today — **A glitch storm is crossing the quiet sector.**
+Today — **A stream of light runs above the broken ground.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/32)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/33)
 
 <sub>Daily at 08:00 UTC</sub>
 
