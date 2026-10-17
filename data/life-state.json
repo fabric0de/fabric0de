@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 80,
+    "energy": 78,
     "stability": 100,
     "bond": 83,
-    "fragments": 42,
+    "fragments": 47,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -1559,14 +1559,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 34,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-10-17T08:00:00.000Z",
+      "issueNumber": 34,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the pattern in the falling data",
+      "explanation": "BIT recognized a repeating pattern and steadied its core to match the rhythm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 80,
+        "stability": 100,
+        "bond": 83,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 83,
+        "fragments": 47,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 34,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-10-16T12:59:55.513Z",
-    "closesAt": "2026-10-17T08:00:00.000Z",
-    "issueNumber": 34,
-    "quip": "I tried catching the light. This time it stayed."
+    "day": 35,
+    "incidentId": "guardian-pulse",
+    "openedAt": "2026-10-17T11:57:32.546Z",
+    "closesAt": "2026-10-18T08:00:00.000Z",
+    "issueNumber": 35,
+    "quip": "I was practicing a shield. It seems I built a meeting place."
   }
 }
