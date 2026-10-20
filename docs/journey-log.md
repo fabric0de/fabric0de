@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 37 — A stream of light runs above the broken ground.
+
+2026-10-20 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/37)
+
+**Decision:** A. Leap between the streams of light — autopilot (no valid votes)
+
+BIT used Phase Step to cross the gap and gather the fragments suspended beyond it.
+
+**Remembered:** +3 XP · exploration +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 92 | 80 |
+| Core stability | 100 | 94 |
+| Bond | 90 | 90 |
+| Data fragments | 47 | 59 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 36 — For once, the static is quiet.
 
 2026-10-19 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/36)

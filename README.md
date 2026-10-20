@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-4-d60f78098f3c.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 037`
+**BIT** · ever-evolving · **curious** · `DAY 038`
 
-Growth **4** · **116 XP** · next growth at **120 XP** · drawn to **resolve**
+Growth **4** · **119 XP** · next growth at **120 XP** · drawn to **resolve**
 
-> Testing the route first, because even a determined signal enjoys a little certainty.
+> I do not know whose memory this is. It sounds lonely.
 
-Today — **A stream of light runs above the broken ground.**
+Today — **A damaged memory is asking to be remembered.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/37)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/38)
 
 <sub>Daily at 08:00 UTC</sub>
 
