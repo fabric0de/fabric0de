@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 80,
+    "energy": 78,
     "stability": 94,
-    "bond": 90,
-    "fragments": 59,
+    "bond": 95,
+    "fragments": 51,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -1759,14 +1759,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 38,
+      "incidentId": "lost-memory",
+      "title": "A damaged memory is asking to be remembered.",
+      "resolvedAt": "2026-10-21T08:00:00.000Z",
+      "issueNumber": 38,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Reconstruct the missing pieces",
+      "explanation": "BIT reconstructed enough of the recording for its final note to play.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 80,
+        "stability": 94,
+        "bond": 90,
+        "fragments": 59,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 94,
+        "bond": 95,
+        "fragments": 51,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 38,
-    "incidentId": "lost-memory",
-    "openedAt": "2026-10-20T13:17:21.424Z",
-    "closesAt": "2026-10-21T08:00:00.000Z",
-    "issueNumber": 38,
-    "quip": "I do not know whose memory this is. It sounds lonely."
+    "day": 39,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-10-21T13:23:41.942Z",
+    "closesAt": "2026-10-22T08:00:00.000Z",
+    "issueNumber": 39,
+    "quip": "The sky is buffering. I would like it to stop."
   }
 }
