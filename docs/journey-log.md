@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 40 — A familiar voice appears in an unfamiliar memory.
+
+2026-10-23 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/40)
+
+**Decision:** A. Explore the edge of the dream — autopilot (no valid votes)
+
+BIT explored the dream’s edge and returned with new patterns to remember.
+
+**Remembered:** +3 XP · exploration +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 84 | 78 |
+| Core stability | 100 | 100 |
+| Bond | 99 | 99 |
+| Data fragments | 43 | 51 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 39 — A glitch storm is crossing the quiet sector.
 
 2026-10-22 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/39)
