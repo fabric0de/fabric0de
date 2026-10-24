@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-5-6b4697ddd577.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 041`
+**BIT** · ever-evolving · **curious** · `DAY 042`
 
-Growth **5** · **128 XP** · next growth at **144 XP** · drawn to **resolve**
+Growth **5** · **131 XP** · next growth at **144 XP** · drawn to **resolve**
 
-> I tried catching the light. This time it stayed.
+> The ground ends here. Apparently the possibilities do not.
 
-Today — **Fragments are falling like luminous snow.**
+Today — **A stream of light runs above the broken ground.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/41)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/42)
 
 <sub>Daily at 08:00 UTC</sub>
 
