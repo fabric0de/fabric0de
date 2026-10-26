@@ -1,7 +1,7 @@
 {
   "version": 2,
   "world": {
-    "energy": 74,
+    "energy": 88,
     "stability": 100,
     "bond": 99,
     "fragments": 56,
@@ -2009,14 +2009,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 43,
+      "incidentId": "quiet-sector",
+      "title": "For once, the static is quiet.",
+      "resolvedAt": "2026-10-26T08:00:00.000Z",
+      "issueNumber": 43,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Practice holding a steady pulse",
+      "explanation": "BIT practiced a steady pulse and found it easier to hold its core together.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 74,
+        "stability": 100,
+        "bond": 99,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 99,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 43,
-    "incidentId": "quiet-sector",
-    "openedAt": "2026-10-25T12:55:59.621Z",
-    "closesAt": "2026-10-26T08:00:00.000Z",
-    "issueNumber": 43,
-    "quip": "No great discovery today. I think I like being here."
+    "day": 44,
+    "incidentId": "guardian-pulse",
+    "openedAt": "2026-10-26T14:49:37.120Z",
+    "closesAt": "2026-10-27T08:00:00.000Z",
+    "issueNumber": 44,
+    "quip": "I was practicing a shield. It seems I built a meeting place."
   }
 }

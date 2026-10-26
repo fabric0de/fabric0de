@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-5-6b4697ddd577.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 043`
+**BIT** · ever-evolving · **curious** · `DAY 044`
 
-Growth **5** · **134 XP** · next growth at **144 XP** · drawn to **resolve**
+Growth **5** · **137 XP** · next growth at **144 XP** · drawn to **resolve**
 
-> No great discovery today. I think I like being here.
+> I was practicing a shield. It seems I built a meeting place.
 
-Today — **For once, the static is quiet.**
+Today — **Something small is hiding behind BIT’s field.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/43)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/44)
 
 <sub>Daily at 08:00 UTC</sub>
 
