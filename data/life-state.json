@@ -1,9 +1,9 @@
 {
   "version": 2,
   "world": {
-    "energy": 88,
+    "energy": 78,
     "stability": 100,
-    "bond": 99,
+    "bond": 100,
     "fragments": 56,
     "abilities": [
       "memory-thread",
@@ -2059,14 +2059,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 44,
+      "incidentId": "guardian-pulse",
+      "title": "Something small is hiding behind BIT’s field.",
+      "resolvedAt": "2026-10-27T08:00:00.000Z",
+      "issueNumber": 44,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Hold the field until the signal passes",
+      "explanation": "BIT held Aegis steady until the circling signal faded.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 99,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 44,
-    "incidentId": "guardian-pulse",
-    "openedAt": "2026-10-26T14:49:37.120Z",
-    "closesAt": "2026-10-27T08:00:00.000Z",
-    "issueNumber": 44,
-    "quip": "I was practicing a shield. It seems I built a meeting place."
+    "day": 45,
+    "incidentId": "lost-memory",
+    "openedAt": "2026-10-27T13:54:53.503Z",
+    "closesAt": "2026-10-28T08:00:00.000Z",
+    "issueNumber": 45,
+    "quip": "This voice is remarkably persistent, even if it seems to have lost the thread of its own thought."
   }
 }
