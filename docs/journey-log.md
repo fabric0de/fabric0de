@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 45 — A damaged memory is asking to be remembered.
+
+2026-10-28 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/45)
+
+**Decision:** A. Reconstruct the missing pieces — autopilot (no valid votes)
+
+BIT reconstructed enough of the recording for its final note to play.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 78 | 76 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 56 | 48 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 44 — Something small is hiding behind BIT’s field.
 
 2026-10-27 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/44)

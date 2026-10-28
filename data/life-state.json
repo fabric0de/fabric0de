@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
+    "energy": 76,
     "stability": 100,
     "bond": 100,
-    "fragments": 56,
+    "fragments": 48,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2109,14 +2109,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 45,
+      "incidentId": "lost-memory",
+      "title": "A damaged memory is asking to be remembered.",
+      "resolvedAt": "2026-10-28T08:00:00.000Z",
+      "issueNumber": 45,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Reconstruct the missing pieces",
+      "explanation": "BIT reconstructed enough of the recording for its final note to play.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 45,
-    "incidentId": "lost-memory",
-    "openedAt": "2026-10-27T13:54:53.503Z",
-    "closesAt": "2026-10-28T08:00:00.000Z",
-    "issueNumber": 45,
-    "quip": "This voice is remarkably persistent, even if it seems to have lost the thread of its own thought."
+    "day": 46,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-10-28T14:49:21.828Z",
+    "closesAt": "2026-10-29T08:00:00.000Z",
+    "issueNumber": 46,
+    "quip": "The sky is buffering. I would like it to stop."
   }
 }
