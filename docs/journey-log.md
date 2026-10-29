@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 46 — A glitch storm is crossing the quiet sector.
+
+2026-10-29 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/46)
+
+**Decision:** B. Anchor the shelter with collected fragments — autopilot (no valid votes)
+
+BIT anchored the shelter and made room for a wandering spark until the storm passed.
+
+**Remembered:** +3 XP · resolve +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 76 | 82 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 48 | 40 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 45 — A damaged memory is asking to be remembered.
 
 2026-10-28 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/45)
