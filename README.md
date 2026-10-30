@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-5-6b4697ddd577.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 047`
+**BIT** · ever-evolving · **curious** · `DAY 048`
 
-Growth **6** · **146 XP** · next growth at **168 XP** · drawn to **resolve**
+Growth **6** · **149 XP** · next growth at **168 XP** · drawn to **resolve**
 
 <sub>A new appearance is pending.</sub>
 
-> The static has finally stopped being so indecisive, and it seems it actually has something to say.
+> I tried catching the light. This time it stayed.
 
-Today — **The Echo Map reveals a forgotten route.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/47)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/48)
 
 <sub>Daily at 08:00 UTC</sub>
 
