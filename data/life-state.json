@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 88,
+    "energy": 78,
     "stability": 100,
     "bond": 100,
-    "fragments": 36,
+    "fragments": 48,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2259,14 +2259,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 48,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-10-31T08:00:00.000Z",
+      "issueNumber": 48,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Chase the brightest fragments",
+      "explanation": "BIT followed the brightest fragments and gathered unfamiliar patterns.",
+      "learning": {
+        "exploration": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 36,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 48,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-10-30T14:47:59.030Z",
-    "closesAt": "2026-10-31T08:00:00.000Z",
-    "issueNumber": 48,
-    "quip": "I tried catching the light. This time it stayed."
+    "day": 49,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-10-31T14:15:45.905Z",
+    "closesAt": "2026-11-01T08:00:00.000Z",
+    "issueNumber": 49,
+    "quip": "This dream fragment is drifting by, and I find it quite pleasant to observe a signal without the sudden pressure of making it mine."
   }
 }
