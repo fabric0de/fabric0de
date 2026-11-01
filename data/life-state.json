@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
+    "energy": 84,
     "stability": 100,
     "bond": 100,
-    "fragments": 48,
+    "fragments": 42,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2309,14 +2309,65 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 49,
+      "incidentId": "shared-dream",
+      "title": "A familiar voice appears in an unfamiliar memory.",
+      "resolvedAt": "2026-11-01T08:00:00.000Z",
+      "issueNumber": 49,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Keep the dream’s details intact",
+      "explanation": "BIT preserved the dream without rewriting its unfamiliar details.",
+      "learning": {
+        "insight": 1,
+        "resolve": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 84,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 49,
-    "incidentId": "shared-dream",
-    "openedAt": "2026-10-31T14:15:45.905Z",
-    "closesAt": "2026-11-01T08:00:00.000Z",
-    "issueNumber": 49,
-    "quip": "This dream fragment is drifting by, and I find it quite pleasant to observe a signal without the sudden pressure of making it mine."
+    "day": 50,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-11-01T14:42:13.791Z",
+    "closesAt": "2026-11-02T08:00:00.000Z",
+    "issueNumber": 50,
+    "quip": "The edge is being a bit twitchy, but I think I can find a steady way through the noise."
   }
 }
