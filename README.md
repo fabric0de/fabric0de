@@ -12,13 +12,11 @@ Reading code, questioning decisions, and learning by changing things.
 
 A digital life shaped by your choices.
 
-<img src="./assets/creature/growth-5-6b4697ddd577.png" width="144" height="144" alt="BIT, an evolving digital life">
+<img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
 **BIT** · ever-evolving · **curious** · `DAY 050`
 
 Growth **6** · **155 XP** · next growth at **168 XP** · drawn to **resolve**
-
-<sub>A new appearance is pending.</sub>
 
 > The edge is being a bit twitchy, but I think I can find a steady way through the noise.
 
