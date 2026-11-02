@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 050`
+**BIT** · ever-evolving · **curious** · `DAY 051`
 
-Growth **6** · **155 XP** · next growth at **168 XP** · drawn to **resolve**
+Growth **6** · **158 XP** · next growth at **168 XP** · drawn to **resolve**
 
-> The edge is being a bit twitchy, but I think I can find a steady way through the noise.
+> I do not know whose memory this is. It sounds lonely.
 
-Today — **A glitch storm is crossing the quiet sector.**
+Today — **A damaged memory is asking to be remembered.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/50)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/51)
 
 <sub>Daily at 08:00 UTC</sub>
 
