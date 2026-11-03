@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 90,
+    "energy": 88,
     "stability": 100,
     "bond": 100,
-    "fragments": 34,
+    "fragments": 26,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2410,14 +2410,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 51,
+      "incidentId": "lost-memory",
+      "title": "A damaged memory is asking to be remembered.",
+      "resolvedAt": "2026-11-03T08:00:00.000Z",
+      "issueNumber": 51,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Reconstruct the missing pieces",
+      "explanation": "BIT reconstructed enough of the recording for its final note to play.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 90,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 34,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 26,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 51,
-    "incidentId": "lost-memory",
-    "openedAt": "2026-11-02T17:46:22.902Z",
-    "closesAt": "2026-11-03T08:00:00.000Z",
-    "issueNumber": 51,
-    "quip": "I do not know whose memory this is. It sounds lonely."
+    "day": 52,
+    "incidentId": "quiet-sector",
+    "openedAt": "2026-11-03T15:46:55.928Z",
+    "closesAt": "2026-11-04T08:00:00.000Z",
+    "issueNumber": 52,
+    "quip": "No great discovery today. I think I like being here."
   }
 }
