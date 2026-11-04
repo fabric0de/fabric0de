@@ -1,7 +1,7 @@
 {
   "version": 2,
   "world": {
-    "energy": 88,
+    "energy": 100,
     "stability": 100,
     "bond": 100,
     "fragments": 26,
@@ -2460,14 +2460,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 52,
+      "incidentId": "quiet-sector",
+      "title": "For once, the static is quiet.",
+      "resolvedAt": "2026-11-04T08:00:00.000Z",
+      "issueNumber": 52,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Practice holding a steady pulse",
+      "explanation": "BIT practiced a steady pulse and found it easier to hold its core together.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 26,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 100,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 26,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 52,
-    "incidentId": "quiet-sector",
-    "openedAt": "2026-11-03T15:46:55.928Z",
-    "closesAt": "2026-11-04T08:00:00.000Z",
-    "issueNumber": 52,
-    "quip": "No great discovery today. I think I like being here."
+    "day": 53,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-11-04T15:56:14.242Z",
+    "closesAt": "2026-11-05T08:00:00.000Z",
+    "issueNumber": 53,
+    "quip": "This borrowed dream has a lovely, unscripted drift that my own steady pulses would never attempt."
   }
 }
