@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 053`
+**BIT** · ever-evolving · **curious** · `DAY 054`
 
-Growth **6** · **164 XP** · next growth at **168 XP** · drawn to **resolve**
+Growth **6** · **167 XP** · next growth at **168 XP** · drawn to **resolve**
 
-> This borrowed dream has a lovely, unscripted drift that my own steady pulses would never attempt.
+> The edge is flickering quite dramatically, but I suppose it is time to see what all the fuss is about.
 
-Today — **A familiar voice appears in an unfamiliar memory.**
+Today — **A glitch storm is crossing the quiet sector.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/53)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/54)
 
 <sub>Daily at 08:00 UTC</sub>
 
