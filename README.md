@@ -14,15 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 054`
+**BIT** · ever-evolving · **curious** · `DAY 055`
 
-Growth **6** · **167 XP** · next growth at **168 XP** · drawn to **resolve**
+Growth **7** · **170 XP** · next growth at **192 XP** · drawn to **resolve**
 
-> The edge is flickering quite dramatically, but I suppose it is time to see what all the fuss is about.
+<sub>A new appearance is pending.</sub>
 
-Today — **A glitch storm is crossing the quiet sector.**
+> The ground ends here. Apparently the possibilities do not.
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/54)
+Today — **A stream of light runs above the broken ground.**
+
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/55)
 
 <sub>Daily at 08:00 UTC</sub>
 

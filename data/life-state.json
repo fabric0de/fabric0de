@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 94,
-    "stability": 100,
+    "energy": 80,
+    "stability": 88,
     "bond": 100,
-    "fragments": 34,
+    "fragments": 48,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2560,14 +2560,65 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 54,
+      "incidentId": "glitch-storm",
+      "title": "A glitch storm is crossing the quiet sector.",
+      "resolvedAt": "2026-11-06T08:00:00.000Z",
+      "issueNumber": 54,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Cross the storm for the data beyond it",
+      "explanation": "BIT crossed the unstable sector and recovered data from the far side, but its core needs time to settle.",
+      "learning": {
+        "exploration": 1,
+        "resolve": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 94,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 34,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 80,
+        "stability": 88,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 54,
-    "incidentId": "glitch-storm",
-    "openedAt": "2026-11-05T16:03:50.477Z",
-    "closesAt": "2026-11-06T08:00:00.000Z",
-    "issueNumber": 54,
-    "quip": "The edge is flickering quite dramatically, but I suppose it is time to see what all the fuss is about."
+    "day": 55,
+    "incidentId": "sky-gap",
+    "openedAt": "2026-11-07T14:38:32.596Z",
+    "closesAt": "2026-11-08T08:00:00.000Z",
+    "issueNumber": 55,
+    "quip": "The ground ends here. Apparently the possibilities do not."
   }
 }
