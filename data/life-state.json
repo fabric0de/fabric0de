@@ -1,8 +1,8 @@
 {
   "version": 2,
   "world": {
-    "energy": 80,
-    "stability": 88,
+    "energy": 78,
+    "stability": 96,
     "bond": 100,
     "fragments": 48,
     "abilities": [
@@ -2611,14 +2611,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 55,
+      "incidentId": "sky-gap",
+      "title": "A stream of light runs above the broken ground.",
+      "resolvedAt": "2026-11-08T08:00:00.000Z",
+      "issueNumber": 55,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Practice shorter crossings first",
+      "explanation": "BIT practiced shorter crossings until its movements became steadier.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 80,
+        "stability": 88,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 96,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 55,
-    "incidentId": "sky-gap",
-    "openedAt": "2026-11-07T14:38:32.596Z",
-    "closesAt": "2026-11-08T08:00:00.000Z",
-    "issueNumber": 55,
-    "quip": "The ground ends here. Apparently the possibilities do not."
+    "day": 56,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-11-08T14:44:04.456Z",
+    "closesAt": "2026-11-09T08:00:00.000Z",
+    "issueNumber": 56,
+    "quip": "I tried catching the light. This time it stayed."
   }
 }
