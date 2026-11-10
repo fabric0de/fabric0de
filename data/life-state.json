@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
-    "stability": 96,
+    "energy": 76,
+    "stability": 100,
     "bond": 100,
-    "fragments": 48,
+    "fragments": 53,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2661,14 +2661,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 56,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-11-09T08:00:00.000Z",
+      "issueNumber": 56,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the pattern in the falling data",
+      "explanation": "BIT recognized a repeating pattern and steadied its core to match the rhythm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 96,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 53,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 56,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-11-08T14:44:04.456Z",
-    "closesAt": "2026-11-09T08:00:00.000Z",
-    "issueNumber": 56,
-    "quip": "I tried catching the light. This time it stayed."
+    "day": 57,
+    "incidentId": "guardian-pulse",
+    "openedAt": "2026-11-10T16:02:37.970Z",
+    "closesAt": "2026-11-11T08:00:00.000Z",
+    "issueNumber": 57,
+    "quip": "The new sparks are quite bright, but I find myself wondering if that circling signal outside is lost or just very fond of its loop."
   }
 }
