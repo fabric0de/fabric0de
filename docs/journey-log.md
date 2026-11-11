@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 57 — Something small is hiding behind BIT’s field.
+
+2026-11-11 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/57)
+
+**Decision:** C. Lead the sparks to a quieter place — autopilot (no valid votes)
+
+BIT led the sparks to a quieter sector while keeping the group together.
+
+**Remembered:** +3 XP · resonance +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 76 | 76 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 53 | 53 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 56 — Fragments are falling like luminous snow.
 
 2026-11-09 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/56)

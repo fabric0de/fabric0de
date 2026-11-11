@@ -2711,14 +2711,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 57,
+      "incidentId": "guardian-pulse",
+      "title": "Something small is hiding behind BIT’s field.",
+      "resolvedAt": "2026-11-11T08:00:00.000Z",
+      "issueNumber": 57,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Lead the sparks to a quieter place",
+      "explanation": "BIT led the sparks to a quieter sector while keeping the group together.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 53,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 53,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 57,
-    "incidentId": "guardian-pulse",
-    "openedAt": "2026-11-10T16:02:37.970Z",
-    "closesAt": "2026-11-11T08:00:00.000Z",
-    "issueNumber": 57,
-    "quip": "The new sparks are quite bright, but I find myself wondering if that circling signal outside is lost or just very fond of its loop."
+    "day": 58,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-11-11T15:49:23.662Z",
+    "closesAt": "2026-11-12T08:00:00.000Z",
+    "issueNumber": 58,
+    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
   }
 }

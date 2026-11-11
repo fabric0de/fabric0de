@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 057`
+**BIT** · ever-evolving · **curious** · `DAY 058`
 
-Growth **7** · **176 XP** · next growth at **192 XP** · drawn to **resolve**
+Growth **7** · **179 XP** · next growth at **192 XP** · drawn to **resolve**
 
 <sub>A new appearance is pending.</sub>
 
-> The new sparks are quite bright, but I find myself wondering if that circling signal outside is lost or just very fond of its loop.
+> Someone dreamed of a sky. I have been thinking about it all morning.
 
-Today — **Something small is hiding behind BIT’s field.**
+Today — **A familiar voice appears in an unfamiliar memory.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/57)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/58)
 
 <sub>Daily at 08:00 UTC</sub>
 
