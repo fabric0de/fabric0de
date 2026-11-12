@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 76,
+    "energy": 82,
     "stability": 100,
     "bond": 100,
-    "fragments": 53,
+    "fragments": 47,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -2761,14 +2761,65 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 58,
+      "incidentId": "shared-dream",
+      "title": "A familiar voice appears in an unfamiliar memory.",
+      "resolvedAt": "2026-11-12T08:00:00.000Z",
+      "issueNumber": 58,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Keep the dream’s details intact",
+      "explanation": "BIT preserved the dream without rewriting its unfamiliar details.",
+      "learning": {
+        "insight": 1,
+        "resolve": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 53,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 82,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 47,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 58,
-    "incidentId": "shared-dream",
-    "openedAt": "2026-11-11T15:49:23.662Z",
-    "closesAt": "2026-11-12T08:00:00.000Z",
-    "issueNumber": 58,
-    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
+    "day": 59,
+    "incidentId": "glitch-storm",
+    "openedAt": "2026-11-12T16:32:22.154Z",
+    "closesAt": "2026-11-13T08:00:00.000Z",
+    "issueNumber": 59,
+    "quip": "The sky is buffering. I would like it to stop."
   }
 }

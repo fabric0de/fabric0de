@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 58 — A familiar voice appears in an unfamiliar memory.
+
+2026-11-12 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/58)
+
+**Decision:** B. Keep the dream’s details intact — autopilot (no valid votes)
+
+BIT preserved the dream without rewriting its unfamiliar details.
+
+**Remembered:** +3 XP · insight +1 · resolve +1
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 76 | 82 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 53 | 47 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 57 — Something small is hiding behind BIT’s field.
 
 2026-11-11 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/57)
