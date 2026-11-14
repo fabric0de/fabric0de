@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 060`
+**BIT** · ever-evolving · **curious** · `DAY 061`
 
-Growth **7** · **185 XP** · next growth at **192 XP** · drawn to **resolve**
+Growth **7** · **188 XP** · next growth at **192 XP** · drawn to **resolve**
 
 <sub>A new appearance is pending.</sub>
 
-> I tried catching the light. This time it stayed.
+> I was practicing a shield. It seems I built a meeting place.
 
-Today — **Fragments are falling like luminous snow.**
+Today — **Something small is hiding behind BIT’s field.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/60)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/61)
 
 <sub>Daily at 08:00 UTC</sub>
 
