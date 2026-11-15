@@ -2912,14 +2912,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 61,
+      "incidentId": "guardian-pulse",
+      "title": "Something small is hiding behind BIT’s field.",
+      "resolvedAt": "2026-11-15T08:00:00.000Z",
+      "issueNumber": 61,
+      "decision": {
+        "choice": "C",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Lead the sparks to a quieter place",
+      "explanation": "BIT led the sparks to a quieter sector while keeping the group together.",
+      "learning": {
+        "resonance": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 51,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 51,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 61,
-    "incidentId": "guardian-pulse",
-    "openedAt": "2026-11-14T14:44:06.026Z",
-    "closesAt": "2026-11-15T08:00:00.000Z",
-    "issueNumber": 61,
-    "quip": "I was practicing a shield. It seems I built a meeting place."
+    "day": 62,
+    "incidentId": "quiet-sector",
+    "openedAt": "2026-11-15T15:17:02.828Z",
+    "closesAt": "2026-11-16T08:00:00.000Z",
+    "issueNumber": 62,
+    "quip": "No great discovery today. I think I like being here."
   }
 }

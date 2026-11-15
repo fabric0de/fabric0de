@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 61 — Something small is hiding behind BIT’s field.
+
+2026-11-15 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/61)
+
+**Decision:** C. Lead the sparks to a quieter place — autopilot (no valid votes)
+
+BIT led the sparks to a quieter sector while keeping the group together.
+
+**Remembered:** +3 XP · resonance +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 78 | 78 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 51 | 51 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 60 — Fragments are falling like luminous snow.
 
 2026-11-14 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/60)
@@ -1360,26 +1383,3 @@ BIT placed its own first signal beside the recording. The two rhythms began to a
 
 
 Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 1 — Something in the static knows your name.
-
-2026-09-14 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/1)
-
-**Decision:** B. Gather fragments and reinforce the core — tied vote; A → B → C priority
-
-BIT arranged nearby fragments around its core and learned to hold its form steady.
-
-**Remembered:** +3 XP · resolve +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 70 | 76 |
-| Core stability | 70 | 82 |
-| Bond | 10 | 10 |
-| Data fragments | 8 | 2 |
-
-
-
-Votes: A 0 · B 1 · C 1. Includes six energy recovered after the encounter; meters stop at their limits.
