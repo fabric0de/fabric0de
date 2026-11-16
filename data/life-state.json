@@ -1,7 +1,7 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
+    "energy": 92,
     "stability": 100,
     "bond": 100,
     "fragments": 51,
@@ -2962,14 +2962,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 62,
+      "incidentId": "quiet-sector",
+      "title": "For once, the static is quiet.",
+      "resolvedAt": "2026-11-16T08:00:00.000Z",
+      "issueNumber": 62,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Practice holding a steady pulse",
+      "explanation": "BIT practiced a steady pulse and found it easier to hold its core together.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 51,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 92,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 51,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 62,
-    "incidentId": "quiet-sector",
-    "openedAt": "2026-11-15T15:17:02.828Z",
-    "closesAt": "2026-11-16T08:00:00.000Z",
-    "issueNumber": 62,
-    "quip": "No great discovery today. I think I like being here."
+    "day": 63,
+    "incidentId": "sky-gap",
+    "openedAt": "2026-11-16T17:53:02.764Z",
+    "closesAt": "2026-11-17T08:00:00.000Z",
+    "issueNumber": 63,
+    "quip": "The ground ends here. Apparently the possibilities do not."
   }
 }

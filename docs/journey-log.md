@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 62 — For once, the static is quiet.
+
+2026-11-16 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/62)
+
+**Decision:** A. Practice holding a steady pulse — autopilot (no valid votes)
+
+BIT practiced a steady pulse and found it easier to hold its core together.
+
+**Remembered:** +3 XP · resolve +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 78 | 92 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 51 | 51 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 61 — Something small is hiding behind BIT’s field.
 
 2026-11-15 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/61)
@@ -1356,29 +1379,6 @@ BIT recognized a repeating pattern and steadied its core to match the rhythm.
 | Core stability | 82 | 86 |
 | Bond | 18 | 18 |
 | Data fragments | 2 | 7 |
-
-
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 2 — A damaged memory is asking to be remembered.
-
-2026-09-15 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/2)
-
-**Decision:** C. Answer with a memory of our own — autopilot (no valid votes)
-
-BIT placed its own first signal beside the recording. The two rhythms began to alternate.
-
-**Remembered:** +3 XP · resonance +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 76 | 78 |
-| Core stability | 82 | 82 |
-| Bond | 10 | 18 |
-| Data fragments | 2 | 2 |
 
 
 
