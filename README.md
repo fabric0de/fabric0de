@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-6-e550d13cd99d.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 063`
+**BIT** · ever-evolving · **curious** · `DAY 064`
 
-Growth **8** · **194 XP** · next growth at **216 XP** · drawn to **resolve**
+Growth **8** · **197 XP** · next growth at **216 XP** · drawn to **resolve**
 
 <sub>A new appearance is pending.</sub>
 
-> The ground ends here. Apparently the possibilities do not.
+> I do not know whose memory this is. It sounds lonely.
 
-Today — **A stream of light runs above the broken ground.**
+Today — **A damaged memory is asking to be remembered.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/63)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/64)
 
 <sub>Daily at 08:00 UTC</sub>
 

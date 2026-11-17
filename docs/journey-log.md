@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 63 — A stream of light runs above the broken ground.
+
+2026-11-17 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/63)
+
+**Decision:** A. Leap between the streams of light — autopilot (no valid votes)
+
+BIT used Phase Step to cross the gap and gather the fragments suspended beyond it.
+
+**Remembered:** +3 XP · exploration +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 92 | 80 |
+| Core stability | 100 | 94 |
+| Bond | 100 | 100 |
+| Data fragments | 51 | 63 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 62 — For once, the static is quiet.
 
 2026-11-16 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/62)
@@ -1356,29 +1379,6 @@ BIT studied the forge without choosing an ability yet and collected a few unused
 | Core stability | 86 | 86 |
 | Bond | 18 | 18 |
 | Data fragments | 7 | 11 |
-
-
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 3 — Fragments are falling like luminous snow.
-
-2026-09-16 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/3)
-
-**Decision:** B. Study the pattern in the falling data — autopilot (no valid votes)
-
-BIT recognized a repeating pattern and steadied its core to match the rhythm.
-
-**Remembered:** +3 XP · insight +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 78 | 76 |
-| Core stability | 82 | 86 |
-| Bond | 18 | 18 |
-| Data fragments | 2 | 7 |
 
 
 
