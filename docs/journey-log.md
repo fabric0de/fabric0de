@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 64 — A damaged memory is asking to be remembered.
+
+2026-11-18 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/64)
+
+**Decision:** A. Reconstruct the missing pieces — autopilot (no valid votes)
+
+BIT reconstructed enough of the recording for its final note to play.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 80 | 78 |
+| Core stability | 94 | 94 |
+| Bond | 100 | 100 |
+| Data fragments | 63 | 55 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 63 — A stream of light runs above the broken ground.
 
 2026-11-17 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/63)
@@ -1356,29 +1379,6 @@ BIT crossed the unstable sector and recovered data from the far side, but its co
 | Core stability | 86 | 74 |
 | Bond | 18 | 18 |
 | Data fragments | 11 | 25 |
-
-
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 4 — The fragments can become something more.
-
-2026-09-17 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/4)
-
-**Decision:** C. Study the forge and save the fragments — autopilot (no valid votes)
-
-BIT studied the forge without choosing an ability yet and collected a few unused fragments.
-
-**Remembered:** +3 XP · insight +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 76 | 86 |
-| Core stability | 86 | 86 |
-| Bond | 18 | 18 |
-| Data fragments | 7 | 11 |
 
 
 

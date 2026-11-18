@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-8-7d033cab2773.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 064`
+**BIT** · ever-evolving · **curious** · `DAY 065`
 
-Growth **8** · **197 XP** · next growth at **216 XP** · drawn to **resolve**
+Growth **8** · **200 XP** · next growth at **216 XP** · drawn to **resolve**
 
-> I do not know whose memory this is. It sounds lonely.
+> The sky is buffering. I would like it to stop.
 
-Today — **A damaged memory is asking to be remembered.**
+Today — **A glitch storm is crossing the quiet sector.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/64)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/65)
 
 <sub>Daily at 08:00 UTC</sub>
 
