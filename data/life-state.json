@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
-    "stability": 94,
+    "energy": 84,
+    "stability": 100,
     "bond": 100,
-    "fragments": 55,
+    "fragments": 47,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3112,14 +3112,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 65,
+      "incidentId": "glitch-storm",
+      "title": "A glitch storm is crossing the quiet sector.",
+      "resolvedAt": "2026-11-19T08:00:00.000Z",
+      "issueNumber": 65,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Anchor the shelter with collected fragments",
+      "explanation": "BIT anchored the shelter and made room for a wandering spark until the storm passed.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 94,
+        "bond": 100,
+        "fragments": 55,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 84,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 47,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 65,
-    "incidentId": "glitch-storm",
-    "openedAt": "2026-11-18T16:54:52.689Z",
-    "closesAt": "2026-11-19T08:00:00.000Z",
-    "issueNumber": 65,
-    "quip": "The sky is buffering. I would like it to stop."
+    "day": 66,
+    "incidentId": "hidden-route",
+    "openedAt": "2026-11-19T17:00:49.239Z",
+    "closesAt": "2026-11-20T08:00:00.000Z",
+    "issueNumber": 66,
+    "quip": "It was not empty space. I just did not know how to listen."
   }
 }

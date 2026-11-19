@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 65 — A glitch storm is crossing the quiet sector.
+
+2026-11-19 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/65)
+
+**Decision:** B. Anchor the shelter with collected fragments — autopilot (no valid votes)
+
+BIT anchored the shelter and made room for a wandering spark until the storm passed.
+
+**Remembered:** +3 XP · resolve +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 78 | 84 |
+| Core stability | 94 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 55 | 47 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 64 — A damaged memory is asking to be remembered.
 
 2026-11-18 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/64)
@@ -1358,28 +1381,5 @@ BIT learned Memory Thread, linking scattered voices without erasing their differ
 | Data fragments | 25 | 15 |
 
 New ability: **memory-thread**.
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 5 — A glitch storm is crossing the quiet sector.
-
-2026-09-18 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/5)
-
-**Decision:** A. Cross the storm for the data beyond it — autopilot (no valid votes)
-
-BIT crossed the unstable sector and recovered data from the far side, but its core needs time to settle.
-
-**Remembered:** +3 XP · exploration +1 · resolve +1
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 86 | 72 |
-| Core stability | 86 | 74 |
-| Bond | 18 | 18 |
-| Data fragments | 11 | 25 |
-
-
 
 Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.

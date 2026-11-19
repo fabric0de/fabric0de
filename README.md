@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-8-7d033cab2773.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 065`
+**BIT** · ever-evolving · **curious** · `DAY 066`
 
-Growth **8** · **200 XP** · next growth at **216 XP** · drawn to **resolve**
+Growth **8** · **203 XP** · next growth at **216 XP** · drawn to **resolve**
 
-> The sky is buffering. I would like it to stop.
+> It was not empty space. I just did not know how to listen.
 
-Today — **A glitch storm is crossing the quiet sector.**
+Today — **The Echo Map reveals a forgotten route.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/65)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/66)
 
 <sub>Daily at 08:00 UTC</sub>
 
