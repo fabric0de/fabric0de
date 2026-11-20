@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 66 — The Echo Map reveals a forgotten route.
+
+2026-11-20 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/66)
+
+**Decision:** A. Explore the forgotten route — autopilot (no valid votes)
+
+BIT followed its Echo Map and recovered fragments from the forgotten route.
+
+**Remembered:** +3 XP · exploration +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 84 | 76 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 47 | 57 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 65 — A glitch storm is crossing the quiet sector.
 
 2026-11-19 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/65)
@@ -1358,28 +1381,5 @@ BIT recognized a repeating pattern and steadied its core to match the rhythm.
 | Data fragments | 15 | 20 |
 
 
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 6 — Every pulse returns with a different answer.
-
-2026-09-19 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/6)
-
-**Decision:** B. Weave a Memory Thread between the voices — autopilot (no valid votes)
-
-BIT learned Memory Thread, linking scattered voices without erasing their differences.
-
-**Remembered:** +5 XP · resonance +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 72 | 78 |
-| Core stability | 74 | 74 |
-| Bond | 18 | 26 |
-| Data fragments | 25 | 15 |
-
-New ability: **memory-thread**.
 
 Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.

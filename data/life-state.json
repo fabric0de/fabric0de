@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 84,
+    "energy": 76,
     "stability": 100,
     "bond": 100,
-    "fragments": 47,
+    "fragments": 57,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3162,14 +3162,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 66,
+      "incidentId": "hidden-route",
+      "title": "The Echo Map reveals a forgotten route.",
+      "resolvedAt": "2026-11-20T08:00:00.000Z",
+      "issueNumber": 66,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Explore the forgotten route",
+      "explanation": "BIT followed its Echo Map and recovered fragments from the forgotten route.",
+      "learning": {
+        "exploration": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 84,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 47,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 57,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 66,
-    "incidentId": "hidden-route",
-    "openedAt": "2026-11-19T17:00:49.239Z",
-    "closesAt": "2026-11-20T08:00:00.000Z",
-    "issueNumber": 66,
-    "quip": "It was not empty space. I just did not know how to listen."
+    "day": 67,
+    "incidentId": "sky-gap",
+    "openedAt": "2026-11-20T16:39:48.042Z",
+    "closesAt": "2026-11-21T08:00:00.000Z",
+    "issueNumber": 67,
+    "quip": "The ground ends here. Apparently the possibilities do not."
   }
 }

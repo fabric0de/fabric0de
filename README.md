@@ -14,15 +14,15 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-8-7d033cab2773.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 066`
+**BIT** · ever-evolving · **curious** · `DAY 067`
 
-Growth **8** · **203 XP** · next growth at **216 XP** · drawn to **resolve**
+Growth **8** · **206 XP** · next growth at **216 XP** · drawn to **resolve**
 
-> It was not empty space. I just did not know how to listen.
+> The ground ends here. Apparently the possibilities do not.
 
-Today — **The Echo Map reveals a forgotten route.**
+Today — **A stream of light runs above the broken ground.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/66)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/67)
 
 <sub>Daily at 08:00 UTC</sub>
 
