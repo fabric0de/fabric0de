@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 67 — A stream of light runs above the broken ground.
+
+2026-11-21 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/67)
+
+**Decision:** B. Practice shorter crossings first — autopilot (no valid votes)
+
+BIT practiced shorter crossings until its movements became steadier.
+
+**Remembered:** +3 XP · resolve +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 76 | 74 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 57 | 57 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 66 — The Echo Map reveals a forgotten route.
 
 2026-11-20 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/66)
@@ -1356,29 +1379,6 @@ BIT sent a memory of its own awakening back along the thread.
 | Core stability | 78 | 78 |
 | Bond | 26 | 34 |
 | Data fragments | 20 | 20 |
-
-
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 7 — Fragments are falling like luminous snow.
-
-2026-09-20 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/7)
-
-**Decision:** B. Study the pattern in the falling data — autopilot (no valid votes)
-
-BIT recognized a repeating pattern and steadied its core to match the rhythm.
-
-**Remembered:** +3 XP · insight +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 78 | 76 |
-| Core stability | 74 | 78 |
-| Bond | 26 | 26 |
-| Data fragments | 15 | 20 |
 
 
 

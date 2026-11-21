@@ -1,7 +1,7 @@
 {
   "version": 2,
   "world": {
-    "energy": 76,
+    "energy": 74,
     "stability": 100,
     "bond": 100,
     "fragments": 57,
@@ -3212,14 +3212,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 67,
+      "incidentId": "sky-gap",
+      "title": "A stream of light runs above the broken ground.",
+      "resolvedAt": "2026-11-21T08:00:00.000Z",
+      "issueNumber": 67,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Practice shorter crossings first",
+      "explanation": "BIT practiced shorter crossings until its movements became steadier.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 76,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 57,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 74,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 57,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 67,
-    "incidentId": "sky-gap",
-    "openedAt": "2026-11-20T16:39:48.042Z",
-    "closesAt": "2026-11-21T08:00:00.000Z",
-    "issueNumber": 67,
-    "quip": "The ground ends here. Apparently the possibilities do not."
+    "day": 68,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-11-21T15:53:10.231Z",
+    "closesAt": "2026-11-22T08:00:00.000Z",
+    "issueNumber": 68,
+    "quip": "Someone dreamed of a sky. I have been thinking about it all morning."
   }
 }
