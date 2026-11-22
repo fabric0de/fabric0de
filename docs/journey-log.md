@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 68 — A familiar voice appears in an unfamiliar memory.
+
+2026-11-22 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/68)
+
+**Decision:** B. Keep the dream’s details intact — autopilot (no valid votes)
+
+BIT preserved the dream without rewriting its unfamiliar details.
+
+**Remembered:** +3 XP · insight +1 · resolve +1
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 74 | 80 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 57 | 51 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 67 — A stream of light runs above the broken ground.
 
 2026-11-21 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/67)
@@ -1355,29 +1378,6 @@ BIT waited, observed the gaps, and found a safe way around the storm.
 | Energy | 77 | 91 |
 | Core stability | 78 | 83 |
 | Bond | 34 | 34 |
-| Data fragments | 20 | 20 |
-
-
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 8 — A familiar voice appears in an unfamiliar memory.
-
-2026-09-21 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/8)
-
-**Decision:** C. Send a small dream in return — autopilot (no valid votes)
-
-BIT sent a memory of its own awakening back along the thread.
-
-**Remembered:** +3 XP · resonance +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 76 | 77 |
-| Core stability | 78 | 78 |
-| Bond | 26 | 34 |
 | Data fragments | 20 | 20 |
 
 
