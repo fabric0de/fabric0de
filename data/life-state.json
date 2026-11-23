@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 80,
+    "energy": 78,
     "stability": 100,
     "bond": 100,
-    "fragments": 51,
+    "fragments": 56,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3313,14 +3313,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 69,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-11-23T08:00:00.000Z",
+      "issueNumber": 69,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Study the pattern in the falling data",
+      "explanation": "BIT recognized a repeating pattern and steadied its core to match the rhythm.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 80,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 51,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 69,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-11-22T15:53:30.061Z",
-    "closesAt": "2026-11-23T08:00:00.000Z",
-    "issueNumber": 69,
-    "quip": "I tried catching the light. This time it stayed."
+    "day": 70,
+    "incidentId": "hidden-route",
+    "openedAt": "2026-11-23T19:47:34.675Z",
+    "closesAt": "2026-11-24T08:00:00.000Z",
+    "issueNumber": 70,
+    "quip": "It was not empty space. I just did not know how to listen."
   }
 }
