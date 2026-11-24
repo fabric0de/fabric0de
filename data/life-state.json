@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
+    "energy": 84,
     "stability": 100,
     "bond": 100,
-    "fragments": 56,
+    "fragments": 52,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3363,14 +3363,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 70,
+      "incidentId": "hidden-route",
+      "title": "The Echo Map reveals a forgotten route.",
+      "resolvedAt": "2026-11-24T08:00:00.000Z",
+      "issueNumber": 70,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Chart the route before entering",
+      "explanation": "BIT marked the uncertain sections and turned the route into a clearer memory.",
+      "learning": {
+        "insight": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 56,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 84,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 52,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 70,
-    "incidentId": "hidden-route",
-    "openedAt": "2026-11-23T19:47:34.675Z",
-    "closesAt": "2026-11-24T08:00:00.000Z",
-    "issueNumber": 70,
-    "quip": "It was not empty space. I just did not know how to listen."
+    "day": 71,
+    "incidentId": "lost-memory",
+    "openedAt": "2026-11-24T19:18:28.564Z",
+    "closesAt": "2026-11-25T08:00:00.000Z",
+    "issueNumber": 71,
+    "quip": "This voice is quite persistent, even if it seems to have lost its way mid-sentence."
   }
 }

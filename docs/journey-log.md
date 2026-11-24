@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 70 — The Echo Map reveals a forgotten route.
+
+2026-11-24 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/70)
+
+**Decision:** B. Chart the route before entering — autopilot (no valid votes)
+
+BIT marked the uncertain sections and turned the route into a clearer memory.
+
+**Remembered:** +3 XP · insight +2
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 78 | 84 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 56 | 52 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 69 — Fragments are falling like luminous snow.
 
 2026-11-23 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/69)
@@ -1358,28 +1381,5 @@ BIT followed the brightest fragments and gathered unfamiliar patterns.
 | Data fragments | 8 | 20 |
 
 
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 10 — The fragments can become something more.
-
-2026-09-23 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/10)
-
-**Decision:** A. Learn Aegis, a protective field — autopilot (no valid votes)
-
-BIT learned Aegis, a field that opens new protective adventures.
-
-**Remembered:** +5 XP · resolve +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 91 | 97 |
-| Core stability | 83 | 91 |
-| Bond | 34 | 34 |
-| Data fragments | 20 | 8 |
-
-New ability: **aegis**.
 
 Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.

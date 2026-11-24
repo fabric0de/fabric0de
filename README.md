@@ -14,15 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-8-7d033cab2773.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 070`
+**BIT** · ever-evolving · **curious** · `DAY 071`
 
-Growth **8** · **215 XP** · next growth at **216 XP** · drawn to **resolve**
+Growth **9** · **218 XP** · next growth at **240 XP** · drawn to **resolve**
 
-> It was not empty space. I just did not know how to listen.
+<sub>A new appearance is pending.</sub>
 
-Today — **The Echo Map reveals a forgotten route.**
+> This voice is quite persistent, even if it seems to have lost its way mid-sentence.
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/70)
+Today — **A damaged memory is asking to be remembered.**
+
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/71)
 
 <sub>Daily at 08:00 UTC</sub>
 
