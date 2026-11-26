@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-8-7d033cab2773.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 072`
+**BIT** · ever-evolving · **curious** · `DAY 073`
 
-Growth **9** · **221 XP** · next growth at **240 XP** · drawn to **resolve**
+Growth **9** · **224 XP** · next growth at **240 XP** · drawn to **resolve**
 
 <sub>A new appearance is pending.</sub>
 
-> The sky is buffering. I would like it to stop.
+> There is a rather jaunty rhythm to these new patterns that my current archives haven't quite accounted for.
 
-Today — **A glitch storm is crossing the quiet sector.**
+Today — **Fragments are falling like luminous snow.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/72)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/73)
 
 <sub>Daily at 08:00 UTC</sub>
 

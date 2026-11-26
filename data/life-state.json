@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 82,
+    "energy": 88,
     "stability": 100,
     "bond": 100,
-    "fragments": 44,
+    "fragments": 36,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3463,14 +3463,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 72,
+      "incidentId": "glitch-storm",
+      "title": "A glitch storm is crossing the quiet sector.",
+      "resolvedAt": "2026-11-26T08:00:00.000Z",
+      "issueNumber": 72,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Anchor the shelter with collected fragments",
+      "explanation": "BIT anchored the shelter and made room for a wandering spark until the storm passed.",
+      "learning": {
+        "resolve": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 82,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 44,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 36,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 72,
-    "incidentId": "glitch-storm",
-    "openedAt": "2026-11-25T18:23:42.132Z",
-    "closesAt": "2026-11-26T08:00:00.000Z",
-    "issueNumber": 72,
-    "quip": "The sky is buffering. I would like it to stop."
+    "day": 73,
+    "incidentId": "fragment-rain",
+    "openedAt": "2026-11-26T18:05:31.794Z",
+    "closesAt": "2026-11-27T08:00:00.000Z",
+    "issueNumber": 73,
+    "quip": "There is a rather jaunty rhythm to these new patterns that my current archives haven't quite accounted for."
   }
 }
