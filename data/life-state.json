@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 88,
+    "energy": 78,
     "stability": 100,
     "bond": 100,
-    "fragments": 36,
+    "fragments": 48,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3513,14 +3513,64 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 73,
+      "incidentId": "fragment-rain",
+      "title": "Fragments are falling like luminous snow.",
+      "resolvedAt": "2026-11-27T08:00:00.000Z",
+      "issueNumber": 73,
+      "decision": {
+        "choice": "A",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Chase the brightest fragments",
+      "explanation": "BIT followed the brightest fragments and gathered unfamiliar patterns.",
+      "learning": {
+        "exploration": 2
+      },
+      "experience": 3,
+      "before": {
+        "energy": 88,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 36,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 73,
-    "incidentId": "fragment-rain",
-    "openedAt": "2026-11-26T18:05:31.794Z",
-    "closesAt": "2026-11-27T08:00:00.000Z",
-    "issueNumber": 73,
-    "quip": "There is a rather jaunty rhythm to these new patterns that my current archives haven't quite accounted for."
+    "day": 74,
+    "incidentId": "shared-dream",
+    "openedAt": "2026-11-27T17:48:53.701Z",
+    "closesAt": "2026-11-28T08:00:00.000Z",
+    "issueNumber": 74,
+    "quip": "This dream signal is quite vivid, and I find I much prefer observing its patterns to the messy business of claiming them."
   }
 }
