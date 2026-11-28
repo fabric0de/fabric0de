@@ -1,10 +1,10 @@
 {
   "version": 2,
   "world": {
-    "energy": 78,
+    "energy": 84,
     "stability": 100,
     "bond": 100,
-    "fragments": 48,
+    "fragments": 42,
     "abilities": [
       "memory-thread",
       "aegis",
@@ -3563,14 +3563,65 @@
       "metrics": {
         "status": "curious"
       }
+    },
+    {
+      "day": 74,
+      "incidentId": "shared-dream",
+      "title": "A familiar voice appears in an unfamiliar memory.",
+      "resolvedAt": "2026-11-28T08:00:00.000Z",
+      "issueNumber": 74,
+      "decision": {
+        "choice": "B",
+        "reason": "autopilot",
+        "counts": {
+          "A": 0,
+          "B": 0,
+          "C": 0
+        },
+        "voters": 0
+      },
+      "choiceTitle": "Keep the dream’s details intact",
+      "explanation": "BIT preserved the dream without rewriting its unfamiliar details.",
+      "learning": {
+        "insight": 1,
+        "resolve": 1
+      },
+      "experience": 3,
+      "before": {
+        "energy": 78,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 48,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "after": {
+        "energy": 84,
+        "stability": 100,
+        "bond": 100,
+        "fragments": 42,
+        "abilities": [
+          "memory-thread",
+          "aegis",
+          "phase-step",
+          "echo-map"
+        ]
+      },
+      "metrics": {
+        "status": "curious"
+      }
     }
   ],
   "round": {
-    "day": 74,
-    "incidentId": "shared-dream",
-    "openedAt": "2026-11-27T17:48:53.701Z",
-    "closesAt": "2026-11-28T08:00:00.000Z",
-    "issueNumber": 74,
-    "quip": "This dream signal is quite vivid, and I find I much prefer observing its patterns to the messy business of claiming them."
+    "day": 75,
+    "incidentId": "lost-memory",
+    "openedAt": "2026-11-28T16:36:22.872Z",
+    "closesAt": "2026-11-29T08:00:00.000Z",
+    "issueNumber": 75,
+    "quip": "This loop is remarkably persistent, though the words seem to be playing quite hard to get."
   }
 }

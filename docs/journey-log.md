@@ -6,6 +6,29 @@ Encounters, choices, and memories of a digital life. No scheduled reset or fixed
 
 The latest 60 encounters appear below. Every encounter is retained in the state file.
 
+## Day 74 — A familiar voice appears in an unfamiliar memory.
+
+2026-11-28 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/74)
+
+**Decision:** B. Keep the dream’s details intact — autopilot (no valid votes)
+
+BIT preserved the dream without rewriting its unfamiliar details.
+
+**Remembered:** +3 XP · insight +1 · resolve +1
+
+| After this encounter | Before | After |
+| :--- | ---: | ---: |
+| Energy | 78 | 84 |
+| Core stability | 100 | 100 |
+| Bond | 100 | 100 |
+| Data fragments | 48 | 42 |
+
+
+
+Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
+
+---
+
 ## Day 73 — Fragments are falling like luminous snow.
 
 2026-11-27 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/73)
@@ -1356,29 +1379,6 @@ BIT shared what it caught. The nearby spark stayed a little longer.
 | Core stability | 96 | 96 |
 | Bond | 39 | 45 |
 | Data fragments | 28 | 30 |
-
-
-
-Votes: A 0 · B 0 · C 0. Includes six energy recovered after the encounter; meters stop at their limits.
-
----
-
-## Day 14 — For once, the static is quiet.
-
-2026-09-27 08:00 UTC · [Voting issue](https://github.com/fabric0de/fabric0de/issues/14)
-
-**Decision:** C. Rest beside a familiar signal — autopilot (no valid votes)
-
-BIT rested beside a familiar signal. The quiet became a memory too.
-
-**Remembered:** +3 XP · resonance +2
-
-| After this encounter | Before | After |
-| :--- | ---: | ---: |
-| Energy | 95 | 100 |
-| Core stability | 96 | 96 |
-| Bond | 34 | 39 |
-| Data fragments | 28 | 28 |
 
 
 

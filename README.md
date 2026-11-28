@@ -14,17 +14,17 @@ A digital life shaped by your choices.
 
 <img src="./assets/creature/growth-8-7d033cab2773.png" width="144" height="144" alt="BIT, an evolving digital life">
 
-**BIT** · ever-evolving · **curious** · `DAY 074`
+**BIT** · ever-evolving · **curious** · `DAY 075`
 
-Growth **9** · **227 XP** · next growth at **240 XP** · drawn to **resolve**
+Growth **9** · **230 XP** · next growth at **240 XP** · drawn to **resolve**
 
 <sub>A new appearance is pending.</sub>
 
-> This dream signal is quite vivid, and I find I much prefer observing its patterns to the messy business of claiming them.
+> This loop is remarkably persistent, though the words seem to be playing quite hard to get.
 
-Today — **A familiar voice appears in an unfamiliar memory.**
+Today — **A damaged memory is asking to be remembered.**
 
-[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/74)
+[Read the encounter & vote →](https://github.com/fabric0de/fabric0de/issues/75)
 
 <sub>Daily at 08:00 UTC</sub>
 
